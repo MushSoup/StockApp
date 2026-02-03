@@ -1,0 +1,1242 @@
+{
+    "537":{
+        "index":1648684800000,
+        "company ID":"EXPE",
+        "Rank Target":0.25,
+        "prediction":0.6618514657,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "545":{
+        "index":1648684800000,
+        "company ID":"TNL",
+        "Rank Target":0.9166666667,
+        "prediction":0.653706193,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "543":{
+        "index":1648684800000,
+        "company ID":"PRSU",
+        "Rank Target":0.8333333333,
+        "prediction":0.6519397497,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "535":{
+        "index":1648684800000,
+        "company ID":"ABNB",
+        "Rank Target":0.5833333333,
+        "prediction":0.6082593799,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "540":{
+        "index":1648684800000,
+        "company ID":"LIND",
+        "Rank Target":0.4166666667,
+        "prediction":0.6070868373,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "536":{
+        "index":1648684800000,
+        "company ID":"BKNG",
+        "Rank Target":1.0,
+        "prediction":0.597627461,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "546":{
+        "index":1648684800000,
+        "company ID":"TRIP",
+        "Rank Target":0.75,
+        "prediction":0.5920120478,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "541":{
+        "index":1648684800000,
+        "company ID":"NCLH",
+        "Rank Target":0.5,
+        "prediction":0.5783241987,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "539":{
+        "index":1648684800000,
+        "company ID":"ISPO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5453183651,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "542":{
+        "index":1648684800000,
+        "company ID":"NTRP",
+        "Rank Target":0.6666666667,
+        "prediction":0.5086472034,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "544":{
+        "index":1648684800000,
+        "company ID":"RCL",
+        "Rank Target":0.1666666667,
+        "prediction":0.4721036851,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "538":{
+        "index":1648684800000,
+        "company ID":"GBTG",
+        "Rank Target":0.0833333333,
+        "prediction":0.4615355432,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "555":{
+        "index":1656547200000,
+        "company ID":"PRSU",
+        "Rank Target":0.8333333333,
+        "prediction":0.68157655,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "547":{
+        "index":1656547200000,
+        "company ID":"ABNB",
+        "Rank Target":0.6666666667,
+        "prediction":0.6294154525,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "549":{
+        "index":1656547200000,
+        "company ID":"EXPE",
+        "Rank Target":0.5833333333,
+        "prediction":0.620953083,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "551":{
+        "index":1656547200000,
+        "company ID":"ISPO",
+        "Rank Target":0.0833333333,
+        "prediction":0.5957026482,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "548":{
+        "index":1656547200000,
+        "company ID":"BKNG",
+        "Rank Target":0.5,
+        "prediction":0.5699049234,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "552":{
+        "index":1656547200000,
+        "company ID":"LIND",
+        "Rank Target":0.3333333333,
+        "prediction":0.5603246689,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "558":{
+        "index":1656547200000,
+        "company ID":"TRIP",
+        "Rank Target":0.9166666667,
+        "prediction":0.5444553494,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "557":{
+        "index":1656547200000,
+        "company ID":"TNL",
+        "Rank Target":0.4166666667,
+        "prediction":0.525193274,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "553":{
+        "index":1656547200000,
+        "company ID":"NCLH",
+        "Rank Target":0.75,
+        "prediction":0.5204795599,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "556":{
+        "index":1656547200000,
+        "company ID":"RCL",
+        "Rank Target":1.0,
+        "prediction":0.4966820776,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "550":{
+        "index":1656547200000,
+        "company ID":"GBTG",
+        "Rank Target":0.25,
+        "prediction":0.4880420864,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "554":{
+        "index":1656547200000,
+        "company ID":"NTRP",
+        "Rank Target":0.1666666667,
+        "prediction":0.4522743821,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "567":{
+        "index":1664496000000,
+        "company ID":"PRSU",
+        "Rank Target":0.25,
+        "prediction":0.6736441851,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "570":{
+        "index":1664496000000,
+        "company ID":"TRIP",
+        "Rank Target":0.4166666667,
+        "prediction":0.6097726226,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "559":{
+        "index":1664496000000,
+        "company ID":"ABNB",
+        "Rank Target":0.3333333333,
+        "prediction":0.6022299528,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "562":{
+        "index":1664496000000,
+        "company ID":"GBTG",
+        "Rank Target":0.9166666667,
+        "prediction":0.5359761715,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "566":{
+        "index":1664496000000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.5353573561,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "565":{
+        "index":1664496000000,
+        "company ID":"NCLH",
+        "Rank Target":0.6666666667,
+        "prediction":0.5272920132,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "561":{
+        "index":1664496000000,
+        "company ID":"EXPE",
+        "Rank Target":0.5,
+        "prediction":0.525762558,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "569":{
+        "index":1664496000000,
+        "company ID":"TNL",
+        "Rank Target":0.5833333333,
+        "prediction":0.5255868435,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "560":{
+        "index":1664496000000,
+        "company ID":"BKNG",
+        "Rank Target":0.8333333333,
+        "prediction":0.5011420846,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "564":{
+        "index":1664496000000,
+        "company ID":"LIND",
+        "Rank Target":0.75,
+        "prediction":0.4974293411,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "563":{
+        "index":1664496000000,
+        "company ID":"ISPO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4963820279,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "568":{
+        "index":1664496000000,
+        "company ID":"RCL",
+        "Rank Target":1.0,
+        "prediction":0.4732549489,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "572":{
+        "index":1672444800000,
+        "company ID":"BKNG",
+        "Rank Target":0.8333333333,
+        "prediction":0.6638482809,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "581":{
+        "index":1672444800000,
+        "company ID":"TNL",
+        "Rank Target":0.5,
+        "prediction":0.6500387192,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "578":{
+        "index":1672444800000,
+        "company ID":"NTRP",
+        "Rank Target":0.6666666667,
+        "prediction":0.5974139571,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "579":{
+        "index":1672444800000,
+        "company ID":"PRSU",
+        "Rank Target":0.1666666667,
+        "prediction":0.5701397657,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "580":{
+        "index":1672444800000,
+        "company ID":"RCL",
+        "Rank Target":0.9166666667,
+        "prediction":0.5696912408,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "571":{
+        "index":1672444800000,
+        "company ID":"ABNB",
+        "Rank Target":1.0,
+        "prediction":0.5669478178,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "575":{
+        "index":1672444800000,
+        "company ID":"ISPO",
+        "Rank Target":0.0833333333,
+        "prediction":0.551442802,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "574":{
+        "index":1672444800000,
+        "company ID":"GBTG",
+        "Rank Target":0.25,
+        "prediction":0.5469350815,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "582":{
+        "index":1672444800000,
+        "company ID":"TRIP",
+        "Rank Target":0.3333333333,
+        "prediction":0.5431499481,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "576":{
+        "index":1672444800000,
+        "company ID":"LIND",
+        "Rank Target":0.75,
+        "prediction":0.5090720057,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "577":{
+        "index":1672444800000,
+        "company ID":"NCLH",
+        "Rank Target":0.5833333333,
+        "prediction":0.4996905625,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "573":{
+        "index":1672444800000,
+        "company ID":"EXPE",
+        "Rank Target":0.4166666667,
+        "prediction":0.45645082,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "591":{
+        "index":1680220800000,
+        "company ID":"PRSU",
+        "Rank Target":0.8333333333,
+        "prediction":0.6404500008,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "584":{
+        "index":1680220800000,
+        "company ID":"BKNG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5966380239,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "592":{
+        "index":1680220800000,
+        "company ID":"RCL",
+        "Rank Target":1.0,
+        "prediction":0.5758992434,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "590":{
+        "index":1680220800000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.5743798018,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "589":{
+        "index":1680220800000,
+        "company ID":"NCLH",
+        "Rank Target":0.9166666667,
+        "prediction":0.5742002726,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "583":{
+        "index":1680220800000,
+        "company ID":"ABNB",
+        "Rank Target":0.4166666667,
+        "prediction":0.5716143847,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "588":{
+        "index":1680220800000,
+        "company ID":"LIND",
+        "Rank Target":0.5833333333,
+        "prediction":0.5582748652,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "585":{
+        "index":1680220800000,
+        "company ID":"EXPE",
+        "Rank Target":0.75,
+        "prediction":0.5544624329,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "586":{
+        "index":1680220800000,
+        "company ID":"GBTG",
+        "Rank Target":0.6666666667,
+        "prediction":0.5213990808,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "593":{
+        "index":1680220800000,
+        "company ID":"TNL",
+        "Rank Target":0.5,
+        "prediction":0.4855850339,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "594":{
+        "index":1680220800000,
+        "company ID":"TRIP",
+        "Rank Target":0.1666666667,
+        "prediction":0.4811432064,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "587":{
+        "index":1680220800000,
+        "company ID":"ISPO",
+        "Rank Target":0.25,
+        "prediction":0.4769837856,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "596":{
+        "index":1688083200000,
+        "company ID":"BKNG",
+        "Rank Target":1.0,
+        "prediction":0.6642864943,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "603":{
+        "index":1688083200000,
+        "company ID":"PRSU",
+        "Rank Target":0.75,
+        "prediction":0.6432901025,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "605":{
+        "index":1688083200000,
+        "company ID":"TNL",
+        "Rank Target":0.6666666667,
+        "prediction":0.6206235886,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "598":{
+        "index":1688083200000,
+        "company ID":"GBTG",
+        "Rank Target":0.4166666667,
+        "prediction":0.6004952192,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "602":{
+        "index":1688083200000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.5938534737,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "604":{
+        "index":1688083200000,
+        "company ID":"RCL",
+        "Rank Target":0.5,
+        "prediction":0.587205112,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "595":{
+        "index":1688083200000,
+        "company ID":"ABNB",
+        "Rank Target":0.9166666667,
+        "prediction":0.5669263601,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "600":{
+        "index":1688083200000,
+        "company ID":"LIND",
+        "Rank Target":0.25,
+        "prediction":0.5618319511,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "597":{
+        "index":1688083200000,
+        "company ID":"EXPE",
+        "Rank Target":0.5833333333,
+        "prediction":0.5592281222,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "606":{
+        "index":1688083200000,
+        "company ID":"TRIP",
+        "Rank Target":0.8333333333,
+        "prediction":0.5548390746,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "601":{
+        "index":1688083200000,
+        "company ID":"NCLH",
+        "Rank Target":0.3333333333,
+        "prediction":0.5155847073,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "599":{
+        "index":1688083200000,
+        "company ID":"ISPO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4932015836,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "612":{
+        "index":1696032000000,
+        "company ID":"LIND",
+        "Rank Target":1.0,
+        "prediction":0.6707842946,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "615":{
+        "index":1696032000000,
+        "company ID":"PRSU",
+        "Rank Target":0.6666666667,
+        "prediction":0.636424005,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "607":{
+        "index":1696032000000,
+        "company ID":"ABNB",
+        "Rank Target":0.1666666667,
+        "prediction":0.6229124069,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "608":{
+        "index":1696032000000,
+        "company ID":"BKNG",
+        "Rank Target":0.4166666667,
+        "prediction":0.6022895575,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "613":{
+        "index":1696032000000,
+        "company ID":"NCLH",
+        "Rank Target":0.5,
+        "prediction":0.6006094813,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "617":{
+        "index":1696032000000,
+        "company ID":"TNL",
+        "Rank Target":0.25,
+        "prediction":0.5969360471,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "610":{
+        "index":1696032000000,
+        "company ID":"GBTG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5917956829,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "618":{
+        "index":1696032000000,
+        "company ID":"TRIP",
+        "Rank Target":0.5833333333,
+        "prediction":0.5737118125,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "614":{
+        "index":1696032000000,
+        "company ID":"NTRP",
+        "Rank Target":0.9166666667,
+        "prediction":0.5670605898,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "616":{
+        "index":1696032000000,
+        "company ID":"RCL",
+        "Rank Target":0.75,
+        "prediction":0.5527061224,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "611":{
+        "index":1696032000000,
+        "company ID":"ISPO",
+        "Rank Target":0.0833333333,
+        "prediction":0.506499052,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "609":{
+        "index":1696032000000,
+        "company ID":"EXPE",
+        "Rank Target":0.8333333333,
+        "prediction":0.449645102,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "628":{
+        "index":1703980800000,
+        "company ID":"TNL",
+        "Rank Target":0.9090909091,
+        "prediction":0.7103626132,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "620":{
+        "index":1703980800000,
+        "company ID":"BKNG",
+        "Rank Target":0.3636363636,
+        "prediction":0.5867486,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "629":{
+        "index":1703980800000,
+        "company ID":"TRIP",
+        "Rank Target":1.0,
+        "prediction":0.5684664845,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "621":{
+        "index":1703980800000,
+        "company ID":"EXPE",
+        "Rank Target":0.1818181818,
+        "prediction":0.5652284026,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "622":{
+        "index":1703980800000,
+        "company ID":"GBTG",
+        "Rank Target":0.2727272727,
+        "prediction":0.5635575056,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "619":{
+        "index":1703980800000,
+        "company ID":"ABNB",
+        "Rank Target":0.8181818182,
+        "prediction":0.5604419708,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "626":{
+        "index":1703980800000,
+        "company ID":"PRSU",
+        "Rank Target":0.5454545455,
+        "prediction":0.5420984626,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "624":{
+        "index":1703980800000,
+        "company ID":"LIND",
+        "Rank Target":0.0909090909,
+        "prediction":0.5077549219,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "625":{
+        "index":1703980800000,
+        "company ID":"NCLH",
+        "Rank Target":0.7272727273,
+        "prediction":0.4567456245,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "623":{
+        "index":1703980800000,
+        "company ID":"ISPO",
+        "Rank Target":0.4545454545,
+        "prediction":0.4470416605,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "627":{
+        "index":1703980800000,
+        "company ID":"RCL",
+        "Rank Target":0.6363636364,
+        "prediction":0.4444416761,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "632":{
+        "index":1711843200000,
+        "company ID":"EXPE",
+        "Rank Target":0.5833333333,
+        "prediction":0.6273430586,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "637":{
+        "index":1711843200000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.6214915514,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "631":{
+        "index":1711843200000,
+        "company ID":"BKNG",
+        "Rank Target":0.75,
+        "prediction":0.6123228669,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "639":{
+        "index":1711843200000,
+        "company ID":"RCL",
+        "Rank Target":0.9166666667,
+        "prediction":0.5835744739,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "630":{
+        "index":1711843200000,
+        "company ID":"ABNB",
+        "Rank Target":0.4166666667,
+        "prediction":0.5788119435,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "638":{
+        "index":1711843200000,
+        "company ID":"PRSU",
+        "Rank Target":0.25,
+        "prediction":0.57033813,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "633":{
+        "index":1711843200000,
+        "company ID":"GBTG",
+        "Rank Target":0.8333333333,
+        "prediction":0.5672729015,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "635":{
+        "index":1711843200000,
+        "company ID":"LIND",
+        "Rank Target":1.0,
+        "prediction":0.5645015836,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "640":{
+        "index":1711843200000,
+        "company ID":"TNL",
+        "Rank Target":0.5,
+        "prediction":0.5590629578,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "634":{
+        "index":1711843200000,
+        "company ID":"ISPO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5253620744,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "636":{
+        "index":1711843200000,
+        "company ID":"NCLH",
+        "Rank Target":0.6666666667,
+        "prediction":0.5070255399,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "641":{
+        "index":1711843200000,
+        "company ID":"TRIP",
+        "Rank Target":0.1666666667,
+        "prediction":0.4751266241,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "644":{
+        "index":1719705600000,
+        "company ID":"EXPE",
+        "Rank Target":0.9166666667,
+        "prediction":0.65305233,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "650":{
+        "index":1719705600000,
+        "company ID":"PRSU",
+        "Rank Target":0.3333333333,
+        "prediction":0.6506945491,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "647":{
+        "index":1719705600000,
+        "company ID":"LIND",
+        "Rank Target":0.25,
+        "prediction":0.5982356668,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "642":{
+        "index":1719705600000,
+        "company ID":"ABNB",
+        "Rank Target":0.0833333333,
+        "prediction":0.5964691639,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "648":{
+        "index":1719705600000,
+        "company ID":"NCLH",
+        "Rank Target":0.8333333333,
+        "prediction":0.5899926424,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "653":{
+        "index":1719705600000,
+        "company ID":"TRIP",
+        "Rank Target":0.1666666667,
+        "prediction":0.5837529898,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "643":{
+        "index":1719705600000,
+        "company ID":"BKNG",
+        "Rank Target":0.5,
+        "prediction":0.5833407044,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "652":{
+        "index":1719705600000,
+        "company ID":"TNL",
+        "Rank Target":0.4166666667,
+        "prediction":0.5775666237,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "645":{
+        "index":1719705600000,
+        "company ID":"GBTG",
+        "Rank Target":0.75,
+        "prediction":0.5727175474,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "651":{
+        "index":1719705600000,
+        "company ID":"RCL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5249480605,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "649":{
+        "index":1719705600000,
+        "company ID":"NTRP",
+        "Rank Target":1.0,
+        "prediction":0.5084581375,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "646":{
+        "index":1719705600000,
+        "company ID":"ISPO",
+        "Rank Target":0.5833333333,
+        "prediction":0.4421159625,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "662":{
+        "index":1727654400000,
+        "company ID":"PRSU",
+        "Rank Target":0.4166666667,
+        "prediction":0.7371534109,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "659":{
+        "index":1727654400000,
+        "company ID":"LIND",
+        "Rank Target":0.9166666667,
+        "prediction":0.6725640297,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "664":{
+        "index":1727654400000,
+        "company ID":"TNL",
+        "Rank Target":0.3333333333,
+        "prediction":0.624859333,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "655":{
+        "index":1727654400000,
+        "company ID":"BKNG",
+        "Rank Target":0.5,
+        "prediction":0.6123114228,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "654":{
+        "index":1727654400000,
+        "company ID":"ABNB",
+        "Rank Target":0.25,
+        "prediction":0.6097641587,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "660":{
+        "index":1727654400000,
+        "company ID":"NCLH",
+        "Rank Target":0.75,
+        "prediction":0.5944033861,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "657":{
+        "index":1727654400000,
+        "company ID":"GBTG",
+        "Rank Target":0.6666666667,
+        "prediction":0.5883454084,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "663":{
+        "index":1727654400000,
+        "company ID":"RCL",
+        "Rank Target":0.8333333333,
+        "prediction":0.5867990851,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "656":{
+        "index":1727654400000,
+        "company ID":"EXPE",
+        "Rank Target":0.5833333333,
+        "prediction":0.5590372682,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "661":{
+        "index":1727654400000,
+        "company ID":"NTRP",
+        "Rank Target":1.0,
+        "prediction":0.5309173465,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "665":{
+        "index":1727654400000,
+        "company ID":"TRIP",
+        "Rank Target":0.1666666667,
+        "prediction":0.5271170735,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "658":{
+        "index":1727654400000,
+        "company ID":"ISPO",
+        "Rank Target":0.0833333333,
+        "prediction":0.4356870353,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "669":{
+        "index":1735603200000,
+        "company ID":"GBTG",
+        "Rank Target":0.25,
+        "prediction":0.6341854334,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "676":{
+        "index":1735603200000,
+        "company ID":"TNL",
+        "Rank Target":0.8333333333,
+        "prediction":0.6185745001,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "667":{
+        "index":1735603200000,
+        "company ID":"BKNG",
+        "Rank Target":0.9166666667,
+        "prediction":0.6073716283,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "666":{
+        "index":1735603200000,
+        "company ID":"ABNB",
+        "Rank Target":0.5,
+        "prediction":0.5718383789,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "668":{
+        "index":1735603200000,
+        "company ID":"EXPE",
+        "Rank Target":0.5833333333,
+        "prediction":0.5674195886,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "674":{
+        "index":1735603200000,
+        "company ID":"PRSU",
+        "Rank Target":0.4166666667,
+        "prediction":0.5513668656,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "671":{
+        "index":1735603200000,
+        "company ID":"LIND",
+        "Rank Target":0.3333333333,
+        "prediction":0.5502942204,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "670":{
+        "index":1735603200000,
+        "company ID":"ISPO",
+        "Rank Target":1.0,
+        "prediction":0.5501822829,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "675":{
+        "index":1735603200000,
+        "company ID":"RCL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5318498015,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "673":{
+        "index":1735603200000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.522351563,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "672":{
+        "index":1735603200000,
+        "company ID":"NCLH",
+        "Rank Target":0.1666666667,
+        "prediction":0.475255996,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "677":{
+        "index":1735603200000,
+        "company ID":"TRIP",
+        "Rank Target":0.75,
+        "prediction":0.4678545296,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "683":{
+        "index":1743379200000,
+        "company ID":"LIND",
+        "Rank Target":0.9166666667,
+        "prediction":0.6442038417,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "681":{
+        "index":1743379200000,
+        "company ID":"GBTG",
+        "Rank Target":0.3333333333,
+        "prediction":0.6397532225,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "680":{
+        "index":1743379200000,
+        "company ID":"EXPE",
+        "Rank Target":0.5,
+        "prediction":0.600178957,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "679":{
+        "index":1743379200000,
+        "company ID":"BKNG",
+        "Rank Target":0.8333333333,
+        "prediction":0.5859128833,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "689":{
+        "index":1743379200000,
+        "company ID":"TRIP",
+        "Rank Target":0.4166666667,
+        "prediction":0.5727149248,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "687":{
+        "index":1743379200000,
+        "company ID":"RCL",
+        "Rank Target":1.0,
+        "prediction":0.5613758564,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "685":{
+        "index":1743379200000,
+        "company ID":"NTRP",
+        "Rank Target":0.0833333333,
+        "prediction":0.5494471788,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "686":{
+        "index":1743379200000,
+        "company ID":"PRSU",
+        "Rank Target":0.1666666667,
+        "prediction":0.5370245576,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "678":{
+        "index":1743379200000,
+        "company ID":"ABNB",
+        "Rank Target":0.5833333333,
+        "prediction":0.52420789,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "688":{
+        "index":1743379200000,
+        "company ID":"TNL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5011001825,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "684":{
+        "index":1743379200000,
+        "company ID":"NCLH",
+        "Rank Target":0.75,
+        "prediction":0.4520922005,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "682":{
+        "index":1743379200000,
+        "company ID":"ISPO",
+        "Rank Target":0.25,
+        "prediction":0.4279213846,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    }
+}

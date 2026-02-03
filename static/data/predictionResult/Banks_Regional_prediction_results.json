@@ -1,0 +1,2067 @@
+{
+    "19668":{
+        "company ID":"NBN",
+        "score":0.6744354367,
+        "Rank":1.0,
+        "Rank Target":0.8169491525,
+        "stockDifferencePercentage":5.9516697593
+    },
+    "19526":{
+        "company ID":"BWFG",
+        "score":0.6458585858,
+        "Rank":2.0,
+        "Rank Target":0.9661016949,
+        "stockDifferencePercentage":20.0423567337
+    },
+    "19605":{
+        "company ID":"FRAF",
+        "score":0.634755671,
+        "Rank":3.0,
+        "Rank Target":0.986440678,
+        "stockDifferencePercentage":26.0482078009
+    },
+    "19741":{
+        "company ID":"TCBI",
+        "score":0.6313874722,
+        "Rank":4.0,
+        "Rank Target":0.4745762712,
+        "stockDifferencePercentage":-0.4542800193
+    },
+    "19489":{
+        "company ID":"AMTB",
+        "score":0.6280267835,
+        "Rank":5.0,
+        "Rank Target":0.4508474576,
+        "stockDifferencePercentage":-1.144188361
+    },
+    "19581":{
+        "company ID":"FCCO",
+        "score":0.6247652173,
+        "Rank":6.0,
+        "Rank Target":0.8847457627,
+        "stockDifferencePercentage":10.3386157505
+    },
+    "19760":{
+        "company ID":"UNTY",
+        "score":0.6246502399,
+        "Rank":7.0,
+        "Rank Target":0.2033898305,
+        "stockDifferencePercentage":-5.9718179205
+    },
+    "19626":{
+        "company ID":"HFBL",
+        "score":0.6220359206,
+        "Rank":8.0,
+        "Rank Target":0.593220339,
+        "stockDifferencePercentage":1.2107241767
+    },
+    "19560":{
+        "company ID":"CUBI",
+        "score":0.6216644049,
+        "Rank":9.0,
+        "Rank Target":0.4711864407,
+        "stockDifferencePercentage":-0.5307027904
+    },
+    "19533":{
+        "company ID":"CBAN",
+        "score":0.6214301586,
+        "Rank":10.0,
+        "Rank Target":0.5322033898,
+        "stockDifferencePercentage":0.0810303282
+    },
+    "19744":{
+        "company ID":"TCBX",
+        "score":0.6192934513,
+        "Rank":11.0,
+        "Rank Target":0.8440677966,
+        "stockDifferencePercentage":7.9977479213
+    },
+    "19653":{
+        "company ID":"LSBK",
+        "score":0.6189451814,
+        "Rank":12.0,
+        "Rank Target":0.9118644068,
+        "stockDifferencePercentage":11.8336215641
+    },
+    "19720":{
+        "company ID":"SBCF",
+        "score":0.6173370481,
+        "Rank":13.0,
+        "Rank Target":0.7593220339,
+        "stockDifferencePercentage":3.8200689096
+    },
+    "19709":{
+        "company ID":"PRK",
+        "score":0.6157163382,
+        "Rank":14.0,
+        "Rank Target":0.1355932203,
+        "stockDifferencePercentage":-7.7717963084
+    },
+    "19517":{
+        "company ID":"BPOP",
+        "score":0.6115208268,
+        "Rank":15.0,
+        "Rank Target":0.9152542373,
+        "stockDifferencePercentage":12.0733408488
+    },
+    "19732":{
+        "company ID":"SPFI",
+        "score":0.6097545028,
+        "Rank":16.0,
+        "Rank Target":0.6305084746,
+        "stockDifferencePercentage":1.9467576625
+    },
+    "19628":{
+        "company ID":"HIFS",
+        "score":0.6095395088,
+        "Rank":17.0,
+        "Rank Target":0.0915254237,
+        "stockDifferencePercentage":-9.0649707822
+    },
+    "19667":{
+        "company ID":"NBHC",
+        "score":0.6084370017,
+        "Rank":18.0,
+        "Rank Target":0.4271186441,
+        "stockDifferencePercentage":-1.4185756529
+    },
+    "19490":{
+        "company ID":"AROW",
+        "score":0.6082207561,
+        "Rank":19.0,
+        "Rank Target":0.6440677966,
+        "stockDifferencePercentage":2.1851191278
+    },
+    "19632":{
+        "company ID":"HTB",
+        "score":0.6068313718,
+        "Rank":20.0,
+        "Rank Target":0.8203389831,
+        "stockDifferencePercentage":6.2313885553
+    },
+    "19538":{
+        "company ID":"CBSH",
+        "score":0.606759429,
+        "Rank":21.0,
+        "Rank Target":0.1457627119,
+        "stockDifferencePercentage":-7.4558397798
+    },
+    "19634":{
+        "company ID":"HWBK",
+        "score":0.6049112678,
+        "Rank":22.0,
+        "Rank Target":0.7016949153,
+        "stockDifferencePercentage":2.8945374702
+    },
+    "19493":{
+        "company ID":"ATLO",
+        "score":0.6046543717,
+        "Rank":23.0,
+        "Rank Target":0.8881355932,
+        "stockDifferencePercentage":10.3653492659
+    },
+    "19544":{
+        "company ID":"CFFI",
+        "score":0.6040629745,
+        "Rank":24.0,
+        "Rank Target":0.5423728814,
+        "stockDifferencePercentage":0.1964844641
+    },
+    "19773":{
+        "company ID":"WSBF",
+        "score":0.6026940942,
+        "Rank":25.0,
+        "Rank Target":0.9084745763,
+        "stockDifferencePercentage":11.5620176145
+    },
+    "19500":{
+        "company ID":"BANF",
+        "score":0.6026911736,
+        "Rank":26.0,
+        "Rank Target":0.3220338983,
+        "stockDifferencePercentage":-2.7712311812
+    },
+    "19723":{
+        "company ID":"SFBC",
+        "score":0.6025530696,
+        "Rank":27.0,
+        "Rank Target":0.4372881356,
+        "stockDifferencePercentage":-1.3735732422
+    },
+    "19566":{
+        "company ID":"EBC",
+        "score":0.6015728116,
+        "Rank":28.0,
+        "Rank Target":0.9288135593,
+        "stockDifferencePercentage":13.5165551086
+    },
+    "19758":{
+        "company ID":"UMBF",
+        "score":0.6008555293,
+        "Rank":29.0,
+        "Rank Target":0.8372881356,
+        "stockDifferencePercentage":7.7285841943
+    },
+    "19765":{
+        "company ID":"VLY",
+        "score":0.5998131633,
+        "Rank":30.0,
+        "Rank Target":0.8915254237,
+        "stockDifferencePercentage":10.7564545241
+    },
+    "19534":{
+        "company ID":"CBFV",
+        "score":0.5997061729,
+        "Rank":31.0,
+        "Rank Target":0.9525423729,
+        "stockDifferencePercentage":15.6781768313
+    },
+    "19612":{
+        "company ID":"FSFG",
+        "score":0.5996819735,
+        "Rank":32.0,
+        "Rank Target":0.9728813559,
+        "stockDifferencePercentage":20.327330619
+    },
+    "19516":{
+        "company ID":"BOTJ",
+        "score":0.5993925333,
+        "Rank":33.0,
+        "Rank Target":0.9423728814,
+        "stockDifferencePercentage":14.1065348405
+    },
+    "19586":{
+        "company ID":"FFBC",
+        "score":0.5982511044,
+        "Rank":34.0,
+        "Rank Target":0.4677966102,
+        "stockDifferencePercentage":-0.5693961634
+    },
+    "19596":{
+        "company ID":"FITB",
+        "score":0.5977572799,
+        "Rank":35.0,
+        "Rank Target":0.7898305085,
+        "stockDifferencePercentage":4.6083011951
+    },
+    "19663":{
+        "company ID":"MTB",
+        "score":0.5969424844,
+        "Rank":36.0,
+        "Rank Target":0.4305084746,
+        "stockDifferencePercentage":-1.3791821055
+    },
+    "19487":{
+        "company ID":"ALRS",
+        "score":0.596937418,
+        "Rank":37.0,
+        "Rank Target":0.3525423729,
+        "stockDifferencePercentage":-2.559396727
+    },
+    "19543":{
+        "company ID":"CFBK",
+        "score":0.5958570242,
+        "Rank":38.0,
+        "Rank Target":0.5118644068,
+        "stockDifferencePercentage":-0.0826437234
+    },
+    "19591":{
+        "company ID":"FHB",
+        "score":0.5944873095,
+        "Rank":39.0,
+        "Rank Target":0.2542372881,
+        "stockDifferencePercentage":-4.6297159869
+    },
+    "19650":{
+        "company ID":"LKFN",
+        "score":0.5941264629,
+        "Rank":40.0,
+        "Rank Target":0.5491525424,
+        "stockDifferencePercentage":0.3208200826
+    },
+    "19565":{
+        "company ID":"DCOM",
+        "score":0.594068706,
+        "Rank":41.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":5.1421444489
+    },
+    "19778":{
+        "company ID":"ZION",
+        "score":0.5939347148,
+        "Rank":42.0,
+        "Rank Target":0.7423728814,
+        "stockDifferencePercentage":3.5680186034
+    },
+    "19715":{
+        "company ID":"RF",
+        "score":0.5932492614,
+        "Rank":43.0,
+        "Rank Target":0.8406779661,
+        "stockDifferencePercentage":7.8987778268
+    },
+    "19740":{
+        "company ID":"TBBK",
+        "score":0.5924883485,
+        "Rank":44.0,
+        "Rank Target":0.9966101695,
+        "stockDifferencePercentage":30.6112025674
+    },
+    "19511":{
+        "company ID":"BKU",
+        "score":0.5924606919,
+        "Rank":45.0,
+        "Rank Target":0.5966101695,
+        "stockDifferencePercentage":1.2509697855
+    },
+    "19661":{
+        "company ID":"MRBK",
+        "score":0.5914586782,
+        "Rank":46.0,
+        "Rank Target":0.9389830508,
+        "stockDifferencePercentage":13.8715893608
+    },
+    "19698":{
+        "company ID":"PEBK",
+        "score":0.589797318,
+        "Rank":47.0,
+        "Rank Target":0.4542372881,
+        "stockDifferencePercentage":-1.1348222456
+    },
+    "19649":{
+        "company ID":"LCNB",
+        "score":0.5893173814,
+        "Rank":48.0,
+        "Rank Target":0.4406779661,
+        "stockDifferencePercentage":-1.3668108481
+    },
+    "19484":{
+        "company ID":"ABCB",
+        "score":0.5882441998,
+        "Rank":49.0,
+        "Rank Target":0.8711864407,
+        "stockDifferencePercentage":9.7431412851
+    },
+    "19733":{
+        "company ID":"SRBK",
+        "score":0.5881962776,
+        "Rank":50.0,
+        "Rank Target":0.8542372881,
+        "stockDifferencePercentage":8.8082915546
+    },
+    "19556":{
+        "company ID":"COLB",
+        "score":0.5879131556,
+        "Rank":51.0,
+        "Rank Target":0.6169491525,
+        "stockDifferencePercentage":1.7826298095
+    },
+    "19585":{
+        "company ID":"FDSB",
+        "score":0.5870112181,
+        "Rank":52.0,
+        "Rank Target":0.8949152542,
+        "stockDifferencePercentage":10.8313310744
+    },
+    "19712":{
+        "company ID":"RBB",
+        "score":0.5854412913,
+        "Rank":53.0,
+        "Rank Target":0.613559322,
+        "stockDifferencePercentage":1.7448216898
+    },
+    "19546":{
+        "company ID":"CFG",
+        "score":0.585274756,
+        "Rank":54.0,
+        "Rank Target":0.9254237288,
+        "stockDifferencePercentage":13.4048852658
+    },
+    "19721":{
+        "company ID":"SBFG",
+        "score":0.584720552,
+        "Rank":55.0,
+        "Rank Target":0.6406779661,
+        "stockDifferencePercentage":2.1196212338
+    },
+    "19555":{
+        "company ID":"COFS",
+        "score":0.5839127302,
+        "Rank":56.0,
+        "Rank Target":0.3491525424,
+        "stockDifferencePercentage":-2.575678631
+    },
+    "19731":{
+        "company ID":"SNV",
+        "score":0.5836747289,
+        "Rank":57.0,
+        "Rank Target":0.0677966102,
+        "stockDifferencePercentage":-9.897374724
+    },
+    "19563":{
+        "company ID":"CZFS",
+        "score":0.5833615661,
+        "Rank":58.0,
+        "Rank Target":0.213559322,
+        "stockDifferencePercentage":-5.7037531029
+    },
+    "19579":{
+        "company ID":"FCAP",
+        "score":0.5830482841,
+        "Rank":59.0,
+        "Rank Target":0.7762711864,
+        "stockDifferencePercentage":4.4010704081
+    },
+    "19548":{
+        "company ID":"CHCO",
+        "score":0.5827230215,
+        "Rank":60.0,
+        "Rank Target":0.3118644068,
+        "stockDifferencePercentage":-3.0619179193
+    },
+    "19644":{
+        "company ID":"KEY",
+        "score":0.5820135474,
+        "Rank":61.0,
+        "Rank Target":0.7322033898,
+        "stockDifferencePercentage":3.3697459054
+    },
+    "19672":{
+        "company ID":"NFBK",
+        "score":0.5819277167,
+        "Rank":62.0,
+        "Rank Target":0.3661016949,
+        "stockDifferencePercentage":-2.1710104987
+    },
+    "19616":{
+        "company ID":"FXNC",
+        "score":0.580989182,
+        "Rank":63.0,
+        "Rank Target":0.8745762712,
+        "stockDifferencePercentage":9.8718433098
+    },
+    "19727":{
+        "company ID":"SHBI",
+        "score":0.5794627666,
+        "Rank":64.0,
+        "Rank Target":0.5457627119,
+        "stockDifferencePercentage":0.3020477831
+    },
+    "19617":{
+        "company ID":"GABC",
+        "score":0.5784703493,
+        "Rank":65.0,
+        "Rank Target":0.3355932203,
+        "stockDifferencePercentage":-2.725044757
+    },
+    "19559":{
+        "company ID":"CTBI",
+        "score":0.5779201388,
+        "Rank":66.0,
+        "Rank Target":0.5220338983,
+        "stockDifferencePercentage":0.004576467
+    },
+    "19714":{
+        "company ID":"RBKB",
+        "score":0.5775842071,
+        "Rank":67.0,
+        "Rank Target":0.2576271186,
+        "stockDifferencePercentage":-4.5075123743
+    },
+    "19770":{
+        "company ID":"WBS",
+        "score":0.5775718689,
+        "Rank":68.0,
+        "Rank Target":0.6576271186,
+        "stockDifferencePercentage":2.2661812134
+    },
+    "19593":{
+        "company ID":"FIBK",
+        "score":0.5773432851,
+        "Rank":69.0,
+        "Rank Target":0.793220339,
+        "stockDifferencePercentage":4.9321698339
+    },
+    "19619":{
+        "company ID":"GCBC",
+        "score":0.5760435462,
+        "Rank":70.0,
+        "Rank Target":0.1220338983,
+        "stockDifferencePercentage":-8.0005281153
+    },
+    "19749":{
+        "company ID":"TMP",
+        "score":0.5759441257,
+        "Rank":71.0,
+        "Rank Target":0.5593220339,
+        "stockDifferencePercentage":0.7161534105
+    },
+    "19604":{
+        "company ID":"FNWD",
+        "score":0.5758778453,
+        "Rank":72.0,
+        "Rank Target":0.9457627119,
+        "stockDifferencePercentage":14.3060921513
+    },
+    "19655":{
+        "company ID":"MCB",
+        "score":0.5757686496,
+        "Rank":73.0,
+        "Rank Target":0.5728813559,
+        "stockDifferencePercentage":0.9149652373
+    },
+    "19736":{
+        "company ID":"SSBI",
+        "score":0.5718958974,
+        "Rank":74.0,
+        "Rank Target":0.8474576271,
+        "stockDifferencePercentage":8.6285176153
+    },
+    "19671":{
+        "company ID":"NEWT",
+        "score":0.5713405609,
+        "Rank":75.0,
+        "Rank Target":0.3084745763,
+        "stockDifferencePercentage":-3.0743907738
+    },
+    "19558":{
+        "company ID":"CPF",
+        "score":0.5708042979,
+        "Rank":76.0,
+        "Rank Target":0.7355932203,
+        "stockDifferencePercentage":3.3844718453
+    },
+    "19523":{
+        "company ID":"BUSE",
+        "score":0.5695192814,
+        "Rank":77.0,
+        "Rank Target":0.3457627119,
+        "stockDifferencePercentage":-2.6120866328
+    },
+    "19584":{
+        "company ID":"FDBC",
+        "score":0.5687945485,
+        "Rank":78.0,
+        "Rank Target":0.0610169492,
+        "stockDifferencePercentage":-10.0360965589
+    },
+    "19486":{
+        "company ID":"AFBI",
+        "score":0.5687678456,
+        "Rank":79.0,
+        "Rank Target":0.8101694915,
+        "stockDifferencePercentage":5.6768609876
+    },
+    "19726":{
+        "company ID":"SFST",
+        "score":0.5685104728,
+        "Rank":80.0,
+        "Rank Target":0.8983050847,
+        "stockDifferencePercentage":10.9637070953
+    },
+    "19620":{
+        "company ID":"GSBC",
+        "score":0.5657398701,
+        "Rank":81.0,
+        "Rank Target":0.4033898305,
+        "stockDifferencePercentage":-1.705944438
+    },
+    "19757":{
+        "company ID":"UCB",
+        "score":0.5651724339,
+        "Rank":82.0,
+        "Rank Target":0.4915254237,
+        "stockDifferencePercentage":-0.3321755662
+    },
+    "19771":{
+        "company ID":"WNEB",
+        "score":0.5644731522,
+        "Rank":83.0,
+        "Rank Target":0.9694915254,
+        "stockDifferencePercentage":20.3153764663
+    },
+    "19609":{
+        "company ID":"FSBC",
+        "score":0.5628478527,
+        "Rank":84.0,
+        "Rank Target":0.8237288136,
+        "stockDifferencePercentage":6.3437463732
+    },
+    "19658":{
+        "company ID":"MNSB",
+        "score":0.5622237921,
+        "Rank":85.0,
+        "Rank Target":0.5627118644,
+        "stockDifferencePercentage":0.7513355998
+    },
+    "19725":{
+        "company ID":"SFNC",
+        "score":0.5619005561,
+        "Rank":86.0,
+        "Rank Target":0.2813559322,
+        "stockDifferencePercentage":-3.8177537041
+    },
+    "19485":{
+        "company ID":"ACNB",
+        "score":0.5597954392,
+        "Rank":87.0,
+        "Rank Target":0.4203389831,
+        "stockDifferencePercentage":-1.4661798645
+    },
+    "19673":{
+        "company ID":"NIC",
+        "score":0.5585730672,
+        "Rank":88.0,
+        "Rank Target":0.6237288136,
+        "stockDifferencePercentage":1.8169941101
+    },
+    "19768":{
+        "company ID":"WAL",
+        "score":0.5585044026,
+        "Rank":89.0,
+        "Rank Target":0.6983050847,
+        "stockDifferencePercentage":2.8231309361
+    },
+    "19772":{
+        "company ID":"WSBC",
+        "score":0.5581370592,
+        "Rank":90.0,
+        "Rank Target":0.2745762712,
+        "stockDifferencePercentage":-3.9674576358
+    },
+    "19540":{
+        "company ID":"CCB",
+        "score":0.5580031872,
+        "Rank":91.0,
+        "Rank Target":0.9355932203,
+        "stockDifferencePercentage":13.8130920317
+    },
+    "19615":{
+        "company ID":"FVCB",
+        "score":0.5568814278,
+        "Rank":92.0,
+        "Rank Target":0.6949152542,
+        "stockDifferencePercentage":2.7494971147
+    },
+    "19775":{
+        "company ID":"WSFS",
+        "score":0.5553593636,
+        "Rank":93.0,
+        "Rank Target":0.1322033898,
+        "stockDifferencePercentage":-7.8152737987
+    },
+    "19542":{
+        "company ID":"CCNE",
+        "score":0.5550163984,
+        "Rank":94.0,
+        "Rank Target":0.5661016949,
+        "stockDifferencePercentage":0.76586838
+    },
+    "19688":{
+        "company ID":"OSBC",
+        "score":0.5542117357,
+        "Rank":95.0,
+        "Rank Target":0.0949152542,
+        "stockDifferencePercentage":-9.0221361322
+    },
+    "19587":{
+        "company ID":"FFIC",
+        "score":0.5528489947,
+        "Rank":96.0,
+        "Rank Target":0.8813559322,
+        "stockDifferencePercentage":9.9993112327
+    },
+    "19700":{
+        "company ID":"PFBC",
+        "score":0.5527164936,
+        "Rank":97.0,
+        "Rank Target":0.4949152542,
+        "stockDifferencePercentage":-0.2875202954
+    },
+    "19681":{
+        "company ID":"OBT",
+        "score":0.5505372882,
+        "Rank":98.0,
+        "Rank Target":0.1186440678,
+        "stockDifferencePercentage":-8.1605412357
+    },
+    "19742":{
+        "company ID":"TCBK",
+        "score":0.5500994325,
+        "Rank":99.0,
+        "Rank Target":0.7830508475,
+        "stockDifferencePercentage":4.5425558053
+    },
+    "19601":{
+        "company ID":"FNB",
+        "score":0.5495411754,
+        "Rank":100.0,
+        "Rank Target":0.7627118644,
+        "stockDifferencePercentage":3.9566804601
+    },
+    "19524":{
+        "company ID":"BVFL",
+        "score":0.5494434834,
+        "Rank":101.0,
+        "Rank Target":0.6644067797,
+        "stockDifferencePercentage":2.3974709877
+    },
+    "19588":{
+        "company ID":"FFIN",
+        "score":0.5494134426,
+        "Rank":102.0,
+        "Rank Target":0.0576271186,
+        "stockDifferencePercentage":-10.0924868412
+    },
+    "19602":{
+        "company ID":"FNLC",
+        "score":0.5492808223,
+        "Rank":103.0,
+        "Rank Target":0.5186440678,
+        "stockDifferencePercentage":-0.0142282822
+    },
+    "19525":{
+        "company ID":"BWB",
+        "score":0.5490716696,
+        "Rank":104.0,
+        "Rank Target":0.4813559322,
+        "stockDifferencePercentage":-0.4117629106
+    },
+    "19652":{
+        "company ID":"LOB",
+        "score":0.5490168333,
+        "Rank":105.0,
+        "Rank Target":0.9016949153,
+        "stockDifferencePercentage":11.1180777332
+    },
+    "19532":{
+        "company ID":"CATY",
+        "score":0.5483404398,
+        "Rank":106.0,
+        "Rank Target":0.5559322034,
+        "stockDifferencePercentage":0.6159443748
+    },
+    "19505":{
+        "company ID":"BCML",
+        "score":0.547206223,
+        "Rank":107.0,
+        "Rank Target":0.5762711864,
+        "stockDifferencePercentage":0.9760165068
+    },
+    "19640":{
+        "company ID":"INDB",
+        "score":0.5464031696,
+        "Rank":108.0,
+        "Rank Target":0.786440678,
+        "stockDifferencePercentage":4.6040601833
+    },
+    "19767":{
+        "company ID":"WAFD",
+        "score":0.5459862351,
+        "Rank":109.0,
+        "Rank Target":0.4237288136,
+        "stockDifferencePercentage":-1.4649998546
+    },
+    "19693":{
+        "company ID":"PBBK",
+        "score":0.5433174968,
+        "Rank":110.0,
+        "Rank Target":0.9186440678,
+        "stockDifferencePercentage":12.1037483298
+    },
+    "19683":{
+        "company ID":"OFG",
+        "score":0.5432360172,
+        "Rank":111.0,
+        "Rank Target":0.3559322034,
+        "stockDifferencePercentage":-2.3994658032
+    },
+    "19704":{
+        "company ID":"PKBK",
+        "score":0.5421566367,
+        "Rank":112.0,
+        "Rank Target":0.5898305085,
+        "stockDifferencePercentage":1.2104281878
+    },
+    "19514":{
+        "company ID":"BOH",
+        "score":0.5410364866,
+        "Rank":113.0,
+        "Rank Target":0.1694915254,
+        "stockDifferencePercentage":-6.8652043935
+    },
+    "19708":{
+        "company ID":"PNFP",
+        "score":0.5409634113,
+        "Rank":114.0,
+        "Rank Target":0.0169491525,
+        "stockDifferencePercentage":-19.5971327627
+    },
+    "19495":{
+        "company ID":"AUBN",
+        "score":0.5406325459,
+        "Rank":115.0,
+        "Rank Target":0.9796610169,
+        "stockDifferencePercentage":24.1904311403
+    },
+    "19519":{
+        "company ID":"BRBS",
+        "score":0.540060401,
+        "Rank":116.0,
+        "Rank Target":0.9627118644,
+        "stockDifferencePercentage":18.6629566746
+    },
+    "19521":{
+        "company ID":"BSRR",
+        "score":0.5400036573,
+        "Rank":117.0,
+        "Rank Target":0.0813559322,
+        "stockDifferencePercentage":-9.5377609283
+    },
+    "19702":{
+        "company ID":"PFS",
+        "score":0.5399708748,
+        "Rank":118.0,
+        "Rank Target":0.7694915254,
+        "stockDifferencePercentage":3.9993962615
+    },
+    "19735":{
+        "company ID":"SSB",
+        "score":0.5399199128,
+        "Rank":119.0,
+        "Rank Target":0.7254237288,
+        "stockDifferencePercentage":3.2142342275
+    },
+    "19623":{
+        "company ID":"HBCP",
+        "score":0.5394244194,
+        "Rank":120.0,
+        "Rank Target":0.3694915254,
+        "stockDifferencePercentage":-2.1459974443
+    },
+    "19603":{
+        "company ID":"FNWB",
+        "score":0.538931191,
+        "Rank":121.0,
+        "Rank Target":0.2644067797,
+        "stockDifferencePercentage":-4.1205416161
+    },
+    "19502":{
+        "company ID":"BBT",
+        "score":0.5385295153,
+        "Rank":122.0,
+        "Rank Target":0.0440677966,
+        "stockDifferencePercentage":-11.8183530244
+    },
+    "19592":{
+        "company ID":"FHN",
+        "score":0.5379469395,
+        "Rank":123.0,
+        "Rank Target":0.7525423729,
+        "stockDifferencePercentage":3.6368252168
+    },
+    "19583":{
+        "company ID":"FCNCA",
+        "score":0.5362499356,
+        "Rank":124.0,
+        "Rank Target":0.0406779661,
+        "stockDifferencePercentage":-13.8446952327
+    },
+    "19701":{
+        "company ID":"PFIS",
+        "score":0.5357652307,
+        "Rank":125.0,
+        "Rank Target":0.1423728814,
+        "stockDifferencePercentage":-7.5825378411
+    },
+    "19497":{
+        "company ID":"AX",
+        "score":0.5354250669,
+        "Rank":126.0,
+        "Rank Target":0.7050847458,
+        "stockDifferencePercentage":2.909614147
+    },
+    "19716":{
+        "company ID":"RMBI",
+        "score":0.5349465609,
+        "Rank":127.0,
+        "Rank Target":0.6677966102,
+        "stockDifferencePercentage":2.4015117678
+    },
+    "19577":{
+        "company ID":"FBNC",
+        "score":0.5349363685,
+        "Rank":128.0,
+        "Rank Target":0.9220338983,
+        "stockDifferencePercentage":12.4682453528
+    },
+    "19654":{
+        "company ID":"MBWM",
+        "score":0.5347651243,
+        "Rank":129.0,
+        "Rank Target":0.0881355932,
+        "stockDifferencePercentage":-9.1144950539
+    },
+    "19753":{
+        "company ID":"TSBK",
+        "score":0.5332898498,
+        "Rank":130.0,
+        "Rank Target":0.7661016949,
+        "stockDifferencePercentage":3.9573090686
+    },
+    "19550":{
+        "company ID":"CIVB",
+        "score":0.5328428149,
+        "Rank":131.0,
+        "Rank Target":0.0203389831,
+        "stockDifferencePercentage":-18.2253904572
+    },
+    "19656":{
+        "company ID":"MCBS",
+        "score":0.5323155522,
+        "Rank":132.0,
+        "Rank Target":0.186440678,
+        "stockDifferencePercentage":-6.3519633538
+    },
+    "19730":{
+        "company ID":"SMBK",
+        "score":0.5310749412,
+        "Rank":133.0,
+        "Rank Target":0.4779661017,
+        "stockDifferencePercentage":-0.4511258709
+    },
+    "19711":{
+        "company ID":"QCRH",
+        "score":0.5310462117,
+        "Rank":134.0,
+        "Rank Target":0.7288135593,
+        "stockDifferencePercentage":3.2156290001
+    },
+    "19752":{
+        "company ID":"TRST",
+        "score":0.5302143097,
+        "Rank":135.0,
+        "Rank Target":0.7559322034,
+        "stockDifferencePercentage":3.7506569594
+    },
+    "19648":{
+        "company ID":"LC",
+        "score":0.5295132399,
+        "Rank":136.0,
+        "Rank Target":0.9898305085,
+        "stockDifferencePercentage":28.1622991372
+    },
+    "19491":{
+        "company ID":"ASB",
+        "score":0.529304564,
+        "Rank":137.0,
+        "Rank Target":0.586440678,
+        "stockDifferencePercentage":1.1721542198
+    },
+    "19762":{
+        "company ID":"USCB",
+        "score":0.5291891694,
+        "Rank":138.0,
+        "Rank Target":0.6779661017,
+        "stockDifferencePercentage":2.5311191124
+    },
+    "19522":{
+        "company ID":"BSVN",
+        "score":0.5290200114,
+        "Rank":139.0,
+        "Rank Target":0.7728813559,
+        "stockDifferencePercentage":4.2621342893
+    },
+    "19569":{
+        "company ID":"EFSC",
+        "score":0.5285391212,
+        "Rank":140.0,
+        "Rank Target":0.6711864407,
+        "stockDifferencePercentage":2.4076480693
+    },
+    "19746":{
+        "company ID":"TFIN",
+        "score":0.5284163356,
+        "Rank":141.0,
+        "Rank Target":0.013559322,
+        "stockDifferencePercentage":-20.1349679619
+    },
+    "19578":{
+        "company ID":"FBP",
+        "score":0.5281345844,
+        "Rank":142.0,
+        "Rank Target":0.606779661,
+        "stockDifferencePercentage":1.4503559386
+    },
+    "19598":{
+        "company ID":"FMAO",
+        "score":0.5271621346,
+        "Rank":143.0,
+        "Rank Target":0.1593220339,
+        "stockDifferencePercentage":-7.0399301636
+    },
+    "19594":{
+        "company ID":"FINW",
+        "score":0.5255692601,
+        "Rank":144.0,
+        "Rank Target":0.993220339,
+        "stockDifferencePercentage":29.1640055683
+    },
+    "19573":{
+        "company ID":"EWBC",
+        "score":0.5250630975,
+        "Rank":145.0,
+        "Rank Target":0.413559322,
+        "stockDifferencePercentage":-1.5052847669
+    },
+    "19687":{
+        "company ID":"ORRF",
+        "score":0.5250542164,
+        "Rank":146.0,
+        "Rank Target":0.6203389831,
+        "stockDifferencePercentage":1.7927945024
+    },
+    "19777":{
+        "company ID":"WTFC",
+        "score":0.5249757171,
+        "Rank":147.0,
+        "Rank Target":0.5694915254,
+        "stockDifferencePercentage":0.8886357794
+    },
+    "19685":{
+        "company ID":"OPBK",
+        "score":0.5241965055,
+        "Rank":148.0,
+        "Rank Target":0.5016949153,
+        "stockDifferencePercentage":-0.1223017747
+    },
+    "19638":{
+        "company ID":"IBOC",
+        "score":0.5240239501,
+        "Rank":149.0,
+        "Rank Target":0.3627118644,
+        "stockDifferencePercentage":-2.1997501052
+    },
+    "19643":{
+        "company ID":"JMSB",
+        "score":0.5234219432,
+        "Rank":150.0,
+        "Rank Target":0.6813559322,
+        "stockDifferencePercentage":2.6479762349
+    },
+    "19761":{
+        "company ID":"USB",
+        "score":0.5230948329,
+        "Rank":151.0,
+        "Rank Target":0.6508474576,
+        "stockDifferencePercentage":2.2115511211
+    },
+    "19567":{
+        "company ID":"EBMT",
+        "score":0.5217141509,
+        "Rank":152.0,
+        "Rank Target":0.5050847458,
+        "stockDifferencePercentage":-0.1144207653
+    },
+    "19547":{
+        "company ID":"CFR",
+        "score":0.5215035081,
+        "Rank":153.0,
+        "Rank Target":0.206779661,
+        "stockDifferencePercentage":-5.8299437826
+    },
+    "19679":{
+        "company ID":"NWFL",
+        "score":0.5197841525,
+        "Rank":154.0,
+        "Rank Target":0.3423728814,
+        "stockDifferencePercentage":-2.6151966334
+    },
+    "19670":{
+        "company ID":"NECB",
+        "score":0.519443512,
+        "Rank":155.0,
+        "Rank Target":0.0372881356,
+        "stockDifferencePercentage":-16.1145123564
+    },
+    "19528":{
+        "company ID":"CAC",
+        "score":0.5141742229,
+        "Rank":156.0,
+        "Rank Target":0.0711864407,
+        "stockDifferencePercentage":-9.7890986781
+    },
+    "19553":{
+        "company ID":"CMA",
+        "score":0.5134593844,
+        "Rank":157.0,
+        "Rank Target":0.8610169492,
+        "stockDifferencePercentage":9.2856207569
+    },
+    "19551":{
+        "company ID":"CLBK",
+        "score":0.511950314,
+        "Rank":158.0,
+        "Rank Target":0.4338983051,
+        "stockDifferencePercentage":-1.3743458238
+    },
+    "19504":{
+        "company ID":"BCBP",
+        "score":0.5113063455,
+        "Rank":159.0,
+        "Rank Target":0.2305084746,
+        "stockDifferencePercentage":-5.3756878963
+    },
+    "19691":{
+        "company ID":"OZK",
+        "score":0.5112786293,
+        "Rank":160.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":1.2745065949
+    },
+    "19769":{
+        "company ID":"WASH",
+        "score":0.5111328363,
+        "Rank":161.0,
+        "Rank Target":0.3593220339,
+        "stockDifferencePercentage":-2.2596944133
+    },
+    "19764":{
+        "company ID":"VABK",
+        "score":0.5105552673,
+        "Rank":162.0,
+        "Rank Target":0.5288135593,
+        "stockDifferencePercentage":0.0457597585
+    },
+    "19743":{
+        "company ID":"TCBS",
+        "score":0.5103148222,
+        "Rank":163.0,
+        "Rank Target":0.4881355932,
+        "stockDifferencePercentage":-0.3700712694
+    },
+    "19629":{
+        "company ID":"HNVR",
+        "score":0.5100546479,
+        "Rank":164.0,
+        "Rank Target":0.4474576271,
+        "stockDifferencePercentage":-1.2547304419
+    },
+    "19690":{
+        "company ID":"OVLY",
+        "score":0.5085027814,
+        "Rank":165.0,
+        "Rank Target":0.7220338983,
+        "stockDifferencePercentage":3.1585007208
+    },
+    "19607":{
+        "company ID":"FRME",
+        "score":0.508277595,
+        "Rank":166.0,
+        "Rank Target":0.1491525424,
+        "stockDifferencePercentage":-7.3033317853
+    },
+    "19641":{
+        "company ID":"IROQ",
+        "score":0.5079953671,
+        "Rank":167.0,
+        "Rank Target":0.8508474576,
+        "stockDifferencePercentage":8.7922737593
+    },
+    "19692":{
+        "company ID":"PB",
+        "score":0.5066342354,
+        "Rank":168.0,
+        "Rank Target":0.0644067797,
+        "stockDifferencePercentage":-9.9121600951
+    },
+    "19745":{
+        "company ID":"TFC",
+        "score":0.5065838695,
+        "Rank":169.0,
+        "Rank Target":0.6338983051,
+        "stockDifferencePercentage":2.0731211786
+    },
+    "19599":{
+        "company ID":"FMBH",
+        "score":0.5061884522,
+        "Rank":170.0,
+        "Rank Target":0.3050847458,
+        "stockDifferencePercentage":-3.1804907885
+    },
+    "19530":{
+        "company ID":"CARE",
+        "score":0.5057073832,
+        "Rank":171.0,
+        "Rank Target":0.8271186441,
+        "stockDifferencePercentage":6.6301319699
+    },
+    "19580":{
+        "company ID":"FCBC",
+        "score":0.505041182,
+        "Rank":172.0,
+        "Rank Target":0.0305084746,
+        "stockDifferencePercentage":-16.6627864912
+    },
+    "19666":{
+        "company ID":"NBBK",
+        "score":0.5044537783,
+        "Rank":173.0,
+        "Rank Target":0.2474576271,
+        "stockDifferencePercentage":-4.8919078547
+    },
+    "19776":{
+        "company ID":"WTBA",
+        "score":0.5040774345,
+        "Rank":174.0,
+        "Rank Target":0.3966101695,
+        "stockDifferencePercentage":-1.7616215368
+    },
+    "19630":{
+        "company ID":"HOMB",
+        "score":0.5040391684,
+        "Rank":175.0,
+        "Rank Target":0.2677966102,
+        "stockDifferencePercentage":-4.0932986538
+    },
+    "19539":{
+        "company ID":"CBU",
+        "score":0.5030331612,
+        "Rank":176.0,
+        "Rank Target":0.4610169492,
+        "stockDifferencePercentage":-1.0170322999
+    },
+    "19718":{
+        "company ID":"RRBI",
+        "score":0.50295192,
+        "Rank":177.0,
+        "Rank Target":0.6372881356,
+        "stockDifferencePercentage":2.0938674945
+    },
+    "19738":{
+        "company ID":"STEL",
+        "score":0.502201736,
+        "Rank":178.0,
+        "Rank Target":0.6474576271,
+        "stockDifferencePercentage":2.2087453425
+    },
+    "19527":{
+        "company ID":"BY",
+        "score":0.5021930337,
+        "Rank":179.0,
+        "Rank Target":0.4576271186,
+        "stockDifferencePercentage":-1.0258204335
+    },
+    "19637":{
+        "company ID":"IBCP",
+        "score":0.5017794371,
+        "Rank":180.0,
+        "Rank Target":0.0745762712,
+        "stockDifferencePercentage":-9.6533836357
+    },
+    "19724":{
+        "company ID":"SFBS",
+        "score":0.5015400648,
+        "Rank":181.0,
+        "Rank Target":0.4169491525,
+        "stockDifferencePercentage":-1.4959543649
+    },
+    "19597":{
+        "company ID":"FLG",
+        "score":0.5006586909,
+        "Rank":182.0,
+        "Rank Target":0.7186440678,
+        "stockDifferencePercentage":3.1234933953
+    },
+    "19751":{
+        "company ID":"TRMK",
+        "score":0.5004533529,
+        "Rank":183.0,
+        "Rank Target":0.7491525424,
+        "stockDifferencePercentage":3.6197084802
+    },
+    "19739":{
+        "company ID":"SYBT",
+        "score":0.4987586737,
+        "Rank":184.0,
+        "Rank Target":0.0338983051,
+        "stockDifferencePercentage":-16.6147792094
+    },
+    "19574":{
+        "company ID":"FBIZ",
+        "score":0.4982698262,
+        "Rank":185.0,
+        "Rank Target":0.193220339,
+        "stockDifferencePercentage":-6.1527145565
+    },
+    "19756":{
+        "company ID":"UBSI",
+        "score":0.4981611371,
+        "Rank":186.0,
+        "Rank Target":0.3728813559,
+        "stockDifferencePercentage":-2.0950372091
+    },
+    "19541":{
+        "company ID":"CCBG",
+        "score":0.4953907728,
+        "Rank":187.0,
+        "Rank Target":0.6101694915,
+        "stockDifferencePercentage":1.5749782025
+    },
+    "19613":{
+        "company ID":"FULT",
+        "score":0.4950012267,
+        "Rank":188.0,
+        "Rank Target":0.3898305085,
+        "stockDifferencePercentage":-1.9371786388
+    },
+    "19618":{
+        "company ID":"GBCI",
+        "score":0.4949995279,
+        "Rank":189.0,
+        "Rank Target":0.806779661,
+        "stockDifferencePercentage":5.262733817
+    },
+    "19754":{
+        "company ID":"UBCP",
+        "score":0.4947482049,
+        "Rank":190.0,
+        "Rank Target":0.2949152542,
+        "stockDifferencePercentage":-3.4170139002
+    },
+    "19600":{
+        "company ID":"FMNB",
+        "score":0.4935357273,
+        "Rank":191.0,
+        "Rank Target":0.406779661,
+        "stockDifferencePercentage":-1.6156452425
+    },
+    "19696":{
+        "company ID":"PCB",
+        "score":0.4931333065,
+        "Rank":192.0,
+        "Rank Target":0.1966101695,
+        "stockDifferencePercentage":-6.0718520914
+    },
+    "19748":{
+        "company ID":"THFF",
+        "score":0.4923270941,
+        "Rank":193.0,
+        "Rank Target":0.5084745763,
+        "stockDifferencePercentage":-0.0877475255
+    },
+    "19564":{
+        "company ID":"CZNC",
+        "score":0.4916380644,
+        "Rank":194.0,
+        "Rank Target":0.4847457627,
+        "stockDifferencePercentage":-0.3753488774
+    },
+    "19729":{
+        "company ID":"SMBC",
+        "score":0.4896985888,
+        "Rank":195.0,
+        "Rank Target":0.1254237288,
+        "stockDifferencePercentage":-7.9441065447
+    },
+    "19614":{
+        "company ID":"FUNC",
+        "score":0.4892071784,
+        "Rank":196.0,
+        "Rank Target":0.8644067797,
+        "stockDifferencePercentage":9.3076110728
+    },
+    "19678":{
+        "company ID":"NWBI",
+        "score":0.4891274571,
+        "Rank":197.0,
+        "Rank Target":0.1898305085,
+        "stockDifferencePercentage":-6.2467914127
+    },
+    "19625":{
+        "company ID":"HBT",
+        "score":0.4888039827,
+        "Rank":198.0,
+        "Rank Target":0.2440677966,
+        "stockDifferencePercentage":-4.9119738972
+    },
+    "19515":{
+        "company ID":"BOKF",
+        "score":0.4882932305,
+        "Rank":199.0,
+        "Rank Target":0.8576271186,
+        "stockDifferencePercentage":8.8496489719
+    },
+    "19713":{
+        "company ID":"RBCAA",
+        "score":0.4878640473,
+        "Rank":200.0,
+        "Rank Target":0.1830508475,
+        "stockDifferencePercentage":-6.3712199805
+    },
+    "19734":{
+        "company ID":"SRCE",
+        "score":0.4872876406,
+        "Rank":201.0,
+        "Rank Target":0.2169491525,
+        "stockDifferencePercentage":-5.6990986867
+    },
+    "19508":{
+        "company ID":"BFST",
+        "score":0.4870801866,
+        "Rank":202.0,
+        "Rank Target":0.0983050847,
+        "stockDifferencePercentage":-8.98415138
+    },
+    "19606":{
+        "company ID":"FRBA",
+        "score":0.4869259298,
+        "Rank":203.0,
+        "Rank Target":0.4440677966,
+        "stockDifferencePercentage":-1.3178132712
+    },
+    "19645":{
+        "company ID":"KFFB",
+        "score":0.4869173765,
+        "Rank":204.0,
+        "Rank Target":0.9762711864,
+        "stockDifferencePercentage":20.6185528182
+    },
+    "19707":{
+        "company ID":"PNC",
+        "score":0.4859620631,
+        "Rank":205.0,
+        "Rank Target":0.7457627119,
+        "stockDifferencePercentage":3.5781185921
+    },
+    "19635":{
+        "company ID":"HWC",
+        "score":0.4856274724,
+        "Rank":206.0,
+        "Rank Target":0.7118644068,
+        "stockDifferencePercentage":3.0386780762
+    },
+    "19763":{
+        "company ID":"UVSP",
+        "score":0.4852541089,
+        "Rank":207.0,
+        "Rank Target":0.1559322034,
+        "stockDifferencePercentage":-7.0561138532
+    },
+    "19506":{
+        "company ID":"BFC",
+        "score":0.4851684868,
+        "Rank":208.0,
+        "Rank Target":0.386440678,
+        "stockDifferencePercentage":-2.0081160088
+    },
+    "19689":{
+        "company ID":"OVBC",
+        "score":0.4839152098,
+        "Rank":209.0,
+        "Rank Target":0.9050847458,
+        "stockDifferencePercentage":11.2051736812
+    },
+    "19529":{
+        "company ID":"CADE",
+        "score":0.483055681,
+        "Rank":210.0,
+        "Rank Target":0.8779661017,
+        "stockDifferencePercentage":9.8846027331
+    },
+    "19674":{
+        "company ID":"NKSH",
+        "score":0.4819641113,
+        "Rank":211.0,
+        "Rank Target":0.4644067797,
+        "stockDifferencePercentage":-0.8042876445
+    },
+    "19647":{
+        "company ID":"LARK",
+        "score":0.4816329181,
+        "Rank":212.0,
+        "Rank Target":0.2711864407,
+        "stockDifferencePercentage":-4.0618487237
+    },
+    "19694":{
+        "company ID":"PBFS",
+        "score":0.4811620712,
+        "Rank":213.0,
+        "Rank Target":0.6915254237,
+        "stockDifferencePercentage":2.7200012208
+    },
+    "19697":{
+        "company ID":"PDLB",
+        "score":0.4808693528,
+        "Rank":214.0,
+        "Rank Target":0.6847457627,
+        "stockDifferencePercentage":2.651780296
+    },
+    "19501":{
+        "company ID":"BANR",
+        "score":0.4796453416,
+        "Rank":215.0,
+        "Rank Target":0.2983050847,
+        "stockDifferencePercentage":-3.4046149446
+    },
+    "19622":{
+        "company ID":"HBAN",
+        "score":0.4793732166,
+        "Rank":216.0,
+        "Rank Target":0.4983050847,
+        "stockDifferencePercentage":-0.1957022109
+    },
+    "19545":{
+        "company ID":"CFFN",
+        "score":0.4781340361,
+        "Rank":217.0,
+        "Rank Target":0.5254237288,
+        "stockDifferencePercentage":0.012458307
+    },
+    "19759":{
+        "company ID":"UNB",
+        "score":0.4777325988,
+        "Rank":218.0,
+        "Rank Target":0.0779661017,
+        "stockDifferencePercentage":-9.5928627657
+    },
+    "19572":{
+        "company ID":"ESQ",
+        "score":0.4776276946,
+        "Rank":219.0,
+        "Rank Target":0.6881355932,
+        "stockDifferencePercentage":2.6931568759
+    },
+    "19657":{
+        "company ID":"MGYR",
+        "score":0.4768972099,
+        "Rank":220.0,
+        "Rank Target":0.7389830508,
+        "stockDifferencePercentage":3.5424333422
+    },
+    "19633":{
+        "company ID":"HTBK",
+        "score":0.4765063822,
+        "Rank":221.0,
+        "Rank Target":0.2203389831,
+        "stockDifferencePercentage":-5.5278156474
+    },
+    "19562":{
+        "company ID":"CWBC",
+        "score":0.475409776,
+        "Rank":222.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-1.7437641298
+    },
+    "19571":{
+        "company ID":"EQBK",
+        "score":0.4746872485,
+        "Rank":223.0,
+        "Rank Target":0.2406779661,
+        "stockDifferencePercentage":-5.1696329366
+    },
+    "19582":{
+        "company ID":"FCF",
+        "score":0.4746027291,
+        "Rank":224.0,
+        "Rank Target":0.5355932203,
+        "stockDifferencePercentage":0.1330599448
+    },
+    "19766":{
+        "company ID":"WABC",
+        "score":0.4726063907,
+        "Rank":225.0,
+        "Rank Target":0.3830508475,
+        "stockDifferencePercentage":-2.0271481736
+    },
+    "19537":{
+        "company ID":"CBNK",
+        "score":0.4712997973,
+        "Rank":226.0,
+        "Rank Target":0.0542372881,
+        "stockDifferencePercentage":-10.3257431767
+    },
+    "19737":{
+        "company ID":"STBA",
+        "score":0.4710908532,
+        "Rank":227.0,
+        "Rank Target":0.2508474576,
+        "stockDifferencePercentage":-4.7029046679
+    },
+    "19503":{
+        "company ID":"BCAL",
+        "score":0.4709062874,
+        "Rank":228.0,
+        "Rank Target":0.5830508475,
+        "stockDifferencePercentage":1.0889287775
+    },
+    "19651":{
+        "company ID":"LNKB",
+        "score":0.4704639316,
+        "Rank":229.0,
+        "Rank Target":0.1525423729,
+        "stockDifferencePercentage":-7.137151668
+    },
+    "19747":{
+        "company ID":"TFSL",
+        "score":0.469789654,
+        "Rank":230.0,
+        "Rank Target":0.5525423729,
+        "stockDifferencePercentage":0.4626580262
+    },
+    "19576":{
+        "company ID":"FBLA",
+        "score":0.4684886932,
+        "Rank":231.0,
+        "Rank Target":0.7796610169,
+        "stockDifferencePercentage":4.5178062012
+    },
+    "19610":{
+        "company ID":"FSBW",
+        "score":0.4651890099,
+        "Rank":232.0,
+        "Rank Target":0.1728813559,
+        "stockDifferencePercentage":-6.8443883568
+    },
+    "19682":{
+        "company ID":"OCFC",
+        "score":0.4641824067,
+        "Rank":233.0,
+        "Rank Target":0.2372881356,
+        "stockDifferencePercentage":-5.2312422163
+    },
+    "19624":{
+        "company ID":"HBNC",
+        "score":0.4637529552,
+        "Rank":234.0,
+        "Rank Target":0.4101694915,
+        "stockDifferencePercentage":-1.5863347915
+    },
+    "19703":{
+        "company ID":"PGC",
+        "score":0.4613013864,
+        "Rank":235.0,
+        "Rank Target":0.1288135593,
+        "stockDifferencePercentage":-7.9124366259
+    },
+    "19557":{
+        "company ID":"CPBI",
+        "score":0.4606460333,
+        "Rank":236.0,
+        "Rank Target":0.8677966102,
+        "stockDifferencePercentage":9.4694349314
+    },
+    "19722":{
+        "company ID":"SBSI",
+        "score":0.4586232901,
+        "Rank":237.0,
+        "Rank Target":0.1118644068,
+        "stockDifferencePercentage":-8.2016801667
+    },
+    "19611":{
+        "company ID":"FSEA",
+        "score":0.4581698179,
+        "Rank":238.0,
+        "Rank Target":0.6610169492,
+        "stockDifferencePercentage":2.3911115858
+    },
+    "19750":{
+        "company ID":"TOWN",
+        "score":0.457852006,
+        "Rank":239.0,
+        "Rank Target":0.3322033898,
+        "stockDifferencePercentage":-2.7343226574
+    },
+    "19561":{
+        "company ID":"CVBF",
+        "score":0.4556255341,
+        "Rank":240.0,
+        "Rank Target":0.1152542373,
+        "stockDifferencePercentage":-8.1789311154
+    },
+    "19755":{
+        "company ID":"UBFO",
+        "score":0.4552495778,
+        "Rank":241.0,
+        "Rank Target":0.6033898305,
+        "stockDifferencePercentage":1.419215268
+    },
+    "19627":{
+        "company ID":"HFWA",
+        "score":0.4548866153,
+        "Rank":242.0,
+        "Rank Target":0.3254237288,
+        "stockDifferencePercentage":-2.765854853
+    },
+    "19512":{
+        "company ID":"BLFY",
+        "score":0.4537096024,
+        "Rank":243.0,
+        "Rank Target":0.1627118644,
+        "stockDifferencePercentage":-6.9908772887
+    },
+    "19642":{
+        "company ID":"ISTR",
+        "score":0.4519399703,
+        "Rank":244.0,
+        "Rank Target":0.7152542373,
+        "stockDifferencePercentage":3.1208149212
+    },
+    "19676":{
+        "company ID":"NRIM",
+        "score":0.4513097405,
+        "Rank":245.0,
+        "Rank Target":0.0474576271,
+        "stockDifferencePercentage":-11.6803693855
+    },
+    "19705":{
+        "company ID":"PLBC",
+        "score":0.4471782446,
+        "Rank":246.0,
+        "Rank Target":0.1016949153,
+        "stockDifferencePercentage":-8.8530604372
+    },
+    "19646":{
+        "company ID":"KRNY",
+        "score":0.4467895329,
+        "Rank":247.0,
+        "Rank Target":0.2881355932,
+        "stockDifferencePercentage":-3.5373907124
+    },
+    "19488":{
+        "company ID":"AMAL",
+        "score":0.4451625049,
+        "Rank":248.0,
+        "Rank Target":0.0237288136,
+        "stockDifferencePercentage":-17.8628306973
+    },
+    "19621":{
+        "company ID":"HAFC",
+        "score":0.4443799555,
+        "Rank":249.0,
+        "Rank Target":0.2101694915,
+        "stockDifferencePercentage":-5.8042831281
+    },
+    "19686":{
+        "company ID":"OPHC",
+        "score":0.4400388002,
+        "Rank":250.0,
+        "Rank Target":0.1050847458,
+        "stockDifferencePercentage":-8.6092787028
+    },
+    "19710":{
+        "company ID":"PROV",
+        "score":0.4390268326,
+        "Rank":251.0,
+        "Rank Target":0.6271186441,
+        "stockDifferencePercentage":1.8841509231
+    },
+    "19549":{
+        "company ID":"CHMG",
+        "score":0.4386162758,
+        "Rank":252.0,
+        "Rank Target":0.8033898305,
+        "stockDifferencePercentage":5.1841580232
+    },
+    "19595":{
+        "company ID":"FISI",
+        "score":0.4385131896,
+        "Rank":253.0,
+        "Rank Target":0.5152542373,
+        "stockDifferencePercentage":-0.0212478688
+    },
+    "19719":{
+        "company ID":"RVSB",
+        "score":0.4385123849,
+        "Rank":254.0,
+        "Rank Target":0.1762711864,
+        "stockDifferencePercentage":-6.6289178743
+    },
+    "19510":{
+        "company ID":"BHRB",
+        "score":0.4377196729,
+        "Rank":255.0,
+        "Rank Target":0.3016949153,
+        "stockDifferencePercentage":-3.1883227007
+    },
+    "19499":{
+        "company ID":"BANC",
+        "score":0.4373311698,
+        "Rank":256.0,
+        "Rank Target":0.9322033898,
+        "stockDifferencePercentage":13.622794786
+    },
+    "19531":{
+        "company ID":"CASH",
+        "score":0.4364225566,
+        "Rank":257.0,
+        "Rank Target":0.0847457627,
+        "stockDifferencePercentage":-9.417518807
+    },
+    "19669":{
+        "company ID":"NBTB",
+        "score":0.4361323416,
+        "Rank":258.0,
+        "Rank Target":0.2779661017,
+        "stockDifferencePercentage":-3.8323482765
+    },
+    "19535":{
+        "company ID":"CBK",
+        "score":0.4341431856,
+        "Rank":259.0,
+        "Rank Target":0.0050847458,
+        "stockDifferencePercentage":-100.0
+    },
+    "19554":{
+        "company ID":"CNOB",
+        "score":0.4340005219,
+        "Rank":260.0,
+        "Rank Target":0.5796610169,
+        "stockDifferencePercentage":1.0257711454
+    },
+    "19631":{
+        "company ID":"HOPE",
+        "score":0.4328776002,
+        "Rank":261.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-6.0361440543
+    },
+    "19520":{
+        "company ID":"BSBK",
+        "score":0.4326958656,
+        "Rank":262.0,
+        "Rank Target":0.9491525424,
+        "stockDifferencePercentage":14.7984849551
+    },
+    "19728":{
+        "company ID":"SHFS",
+        "score":0.4303858578,
+        "Rank":263.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":221.0526431369
+    },
+    "19677":{
+        "company ID":"NSTS",
+        "score":0.4298979044,
+        "Rank":264.0,
+        "Rank Target":0.2237288136,
+        "stockDifferencePercentage":-5.4873060943
+    },
+    "19684":{
+        "company ID":"ONB",
+        "score":0.4298044145,
+        "Rank":265.0,
+        "Rank Target":0.3389830508,
+        "stockDifferencePercentage":-2.663177506
+    },
+    "19706":{
+        "company ID":"PNBK",
+        "score":0.4290404022,
+        "Rank":266.0,
+        "Rank Target":0.0508474576,
+        "stockDifferencePercentage":-11.5646308158
+    },
+    "19494":{
+        "company ID":"AUB",
+        "score":0.4270030856,
+        "Rank":267.0,
+        "Rank Target":0.8338983051,
+        "stockDifferencePercentage":7.3075638415
+    },
+    "19536":{
+        "company ID":"CBNA",
+        "score":0.4268523157,
+        "Rank":268.0,
+        "Rank Target":0.9830508475,
+        "stockDifferencePercentage":24.2105279761
+    },
+    "19664":{
+        "company ID":"MVBF",
+        "score":0.4266962111,
+        "Rank":269.0,
+        "Rank Target":0.8305084746,
+        "stockDifferencePercentage":7.1174648598
+    },
+    "19575":{
+        "company ID":"FBK",
+        "score":0.4247320592,
+        "Rank":270.0,
+        "Rank Target":0.9593220339,
+        "stockDifferencePercentage":17.4298180853
+    },
+    "19660":{
+        "company ID":"MPB",
+        "score":0.4244006872,
+        "Rank":271.0,
+        "Rank Target":0.2915254237,
+        "stockDifferencePercentage":-3.4280696729
+    },
+    "19699":{
+        "company ID":"PEBO",
+        "score":0.4237011969,
+        "Rank":272.0,
+        "Rank Target":0.2338983051,
+        "stockDifferencePercentage":-5.3509066118
+    },
+    "19509":{
+        "company ID":"BHB",
+        "score":0.4206837118,
+        "Rank":273.0,
+        "Rank Target":0.2847457627,
+        "stockDifferencePercentage":-3.7026686973
+    },
+    "19774":{
+        "company ID":"WSBK",
+        "score":0.4189268649,
+        "Rank":274.0,
+        "Rank Target":0.7966101695,
+        "stockDifferencePercentage":4.9614198252
+    },
+    "19492":{
+        "company ID":"ASRV",
+        "score":0.4183942676,
+        "Rank":275.0,
+        "Rank Target":0.393220339,
+        "stockDifferencePercentage":-1.9274344081
+    },
+    "19513":{
+        "company ID":"BMRC",
+        "score":0.4179238677,
+        "Rank":276.0,
+        "Rank Target":0.2610169492,
+        "stockDifferencePercentage":-4.3778807255
+    },
+    "19659":{
+        "company ID":"MOFG",
+        "score":0.4169898629,
+        "Rank":277.0,
+        "Rank Target":0.1796610169,
+        "stockDifferencePercentage":-6.514994184
+    },
+    "19608":{
+        "company ID":"FRST",
+        "score":0.4161813855,
+        "Rank":278.0,
+        "Rank Target":0.2271186441,
+        "stockDifferencePercentage":-5.4305969834
+    },
+    "19568":{
+        "company ID":"ECBK",
+        "score":0.4159168005,
+        "Rank":279.0,
+        "Rank Target":0.3796610169,
+        "stockDifferencePercentage":-2.0612112366
+    },
+    "19570":{
+        "company ID":"EGBN",
+        "score":0.4145717323,
+        "Rank":280.0,
+        "Rank Target":0.3762711864,
+        "stockDifferencePercentage":-2.0800497606
+    },
+    "19662":{
+        "company ID":"MSBI",
+        "score":0.4080239236,
+        "Rank":281.0,
+        "Rank Target":0.1661016949,
+        "stockDifferencePercentage":-6.9479951179
+    },
+    "19680":{
+        "company ID":"OBK",
+        "score":0.4076373875,
+        "Rank":282.0,
+        "Rank Target":0.1389830508,
+        "stockDifferencePercentage":-7.667651158
+    },
+    "19552":{
+        "company ID":"CLST",
+        "score":0.4057051241,
+        "Rank":283.0,
+        "Rank Target":0.813559322,
+        "stockDifferencePercentage":5.7692331211
+    },
+    "19675":{
+        "company ID":"NPB",
+        "score":0.4045461714,
+        "Rank":284.0,
+        "Rank Target":0.9559322034,
+        "stockDifferencePercentage":16.8941545531
+    },
+    "19665":{
+        "company ID":"MYFW",
+        "score":0.403835237,
+        "Rank":285.0,
+        "Rank Target":0.3152542373,
+        "stockDifferencePercentage":-2.9914481496
+    },
+    "19507":{
+        "company ID":"BFIN",
+        "score":0.4023605585,
+        "Rank":286.0,
+        "Rank Target":0.7084745763,
+        "stockDifferencePercentage":2.989682261
+    },
+    "19498":{
+        "company ID":"BAFN",
+        "score":0.3940401375,
+        "Rank":287.0,
+        "Rank Target":0.0101694915,
+        "stockDifferencePercentage":-28.5812702573
+    },
+    "19589":{
+        "company ID":"FFWM",
+        "score":0.3939934373,
+        "Rank":288.0,
+        "Rank Target":0.5389830508,
+        "stockDifferencePercentage":0.1785755191
+    },
+    "19717":{
+        "company ID":"RNST",
+        "score":0.3933627903,
+        "Rank":289.0,
+        "Rank Target":0.3288135593,
+        "stockDifferencePercentage":-2.7451209032
+    },
+    "19639":{
+        "company ID":"INBK",
+        "score":0.38064906,
+        "Rank":290.0,
+        "Rank Target":0.0271186441,
+        "stockDifferencePercentage":-16.9285730332
+    },
+    "19695":{
+        "company ID":"PBHC",
+        "score":0.3775526285,
+        "Rank":291.0,
+        "Rank Target":0.6542372881,
+        "stockDifferencePercentage":2.2604024878
+    },
+    "19518":{
+        "company ID":"BPRN",
+        "score":0.3742892742,
+        "Rank":292.0,
+        "Rank Target":0.3186440678,
+        "stockDifferencePercentage":-2.8185039426
+    },
+    "19496":{
+        "company ID":"AVBC",
+        "score":0.3666063547,
+        "Rank":293.0,
+        "Rank Target":0.6745762712,
+        "stockDifferencePercentage":2.5273215637
+    },
+    "19590":{
+        "company ID":"FGBI",
+        "score":0.3541027308,
+        "Rank":294.0,
+        "Rank Target":0.1084745763,
+        "stockDifferencePercentage":-8.2413198968
+    },
+    "19636":{
+        "company ID":"HYNE",
+        "score":0.247882992,
+        "Rank":295.0,
+        "Rank Target":0.0050847458,
+        "stockDifferencePercentage":-100.0
+    }
+}

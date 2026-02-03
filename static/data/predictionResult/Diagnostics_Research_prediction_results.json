@@ -1,0 +1,275 @@
+{
+    "2242":{
+        "company ID":"MEDP",
+        "score":0.7024204135,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":55.7573902848
+    },
+    "2260":{
+        "company ID":"WGS",
+        "score":0.6777942777,
+        "Rank":2.0,
+        "Rank Target":0.7692307692,
+        "stockDifferencePercentage":24.3641518896
+    },
+    "2251":{
+        "company ID":"PRPO",
+        "score":0.6758475304,
+        "Rank":3.0,
+        "Rank Target":0.9230769231,
+        "stockDifferencePercentage":52.7302824676
+    },
+    "2258":{
+        "company ID":"VCYT",
+        "score":0.6464096904,
+        "Rank":4.0,
+        "Rank Target":0.7179487179,
+        "stockDifferencePercentage":22.1737562005
+    },
+    "2253":{
+        "company ID":"RDNT",
+        "score":0.6446226835,
+        "Rank":5.0,
+        "Rank Target":0.8461538462,
+        "stockDifferencePercentage":32.9181422316
+    },
+    "2261":{
+        "company ID":"XGN",
+        "score":0.6439396143,
+        "Rank":6.0,
+        "Rank Target":0.9487179487,
+        "stockDifferencePercentage":52.7659598082
+    },
+    "2241":{
+        "company ID":"LH",
+        "score":0.6311452985,
+        "Rank":7.0,
+        "Rank Target":0.5128205128,
+        "stockDifferencePercentage":8.2442175795
+    },
+    "2229":{
+        "company ID":"DGX",
+        "score":0.6245674491,
+        "Rank":8.0,
+        "Rank Target":0.4358974359,
+        "stockDifferencePercentage":7.2223523221
+    },
+    "2231":{
+        "company ID":"EXAS",
+        "score":0.6153835058,
+        "Rank":9.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":0.0374821167
+    },
+    "2236":{
+        "company ID":"IDXX",
+        "score":0.6135392785,
+        "Rank":10.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":15.2739412993
+    },
+    "2243":{
+        "company ID":"MTD",
+        "score":0.6099390984,
+        "Rank":11.0,
+        "Rank Target":0.3076923077,
+        "stockDifferencePercentage":-1.4655747632
+    },
+    "2255":{
+        "company ID":"SHC",
+        "score":0.6075901985,
+        "Rank":12.0,
+        "Rank Target":0.8717948718,
+        "stockDifferencePercentage":34.0996181644
+    },
+    "2234":{
+        "company ID":"GH",
+        "score":0.5906871557,
+        "Rank":13.0,
+        "Rank Target":0.7435897436,
+        "stockDifferencePercentage":22.7524785713
+    },
+    "2259":{
+        "company ID":"WAT",
+        "score":0.5805606842,
+        "Rank":14.0,
+        "Rank Target":0.1282051282,
+        "stockDifferencePercentage":-17.3576632782
+    },
+    "2230":{
+        "company ID":"DHR",
+        "score":0.5642068982,
+        "Rank":15.0,
+        "Rank Target":0.2307692308,
+        "stockDifferencePercentage":-8.2732846134
+    },
+    "2256":{
+        "company ID":"TMO",
+        "score":0.5627851486,
+        "Rank":16.0,
+        "Rank Target":0.4615384615,
+        "stockDifferencePercentage":7.715463308
+    },
+    "2247":{
+        "company ID":"NOTV",
+        "score":0.5523465276,
+        "Rank":17.0,
+        "Rank Target":0.0512820513,
+        "stockDifferencePercentage":-32.535883996
+    },
+    "2237":{
+        "company ID":"ILMN",
+        "score":0.5489612222,
+        "Rank":18.0,
+        "Rank Target":0.2051282051,
+        "stockDifferencePercentage":-8.8591270187
+    },
+    "2239":{
+        "company ID":"IQV",
+        "score":0.5374001265,
+        "Rank":19.0,
+        "Rank Target":0.5641025641,
+        "stockDifferencePercentage":10.0340935072
+    },
+    "2246":{
+        "company ID":"NEO",
+        "score":0.5348852277,
+        "Rank":20.0,
+        "Rank Target":0.3846153846,
+        "stockDifferencePercentage":2.9139044324
+    },
+    "2257":{
+        "company ID":"TWST",
+        "score":0.5271134377,
+        "Rank":21.0,
+        "Rank Target":0.0769230769,
+        "stockDifferencePercentage":-29.2638163604
+    },
+    "2244":{
+        "company ID":"MYGN",
+        "score":0.5219407082,
+        "Rank":22.0,
+        "Rank Target":0.8205128205,
+        "stockDifferencePercentage":29.2857124007
+    },
+    "2227":{
+        "company ID":"CRL",
+        "score":0.517049551,
+        "Rank":23.0,
+        "Rank Target":0.2564102564,
+        "stockDifferencePercentage":-6.4472950222
+    },
+    "2254":{
+        "company ID":"RVTY",
+        "score":0.5163140893,
+        "Rank":24.0,
+        "Rank Target":0.1538461538,
+        "stockDifferencePercentage":-16.8278453978
+    },
+    "2235":{
+        "company ID":"GRAL",
+        "score":0.5083674788,
+        "Rank":25.0,
+        "Rank Target":0.7948717949,
+        "stockDifferencePercentage":25.791949748
+    },
+    "2228":{
+        "company ID":"CSTL",
+        "score":0.4991917014,
+        "Rank":26.0,
+        "Rank Target":0.5897435897,
+        "stockDifferencePercentage":10.1477903976
+    },
+    "2238":{
+        "company ID":"IMDX",
+        "score":0.4985414445,
+        "Rank":27.0,
+        "Rank Target":0.641025641,
+        "stockDifferencePercentage":13.3333377972
+    },
+    "2262":{
+        "company ID":"XWEL",
+        "score":0.4930526316,
+        "Rank":28.0,
+        "Rank Target":0.5384615385,
+        "stockDifferencePercentage":9.3749974808
+    },
+    "2232":{
+        "company ID":"FLGT",
+        "score":0.4873297513,
+        "Rank":29.0,
+        "Rank Target":0.6153846154,
+        "stockDifferencePercentage":11.1664996552
+    },
+    "2226":{
+        "company ID":"CDNA",
+        "score":0.4842337966,
+        "Rank":30.0,
+        "Rank Target":0.1025641026,
+        "stockDifferencePercentage":-22.7650736305
+    },
+    "2249":{
+        "company ID":"OPK",
+        "score":0.4790581763,
+        "Rank":31.0,
+        "Rank Target":0.4871794872,
+        "stockDifferencePercentage":8.0882362605
+    },
+    "2233":{
+        "company ID":"FONR",
+        "score":0.4646737874,
+        "Rank":32.0,
+        "Rank Target":0.2820512821,
+        "stockDifferencePercentage":-2.8846202051
+    },
+    "2250":{
+        "company ID":"PRPH",
+        "score":0.462210834,
+        "Rank":33.0,
+        "Rank Target":0.4102564103,
+        "stockDifferencePercentage":4.76191179
+    },
+    "2245":{
+        "company ID":"NDRA",
+        "score":0.4560708702,
+        "Rank":34.0,
+        "Rank Target":0.9743589744,
+        "stockDifferencePercentage":55.3672333106
+    },
+    "2248":{
+        "company ID":"NTRA",
+        "score":0.4495252669,
+        "Rank":35.0,
+        "Rank Target":0.358974359,
+        "stockDifferencePercentage":0.8222068968
+    },
+    "2224":{
+        "company ID":"BDSX",
+        "score":0.4449875057,
+        "Rank":36.0,
+        "Rank Target":0.8974358974,
+        "stockDifferencePercentage":42.279406061
+    },
+    "2240":{
+        "company ID":"ISPC",
+        "score":0.3726573884,
+        "Rank":37.0,
+        "Rank Target":0.6923076923,
+        "stockDifferencePercentage":20.2020248263
+    },
+    "2252":{
+        "company ID":"PSNL",
+        "score":0.3545057774,
+        "Rank":38.0,
+        "Rank Target":0.1794871795,
+        "stockDifferencePercentage":-14.7650997699
+    },
+    "2225":{
+        "company ID":"BIAF",
+        "score":0.1925619543,
+        "Rank":39.0,
+        "Rank Target":0.0256410256,
+        "stockDifferencePercentage":-60.1715678826
+    }
+}

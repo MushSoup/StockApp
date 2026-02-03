@@ -1,0 +1,65 @@
+{
+    "615":{
+        "company ID":"MP",
+        "score":0.6497074962,
+        "Rank":1.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":114.1331657614
+    },
+    "619":{
+        "company ID":"UAMY",
+        "score":0.6407018304,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":187.8378281161
+    },
+    "616":{
+        "company ID":"MTRN",
+        "score":0.5879099369,
+        "Rank":3.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":38.6629527359
+    },
+    "618":{
+        "company ID":"OMEX",
+        "score":0.5552369952,
+        "Rank":4.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":59.999990065
+    },
+    "614":{
+        "company ID":"CMP",
+        "score":0.5548583269,
+        "Rank":5.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-13.1235958485
+    },
+    "620":{
+        "company ID":"USAR",
+        "score":0.5426098108,
+        "Rank":6.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":76.6364589769
+    },
+    "621":{
+        "company ID":"WWR",
+        "score":0.5279049873,
+        "Rank":7.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":63.3333300378
+    },
+    "617":{
+        "company ID":"NB",
+        "score":0.4656410217,
+        "Rank":8.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":175.1037293926
+    },
+    "622":{
+        "company ID":"XPL",
+        "score":0.4320702851,
+        "Rank":9.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":7.8125020339
+    }
+}

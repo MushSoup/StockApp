@@ -1,0 +1,1458 @@
+{
+    "738":{
+        "index":1648684800000,
+        "company ID":"PRLB",
+        "Rank Target":0.7857142857,
+        "prediction":0.700709939,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "739":{
+        "index":1648684800000,
+        "company ID":"RYI",
+        "Rank Target":0.1428571429,
+        "prediction":0.6915943623,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "735":{
+        "index":1648684800000,
+        "company ID":"IIIN",
+        "Rank Target":0.9285714286,
+        "prediction":0.6356058121,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "737":{
+        "index":1648684800000,
+        "company ID":"MLI",
+        "Rank Target":1.0,
+        "prediction":0.6315714121,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "740":{
+        "index":1648684800000,
+        "company ID":"SGBX",
+        "Rank Target":0.3571428571,
+        "prediction":0.6310724616,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "732":{
+        "index":1648684800000,
+        "company ID":"CRS",
+        "Rank Target":0.2142857143,
+        "prediction":0.6053515077,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "733":{
+        "index":1648684800000,
+        "company ID":"ESAB",
+        "Rank Target":0.7142857143,
+        "prediction":0.5726308227,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "736":{
+        "index":1648684800000,
+        "company ID":"MEC",
+        "Rank Target":0.5,
+        "prediction":0.5540556312,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "730":{
+        "index":1648684800000,
+        "company ID":"ATI",
+        "Rank Target":0.4285714286,
+        "prediction":0.5320656896,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "741":{
+        "index":1648684800000,
+        "company ID":"TG",
+        "Rank Target":0.5714285714,
+        "prediction":0.4961046875,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "742":{
+        "index":1648684800000,
+        "company ID":"TPCS",
+        "Rank Target":0.8571428571,
+        "prediction":0.4951150715,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "734":{
+        "index":1648684800000,
+        "company ID":"GIFI",
+        "Rank Target":0.6428571429,
+        "prediction":0.4667173028,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "731":{
+        "index":1648684800000,
+        "company ID":"CMPO",
+        "Rank Target":0.2857142857,
+        "prediction":0.4497011006,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "729":{
+        "index":1648684800000,
+        "company ID":"AP",
+        "Rank Target":0.0714285714,
+        "prediction":0.4288063943,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "746":{
+        "index":1656547200000,
+        "company ID":"CRS",
+        "Rank Target":0.8571428571,
+        "prediction":0.7758808136,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "750":{
+        "index":1656547200000,
+        "company ID":"MEC",
+        "Rank Target":0.2857142857,
+        "prediction":0.6604049206,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "753":{
+        "index":1656547200000,
+        "company ID":"RYI",
+        "Rank Target":1.0,
+        "prediction":0.652799964,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "751":{
+        "index":1656547200000,
+        "company ID":"MLI",
+        "Rank Target":0.7142857143,
+        "prediction":0.6464582086,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "752":{
+        "index":1656547200000,
+        "company ID":"PRLB",
+        "Rank Target":0.0714285714,
+        "prediction":0.6428306699,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "748":{
+        "index":1656547200000,
+        "company ID":"GIFI",
+        "Rank Target":0.7857142857,
+        "prediction":0.6138249636,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "747":{
+        "index":1656547200000,
+        "company ID":"ESAB",
+        "Rank Target":0.2142857143,
+        "prediction":0.6074482799,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "744":{
+        "index":1656547200000,
+        "company ID":"ATI",
+        "Rank Target":0.9285714286,
+        "prediction":0.5868920088,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "755":{
+        "index":1656547200000,
+        "company ID":"TG",
+        "Rank Target":0.5,
+        "prediction":0.5018934011,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "743":{
+        "index":1656547200000,
+        "company ID":"AP",
+        "Rank Target":0.4285714286,
+        "prediction":0.4897469282,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "749":{
+        "index":1656547200000,
+        "company ID":"IIIN",
+        "Rank Target":0.1428571429,
+        "prediction":0.4843867123,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "745":{
+        "index":1656547200000,
+        "company ID":"CMPO",
+        "Rank Target":0.3571428571,
+        "prediction":0.4657574594,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "756":{
+        "index":1656547200000,
+        "company ID":"TPCS",
+        "Rank Target":0.5714285714,
+        "prediction":0.4285041094,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "754":{
+        "index":1656547200000,
+        "company ID":"SGBX",
+        "Rank Target":0.6428571429,
+        "prediction":0.4214457572,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "758":{
+        "index":1664496000000,
+        "company ID":"ATI",
+        "Rank Target":0.5,
+        "prediction":0.7462139726,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "761":{
+        "index":1664496000000,
+        "company ID":"ESAB",
+        "Rank Target":0.9285714286,
+        "prediction":0.7010394335,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "770":{
+        "index":1664496000000,
+        "company ID":"TPCS",
+        "Rank Target":0.8571428571,
+        "prediction":0.6538360119,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "762":{
+        "index":1664496000000,
+        "company ID":"GIFI",
+        "Rank Target":0.7857142857,
+        "prediction":0.6113163829,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "765":{
+        "index":1664496000000,
+        "company ID":"MLI",
+        "Rank Target":0.2857142857,
+        "prediction":0.6036330462,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "766":{
+        "index":1664496000000,
+        "company ID":"PRLB",
+        "Rank Target":0.1428571429,
+        "prediction":0.5863451362,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "767":{
+        "index":1664496000000,
+        "company ID":"RYI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5749854445,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "764":{
+        "index":1664496000000,
+        "company ID":"MEC",
+        "Rank Target":1.0,
+        "prediction":0.5625118613,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "763":{
+        "index":1664496000000,
+        "company ID":"IIIN",
+        "Rank Target":0.5714285714,
+        "prediction":0.5067510009,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "757":{
+        "index":1664496000000,
+        "company ID":"AP",
+        "Rank Target":0.0714285714,
+        "prediction":0.5057023764,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "760":{
+        "index":1664496000000,
+        "company ID":"CRS",
+        "Rank Target":0.7142857143,
+        "prediction":0.4919926524,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "769":{
+        "index":1664496000000,
+        "company ID":"TG",
+        "Rank Target":0.4285714286,
+        "prediction":0.4496920407,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "759":{
+        "index":1664496000000,
+        "company ID":"CMPO",
+        "Rank Target":0.3571428571,
+        "prediction":0.4100587964,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "768":{
+        "index":1664496000000,
+        "company ID":"SGBX",
+        "Rank Target":0.2142857143,
+        "prediction":0.3411887884,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "772":{
+        "index":1672444800000,
+        "company ID":"ATI",
+        "Rank Target":0.9285714286,
+        "prediction":0.7730410099,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "775":{
+        "index":1672444800000,
+        "company ID":"ESAB",
+        "Rank Target":0.6428571429,
+        "prediction":0.7449372411,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "779":{
+        "index":1672444800000,
+        "company ID":"MLI",
+        "Rank Target":0.7857142857,
+        "prediction":0.6646615863,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "771":{
+        "index":1672444800000,
+        "company ID":"AP",
+        "Rank Target":0.3571428571,
+        "prediction":0.6156218052,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "776":{
+        "index":1672444800000,
+        "company ID":"GIFI",
+        "Rank Target":0.0714285714,
+        "prediction":0.599064827,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "784":{
+        "index":1672444800000,
+        "company ID":"TPCS",
+        "Rank Target":0.2857142857,
+        "prediction":0.5776135921,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "777":{
+        "index":1672444800000,
+        "company ID":"IIIN",
+        "Rank Target":0.4285714286,
+        "prediction":0.56536901,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "774":{
+        "index":1672444800000,
+        "company ID":"CRS",
+        "Rank Target":0.7142857143,
+        "prediction":0.5628581047,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "781":{
+        "index":1672444800000,
+        "company ID":"RYI",
+        "Rank Target":0.5714285714,
+        "prediction":0.5527582169,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "780":{
+        "index":1672444800000,
+        "company ID":"PRLB",
+        "Rank Target":0.8571428571,
+        "prediction":0.4960534871,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "783":{
+        "index":1672444800000,
+        "company ID":"TG",
+        "Rank Target":0.2142857143,
+        "prediction":0.475693047,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "778":{
+        "index":1672444800000,
+        "company ID":"MEC",
+        "Rank Target":0.5,
+        "prediction":0.465246141,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "773":{
+        "index":1672444800000,
+        "company ID":"CMPO",
+        "Rank Target":1.0,
+        "prediction":0.4278462827,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "782":{
+        "index":1672444800000,
+        "company ID":"SGBX",
+        "Rank Target":0.1428571429,
+        "prediction":0.288694948,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "789":{
+        "index":1680220800000,
+        "company ID":"ESAB",
+        "Rank Target":0.7142857143,
+        "prediction":0.6984946132,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "788":{
+        "index":1680220800000,
+        "company ID":"CRS",
+        "Rank Target":1.0,
+        "prediction":0.655659318,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "793":{
+        "index":1680220800000,
+        "company ID":"MLI",
+        "Rank Target":0.8571428571,
+        "prediction":0.6498191357,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "795":{
+        "index":1680220800000,
+        "company ID":"RYI",
+        "Rank Target":0.9285714286,
+        "prediction":0.6379666328,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "794":{
+        "index":1680220800000,
+        "company ID":"PRLB",
+        "Rank Target":0.5714285714,
+        "prediction":0.5877315998,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "786":{
+        "index":1680220800000,
+        "company ID":"ATI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5814686418,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "791":{
+        "index":1680220800000,
+        "company ID":"IIIN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5714300275,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "798":{
+        "index":1680220800000,
+        "company ID":"TPCS",
+        "Rank Target":0.5,
+        "prediction":0.5241076946,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "790":{
+        "index":1680220800000,
+        "company ID":"GIFI",
+        "Rank Target":0.1428571429,
+        "prediction":0.5188164711,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "792":{
+        "index":1680220800000,
+        "company ID":"MEC",
+        "Rank Target":0.2142857143,
+        "prediction":0.5078977346,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "797":{
+        "index":1680220800000,
+        "company ID":"TG",
+        "Rank Target":0.0714285714,
+        "prediction":0.4742557704,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "785":{
+        "index":1680220800000,
+        "company ID":"AP",
+        "Rank Target":0.4285714286,
+        "prediction":0.4738831222,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "787":{
+        "index":1680220800000,
+        "company ID":"CMPO",
+        "Rank Target":0.3571428571,
+        "prediction":0.4631190598,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "796":{
+        "index":1680220800000,
+        "company ID":"SGBX",
+        "Rank Target":0.2857142857,
+        "prediction":0.3099291921,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "802":{
+        "index":1688083200000,
+        "company ID":"CRS",
+        "Rank Target":0.9285714286,
+        "prediction":0.7141667008,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "800":{
+        "index":1688083200000,
+        "company ID":"ATI",
+        "Rank Target":0.5,
+        "prediction":0.6811240315,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "805":{
+        "index":1688083200000,
+        "company ID":"IIIN",
+        "Rank Target":0.7857142857,
+        "prediction":0.6711248755,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "803":{
+        "index":1688083200000,
+        "company ID":"ESAB",
+        "Rank Target":0.8571428571,
+        "prediction":0.6558718085,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "807":{
+        "index":1688083200000,
+        "company ID":"MLI",
+        "Rank Target":0.4285714286,
+        "prediction":0.583907485,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "809":{
+        "index":1688083200000,
+        "company ID":"RYI",
+        "Rank Target":0.0714285714,
+        "prediction":0.57007581,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "808":{
+        "index":1688083200000,
+        "company ID":"PRLB",
+        "Rank Target":0.1428571429,
+        "prediction":0.5627276897,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "811":{
+        "index":1688083200000,
+        "company ID":"TG",
+        "Rank Target":0.2142857143,
+        "prediction":0.5322160125,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "799":{
+        "index":1688083200000,
+        "company ID":"AP",
+        "Rank Target":0.2857142857,
+        "prediction":0.4886716306,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "806":{
+        "index":1688083200000,
+        "company ID":"MEC",
+        "Rank Target":0.3571428571,
+        "prediction":0.4732313156,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "801":{
+        "index":1688083200000,
+        "company ID":"CMPO",
+        "Rank Target":0.5714285714,
+        "prediction":0.4711183012,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "804":{
+        "index":1688083200000,
+        "company ID":"GIFI",
+        "Rank Target":0.6428571429,
+        "prediction":0.469296962,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "812":{
+        "index":1688083200000,
+        "company ID":"TPCS",
+        "Rank Target":0.7142857143,
+        "prediction":0.4360973239,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "810":{
+        "index":1688083200000,
+        "company ID":"SGBX",
+        "Rank Target":1.0,
+        "prediction":0.2524883747,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "817":{
+        "index":1696032000000,
+        "company ID":"ESAB",
+        "Rank Target":0.6428571429,
+        "prediction":0.6676754355,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "816":{
+        "index":1696032000000,
+        "company ID":"CRS",
+        "Rank Target":0.3571428571,
+        "prediction":0.6562492251,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "820":{
+        "index":1696032000000,
+        "company ID":"MEC",
+        "Rank Target":0.8571428571,
+        "prediction":0.634327352,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "822":{
+        "index":1696032000000,
+        "company ID":"PRLB",
+        "Rank Target":1.0,
+        "prediction":0.6060354114,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "821":{
+        "index":1696032000000,
+        "company ID":"MLI",
+        "Rank Target":0.7857142857,
+        "prediction":0.6043509841,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "823":{
+        "index":1696032000000,
+        "company ID":"RYI",
+        "Rank Target":0.5714285714,
+        "prediction":0.5921815634,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "819":{
+        "index":1696032000000,
+        "company ID":"IIIN",
+        "Rank Target":0.7142857143,
+        "prediction":0.5754879713,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "814":{
+        "index":1696032000000,
+        "company ID":"ATI",
+        "Rank Target":0.5,
+        "prediction":0.5423214436,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "825":{
+        "index":1696032000000,
+        "company ID":"TG",
+        "Rank Target":0.2142857143,
+        "prediction":0.5353155136,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "826":{
+        "index":1696032000000,
+        "company ID":"TPCS",
+        "Rank Target":0.0714285714,
+        "prediction":0.4891287088,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "813":{
+        "index":1696032000000,
+        "company ID":"AP",
+        "Rank Target":0.4285714286,
+        "prediction":0.4729152322,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "818":{
+        "index":1696032000000,
+        "company ID":"GIFI",
+        "Rank Target":0.9285714286,
+        "prediction":0.4709615111,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "815":{
+        "index":1696032000000,
+        "company ID":"CMPO",
+        "Rank Target":0.1428571429,
+        "prediction":0.4302050769,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "824":{
+        "index":1696032000000,
+        "company ID":"SGBX",
+        "Rank Target":0.2857142857,
+        "prediction":0.3250694275,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "828":{
+        "index":1703980800000,
+        "company ID":"ATI",
+        "Rank Target":0.7142857143,
+        "prediction":0.6916438341,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "831":{
+        "index":1703980800000,
+        "company ID":"ESAB",
+        "Rank Target":0.8571428571,
+        "prediction":0.6718315482,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "832":{
+        "index":1703980800000,
+        "company ID":"GIFI",
+        "Rank Target":1.0,
+        "prediction":0.6687990427,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "830":{
+        "index":1703980800000,
+        "company ID":"CRS",
+        "Rank Target":0.5,
+        "prediction":0.6068796515,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "835":{
+        "index":1703980800000,
+        "company ID":"MLI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5967994928,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "837":{
+        "index":1703980800000,
+        "company ID":"RYI",
+        "Rank Target":0.3571428571,
+        "prediction":0.5880426168,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "834":{
+        "index":1703980800000,
+        "company ID":"MEC",
+        "Rank Target":0.5714285714,
+        "prediction":0.5851109028,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "836":{
+        "index":1703980800000,
+        "company ID":"PRLB",
+        "Rank Target":0.2857142857,
+        "prediction":0.5714957118,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "829":{
+        "index":1703980800000,
+        "company ID":"CMPO",
+        "Rank Target":0.9285714286,
+        "prediction":0.5316764116,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "833":{
+        "index":1703980800000,
+        "company ID":"IIIN",
+        "Rank Target":0.4285714286,
+        "prediction":0.5243775845,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "827":{
+        "index":1703980800000,
+        "company ID":"AP",
+        "Rank Target":0.2142857143,
+        "prediction":0.4933750629,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "840":{
+        "index":1703980800000,
+        "company ID":"TPCS",
+        "Rank Target":0.1428571429,
+        "prediction":0.4006668627,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "839":{
+        "index":1703980800000,
+        "company ID":"TG",
+        "Rank Target":0.7857142857,
+        "prediction":0.3579075336,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "838":{
+        "index":1703980800000,
+        "company ID":"SGBX",
+        "Rank Target":0.0714285714,
+        "prediction":0.2201170921,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "849":{
+        "index":1711843200000,
+        "company ID":"MLI",
+        "Rank Target":0.7857142857,
+        "prediction":0.7334459424,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "845":{
+        "index":1711843200000,
+        "company ID":"ESAB",
+        "Rank Target":0.4285714286,
+        "prediction":0.6998993754,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "847":{
+        "index":1711843200000,
+        "company ID":"IIIN",
+        "Rank Target":0.5,
+        "prediction":0.6941310167,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "844":{
+        "index":1711843200000,
+        "company ID":"CRS",
+        "Rank Target":1.0,
+        "prediction":0.6873494387,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "848":{
+        "index":1711843200000,
+        "company ID":"MEC",
+        "Rank Target":0.9285714286,
+        "prediction":0.6277035475,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "846":{
+        "index":1711843200000,
+        "company ID":"GIFI",
+        "Rank Target":0.2857142857,
+        "prediction":0.6165277362,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "841":{
+        "index":1711843200000,
+        "company ID":"AP",
+        "Rank Target":0.0714285714,
+        "prediction":0.6102806926,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "850":{
+        "index":1711843200000,
+        "company ID":"PRLB",
+        "Rank Target":0.5714285714,
+        "prediction":0.5701884031,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "842":{
+        "index":1711843200000,
+        "company ID":"ATI",
+        "Rank Target":0.8571428571,
+        "prediction":0.5235279799,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "843":{
+        "index":1711843200000,
+        "company ID":"CMPO",
+        "Rank Target":0.7142857143,
+        "prediction":0.4837988615,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "851":{
+        "index":1711843200000,
+        "company ID":"RYI",
+        "Rank Target":0.1428571429,
+        "prediction":0.4321185946,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "853":{
+        "index":1711843200000,
+        "company ID":"TG",
+        "Rank Target":0.2142857143,
+        "prediction":0.4052918851,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "854":{
+        "index":1711843200000,
+        "company ID":"TPCS",
+        "Rank Target":0.6428571429,
+        "prediction":0.3612454236,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "852":{
+        "index":1711843200000,
+        "company ID":"SGBX",
+        "Rank Target":0.3571428571,
+        "prediction":0.2794161141,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "858":{
+        "index":1719705600000,
+        "company ID":"CRS",
+        "Rank Target":0.7857142857,
+        "prediction":0.7817552686,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "856":{
+        "index":1719705600000,
+        "company ID":"ATI",
+        "Rank Target":0.5714285714,
+        "prediction":0.6993799806,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "863":{
+        "index":1719705600000,
+        "company ID":"MLI",
+        "Rank Target":0.6428571429,
+        "prediction":0.6953857541,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "862":{
+        "index":1719705600000,
+        "company ID":"MEC",
+        "Rank Target":0.7142857143,
+        "prediction":0.6837906837,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "859":{
+        "index":1719705600000,
+        "company ID":"ESAB",
+        "Rank Target":0.5,
+        "prediction":0.6829669476,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "861":{
+        "index":1719705600000,
+        "company ID":"IIIN",
+        "Rank Target":0.4285714286,
+        "prediction":0.6241683364,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "864":{
+        "index":1719705600000,
+        "company ID":"PRLB",
+        "Rank Target":0.2857142857,
+        "prediction":0.5971913338,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "867":{
+        "index":1719705600000,
+        "company ID":"TG",
+        "Rank Target":0.8571428571,
+        "prediction":0.5686058998,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "855":{
+        "index":1719705600000,
+        "company ID":"AP",
+        "Rank Target":1.0,
+        "prediction":0.5467203259,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "860":{
+        "index":1719705600000,
+        "company ID":"GIFI",
+        "Rank Target":0.1428571429,
+        "prediction":0.5283817053,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "865":{
+        "index":1719705600000,
+        "company ID":"RYI",
+        "Rank Target":0.3571428571,
+        "prediction":0.5132078528,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "857":{
+        "index":1719705600000,
+        "company ID":"CMPO",
+        "Rank Target":0.9285714286,
+        "prediction":0.4837055206,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "868":{
+        "index":1719705600000,
+        "company ID":"TPCS",
+        "Rank Target":0.2142857143,
+        "prediction":0.3777074814,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "866":{
+        "index":1719705600000,
+        "company ID":"SGBX",
+        "Rank Target":0.0714285714,
+        "prediction":0.2211091816,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "872":{
+        "index":1727654400000,
+        "company ID":"CRS",
+        "Rank Target":0.5,
+        "prediction":0.7304799557,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "874":{
+        "index":1727654400000,
+        "company ID":"GIFI",
+        "Rank Target":0.8571428571,
+        "prediction":0.7294791341,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "873":{
+        "index":1727654400000,
+        "company ID":"ESAB",
+        "Rank Target":0.7142857143,
+        "prediction":0.68487221,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "877":{
+        "index":1727654400000,
+        "company ID":"MLI",
+        "Rank Target":0.5714285714,
+        "prediction":0.6501732469,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "876":{
+        "index":1727654400000,
+        "company ID":"MEC",
+        "Rank Target":0.1428571429,
+        "prediction":0.6321338415,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "878":{
+        "index":1727654400000,
+        "company ID":"PRLB",
+        "Rank Target":1.0,
+        "prediction":0.6149294972,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "870":{
+        "index":1727654400000,
+        "company ID":"ATI",
+        "Rank Target":0.2142857143,
+        "prediction":0.5981125832,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "875":{
+        "index":1727654400000,
+        "company ID":"IIIN",
+        "Rank Target":0.3571428571,
+        "prediction":0.5813754201,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "869":{
+        "index":1727654400000,
+        "company ID":"AP",
+        "Rank Target":0.9285714286,
+        "prediction":0.5775446296,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "879":{
+        "index":1727654400000,
+        "company ID":"RYI",
+        "Rank Target":0.2857142857,
+        "prediction":0.5606815219,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "871":{
+        "index":1727654400000,
+        "company ID":"CMPO",
+        "Rank Target":0.6428571429,
+        "prediction":0.5000320673,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "882":{
+        "index":1727654400000,
+        "company ID":"TPCS",
+        "Rank Target":0.7857142857,
+        "prediction":0.4240925014,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "881":{
+        "index":1727654400000,
+        "company ID":"TG",
+        "Rank Target":0.4285714286,
+        "prediction":0.4085918367,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "880":{
+        "index":1727654400000,
+        "company ID":"SGBX",
+        "Rank Target":0.0714285714,
+        "prediction":0.2519699037,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "886":{
+        "index":1735603200000,
+        "company ID":"CRS",
+        "Rank Target":0.8571428571,
+        "prediction":0.7496960759,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "884":{
+        "index":1735603200000,
+        "company ID":"ATI",
+        "Rank Target":0.4285714286,
+        "prediction":0.7080581188,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "890":{
+        "index":1735603200000,
+        "company ID":"MEC",
+        "Rank Target":0.2857142857,
+        "prediction":0.6972078681,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "887":{
+        "index":1735603200000,
+        "company ID":"ESAB",
+        "Rank Target":0.7857142857,
+        "prediction":0.6601648927,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "888":{
+        "index":1735603200000,
+        "company ID":"GIFI",
+        "Rank Target":0.5,
+        "prediction":0.6493259668,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "891":{
+        "index":1735603200000,
+        "company ID":"MLI",
+        "Rank Target":0.6428571429,
+        "prediction":0.6179127693,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "893":{
+        "index":1735603200000,
+        "company ID":"RYI",
+        "Rank Target":1.0,
+        "prediction":0.6073979139,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "889":{
+        "index":1735603200000,
+        "company ID":"IIIN",
+        "Rank Target":0.9285714286,
+        "prediction":0.6000984311,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "883":{
+        "index":1735603200000,
+        "company ID":"AP",
+        "Rank Target":0.5714285714,
+        "prediction":0.5985659957,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "895":{
+        "index":1735603200000,
+        "company ID":"TG",
+        "Rank Target":0.7142857143,
+        "prediction":0.5648258924,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "892":{
+        "index":1735603200000,
+        "company ID":"PRLB",
+        "Rank Target":0.3571428571,
+        "prediction":0.5381706953,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "885":{
+        "index":1735603200000,
+        "company ID":"CMPO",
+        "Rank Target":0.2142857143,
+        "prediction":0.5042691231,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "896":{
+        "index":1735603200000,
+        "company ID":"TPCS",
+        "Rank Target":0.0714285714,
+        "prediction":0.4602301717,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "894":{
+        "index":1735603200000,
+        "company ID":"SGBX",
+        "Rank Target":0.1428571429,
+        "prediction":0.1926067024,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "900":{
+        "index":1743379200000,
+        "company ID":"CRS",
+        "Rank Target":0.9285714286,
+        "prediction":0.8112289906,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "901":{
+        "index":1743379200000,
+        "company ID":"ESAB",
+        "Rank Target":0.2142857143,
+        "prediction":0.7098360658,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "905":{
+        "index":1743379200000,
+        "company ID":"MLI",
+        "Rank Target":0.2857142857,
+        "prediction":0.6891173124,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "902":{
+        "index":1743379200000,
+        "company ID":"GIFI",
+        "Rank Target":0.0714285714,
+        "prediction":0.6674114466,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "903":{
+        "index":1743379200000,
+        "company ID":"IIIN",
+        "Rank Target":0.7857142857,
+        "prediction":0.6366283298,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "904":{
+        "index":1743379200000,
+        "company ID":"MEC",
+        "Rank Target":0.5,
+        "prediction":0.6157470942,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "906":{
+        "index":1743379200000,
+        "company ID":"PRLB",
+        "Rank Target":0.4285714286,
+        "prediction":0.6119565368,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "897":{
+        "index":1743379200000,
+        "company ID":"AP",
+        "Rank Target":0.6428571429,
+        "prediction":0.5645022392,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "898":{
+        "index":1743379200000,
+        "company ID":"ATI",
+        "Rank Target":1.0,
+        "prediction":0.5618577003,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "909":{
+        "index":1743379200000,
+        "company ID":"TG",
+        "Rank Target":0.3571428571,
+        "prediction":0.5117154121,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "899":{
+        "index":1743379200000,
+        "company ID":"CMPO",
+        "Rank Target":0.5714285714,
+        "prediction":0.4123024642,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "910":{
+        "index":1743379200000,
+        "company ID":"TPCS",
+        "Rank Target":0.7142857143,
+        "prediction":0.3924769163,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "907":{
+        "index":1743379200000,
+        "company ID":"RYI",
+        "Rank Target":0.1428571429,
+        "prediction":0.3828756809,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "908":{
+        "index":1743379200000,
+        "company ID":"SGBX",
+        "Rank Target":0.8571428571,
+        "prediction":0.2932105362,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    }
+}

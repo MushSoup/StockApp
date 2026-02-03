@@ -1,0 +1,121 @@
+{
+    "840":{
+        "company ID":"ETSY",
+        "score":0.658844173,
+        "Rank":1.0,
+        "Rank Target":0.8235294118,
+        "stockDifferencePercentage":36.7298101863
+    },
+    "845":{
+        "company ID":"QVCGA",
+        "score":0.6316845417,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":358.1699581658
+    },
+    "839":{
+        "company ID":"EBAY",
+        "score":0.6266444325,
+        "Rank":3.0,
+        "Rank Target":0.6470588235,
+        "stockDifferencePercentage":19.7692386223
+    },
+    "837":{
+        "company ID":"DASH",
+        "score":0.6245433092,
+        "Rank":4.0,
+        "Rank Target":0.5294117647,
+        "stockDifferencePercentage":14.1170097834
+    },
+    "849":{
+        "company ID":"W",
+        "score":0.6213701367,
+        "Rank":5.0,
+        "Rank Target":0.8823529412,
+        "stockDifferencePercentage":57.052299707
+    },
+    "836":{
+        "company ID":"CPNG",
+        "score":0.6091381311,
+        "Rank":6.0,
+        "Rank Target":0.4117647059,
+        "stockDifferencePercentage":8.3856085798
+    },
+    "834":{
+        "company ID":"BBBY",
+        "score":0.5754887462,
+        "Rank":7.0,
+        "Rank Target":0.7647058824,
+        "stockDifferencePercentage":22.5763517269
+    },
+    "848":{
+        "company ID":"TDUP",
+        "score":0.5744698644,
+        "Rank":8.0,
+        "Rank Target":0.5882352941,
+        "stockDifferencePercentage":19.3750023838
+    },
+    "844":{
+        "company ID":"MELI",
+        "score":0.5736601353,
+        "Rank":9.0,
+        "Rank Target":0.2941176471,
+        "stockDifferencePercentage":-0.5067516552
+    },
+    "841":{
+        "company ID":"HOUR",
+        "score":0.565446794,
+        "Rank":10.0,
+        "Rank Target":0.9411764706,
+        "stockDifferencePercentage":107.0512908675
+    },
+    "833":{
+        "company ID":"AMZN",
+        "score":0.5007176399,
+        "Rank":11.0,
+        "Rank Target":0.2352941176,
+        "stockDifferencePercentage":-0.5550357965
+    },
+    "847":{
+        "company ID":"SBDS",
+        "score":0.4910081029,
+        "Rank":12.0,
+        "Rank Target":0.7058823529,
+        "stockDifferencePercentage":20.2229289574
+    },
+    "843":{
+        "company ID":"LQDT",
+        "score":0.4838562608,
+        "Rank":13.0,
+        "Rank Target":0.4705882353,
+        "stockDifferencePercentage":13.5838191939
+    },
+    "835":{
+        "company ID":"CART",
+        "score":0.4478882253,
+        "Rank":14.0,
+        "Rank Target":0.1176470588,
+        "stockDifferencePercentage":-19.6269649775
+    },
+    "846":{
+        "company ID":"RVLV",
+        "score":0.4416379929,
+        "Rank":15.0,
+        "Rank Target":0.3529411765,
+        "stockDifferencePercentage":3.0559454843
+    },
+    "838":{
+        "company ID":"DIBS",
+        "score":0.3802655339,
+        "Rank":16.0,
+        "Rank Target":0.1764705882,
+        "stockDifferencePercentage":-7.7192911426
+    },
+    "842":{
+        "company ID":"IPW",
+        "score":0.3526017666,
+        "Rank":17.0,
+        "Rank Target":0.0588235294,
+        "stockDifferencePercentage":-20.0934571111
+    }
+}

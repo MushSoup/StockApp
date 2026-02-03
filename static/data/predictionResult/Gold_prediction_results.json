@@ -1,0 +1,86 @@
+{
+    "785":{
+        "company ID":"SSRM",
+        "score":0.6656292081,
+        "Rank":1.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":86.4946840252
+    },
+    "775":{
+        "company ID":"CDE",
+        "score":0.6536089182,
+        "Rank":2.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":105.372804574
+    },
+    "786":{
+        "company ID":"VGZ",
+        "score":0.6416251659,
+        "Rank":3.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":119.00000572
+    },
+    "781":{
+        "company ID":"IDR",
+        "score":0.6294478178,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":161.7917115484
+    },
+    "782":{
+        "company ID":"NEM",
+        "score":0.6136105657,
+        "Rank":5.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":41.6046011848
+    },
+    "779":{
+        "company ID":"HYMC",
+        "score":0.5980728269,
+        "Rank":6.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":101.5923475232
+    },
+    "780":{
+        "company ID":"IAUX",
+        "score":0.5764812231,
+        "Rank":7.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":55.8544254662
+    },
+    "784":{
+        "company ID":"RGLD",
+        "score":0.5591518283,
+        "Rank":8.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":10.3881610314
+    },
+    "777":{
+        "company ID":"DC",
+        "score":0.5133010149,
+        "Rank":9.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":24.3386202344
+    },
+    "783":{
+        "company ID":"PZG",
+        "score":0.5008718371,
+        "Rank":10.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":84.722220843
+    },
+    "778":{
+        "company ID":"GORO",
+        "score":0.4736109376,
+        "Rank":11.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":19.7183168365
+    },
+    "776":{
+        "company ID":"CTGO",
+        "score":0.3509662449,
+        "Rank":12.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":25.5470766171
+    }
+}

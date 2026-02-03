@@ -1,0 +1,170 @@
+{
+    "1494":{
+        "company ID":"SWIM",
+        "score":0.6762134433,
+        "Rank":1.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":6.9701245587
+    },
+    "1497":{
+        "company ID":"WMS",
+        "score":0.6272835135,
+        "Rank":2.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":16.3055478107
+    },
+    "1478":{
+        "company ID":"AWI",
+        "score":0.610552907,
+        "Rank":3.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":15.6739877718
+    },
+    "1485":{
+        "company ID":"JBI",
+        "score":0.6073886752,
+        "Rank":4.0,
+        "Rank Target":0.7916666667,
+        "stockDifferencePercentage":9.6774183287
+    },
+    "1496":{
+        "company ID":"UUU",
+        "score":0.602910459,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":53.1024756602
+    },
+    "1486":{
+        "company ID":"JELD",
+        "score":0.5612351894,
+        "Rank":6.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":11.2612611162
+    },
+    "1476":{
+        "company ID":"ARLO",
+        "score":0.5611174107,
+        "Rank":7.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-2.6136419428
+    },
+    "1487":{
+        "company ID":"LII",
+        "score":0.5498948097,
+        "Rank":8.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-13.8310368688
+    },
+    "1490":{
+        "company ID":"MAS",
+        "score":0.5436800718,
+        "Rank":9.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":5.9874840283
+    },
+    "1477":{
+        "company ID":"ASPN",
+        "score":0.5313922763,
+        "Rank":10.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":9.5975213923
+    },
+    "1479":{
+        "company ID":"BLDR",
+        "score":0.5185505152,
+        "Rank":11.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-5.9817642959
+    },
+    "1484":{
+        "company ID":"INVE",
+        "score":0.5154511929,
+        "Rank":12.0,
+        "Rank Target":0.7083333333,
+        "stockDifferencePercentage":8.6419744006
+    },
+    "1483":{
+        "company ID":"GFF",
+        "score":0.5071653724,
+        "Rank":13.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-2.7926946294
+    },
+    "1482":{
+        "company ID":"FBIN",
+        "score":0.5062858462,
+        "Rank":14.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-0.1456863854
+    },
+    "1481":{
+        "company ID":"CSL",
+        "score":0.5030236244,
+        "Rank":15.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-15.7827087588
+    },
+    "1495":{
+        "company ID":"TREX",
+        "score":0.4988389313,
+        "Rank":16.0,
+        "Rank Target":0.2083333333,
+        "stockDifferencePercentage":-12.809635923
+    },
+    "1493":{
+        "company ID":"SPXC",
+        "score":0.4969882369,
+        "Rank":17.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":6.4786492475
+    },
+    "1488":{
+        "company ID":"LMB",
+        "score":0.4860555232,
+        "Rank":18.0,
+        "Rank Target":0.0416666667,
+        "stockDifferencePercentage":-36.5415534572
+    },
+    "1491":{
+        "company ID":"OC",
+        "score":0.4710786939,
+        "Rank":19.0,
+        "Rank Target":0.4583333333,
+        "stockDifferencePercentage":-2.4105274723
+    },
+    "1480":{
+        "company ID":"CARR",
+        "score":0.4591434002,
+        "Rank":20.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-21.6072303785
+    },
+    "1492":{
+        "company ID":"ROCK",
+        "score":0.458191067,
+        "Rank":21.0,
+        "Rank Target":0.5416666667,
+        "stockDifferencePercentage":1.8937574694
+    },
+    "1474":{
+        "company ID":"AAON",
+        "score":0.4143744409,
+        "Rank":22.0,
+        "Rank Target":0.9583333333,
+        "stockDifferencePercentage":21.7309168923
+    },
+    "1489":{
+        "company ID":"LPX",
+        "score":0.4140794873,
+        "Rank":23.0,
+        "Rank Target":0.2916666667,
+        "stockDifferencePercentage":-6.899480723
+    },
+    "1475":{
+        "company ID":"AIRJ",
+        "score":0.3506492376,
+        "Rank":24.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-12.0437927938
+    }
+}

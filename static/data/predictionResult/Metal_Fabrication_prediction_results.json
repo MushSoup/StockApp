@@ -1,0 +1,100 @@
+{
+    "919":{
+        "company ID":"MLI",
+        "score":0.7361482382,
+        "Rank":1.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":21.6458206576
+    },
+    "914":{
+        "company ID":"CRS",
+        "score":0.6813437343,
+        "Rank":2.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-13.6240474378
+    },
+    "917":{
+        "company ID":"IIIN",
+        "score":0.6627711058,
+        "Rank":3.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-3.3168289195
+    },
+    "912":{
+        "company ID":"ATI",
+        "score":0.6447053552,
+        "Rank":4.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-8.7392014637
+    },
+    "915":{
+        "company ID":"ESAB",
+        "score":0.611392498,
+        "Rank":5.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-12.6265462311
+    },
+    "920":{
+        "company ID":"PRLB",
+        "score":0.6048068404,
+        "Rank":6.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":20.5732368167
+    },
+    "924":{
+        "company ID":"TPCS",
+        "score":0.5992492437,
+        "Rank":7.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":48.1994476471
+    },
+    "916":{
+        "company ID":"GIFI",
+        "score":0.5712718964,
+        "Rank":8.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":4.5588225604
+    },
+    "921":{
+        "company ID":"RYI",
+        "score":0.5079210997,
+        "Rank":9.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":-3.1435906557
+    },
+    "918":{
+        "company ID":"MEC",
+        "score":0.4560096264,
+        "Rank":10.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-18.7499985812
+    },
+    "913":{
+        "company ID":"CMPO",
+        "score":0.4186871946,
+        "Rank":11.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":40.4040393661
+    },
+    "911":{
+        "company ID":"AP",
+        "score":0.393435806,
+        "Rank":12.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-18.2758687022
+    },
+    "923":{
+        "company ID":"TG",
+        "score":0.3833877444,
+        "Rank":13.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-14.301079282
+    },
+    "922":{
+        "company ID":"SGBX",
+        "score":0.3000077307,
+        "Rank":14.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-83.4643405161
+    }
+}

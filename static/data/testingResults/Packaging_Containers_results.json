@@ -1,0 +1,1810 @@
+{
+    "949":{
+        "index":1648684800000,
+        "company ID":"OI",
+        "Rank Target":1.0,
+        "prediction":0.6612939835,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "951":{
+        "index":1648684800000,
+        "company ID":"PKG",
+        "Rank Target":0.5294117647,
+        "prediction":0.6319186091,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "955":{
+        "index":1648684800000,
+        "company ID":"SON",
+        "Rank Target":0.6470588235,
+        "prediction":0.595941484,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "956":{
+        "index":1648684800000,
+        "company ID":"TRS",
+        "Rank Target":0.3529411765,
+        "prediction":0.5844262242,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "941":{
+        "index":1648684800000,
+        "company ID":"AVY",
+        "Rank Target":0.8235294118,
+        "prediction":0.5798793435,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "948":{
+        "index":1648684800000,
+        "company ID":"MYE",
+        "Rank Target":0.9411764706,
+        "prediction":0.571113646,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "945":{
+        "index":1648684800000,
+        "company ID":"GPK",
+        "Rank Target":0.8823529412,
+        "prediction":0.5689149499,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "946":{
+        "index":1648684800000,
+        "company ID":"IP",
+        "Rank Target":0.7647058824,
+        "prediction":0.5605126023,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "953":{
+        "index":1648684800000,
+        "company ID":"SEE",
+        "Rank Target":0.4117647059,
+        "prediction":0.5305898786,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "943":{
+        "index":1648684800000,
+        "company ID":"CCK",
+        "Rank Target":0.2352941176,
+        "prediction":0.526838243,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "957":{
+        "index":1648684800000,
+        "company ID":"YHGJ",
+        "Rank Target":0.1764705882,
+        "prediction":0.5260437131,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "947":{
+        "index":1648684800000,
+        "company ID":"KRT",
+        "Rank Target":0.4705882353,
+        "prediction":0.5205669403,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "942":{
+        "index":1648684800000,
+        "company ID":"BALL",
+        "Rank Target":0.2941176471,
+        "prediction":0.5202537179,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "954":{
+        "index":1648684800000,
+        "company ID":"SLGN",
+        "Rank Target":0.7058823529,
+        "prediction":0.4885788262,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "944":{
+        "index":1648684800000,
+        "company ID":"DSS",
+        "Rank Target":0.1176470588,
+        "prediction":0.4395505786,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "952":{
+        "index":1648684800000,
+        "company ID":"REYN",
+        "Rank Target":0.5882352941,
+        "prediction":0.4213121831,
+        "trueRank":8.0,
+        "predictionRank":16.0
+    },
+    "950":{
+        "index":1648684800000,
+        "company ID":"PACK",
+        "Rank Target":0.0588235294,
+        "prediction":0.3449966311,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "960":{
+        "index":1656547200000,
+        "company ID":"CCK",
+        "Rank Target":0.5294117647,
+        "prediction":0.6434534192,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "972":{
+        "index":1656547200000,
+        "company ID":"SON",
+        "Rank Target":0.8235294118,
+        "prediction":0.6406912804,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "958":{
+        "index":1656547200000,
+        "company ID":"AVY",
+        "Rank Target":0.9411764706,
+        "prediction":0.6300181746,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "968":{
+        "index":1656547200000,
+        "company ID":"PKG",
+        "Rank Target":0.4117647059,
+        "prediction":0.6280490756,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "966":{
+        "index":1656547200000,
+        "company ID":"OI",
+        "Rank Target":0.6470588235,
+        "prediction":0.6133468151,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "970":{
+        "index":1656547200000,
+        "company ID":"SEE",
+        "Rank Target":0.2941176471,
+        "prediction":0.5927581191,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "962":{
+        "index":1656547200000,
+        "company ID":"GPK",
+        "Rank Target":0.7058823529,
+        "prediction":0.5773407221,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "973":{
+        "index":1656547200000,
+        "company ID":"TRS",
+        "Rank Target":0.5882352941,
+        "prediction":0.5640508533,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "963":{
+        "index":1656547200000,
+        "company ID":"IP",
+        "Rank Target":0.3529411765,
+        "prediction":0.5566369295,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "965":{
+        "index":1656547200000,
+        "company ID":"MYE",
+        "Rank Target":0.1764705882,
+        "prediction":0.5453621149,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "969":{
+        "index":1656547200000,
+        "company ID":"REYN",
+        "Rank Target":0.7647058824,
+        "prediction":0.5181387067,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "959":{
+        "index":1656547200000,
+        "company ID":"BALL",
+        "Rank Target":0.1176470588,
+        "prediction":0.4866738617,
+        "trueRank":16.0,
+        "predictionRank":12.0
+    },
+    "971":{
+        "index":1656547200000,
+        "company ID":"SLGN",
+        "Rank Target":1.0,
+        "prediction":0.4492334127,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "974":{
+        "index":1656547200000,
+        "company ID":"YHGJ",
+        "Rank Target":0.4705882353,
+        "prediction":0.4073591232,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "967":{
+        "index":1656547200000,
+        "company ID":"PACK",
+        "Rank Target":0.0588235294,
+        "prediction":0.3926081061,
+        "trueRank":17.0,
+        "predictionRank":15.0
+    },
+    "964":{
+        "index":1656547200000,
+        "company ID":"KRT",
+        "Rank Target":0.8823529412,
+        "prediction":0.3868295848,
+        "trueRank":3.0,
+        "predictionRank":16.0
+    },
+    "961":{
+        "index":1656547200000,
+        "company ID":"DSS",
+        "Rank Target":0.2352941176,
+        "prediction":0.3665780723,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "988":{
+        "index":1664496000000,
+        "company ID":"SLGN",
+        "Rank Target":0.7647058824,
+        "prediction":0.6344353557,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "981":{
+        "index":1664496000000,
+        "company ID":"KRT",
+        "Rank Target":0.1176470588,
+        "prediction":0.6173674464,
+        "trueRank":16.0,
+        "predictionRank":2.0
+    },
+    "979":{
+        "index":1664496000000,
+        "company ID":"GPK",
+        "Rank Target":0.5882352941,
+        "prediction":0.6160321832,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "975":{
+        "index":1664496000000,
+        "company ID":"AVY",
+        "Rank Target":0.4705882353,
+        "prediction":0.5935733914,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "985":{
+        "index":1664496000000,
+        "company ID":"PKG",
+        "Rank Target":0.6470588235,
+        "prediction":0.5634748936,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "987":{
+        "index":1664496000000,
+        "company ID":"SEE",
+        "Rank Target":0.5294117647,
+        "prediction":0.5595984459,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "980":{
+        "index":1664496000000,
+        "company ID":"IP",
+        "Rank Target":0.4117647059,
+        "prediction":0.5569884181,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "983":{
+        "index":1664496000000,
+        "company ID":"OI",
+        "Rank Target":0.8235294118,
+        "prediction":0.5522060394,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "982":{
+        "index":1664496000000,
+        "company ID":"MYE",
+        "Rank Target":0.8823529412,
+        "prediction":0.5365611911,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "989":{
+        "index":1664496000000,
+        "company ID":"SON",
+        "Rank Target":0.2941176471,
+        "prediction":0.5169944763,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "986":{
+        "index":1664496000000,
+        "company ID":"REYN",
+        "Rank Target":0.7058823529,
+        "prediction":0.4891248643,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "977":{
+        "index":1664496000000,
+        "company ID":"CCK",
+        "Rank Target":0.1764705882,
+        "prediction":0.4410577416,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "976":{
+        "index":1664496000000,
+        "company ID":"BALL",
+        "Rank Target":0.2352941176,
+        "prediction":0.4380744696,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "991":{
+        "index":1664496000000,
+        "company ID":"YHGJ",
+        "Rank Target":0.9411764706,
+        "prediction":0.4159888029,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "984":{
+        "index":1664496000000,
+        "company ID":"PACK",
+        "Rank Target":1.0,
+        "prediction":0.3925226927,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "990":{
+        "index":1664496000000,
+        "company ID":"TRS",
+        "Rank Target":0.3529411765,
+        "prediction":0.3897424042,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "978":{
+        "index":1664496000000,
+        "company ID":"DSS",
+        "Rank Target":0.0588235294,
+        "prediction":0.3182682693,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "994":{
+        "index":1672444800000,
+        "company ID":"CCK",
+        "Rank Target":0.4705882353,
+        "prediction":0.6569172144,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "1005":{
+        "index":1672444800000,
+        "company ID":"SLGN",
+        "Rank Target":0.6470588235,
+        "prediction":0.6069797277,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1003":{
+        "index":1672444800000,
+        "company ID":"REYN",
+        "Rank Target":0.1764705882,
+        "prediction":0.5959307551,
+        "trueRank":15.0,
+        "predictionRank":3.0
+    },
+    "996":{
+        "index":1672444800000,
+        "company ID":"GPK",
+        "Rank Target":0.8235294118,
+        "prediction":0.5945974588,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "1004":{
+        "index":1672444800000,
+        "company ID":"SEE",
+        "Rank Target":0.1176470588,
+        "prediction":0.5890846252,
+        "trueRank":16.0,
+        "predictionRank":5.0
+    },
+    "1000":{
+        "index":1672444800000,
+        "company ID":"OI",
+        "Rank Target":1.0,
+        "prediction":0.5826491117,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "1002":{
+        "index":1672444800000,
+        "company ID":"PKG",
+        "Rank Target":0.7647058824,
+        "prediction":0.5779697895,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "1008":{
+        "index":1672444800000,
+        "company ID":"YHGJ",
+        "Rank Target":0.9411764706,
+        "prediction":0.5736156106,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "992":{
+        "index":1672444800000,
+        "company ID":"AVY",
+        "Rank Target":0.2352941176,
+        "prediction":0.5729058385,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "997":{
+        "index":1672444800000,
+        "company ID":"IP",
+        "Rank Target":0.5882352941,
+        "prediction":0.5587644577,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "998":{
+        "index":1672444800000,
+        "company ID":"KRT",
+        "Rank Target":0.4117647059,
+        "prediction":0.5575963259,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "999":{
+        "index":1672444800000,
+        "company ID":"MYE",
+        "Rank Target":0.2941176471,
+        "prediction":0.5302752256,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "993":{
+        "index":1672444800000,
+        "company ID":"BALL",
+        "Rank Target":0.7058823529,
+        "prediction":0.5285125375,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "1006":{
+        "index":1672444800000,
+        "company ID":"SON",
+        "Rank Target":0.5294117647,
+        "prediction":0.5120331049,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "1001":{
+        "index":1672444800000,
+        "company ID":"PACK",
+        "Rank Target":0.0588235294,
+        "prediction":0.4700496197,
+        "trueRank":17.0,
+        "predictionRank":15.0
+    },
+    "1007":{
+        "index":1672444800000,
+        "company ID":"TRS",
+        "Rank Target":0.3529411765,
+        "prediction":0.463686198,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "995":{
+        "index":1672444800000,
+        "company ID":"DSS",
+        "Rank Target":0.8823529412,
+        "prediction":0.3174148798,
+        "trueRank":3.0,
+        "predictionRank":17.0
+    },
+    "1013":{
+        "index":1680220800000,
+        "company ID":"GPK",
+        "Rank Target":0.4117647059,
+        "prediction":0.6398645639,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "1015":{
+        "index":1680220800000,
+        "company ID":"KRT",
+        "Rank Target":0.9411764706,
+        "prediction":0.6103678346,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1017":{
+        "index":1680220800000,
+        "company ID":"OI",
+        "Rank Target":0.2941176471,
+        "prediction":0.5689747334,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "1016":{
+        "index":1680220800000,
+        "company ID":"MYE",
+        "Rank Target":0.3529411765,
+        "prediction":0.5634564757,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "1023":{
+        "index":1680220800000,
+        "company ID":"SON",
+        "Rank Target":0.5882352941,
+        "prediction":0.5630797744,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "1019":{
+        "index":1680220800000,
+        "company ID":"PKG",
+        "Rank Target":0.5294117647,
+        "prediction":0.5516327024,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "1011":{
+        "index":1680220800000,
+        "company ID":"CCK",
+        "Rank Target":0.7647058824,
+        "prediction":0.5421164036,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "1009":{
+        "index":1680220800000,
+        "company ID":"AVY",
+        "Rank Target":0.4705882353,
+        "prediction":0.5030654073,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "1010":{
+        "index":1680220800000,
+        "company ID":"BALL",
+        "Rank Target":0.8235294118,
+        "prediction":0.5020344853,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1018":{
+        "index":1680220800000,
+        "company ID":"PACK",
+        "Rank Target":0.0588235294,
+        "prediction":0.4917138219,
+        "trueRank":17.0,
+        "predictionRank":10.0
+    },
+    "1022":{
+        "index":1680220800000,
+        "company ID":"SLGN",
+        "Rank Target":0.1764705882,
+        "prediction":0.4867315292,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1024":{
+        "index":1680220800000,
+        "company ID":"TRS",
+        "Rank Target":0.6470588235,
+        "prediction":0.4845551252,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "1014":{
+        "index":1680220800000,
+        "company ID":"IP",
+        "Rank Target":0.2352941176,
+        "prediction":0.4678854346,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "1020":{
+        "index":1680220800000,
+        "company ID":"REYN",
+        "Rank Target":0.7058823529,
+        "prediction":0.4661766887,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "1021":{
+        "index":1680220800000,
+        "company ID":"SEE",
+        "Rank Target":0.1176470588,
+        "prediction":0.4612142444,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1025":{
+        "index":1680220800000,
+        "company ID":"YHGJ",
+        "Rank Target":0.8823529412,
+        "prediction":0.447958827,
+        "trueRank":3.0,
+        "predictionRank":16.0
+    },
+    "1012":{
+        "index":1680220800000,
+        "company ID":"DSS",
+        "Rank Target":1.0,
+        "prediction":0.4350764155,
+        "trueRank":1.0,
+        "predictionRank":17.0
+    },
+    "1037":{
+        "index":1688083200000,
+        "company ID":"REYN",
+        "Rank Target":0.3529411765,
+        "prediction":0.6885606647,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "1032":{
+        "index":1688083200000,
+        "company ID":"KRT",
+        "Rank Target":0.9411764706,
+        "prediction":0.6404857635,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1028":{
+        "index":1688083200000,
+        "company ID":"CCK",
+        "Rank Target":0.6470588235,
+        "prediction":0.6344171166,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "1036":{
+        "index":1688083200000,
+        "company ID":"PKG",
+        "Rank Target":0.8823529412,
+        "prediction":0.6325321198,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "1027":{
+        "index":1688083200000,
+        "company ID":"BALL",
+        "Rank Target":0.2352941176,
+        "prediction":0.6130324602,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "1035":{
+        "index":1688083200000,
+        "company ID":"PACK",
+        "Rank Target":0.8235294118,
+        "prediction":0.6003177762,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "1040":{
+        "index":1688083200000,
+        "company ID":"SON",
+        "Rank Target":0.5882352941,
+        "prediction":0.5967274308,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "1034":{
+        "index":1688083200000,
+        "company ID":"OI",
+        "Rank Target":0.1176470588,
+        "prediction":0.5653384328,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "1026":{
+        "index":1688083200000,
+        "company ID":"AVY",
+        "Rank Target":0.7058823529,
+        "prediction":0.5276575685,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1031":{
+        "index":1688083200000,
+        "company ID":"IP",
+        "Rank Target":0.7647058824,
+        "prediction":0.5093329549,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "1038":{
+        "index":1688083200000,
+        "company ID":"SEE",
+        "Rank Target":0.1764705882,
+        "prediction":0.5085645914,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1030":{
+        "index":1688083200000,
+        "company ID":"GPK",
+        "Rank Target":0.4705882353,
+        "prediction":0.4952452183,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "1033":{
+        "index":1688083200000,
+        "company ID":"MYE",
+        "Rank Target":0.5294117647,
+        "prediction":0.4929809868,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "1041":{
+        "index":1688083200000,
+        "company ID":"TRS",
+        "Rank Target":0.2941176471,
+        "prediction":0.4789166152,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "1039":{
+        "index":1688083200000,
+        "company ID":"SLGN",
+        "Rank Target":0.4117647059,
+        "prediction":0.4407118559,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "1042":{
+        "index":1688083200000,
+        "company ID":"YHGJ",
+        "Rank Target":1.0,
+        "prediction":0.3969806433,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    },
+    "1029":{
+        "index":1688083200000,
+        "company ID":"DSS",
+        "Rank Target":0.0588235294,
+        "prediction":0.3325115144,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "1045":{
+        "index":1696032000000,
+        "company ID":"CCK",
+        "Rank Target":0.4705882353,
+        "prediction":0.6796637177,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "1054":{
+        "index":1696032000000,
+        "company ID":"REYN",
+        "Rank Target":0.4117647059,
+        "prediction":0.6445840001,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "1057":{
+        "index":1696032000000,
+        "company ID":"SON",
+        "Rank Target":0.3529411765,
+        "prediction":0.6189509034,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "1044":{
+        "index":1696032000000,
+        "company ID":"BALL",
+        "Rank Target":0.9411764706,
+        "prediction":0.6012107134,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "1043":{
+        "index":1696032000000,
+        "company ID":"AVY",
+        "Rank Target":0.7058823529,
+        "prediction":0.5928382277,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1047":{
+        "index":1696032000000,
+        "company ID":"GPK",
+        "Rank Target":0.7647058824,
+        "prediction":0.5895393491,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1053":{
+        "index":1696032000000,
+        "company ID":"PKG",
+        "Rank Target":0.5882352941,
+        "prediction":0.578764677,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "1058":{
+        "index":1696032000000,
+        "company ID":"TRS",
+        "Rank Target":0.2941176471,
+        "prediction":0.5764339566,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "1056":{
+        "index":1696032000000,
+        "company ID":"SLGN",
+        "Rank Target":0.5294117647,
+        "prediction":0.573453784,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "1055":{
+        "index":1696032000000,
+        "company ID":"SEE",
+        "Rank Target":0.8235294118,
+        "prediction":0.5604516268,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "1051":{
+        "index":1696032000000,
+        "company ID":"OI",
+        "Rank Target":0.1764705882,
+        "prediction":0.5533263683,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1050":{
+        "index":1696032000000,
+        "company ID":"MYE",
+        "Rank Target":0.6470588235,
+        "prediction":0.5290224552,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "1049":{
+        "index":1696032000000,
+        "company ID":"KRT",
+        "Rank Target":0.8823529412,
+        "prediction":0.5121462345,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "1059":{
+        "index":1696032000000,
+        "company ID":"YHGJ",
+        "Rank Target":0.1176470588,
+        "prediction":0.4621065855,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "1052":{
+        "index":1696032000000,
+        "company ID":"PACK",
+        "Rank Target":1.0,
+        "prediction":0.4588074982,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1048":{
+        "index":1696032000000,
+        "company ID":"IP",
+        "Rank Target":0.2352941176,
+        "prediction":0.436389178,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "1046":{
+        "index":1696032000000,
+        "company ID":"DSS",
+        "Rank Target":0.0588235294,
+        "prediction":0.4104323387,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "1072":{
+        "index":1703980800000,
+        "company ID":"SEE",
+        "Rank Target":0.2941176471,
+        "prediction":0.6477710605,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "1060":{
+        "index":1703980800000,
+        "company ID":"AVY",
+        "Rank Target":0.6470588235,
+        "prediction":0.6002355218,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1073":{
+        "index":1703980800000,
+        "company ID":"SLGN",
+        "Rank Target":0.5882352941,
+        "prediction":0.5938469172,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "1061":{
+        "index":1703980800000,
+        "company ID":"BALL",
+        "Rank Target":0.8235294118,
+        "prediction":0.5914542079,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "1071":{
+        "index":1703980800000,
+        "company ID":"REYN",
+        "Rank Target":0.3529411765,
+        "prediction":0.5902028084,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "1062":{
+        "index":1703980800000,
+        "company ID":"CCK",
+        "Rank Target":0.1764705882,
+        "prediction":0.5852421522,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "1069":{
+        "index":1703980800000,
+        "company ID":"PACK",
+        "Rank Target":1.0,
+        "prediction":0.5708506107,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "1074":{
+        "index":1703980800000,
+        "company ID":"SON",
+        "Rank Target":0.2352941176,
+        "prediction":0.5446988344,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "1070":{
+        "index":1703980800000,
+        "company ID":"PKG",
+        "Rank Target":0.7058823529,
+        "prediction":0.5347631574,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1064":{
+        "index":1703980800000,
+        "company ID":"GPK",
+        "Rank Target":0.7647058824,
+        "prediction":0.5163900256,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "1076":{
+        "index":1703980800000,
+        "company ID":"YHGJ",
+        "Rank Target":0.0588235294,
+        "prediction":0.5051171184,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "1066":{
+        "index":1703980800000,
+        "company ID":"KRT",
+        "Rank Target":0.9411764706,
+        "prediction":0.485863477,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "1065":{
+        "index":1703980800000,
+        "company ID":"IP",
+        "Rank Target":0.4705882353,
+        "prediction":0.4843803644,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1067":{
+        "index":1703980800000,
+        "company ID":"MYE",
+        "Rank Target":0.8823529412,
+        "prediction":0.4834003448,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "1068":{
+        "index":1703980800000,
+        "company ID":"OI",
+        "Rank Target":0.5294117647,
+        "prediction":0.4702824056,
+        "trueRank":9.0,
+        "predictionRank":15.0
+    },
+    "1063":{
+        "index":1703980800000,
+        "company ID":"DSS",
+        "Rank Target":0.1176470588,
+        "prediction":0.4509676695,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "1075":{
+        "index":1703980800000,
+        "company ID":"TRS",
+        "Rank Target":0.4117647059,
+        "prediction":0.4448412955,
+        "trueRank":11.0,
+        "predictionRank":17.0
+    },
+    "1077":{
+        "index":1711843200000,
+        "company ID":"AVY",
+        "Rank Target":0.7777777778,
+        "prediction":0.6346433759,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1087":{
+        "index":1711843200000,
+        "company ID":"PACK",
+        "Rank Target":0.2777777778,
+        "prediction":0.6134644747,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "1090":{
+        "index":1711843200000,
+        "company ID":"SEE",
+        "Rank Target":0.8888888889,
+        "prediction":0.6079760194,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1083":{
+        "index":1711843200000,
+        "company ID":"KRT",
+        "Rank Target":0.9444444444,
+        "prediction":0.5789900422,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "1093":{
+        "index":1711843200000,
+        "company ID":"TRS",
+        "Rank Target":0.6666666667,
+        "prediction":0.5466338992,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "1088":{
+        "index":1711843200000,
+        "company ID":"PKG",
+        "Rank Target":0.7222222222,
+        "prediction":0.5460714698,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "1082":{
+        "index":1711843200000,
+        "company ID":"IP",
+        "Rank Target":1.0,
+        "prediction":0.5347575545,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "1079":{
+        "index":1711843200000,
+        "company ID":"CCK",
+        "Rank Target":0.6111111111,
+        "prediction":0.5284775496,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1089":{
+        "index":1711843200000,
+        "company ID":"REYN",
+        "Rank Target":0.8333333333,
+        "prediction":0.5263001919,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1085":{
+        "index":1711843200000,
+        "company ID":"OI",
+        "Rank Target":0.1666666667,
+        "prediction":0.5086166263,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "1091":{
+        "index":1711843200000,
+        "company ID":"SLGN",
+        "Rank Target":0.3333333333,
+        "prediction":0.5073655844,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "1084":{
+        "index":1711843200000,
+        "company ID":"MYE",
+        "Rank Target":0.1111111111,
+        "prediction":0.4920729697,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "1081":{
+        "index":1711843200000,
+        "company ID":"GPK",
+        "Rank Target":0.5555555556,
+        "prediction":0.4876157939,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "1078":{
+        "index":1711843200000,
+        "company ID":"BALL",
+        "Rank Target":0.4444444444,
+        "prediction":0.4835500717,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "1092":{
+        "index":1711843200000,
+        "company ID":"SON",
+        "Rank Target":0.3888888889,
+        "prediction":0.4815317392,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "1094":{
+        "index":1711843200000,
+        "company ID":"YHGJ",
+        "Rank Target":0.2222222222,
+        "prediction":0.3783304691,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "1086":{
+        "index":1711843200000,
+        "company ID":"ORBS",
+        "Rank Target":0.0555555556,
+        "prediction":0.3565532267,
+        "trueRank":18.0,
+        "predictionRank":17.0
+    },
+    "1080":{
+        "index":1711843200000,
+        "company ID":"DSS",
+        "Rank Target":0.5,
+        "prediction":0.3261590302,
+        "trueRank":10.0,
+        "predictionRank":18.0
+    },
+    "1105":{
+        "index":1719705600000,
+        "company ID":"PACK",
+        "Rank Target":0.3333333333,
+        "prediction":0.6367753744,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "1095":{
+        "index":1719705600000,
+        "company ID":"AVY",
+        "Rank Target":0.2777777778,
+        "prediction":0.6296634674,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "1108":{
+        "index":1719705600000,
+        "company ID":"SEE",
+        "Rank Target":0.3888888889,
+        "prediction":0.6282673478,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "1097":{
+        "index":1719705600000,
+        "company ID":"CCK",
+        "Rank Target":1.0,
+        "prediction":0.617577672,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "1101":{
+        "index":1719705600000,
+        "company ID":"KRT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5887251496,
+        "trueRank":16.0,
+        "predictionRank":5.0
+    },
+    "1111":{
+        "index":1719705600000,
+        "company ID":"TRS",
+        "Rank Target":0.2222222222,
+        "prediction":0.5883388519,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "1100":{
+        "index":1719705600000,
+        "company ID":"IP",
+        "Rank Target":0.6111111111,
+        "prediction":0.5644068718,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "1096":{
+        "index":1719705600000,
+        "company ID":"BALL",
+        "Rank Target":0.5555555556,
+        "prediction":0.5572965145,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1107":{
+        "index":1719705600000,
+        "company ID":"REYN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5496025681,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "1103":{
+        "index":1719705600000,
+        "company ID":"OI",
+        "Rank Target":0.9444444444,
+        "prediction":0.5474352241,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "1106":{
+        "index":1719705600000,
+        "company ID":"PKG",
+        "Rank Target":0.8333333333,
+        "prediction":0.546916306,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "1102":{
+        "index":1719705600000,
+        "company ID":"MYE",
+        "Rank Target":0.4444444444,
+        "prediction":0.5415518284,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "1109":{
+        "index":1719705600000,
+        "company ID":"SLGN",
+        "Rank Target":0.8888888889,
+        "prediction":0.5236595869,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "1112":{
+        "index":1719705600000,
+        "company ID":"YHGJ",
+        "Rank Target":0.0555555556,
+        "prediction":0.4972585738,
+        "trueRank":18.0,
+        "predictionRank":14.0
+    },
+    "1110":{
+        "index":1719705600000,
+        "company ID":"SON",
+        "Rank Target":0.5,
+        "prediction":0.4943354428,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "1099":{
+        "index":1719705600000,
+        "company ID":"GPK",
+        "Rank Target":0.7222222222,
+        "prediction":0.4547380507,
+        "trueRank":6.0,
+        "predictionRank":16.0
+    },
+    "1104":{
+        "index":1719705600000,
+        "company ID":"ORBS",
+        "Rank Target":0.7777777778,
+        "prediction":0.4120033681,
+        "trueRank":5.0,
+        "predictionRank":17.0
+    },
+    "1098":{
+        "index":1719705600000,
+        "company ID":"DSS",
+        "Rank Target":0.1111111111,
+        "prediction":0.3965975046,
+        "trueRank":17.0,
+        "predictionRank":18.0
+    },
+    "1115":{
+        "index":1727654400000,
+        "company ID":"CCK",
+        "Rank Target":0.2777777778,
+        "prediction":0.6441099048,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "1119":{
+        "index":1727654400000,
+        "company ID":"KRT",
+        "Rank Target":1.0,
+        "prediction":0.6416264176,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "1113":{
+        "index":1727654400000,
+        "company ID":"AVY",
+        "Rank Target":0.3333333333,
+        "prediction":0.6379469633,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "1127":{
+        "index":1727654400000,
+        "company ID":"SLGN",
+        "Rank Target":0.7222222222,
+        "prediction":0.6231116056,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1126":{
+        "index":1727654400000,
+        "company ID":"SEE",
+        "Rank Target":0.6111111111,
+        "prediction":0.6080541611,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "1124":{
+        "index":1727654400000,
+        "company ID":"PKG",
+        "Rank Target":0.7777777778,
+        "prediction":0.6070995927,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1114":{
+        "index":1727654400000,
+        "company ID":"BALL",
+        "Rank Target":0.2222222222,
+        "prediction":0.5964328647,
+        "trueRank":15.0,
+        "predictionRank":7.0
+    },
+    "1125":{
+        "index":1727654400000,
+        "company ID":"REYN",
+        "Rank Target":0.4444444444,
+        "prediction":0.5708477497,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "1118":{
+        "index":1727654400000,
+        "company ID":"IP",
+        "Rank Target":0.8888888889,
+        "prediction":0.5344160199,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "1123":{
+        "index":1727654400000,
+        "company ID":"PACK",
+        "Rank Target":0.9444444444,
+        "prediction":0.518484056,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "1128":{
+        "index":1727654400000,
+        "company ID":"SON",
+        "Rank Target":0.5,
+        "prediction":0.5036596656,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "1121":{
+        "index":1727654400000,
+        "company ID":"OI",
+        "Rank Target":0.1111111111,
+        "prediction":0.4902657568,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "1117":{
+        "index":1727654400000,
+        "company ID":"GPK",
+        "Rank Target":0.5555555556,
+        "prediction":0.4525412619,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "1129":{
+        "index":1727654400000,
+        "company ID":"TRS",
+        "Rank Target":0.6666666667,
+        "prediction":0.4350416362,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "1130":{
+        "index":1727654400000,
+        "company ID":"YHGJ",
+        "Rank Target":0.0555555556,
+        "prediction":0.4279455543,
+        "trueRank":18.0,
+        "predictionRank":15.0
+    },
+    "1120":{
+        "index":1727654400000,
+        "company ID":"MYE",
+        "Rank Target":0.3888888889,
+        "prediction":0.3870995343,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "1122":{
+        "index":1727654400000,
+        "company ID":"ORBS",
+        "Rank Target":0.8333333333,
+        "prediction":0.3702561855,
+        "trueRank":4.0,
+        "predictionRank":17.0
+    },
+    "1116":{
+        "index":1727654400000,
+        "company ID":"DSS",
+        "Rank Target":0.1666666667,
+        "prediction":0.3446662724,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "1131":{
+        "index":1735603200000,
+        "company ID":"AVY",
+        "Rank Target":0.3888888889,
+        "prediction":0.6654204726,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "1142":{
+        "index":1735603200000,
+        "company ID":"PKG",
+        "Rank Target":0.2222222222,
+        "prediction":0.6252067089,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "1147":{
+        "index":1735603200000,
+        "company ID":"TRS",
+        "Rank Target":0.5,
+        "prediction":0.6179984212,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1133":{
+        "index":1735603200000,
+        "company ID":"CCK",
+        "Rank Target":0.8888888889,
+        "prediction":0.6093223095,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "1138":{
+        "index":1735603200000,
+        "company ID":"MYE",
+        "Rank Target":0.8333333333,
+        "prediction":0.6016850471,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "1139":{
+        "index":1735603200000,
+        "company ID":"OI",
+        "Rank Target":0.7777777778,
+        "prediction":0.5887985826,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1143":{
+        "index":1735603200000,
+        "company ID":"REYN",
+        "Rank Target":0.2777777778,
+        "prediction":0.5847728848,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "1144":{
+        "index":1735603200000,
+        "company ID":"SEE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5478052497,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "1148":{
+        "index":1735603200000,
+        "company ID":"YHGJ",
+        "Rank Target":1.0,
+        "prediction":0.5440468192,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "1132":{
+        "index":1735603200000,
+        "company ID":"BALL",
+        "Rank Target":0.4444444444,
+        "prediction":0.5420042276,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "1145":{
+        "index":1735603200000,
+        "company ID":"SLGN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5264880061,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "1137":{
+        "index":1735603200000,
+        "company ID":"KRT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5238733888,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "1141":{
+        "index":1735603200000,
+        "company ID":"PACK",
+        "Rank Target":0.1111111111,
+        "prediction":0.4985921383,
+        "trueRank":17.0,
+        "predictionRank":13.0
+    },
+    "1135":{
+        "index":1735603200000,
+        "company ID":"GPK",
+        "Rank Target":0.6111111111,
+        "prediction":0.4773573875,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "1136":{
+        "index":1735603200000,
+        "company ID":"IP",
+        "Rank Target":0.7222222222,
+        "prediction":0.47423926,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "1146":{
+        "index":1735603200000,
+        "company ID":"SON",
+        "Rank Target":0.5555555556,
+        "prediction":0.4582356215,
+        "trueRank":9.0,
+        "predictionRank":16.0
+    },
+    "1134":{
+        "index":1735603200000,
+        "company ID":"DSS",
+        "Rank Target":0.9444444444,
+        "prediction":0.4219834805,
+        "trueRank":2.0,
+        "predictionRank":17.0
+    },
+    "1140":{
+        "index":1735603200000,
+        "company ID":"ORBS",
+        "Rank Target":0.0555555556,
+        "prediction":0.3965116739,
+        "trueRank":18.0,
+        "predictionRank":18.0
+    },
+    "1156":{
+        "index":1743379200000,
+        "company ID":"MYE",
+        "Rank Target":1.0,
+        "prediction":0.6462046504,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1151":{
+        "index":1743379200000,
+        "company ID":"CCK",
+        "Rank Target":0.8333333333,
+        "prediction":0.6250582933,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "1160":{
+        "index":1743379200000,
+        "company ID":"PKG",
+        "Rank Target":0.5,
+        "prediction":0.6174125671,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1155":{
+        "index":1743379200000,
+        "company ID":"KRT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5997024179,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1165":{
+        "index":1743379200000,
+        "company ID":"TRS",
+        "Rank Target":0.8888888889,
+        "prediction":0.5990535617,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "1162":{
+        "index":1743379200000,
+        "company ID":"SEE",
+        "Rank Target":0.7777777778,
+        "prediction":0.5831807256,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1149":{
+        "index":1743379200000,
+        "company ID":"AVY",
+        "Rank Target":0.4444444444,
+        "prediction":0.5472103953,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "1157":{
+        "index":1743379200000,
+        "company ID":"OI",
+        "Rank Target":0.9444444444,
+        "prediction":0.5214002132,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "1166":{
+        "index":1743379200000,
+        "company ID":"YHGJ",
+        "Rank Target":0.0555555556,
+        "prediction":0.4995658994,
+        "trueRank":18.0,
+        "predictionRank":9.0
+    },
+    "1163":{
+        "index":1743379200000,
+        "company ID":"SLGN",
+        "Rank Target":0.6111111111,
+        "prediction":0.4966516495,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "1150":{
+        "index":1743379200000,
+        "company ID":"BALL",
+        "Rank Target":0.7222222222,
+        "prediction":0.4933382869,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "1153":{
+        "index":1743379200000,
+        "company ID":"GPK",
+        "Rank Target":0.1111111111,
+        "prediction":0.4578382969,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "1158":{
+        "index":1743379200000,
+        "company ID":"ORBS",
+        "Rank Target":0.5555555556,
+        "prediction":0.4564478099,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "1164":{
+        "index":1743379200000,
+        "company ID":"SON",
+        "Rank Target":0.2777777778,
+        "prediction":0.4503023326,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "1159":{
+        "index":1743379200000,
+        "company ID":"PACK",
+        "Rank Target":0.1666666667,
+        "prediction":0.4332382977,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1161":{
+        "index":1743379200000,
+        "company ID":"REYN",
+        "Rank Target":0.2222222222,
+        "prediction":0.4293689728,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "1154":{
+        "index":1743379200000,
+        "company ID":"IP",
+        "Rank Target":0.3333333333,
+        "prediction":0.4280637205,
+        "trueRank":13.0,
+        "predictionRank":17.0
+    },
+    "1152":{
+        "index":1743379200000,
+        "company ID":"DSS",
+        "Rank Target":0.3888888889,
+        "prediction":0.356068939,
+        "trueRank":12.0,
+        "predictionRank":18.0
+    }
+}

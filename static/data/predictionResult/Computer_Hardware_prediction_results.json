@@ -1,0 +1,163 @@
+{
+    "1088":{
+        "company ID":"SNDK",
+        "score":0.6846833229,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":144.5593630106
+    },
+    "1090":{
+        "company ID":"STX",
+        "score":0.6558477283,
+        "Rank":2.0,
+        "Rank Target":0.7391304348,
+        "stockDifferencePercentage":53.332436446
+    },
+    "1074":{
+        "company ID":"ANET",
+        "score":0.6256100535,
+        "Rank":3.0,
+        "Rank Target":0.5652173913,
+        "stockDifferencePercentage":39.8458835463
+    },
+    "1085":{
+        "company ID":"RGTI",
+        "score":0.6110967994,
+        "Rank":4.0,
+        "Rank Target":0.9565217391,
+        "stockDifferencePercentage":120.4460969434
+    },
+    "1078":{
+        "company ID":"IONQ",
+        "score":0.6075155139,
+        "Rank":5.0,
+        "Rank Target":0.6086956522,
+        "stockDifferencePercentage":44.7623406619
+    },
+    "1080":{
+        "company ID":"OSS",
+        "score":0.5931065083,
+        "Rank":6.0,
+        "Rank Target":0.5217391304,
+        "stockDifferencePercentage":39.4999980925
+    },
+    "1077":{
+        "company ID":"DDD",
+        "score":0.5916056037,
+        "Rank":7.0,
+        "Rank Target":0.8260869565,
+        "stockDifferencePercentage":72.0930226094
+    },
+    "1095":{
+        "company ID":"WDC",
+        "score":0.5747240186,
+        "Rank":8.0,
+        "Rank Target":0.8695652174,
+        "stockDifferencePercentage":76.8702937468
+    },
+    "1087":{
+        "company ID":"SMCI",
+        "score":0.5679152012,
+        "Rank":9.0,
+        "Rank Target":0.3043478261,
+        "stockDifferencePercentage":-4.5304792024
+    },
+    "1079":{
+        "company ID":"KTCC",
+        "score":0.5597983599,
+        "Rank":10.0,
+        "Rank Target":0.4782608696,
+        "stockDifferencePercentage":17.9661004349
+    },
+    "1083":{
+        "company ID":"QMCO",
+        "score":0.5319086313,
+        "Rank":11.0,
+        "Rank Target":0.4347826087,
+        "stockDifferencePercentage":8.1677675147
+    },
+    "1075":{
+        "company ID":"CRCT",
+        "score":0.5181670189,
+        "Rank":12.0,
+        "Rank Target":0.3913043478,
+        "stockDifferencePercentage":-0.6289321167
+    },
+    "1092":{
+        "company ID":"UAVS",
+        "score":0.5180856586,
+        "Rank":13.0,
+        "Rank Target":0.9130434783,
+        "stockDifferencePercentage":87.1559540725
+    },
+    "1091":{
+        "company ID":"TACT",
+        "score":0.5068357587,
+        "Rank":14.0,
+        "Rank Target":0.652173913,
+        "stockDifferencePercentage":46.1748573547
+    },
+    "1089":{
+        "company ID":"SSYS",
+        "score":0.4923175871,
+        "Rank":15.0,
+        "Rank Target":0.347826087,
+        "stockDifferencePercentage":-3.3333281714
+    },
+    "1081":{
+        "company ID":"QBTS",
+        "score":0.4815164804,
+        "Rank":16.0,
+        "Rank Target":0.6956521739,
+        "stockDifferencePercentage":50.7444793677
+    },
+    "1076":{
+        "company ID":"CRSR",
+        "score":0.4754615724,
+        "Rank":17.0,
+        "Rank Target":0.2608695652,
+        "stockDifferencePercentage":-10.4166662527
+    },
+    "1093":{
+        "company ID":"UMAC",
+        "score":0.4745969772,
+        "Rank":18.0,
+        "Rank Target":0.7826086957,
+        "stockDifferencePercentage":58.0756118485
+    },
+    "1086":{
+        "company ID":"SCKT",
+        "score":0.464419663,
+        "Rank":19.0,
+        "Rank Target":0.2173913043,
+        "stockDifferencePercentage":-10.5263163426
+    },
+    "1084":{
+        "company ID":"QUBT",
+        "score":0.4461174011,
+        "Rank":20.0,
+        "Rank Target":0.1739130435,
+        "stockDifferencePercentage":-10.7903401318
+    },
+    "1094":{
+        "company ID":"VELO",
+        "score":0.4402772486,
+        "Rank":21.0,
+        "Rank Target":0.1304347826,
+        "stockDifferencePercentage":-58.4199592994
+    },
+    "1096":{
+        "company ID":"ZSPC",
+        "score":0.4039071202,
+        "Rank":22.0,
+        "Rank Target":0.0869565217,
+        "stockDifferencePercentage":-64.052286132
+    },
+    "1082":{
+        "company ID":"QCLS",
+        "score":0.2885052264,
+        "Rank":23.0,
+        "Rank Target":0.0434782609,
+        "stockDifferencePercentage":-65.423730019
+    }
+}

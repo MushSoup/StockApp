@@ -1,0 +1,149 @@
+{
+    "1262":{
+        "company ID":"NUS",
+        "score":0.784835875,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":36.1099844078
+    },
+    "1251":{
+        "company ID":"CLX",
+        "score":0.6441062689,
+        "Rank":2.0,
+        "Rank Target":0.8095238095,
+        "stockDifferencePercentage":-0.4771029152
+    },
+    "1257":{
+        "company ID":"GROV",
+        "score":0.6435288787,
+        "Rank":3.0,
+        "Rank Target":0.9523809524,
+        "stockDifferencePercentage":24.3697435261
+    },
+    "1264":{
+        "company ID":"PG",
+        "score":0.6210287213,
+        "Rank":4.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-3.8861309018
+    },
+    "1254":{
+        "company ID":"ELF",
+        "score":0.606872201,
+        "Rank":5.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":0.1679655122
+    },
+    "1248":{
+        "company ID":"ACU",
+        "score":0.6036773324,
+        "Rank":6.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-6.967684395
+    },
+    "1265":{
+        "company ID":"SKIN",
+        "score":0.5731980801,
+        "Rank":7.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-12.280700654
+    },
+    "1253":{
+        "company ID":"EL",
+        "score":0.5583189726,
+        "Rank":8.0,
+        "Rank Target":0.9047619048,
+        "stockDifferencePercentage":0.846914761
+    },
+    "1250":{
+        "company ID":"CL",
+        "score":0.5534694791,
+        "Rank":9.0,
+        "Rank Target":0.380952381,
+        "stockDifferencePercentage":-12.8237679515
+    },
+    "1249":{
+        "company ID":"CHD",
+        "score":0.5416695476,
+        "Rank":10.0,
+        "Rank Target":0.4761904762,
+        "stockDifferencePercentage":-12.1579258769
+    },
+    "1266":{
+        "company ID":"SLSN",
+        "score":0.5398497581,
+        "Rank":11.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-18.9873415429
+    },
+    "1260":{
+        "company ID":"KMB",
+        "score":0.4852231741,
+        "Rank":12.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":-6.2456160315
+    },
+    "1263":{
+        "company ID":"NWL",
+        "score":0.4803780615,
+        "Rank":13.0,
+        "Rank Target":0.5238095238,
+        "stockDifferencePercentage":-11.7995530815
+    },
+    "1267":{
+        "company ID":"SPB",
+        "score":0.4771668911,
+        "Rank":14.0,
+        "Rank Target":0.619047619,
+        "stockDifferencePercentage":-6.2790341248
+    },
+    "1261":{
+        "company ID":"KVUE",
+        "score":0.4730346501,
+        "Rank":15.0,
+        "Rank Target":0.1904761905,
+        "stockDifferencePercentage":-21.6309754087
+    },
+    "1268":{
+        "company ID":"UG",
+        "score":0.4528768659,
+        "Rank":16.0,
+        "Rank Target":0.7619047619,
+        "stockDifferencePercentage":-3.3555968126
+    },
+    "1255":{
+        "company ID":"EPC",
+        "score":0.4376899302,
+        "Rank":17.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-18.5352527644
+    },
+    "1252":{
+        "company ID":"COTY",
+        "score":0.4349830747,
+        "Rank":18.0,
+        "Rank Target":0.2380952381,
+        "stockDifferencePercentage":-21.218072521
+    },
+    "1259":{
+        "company ID":"IPAR",
+        "score":0.4061290324,
+        "Rank":19.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-27.1041740956
+    },
+    "1258":{
+        "company ID":"HNST",
+        "score":0.3496467471,
+        "Rank":20.0,
+        "Rank Target":0.0952380952,
+        "stockDifferencePercentage":-27.9611656432
+    },
+    "1256":{
+        "company ID":"EWCZ",
+        "score":0.3051099181,
+        "Rank":21.0,
+        "Rank Target":0.0476190476,
+        "stockDifferencePercentage":-32.5862076338
+    }
+}

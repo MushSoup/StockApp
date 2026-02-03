@@ -1,0 +1,3226 @@
+{
+    "1985":{
+        "index":1648684800000,
+        "company ID":"PPL",
+        "Rank Target":0.6,
+        "prediction":0.6119527817,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "1962":{
+        "index":1648684800000,
+        "company ID":"CNP",
+        "Rank Target":0.5,
+        "prediction":0.6105076671,
+        "trueRank":16.0,
+        "predictionRank":2.0
+    },
+    "1968":{
+        "index":1648684800000,
+        "company ID":"ES",
+        "Rank Target":0.4333333333,
+        "prediction":0.5929176807,
+        "trueRank":18.0,
+        "predictionRank":3.0
+    },
+    "1971":{
+        "index":1648684800000,
+        "company ID":"EXC",
+        "Rank Target":0.4,
+        "prediction":0.5913437605,
+        "trueRank":19.0,
+        "predictionRank":4.0
+    },
+    "1973":{
+        "index":1648684800000,
+        "company ID":"GNE",
+        "Rank Target":1.0,
+        "prediction":0.5833545327,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "1987":{
+        "index":1648684800000,
+        "company ID":"WEC",
+        "Rank Target":0.9333333333,
+        "prediction":0.5746089816,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "1966":{
+        "index":1648684800000,
+        "company ID":"ED",
+        "Rank Target":0.9666666667,
+        "prediction":0.5724726915,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "1978":{
+        "index":1648684800000,
+        "company ID":"NEE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5685868859,
+        "trueRank":26.0,
+        "predictionRank":8.0
+    },
+    "1981":{
+        "index":1648684800000,
+        "company ID":"PCG",
+        "Rank Target":0.0333333333,
+        "prediction":0.5566402674,
+        "trueRank":30.0,
+        "predictionRank":9.0
+    },
+    "1986":{
+        "index":1648684800000,
+        "company ID":"SO",
+        "Rank Target":0.8666666667,
+        "prediction":0.5486550927,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "1961":{
+        "index":1648684800000,
+        "company ID":"CMS",
+        "Rank Target":0.5333333333,
+        "prediction":0.533649385,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1976":{
+        "index":1648684800000,
+        "company ID":"LNT",
+        "Rank Target":0.3,
+        "prediction":0.5223469734,
+        "trueRank":22.0,
+        "predictionRank":12.0
+    },
+    "1959":{
+        "index":1648684800000,
+        "company ID":"AEE",
+        "Rank Target":0.7,
+        "prediction":0.5094729662,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1977":{
+        "index":1648684800000,
+        "company ID":"MGEE",
+        "Rank Target":0.6333333333,
+        "prediction":0.5074879527,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "1980":{
+        "index":1648684800000,
+        "company ID":"OGE",
+        "Rank Target":0.3666666667,
+        "prediction":0.5004349947,
+        "trueRank":20.0,
+        "predictionRank":15.0
+    },
+    "1967":{
+        "index":1648684800000,
+        "company ID":"EIX",
+        "Rank Target":0.1,
+        "prediction":0.4966855049,
+        "trueRank":28.0,
+        "predictionRank":16.0
+    },
+    "1965":{
+        "index":1648684800000,
+        "company ID":"DUK",
+        "Rank Target":0.7333333333,
+        "prediction":0.4921980798,
+        "trueRank":9.0,
+        "predictionRank":17.0
+    },
+    "1975":{
+        "index":1648684800000,
+        "company ID":"IDA",
+        "Rank Target":0.2333333333,
+        "prediction":0.490045011,
+        "trueRank":24.0,
+        "predictionRank":18.0
+    },
+    "1983":{
+        "index":1648684800000,
+        "company ID":"PNW",
+        "Rank Target":0.2666666667,
+        "prediction":0.4814607799,
+        "trueRank":23.0,
+        "predictionRank":19.0
+    },
+    "1988":{
+        "index":1648684800000,
+        "company ID":"XEL",
+        "Rank Target":0.8333333333,
+        "prediction":0.479919374,
+        "trueRank":6.0,
+        "predictionRank":20.0
+    },
+    "1964":{
+        "index":1648684800000,
+        "company ID":"DTE",
+        "Rank Target":0.5666666667,
+        "prediction":0.4797360301,
+        "trueRank":14.0,
+        "predictionRank":21.0
+    },
+    "1974":{
+        "index":1648684800000,
+        "company ID":"HE",
+        "Rank Target":0.8,
+        "prediction":0.4742473662,
+        "trueRank":7.0,
+        "predictionRank":22.0
+    },
+    "1972":{
+        "index":1648684800000,
+        "company ID":"FE",
+        "Rank Target":0.0666666667,
+        "prediction":0.4712586105,
+        "trueRank":29.0,
+        "predictionRank":23.0
+    },
+    "1963":{
+        "index":1648684800000,
+        "company ID":"D",
+        "Rank Target":0.3333333333,
+        "prediction":0.4687125385,
+        "trueRank":21.0,
+        "predictionRank":24.0
+    },
+    "1984":{
+        "index":1648684800000,
+        "company ID":"POR",
+        "Rank Target":0.1333333333,
+        "prediction":0.4684564471,
+        "trueRank":27.0,
+        "predictionRank":25.0
+    },
+    "1982":{
+        "index":1648684800000,
+        "company ID":"PEG",
+        "Rank Target":0.2,
+        "prediction":0.466576159,
+        "trueRank":25.0,
+        "predictionRank":26.0
+    },
+    "1979":{
+        "index":1648684800000,
+        "company ID":"NWE",
+        "Rank Target":0.9,
+        "prediction":0.455160141,
+        "trueRank":4.0,
+        "predictionRank":27.0
+    },
+    "1970":{
+        "index":1648684800000,
+        "company ID":"EVRG",
+        "Rank Target":0.7666666667,
+        "prediction":0.4495944083,
+        "trueRank":8.0,
+        "predictionRank":28.0
+    },
+    "1960":{
+        "index":1648684800000,
+        "company ID":"AEP",
+        "Rank Target":0.6666666667,
+        "prediction":0.4484084547,
+        "trueRank":11.0,
+        "predictionRank":29.0
+    },
+    "1969":{
+        "index":1648684800000,
+        "company ID":"ETR",
+        "Rank Target":0.4666666667,
+        "prediction":0.4433379769,
+        "trueRank":17.0,
+        "predictionRank":30.0
+    },
+    "1999":{
+        "index":1656547200000,
+        "company ID":"ETR",
+        "Rank Target":0.4333333333,
+        "prediction":0.6072084308,
+        "trueRank":18.0,
+        "predictionRank":1.0
+    },
+    "2008":{
+        "index":1656547200000,
+        "company ID":"NEE",
+        "Rank Target":0.9333333333,
+        "prediction":0.6044374704,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "2014":{
+        "index":1656547200000,
+        "company ID":"POR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5980731845,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "2003":{
+        "index":1656547200000,
+        "company ID":"GNE",
+        "Rank Target":0.9666666667,
+        "prediction":0.5862635374,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "2001":{
+        "index":1656547200000,
+        "company ID":"EXC",
+        "Rank Target":0.0333333333,
+        "prediction":0.5798587799,
+        "trueRank":30.0,
+        "predictionRank":5.0
+    },
+    "2002":{
+        "index":1656547200000,
+        "company ID":"FE",
+        "Rank Target":0.9,
+        "prediction":0.576090157,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "2018":{
+        "index":1656547200000,
+        "company ID":"XEL",
+        "Rank Target":0.3666666667,
+        "prediction":0.5625738502,
+        "trueRank":20.0,
+        "predictionRank":7.0
+    },
+    "2016":{
+        "index":1656547200000,
+        "company ID":"SO",
+        "Rank Target":0.8333333333,
+        "prediction":0.5540772676,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "1996":{
+        "index":1656547200000,
+        "company ID":"ED",
+        "Rank Target":0.5666666667,
+        "prediction":0.5394499302,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "2015":{
+        "index":1656547200000,
+        "company ID":"PPL",
+        "Rank Target":0.7666666667,
+        "prediction":0.5349036455,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "1995":{
+        "index":1656547200000,
+        "company ID":"DUK",
+        "Rank Target":0.2,
+        "prediction":0.5335190892,
+        "trueRank":25.0,
+        "predictionRank":11.0
+    },
+    "1989":{
+        "index":1656547200000,
+        "company ID":"AEE",
+        "Rank Target":0.4666666667,
+        "prediction":0.5324025154,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "2000":{
+        "index":1656547200000,
+        "company ID":"EVRG",
+        "Rank Target":0.5333333333,
+        "prediction":0.5318588614,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "1990":{
+        "index":1656547200000,
+        "company ID":"AEP",
+        "Rank Target":0.6333333333,
+        "prediction":0.5281848907,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "2010":{
+        "index":1656547200000,
+        "company ID":"OGE",
+        "Rank Target":0.8,
+        "prediction":0.5187067986,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "1998":{
+        "index":1656547200000,
+        "company ID":"ES",
+        "Rank Target":0.7,
+        "prediction":0.514487803,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "1992":{
+        "index":1656547200000,
+        "company ID":"CNP",
+        "Rank Target":0.8666666667,
+        "prediction":0.5090026855,
+        "trueRank":5.0,
+        "predictionRank":17.0
+    },
+    "2012":{
+        "index":1656547200000,
+        "company ID":"PEG",
+        "Rank Target":0.2666666667,
+        "prediction":0.5086946487,
+        "trueRank":23.0,
+        "predictionRank":18.0
+    },
+    "2017":{
+        "index":1656547200000,
+        "company ID":"WEC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5038735271,
+        "trueRank":21.0,
+        "predictionRank":19.0
+    },
+    "2006":{
+        "index":1656547200000,
+        "company ID":"LNT",
+        "Rank Target":0.5,
+        "prediction":0.4956298172,
+        "trueRank":16.0,
+        "predictionRank":20.0
+    },
+    "1997":{
+        "index":1656547200000,
+        "company ID":"EIX",
+        "Rank Target":0.4,
+        "prediction":0.4947683513,
+        "trueRank":19.0,
+        "predictionRank":21.0
+    },
+    "2007":{
+        "index":1656547200000,
+        "company ID":"MGEE",
+        "Rank Target":0.1333333333,
+        "prediction":0.4846184552,
+        "trueRank":27.0,
+        "predictionRank":22.0
+    },
+    "2011":{
+        "index":1656547200000,
+        "company ID":"PCG",
+        "Rank Target":1.0,
+        "prediction":0.4821276367,
+        "trueRank":1.0,
+        "predictionRank":23.0
+    },
+    "1993":{
+        "index":1656547200000,
+        "company ID":"D",
+        "Rank Target":0.1666666667,
+        "prediction":0.4564070106,
+        "trueRank":26.0,
+        "predictionRank":24.0
+    },
+    "2005":{
+        "index":1656547200000,
+        "company ID":"IDA",
+        "Rank Target":0.7333333333,
+        "prediction":0.4476036131,
+        "trueRank":9.0,
+        "predictionRank":25.0
+    },
+    "1991":{
+        "index":1656547200000,
+        "company ID":"CMS",
+        "Rank Target":0.2333333333,
+        "prediction":0.4457346797,
+        "trueRank":24.0,
+        "predictionRank":26.0
+    },
+    "2004":{
+        "index":1656547200000,
+        "company ID":"HE",
+        "Rank Target":0.0666666667,
+        "prediction":0.4425881207,
+        "trueRank":29.0,
+        "predictionRank":27.0
+    },
+    "2013":{
+        "index":1656547200000,
+        "company ID":"PNW",
+        "Rank Target":0.3,
+        "prediction":0.4407971203,
+        "trueRank":22.0,
+        "predictionRank":28.0
+    },
+    "2009":{
+        "index":1656547200000,
+        "company ID":"NWE",
+        "Rank Target":0.1,
+        "prediction":0.4311436713,
+        "trueRank":28.0,
+        "predictionRank":29.0
+    },
+    "1994":{
+        "index":1656547200000,
+        "company ID":"DTE",
+        "Rank Target":0.6,
+        "prediction":0.4062134326,
+        "trueRank":13.0,
+        "predictionRank":30.0
+    },
+    "2033":{
+        "index":1664496000000,
+        "company ID":"GNE",
+        "Rank Target":0.7666666667,
+        "prediction":0.6550953984,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "2038":{
+        "index":1664496000000,
+        "company ID":"NEE",
+        "Rank Target":0.1666666667,
+        "prediction":0.6240786314,
+        "trueRank":26.0,
+        "predictionRank":2.0
+    },
+    "2024":{
+        "index":1664496000000,
+        "company ID":"DTE",
+        "Rank Target":0.0666666667,
+        "prediction":0.5734060407,
+        "trueRank":29.0,
+        "predictionRank":3.0
+    },
+    "2046":{
+        "index":1664496000000,
+        "company ID":"SO",
+        "Rank Target":0.2,
+        "prediction":0.5733993053,
+        "trueRank":25.0,
+        "predictionRank":4.0
+    },
+    "2019":{
+        "index":1664496000000,
+        "company ID":"AEE",
+        "Rank Target":0.5333333333,
+        "prediction":0.5557690263,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "2043":{
+        "index":1664496000000,
+        "company ID":"PNW",
+        "Rank Target":0.9,
+        "prediction":0.5443459153,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "2027":{
+        "index":1664496000000,
+        "company ID":"EIX",
+        "Rank Target":0.5666666667,
+        "prediction":0.5429600477,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "2023":{
+        "index":1664496000000,
+        "company ID":"D",
+        "Rank Target":0.0333333333,
+        "prediction":0.5397148728,
+        "trueRank":30.0,
+        "predictionRank":8.0
+    },
+    "2048":{
+        "index":1664496000000,
+        "company ID":"XEL",
+        "Rank Target":0.5,
+        "prediction":0.5330011845,
+        "trueRank":16.0,
+        "predictionRank":9.0
+    },
+    "2042":{
+        "index":1664496000000,
+        "company ID":"PEG",
+        "Rank Target":0.4333333333,
+        "prediction":0.5325340629,
+        "trueRank":18.0,
+        "predictionRank":10.0
+    },
+    "2041":{
+        "index":1664496000000,
+        "company ID":"PCG",
+        "Rank Target":1.0,
+        "prediction":0.5245363712,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "2029":{
+        "index":1664496000000,
+        "company ID":"ETR",
+        "Rank Target":0.7,
+        "prediction":0.5232948661,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "2030":{
+        "index":1664496000000,
+        "company ID":"EVRG",
+        "Rank Target":0.2333333333,
+        "prediction":0.5212619305,
+        "trueRank":24.0,
+        "predictionRank":13.0
+    },
+    "2022":{
+        "index":1664496000000,
+        "company ID":"CNP",
+        "Rank Target":0.3,
+        "prediction":0.5094146132,
+        "trueRank":22.0,
+        "predictionRank":14.0
+    },
+    "2031":{
+        "index":1664496000000,
+        "company ID":"EXC",
+        "Rank Target":0.8666666667,
+        "prediction":0.497906208,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "2020":{
+        "index":1664496000000,
+        "company ID":"AEP",
+        "Rank Target":0.6,
+        "prediction":0.4968017936,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "2040":{
+        "index":1664496000000,
+        "company ID":"OGE",
+        "Rank Target":0.4666666667,
+        "prediction":0.4965910017,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "2028":{
+        "index":1664496000000,
+        "company ID":"ES",
+        "Rank Target":0.3333333333,
+        "prediction":0.4929496646,
+        "trueRank":21.0,
+        "predictionRank":18.0
+    },
+    "2026":{
+        "index":1664496000000,
+        "company ID":"ED",
+        "Rank Target":0.7333333333,
+        "prediction":0.4900974929,
+        "trueRank":9.0,
+        "predictionRank":19.0
+    },
+    "2035":{
+        "index":1664496000000,
+        "company ID":"IDA",
+        "Rank Target":0.3666666667,
+        "prediction":0.4873833954,
+        "trueRank":20.0,
+        "predictionRank":20.0
+    },
+    "2021":{
+        "index":1664496000000,
+        "company ID":"CMS",
+        "Rank Target":0.4,
+        "prediction":0.4761607051,
+        "trueRank":19.0,
+        "predictionRank":21.0
+    },
+    "2037":{
+        "index":1664496000000,
+        "company ID":"MGEE",
+        "Rank Target":0.2666666667,
+        "prediction":0.4760632217,
+        "trueRank":23.0,
+        "predictionRank":22.0
+    },
+    "2045":{
+        "index":1664496000000,
+        "company ID":"PPL",
+        "Rank Target":0.8333333333,
+        "prediction":0.473105371,
+        "trueRank":6.0,
+        "predictionRank":23.0
+    },
+    "2025":{
+        "index":1664496000000,
+        "company ID":"DUK",
+        "Rank Target":0.6333333333,
+        "prediction":0.4668266475,
+        "trueRank":12.0,
+        "predictionRank":24.0
+    },
+    "2047":{
+        "index":1664496000000,
+        "company ID":"WEC",
+        "Rank Target":0.1,
+        "prediction":0.4666191339,
+        "trueRank":28.0,
+        "predictionRank":25.0
+    },
+    "2036":{
+        "index":1664496000000,
+        "company ID":"LNT",
+        "Rank Target":0.1333333333,
+        "prediction":0.4609276354,
+        "trueRank":27.0,
+        "predictionRank":26.0
+    },
+    "2034":{
+        "index":1664496000000,
+        "company ID":"HE",
+        "Rank Target":0.9666666667,
+        "prediction":0.4564406872,
+        "trueRank":2.0,
+        "predictionRank":27.0
+    },
+    "2039":{
+        "index":1664496000000,
+        "company ID":"NWE",
+        "Rank Target":0.9333333333,
+        "prediction":0.4072868824,
+        "trueRank":3.0,
+        "predictionRank":28.0
+    },
+    "2044":{
+        "index":1664496000000,
+        "company ID":"POR",
+        "Rank Target":0.6666666667,
+        "prediction":0.403242588,
+        "trueRank":11.0,
+        "predictionRank":29.0
+    },
+    "2032":{
+        "index":1664496000000,
+        "company ID":"FE",
+        "Rank Target":0.8,
+        "prediction":0.3661701083,
+        "trueRank":7.0,
+        "predictionRank":30.0
+    },
+    "2072":{
+        "index":1672444800000,
+        "company ID":"PEG",
+        "Rank Target":0.8064516129,
+        "prediction":0.6651414633,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "2049":{
+        "index":1672444800000,
+        "company ID":"AEE",
+        "Rank Target":0.5806451613,
+        "prediction":0.5813263655,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "2067":{
+        "index":1672444800000,
+        "company ID":"MGEE",
+        "Rank Target":0.9677419355,
+        "prediction":0.5755261779,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "2052":{
+        "index":1672444800000,
+        "company ID":"CNP",
+        "Rank Target":0.7096774194,
+        "prediction":0.5512664914,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "2071":{
+        "index":1672444800000,
+        "company ID":"PCG",
+        "Rank Target":0.8709677419,
+        "prediction":0.5481556058,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "2069":{
+        "index":1672444800000,
+        "company ID":"NWE",
+        "Rank Target":0.5483870968,
+        "prediction":0.5471824408,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "2076":{
+        "index":1672444800000,
+        "company ID":"SO",
+        "Rank Target":0.4838709677,
+        "prediction":0.54004246,
+        "trueRank":17.0,
+        "predictionRank":7.0
+    },
+    "2062":{
+        "index":1672444800000,
+        "company ID":"FE",
+        "Rank Target":0.2258064516,
+        "prediction":0.5362536907,
+        "trueRank":25.0,
+        "predictionRank":8.0
+    },
+    "2057":{
+        "index":1672444800000,
+        "company ID":"EIX",
+        "Rank Target":0.935483871,
+        "prediction":0.5350991488,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "2079":{
+        "index":1672444800000,
+        "company ID":"XEL",
+        "Rank Target":0.3548387097,
+        "prediction":0.5295977592,
+        "trueRank":21.0,
+        "predictionRank":10.0
+    },
+    "2060":{
+        "index":1672444800000,
+        "company ID":"EVRG",
+        "Rank Target":0.5161290323,
+        "prediction":0.5258595347,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "2061":{
+        "index":1672444800000,
+        "company ID":"EXC",
+        "Rank Target":0.4516129032,
+        "prediction":0.520021081,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "2055":{
+        "index":1672444800000,
+        "company ID":"DUK",
+        "Rank Target":0.1935483871,
+        "prediction":0.5189484358,
+        "trueRank":26.0,
+        "predictionRank":13.0
+    },
+    "2056":{
+        "index":1672444800000,
+        "company ID":"ED",
+        "Rank Target":0.6774193548,
+        "prediction":0.5089008212,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "2074":{
+        "index":1672444800000,
+        "company ID":"POR",
+        "Rank Target":0.6451612903,
+        "prediction":0.508113265,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "2058":{
+        "index":1672444800000,
+        "company ID":"ES",
+        "Rank Target":0.1612903226,
+        "prediction":0.5076067448,
+        "trueRank":27.0,
+        "predictionRank":16.0
+    },
+    "2073":{
+        "index":1672444800000,
+        "company ID":"PNW",
+        "Rank Target":0.9032258065,
+        "prediction":0.5044447184,
+        "trueRank":4.0,
+        "predictionRank":17.0
+    },
+    "2075":{
+        "index":1672444800000,
+        "company ID":"PPL",
+        "Rank Target":0.2580645161,
+        "prediction":0.5042866468,
+        "trueRank":24.0,
+        "predictionRank":18.0
+    },
+    "2078":{
+        "index":1672444800000,
+        "company ID":"WEC",
+        "Rank Target":0.8387096774,
+        "prediction":0.4943001568,
+        "trueRank":6.0,
+        "predictionRank":19.0
+    },
+    "2059":{
+        "index":1672444800000,
+        "company ID":"ETR",
+        "Rank Target":0.6129032258,
+        "prediction":0.4931872785,
+        "trueRank":13.0,
+        "predictionRank":20.0
+    },
+    "2068":{
+        "index":1672444800000,
+        "company ID":"NEE",
+        "Rank Target":0.0967741935,
+        "prediction":0.4917506278,
+        "trueRank":29.0,
+        "predictionRank":21.0
+    },
+    "2051":{
+        "index":1672444800000,
+        "company ID":"CMS",
+        "Rank Target":0.4193548387,
+        "prediction":0.4883110225,
+        "trueRank":19.0,
+        "predictionRank":22.0
+    },
+    "2064":{
+        "index":1672444800000,
+        "company ID":"HE",
+        "Rank Target":0.064516129,
+        "prediction":0.4836742878,
+        "trueRank":30.0,
+        "predictionRank":23.0
+    },
+    "2066":{
+        "index":1672444800000,
+        "company ID":"LNT",
+        "Rank Target":0.3870967742,
+        "prediction":0.4787476361,
+        "trueRank":20.0,
+        "predictionRank":24.0
+    },
+    "2065":{
+        "index":1672444800000,
+        "company ID":"IDA",
+        "Rank Target":0.7419354839,
+        "prediction":0.475130111,
+        "trueRank":9.0,
+        "predictionRank":25.0
+    },
+    "2054":{
+        "index":1672444800000,
+        "company ID":"DTE",
+        "Rank Target":0.1290322581,
+        "prediction":0.4535554051,
+        "trueRank":28.0,
+        "predictionRank":26.0
+    },
+    "2050":{
+        "index":1672444800000,
+        "company ID":"AEP",
+        "Rank Target":0.3225806452,
+        "prediction":0.452601403,
+        "trueRank":22.0,
+        "predictionRank":27.0
+    },
+    "2053":{
+        "index":1672444800000,
+        "company ID":"D",
+        "Rank Target":0.0322580645,
+        "prediction":0.4465263486,
+        "trueRank":31.0,
+        "predictionRank":28.0
+    },
+    "2063":{
+        "index":1672444800000,
+        "company ID":"GNE",
+        "Rank Target":1.0,
+        "prediction":0.4363940656,
+        "trueRank":1.0,
+        "predictionRank":29.0
+    },
+    "2077":{
+        "index":1672444800000,
+        "company ID":"TXNM",
+        "Rank Target":0.7741935484,
+        "prediction":0.4288602471,
+        "trueRank":8.0,
+        "predictionRank":30.0
+    },
+    "2070":{
+        "index":1672444800000,
+        "company ID":"OGE",
+        "Rank Target":0.2903225806,
+        "prediction":0.3692638874,
+        "trueRank":23.0,
+        "predictionRank":31.0
+    },
+    "2103":{
+        "index":1680220800000,
+        "company ID":"PEG",
+        "Rank Target":0.9032258065,
+        "prediction":0.6213092208,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "2099":{
+        "index":1680220800000,
+        "company ID":"NEE",
+        "Rank Target":0.3870967742,
+        "prediction":0.5687252879,
+        "trueRank":20.0,
+        "predictionRank":2.0
+    },
+    "2104":{
+        "index":1680220800000,
+        "company ID":"PNW",
+        "Rank Target":0.9677419355,
+        "prediction":0.5607098937,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "2084":{
+        "index":1680220800000,
+        "company ID":"D",
+        "Rank Target":0.2580645161,
+        "prediction":0.5439424515,
+        "trueRank":24.0,
+        "predictionRank":4.0
+    },
+    "2091":{
+        "index":1680220800000,
+        "company ID":"EVRG",
+        "Rank Target":0.5161290323,
+        "prediction":0.5382312536,
+        "trueRank":16.0,
+        "predictionRank":5.0
+    },
+    "2087":{
+        "index":1680220800000,
+        "company ID":"ED",
+        "Rank Target":0.3225806452,
+        "prediction":0.5374726653,
+        "trueRank":22.0,
+        "predictionRank":6.0
+    },
+    "2090":{
+        "index":1680220800000,
+        "company ID":"ETR",
+        "Rank Target":0.0322580645,
+        "prediction":0.5290932059,
+        "trueRank":31.0,
+        "predictionRank":7.0
+    },
+    "2105":{
+        "index":1680220800000,
+        "company ID":"POR",
+        "Rank Target":0.4838709677,
+        "prediction":0.5263211131,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "2093":{
+        "index":1680220800000,
+        "company ID":"FE",
+        "Rank Target":0.6774193548,
+        "prediction":0.5085583329,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "2110":{
+        "index":1680220800000,
+        "company ID":"XEL",
+        "Rank Target":0.0967741935,
+        "prediction":0.5025197268,
+        "trueRank":29.0,
+        "predictionRank":10.0
+    },
+    "2106":{
+        "index":1680220800000,
+        "company ID":"PPL",
+        "Rank Target":0.4193548387,
+        "prediction":0.5023322701,
+        "trueRank":19.0,
+        "predictionRank":11.0
+    },
+    "2088":{
+        "index":1680220800000,
+        "company ID":"EIX",
+        "Rank Target":0.6451612903,
+        "prediction":0.4867295623,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "2083":{
+        "index":1680220800000,
+        "company ID":"CNP",
+        "Rank Target":0.7096774194,
+        "prediction":0.4769801795,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "2102":{
+        "index":1680220800000,
+        "company ID":"PCG",
+        "Rank Target":1.0,
+        "prediction":0.4760250747,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "2092":{
+        "index":1680220800000,
+        "company ID":"EXC",
+        "Rank Target":0.6129032258,
+        "prediction":0.4755138457,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "2108":{
+        "index":1680220800000,
+        "company ID":"TXNM",
+        "Rank Target":0.1935483871,
+        "prediction":0.4712053537,
+        "trueRank":26.0,
+        "predictionRank":16.0
+    },
+    "2100":{
+        "index":1680220800000,
+        "company ID":"NWE",
+        "Rank Target":0.8064516129,
+        "prediction":0.4696392715,
+        "trueRank":7.0,
+        "predictionRank":17.0
+    },
+    "2101":{
+        "index":1680220800000,
+        "company ID":"OGE",
+        "Rank Target":0.5806451613,
+        "prediction":0.4684164822,
+        "trueRank":14.0,
+        "predictionRank":18.0
+    },
+    "2095":{
+        "index":1680220800000,
+        "company ID":"HE",
+        "Rank Target":0.4516129032,
+        "prediction":0.4643285275,
+        "trueRank":18.0,
+        "predictionRank":19.0
+    },
+    "2082":{
+        "index":1680220800000,
+        "company ID":"CMS",
+        "Rank Target":0.5483870968,
+        "prediction":0.4626711607,
+        "trueRank":15.0,
+        "predictionRank":20.0
+    },
+    "2085":{
+        "index":1680220800000,
+        "company ID":"DTE",
+        "Rank Target":0.8387096774,
+        "prediction":0.4604046643,
+        "trueRank":6.0,
+        "predictionRank":21.0
+    },
+    "2081":{
+        "index":1680220800000,
+        "company ID":"AEP",
+        "Rank Target":0.1290322581,
+        "prediction":0.4544447064,
+        "trueRank":28.0,
+        "predictionRank":22.0
+    },
+    "2109":{
+        "index":1680220800000,
+        "company ID":"WEC",
+        "Rank Target":0.1612903226,
+        "prediction":0.4496383667,
+        "trueRank":27.0,
+        "predictionRank":23.0
+    },
+    "2107":{
+        "index":1680220800000,
+        "company ID":"SO",
+        "Rank Target":0.8709677419,
+        "prediction":0.4469017684,
+        "trueRank":5.0,
+        "predictionRank":24.0
+    },
+    "2089":{
+        "index":1680220800000,
+        "company ID":"ES",
+        "Rank Target":0.064516129,
+        "prediction":0.4416510761,
+        "trueRank":30.0,
+        "predictionRank":25.0
+    },
+    "2096":{
+        "index":1680220800000,
+        "company ID":"IDA",
+        "Rank Target":0.3548387097,
+        "prediction":0.4372868836,
+        "trueRank":21.0,
+        "predictionRank":26.0
+    },
+    "2086":{
+        "index":1680220800000,
+        "company ID":"DUK",
+        "Rank Target":0.2258064516,
+        "prediction":0.4270135164,
+        "trueRank":25.0,
+        "predictionRank":27.0
+    },
+    "2097":{
+        "index":1680220800000,
+        "company ID":"LNT",
+        "Rank Target":0.7741935484,
+        "prediction":0.4236735702,
+        "trueRank":8.0,
+        "predictionRank":28.0
+    },
+    "2080":{
+        "index":1680220800000,
+        "company ID":"AEE",
+        "Rank Target":0.2903225806,
+        "prediction":0.4037859142,
+        "trueRank":23.0,
+        "predictionRank":29.0
+    },
+    "2094":{
+        "index":1680220800000,
+        "company ID":"GNE",
+        "Rank Target":0.7419354839,
+        "prediction":0.4013531804,
+        "trueRank":9.0,
+        "predictionRank":30.0
+    },
+    "2098":{
+        "index":1680220800000,
+        "company ID":"MGEE",
+        "Rank Target":0.935483871,
+        "prediction":0.3765743375,
+        "trueRank":3.0,
+        "predictionRank":31.0
+    },
+    "2121":{
+        "index":1688083200000,
+        "company ID":"ETR",
+        "Rank Target":0.9032258065,
+        "prediction":0.5901040435,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "2130":{
+        "index":1688083200000,
+        "company ID":"NEE",
+        "Rank Target":0.064516129,
+        "prediction":0.5738269091,
+        "trueRank":30.0,
+        "predictionRank":2.0
+    },
+    "2132":{
+        "index":1688083200000,
+        "company ID":"OGE",
+        "Rank Target":0.8064516129,
+        "prediction":0.5580149889,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "2116":{
+        "index":1688083200000,
+        "company ID":"DTE",
+        "Rank Target":0.4193548387,
+        "prediction":0.5571529269,
+        "trueRank":19.0,
+        "predictionRank":4.0
+    },
+    "2133":{
+        "index":1688083200000,
+        "company ID":"PCG",
+        "Rank Target":0.8387096774,
+        "prediction":0.5537198186,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "2124":{
+        "index":1688083200000,
+        "company ID":"FE",
+        "Rank Target":0.2903225806,
+        "prediction":0.5464126468,
+        "trueRank":23.0,
+        "predictionRank":6.0
+    },
+    "2119":{
+        "index":1688083200000,
+        "company ID":"EIX",
+        "Rank Target":0.7096774194,
+        "prediction":0.5437247157,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "2122":{
+        "index":1688083200000,
+        "company ID":"EVRG",
+        "Rank Target":0.2580645161,
+        "prediction":0.5353468657,
+        "trueRank":24.0,
+        "predictionRank":8.0
+    },
+    "2134":{
+        "index":1688083200000,
+        "company ID":"PEG",
+        "Rank Target":0.5483870968,
+        "prediction":0.5351142883,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "2123":{
+        "index":1688083200000,
+        "company ID":"EXC",
+        "Rank Target":0.7741935484,
+        "prediction":0.5246257782,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "2113":{
+        "index":1688083200000,
+        "company ID":"CMS",
+        "Rank Target":0.3870967742,
+        "prediction":0.5238221884,
+        "trueRank":20.0,
+        "predictionRank":11.0
+    },
+    "2140":{
+        "index":1688083200000,
+        "company ID":"WEC",
+        "Rank Target":0.4516129032,
+        "prediction":0.5155778527,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "2129":{
+        "index":1688083200000,
+        "company ID":"MGEE",
+        "Rank Target":0.1935483871,
+        "prediction":0.5078776479,
+        "trueRank":26.0,
+        "predictionRank":13.0
+    },
+    "2139":{
+        "index":1688083200000,
+        "company ID":"TXNM",
+        "Rank Target":0.9677419355,
+        "prediction":0.5034143329,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "2126":{
+        "index":1688083200000,
+        "company ID":"HE",
+        "Rank Target":0.0322580645,
+        "prediction":0.4988300204,
+        "trueRank":31.0,
+        "predictionRank":15.0
+    },
+    "2138":{
+        "index":1688083200000,
+        "company ID":"SO",
+        "Rank Target":0.7419354839,
+        "prediction":0.4958954751,
+        "trueRank":9.0,
+        "predictionRank":16.0
+    },
+    "2128":{
+        "index":1688083200000,
+        "company ID":"LNT",
+        "Rank Target":0.6774193548,
+        "prediction":0.4887125194,
+        "trueRank":11.0,
+        "predictionRank":17.0
+    },
+    "2117":{
+        "index":1688083200000,
+        "company ID":"DUK",
+        "Rank Target":0.935483871,
+        "prediction":0.4858650565,
+        "trueRank":3.0,
+        "predictionRank":18.0
+    },
+    "2125":{
+        "index":1688083200000,
+        "company ID":"GNE",
+        "Rank Target":1.0,
+        "prediction":0.4818425179,
+        "trueRank":1.0,
+        "predictionRank":19.0
+    },
+    "2141":{
+        "index":1688083200000,
+        "company ID":"XEL",
+        "Rank Target":0.6129032258,
+        "prediction":0.4798784852,
+        "trueRank":13.0,
+        "predictionRank":20.0
+    },
+    "2115":{
+        "index":1688083200000,
+        "company ID":"D",
+        "Rank Target":0.1612903226,
+        "prediction":0.4746817648,
+        "trueRank":27.0,
+        "predictionRank":21.0
+    },
+    "2136":{
+        "index":1688083200000,
+        "company ID":"POR",
+        "Rank Target":0.2258064516,
+        "prediction":0.4636772275,
+        "trueRank":25.0,
+        "predictionRank":22.0
+    },
+    "2127":{
+        "index":1688083200000,
+        "company ID":"IDA",
+        "Rank Target":0.5806451613,
+        "prediction":0.462172091,
+        "trueRank":14.0,
+        "predictionRank":23.0
+    },
+    "2111":{
+        "index":1688083200000,
+        "company ID":"AEE",
+        "Rank Target":0.4838709677,
+        "prediction":0.4618133307,
+        "trueRank":17.0,
+        "predictionRank":24.0
+    },
+    "2120":{
+        "index":1688083200000,
+        "company ID":"ES",
+        "Rank Target":0.0967741935,
+        "prediction":0.4612667561,
+        "trueRank":29.0,
+        "predictionRank":25.0
+    },
+    "2135":{
+        "index":1688083200000,
+        "company ID":"PNW",
+        "Rank Target":0.5161290323,
+        "prediction":0.4592963159,
+        "trueRank":16.0,
+        "predictionRank":26.0
+    },
+    "2112":{
+        "index":1688083200000,
+        "company ID":"AEP",
+        "Rank Target":0.3225806452,
+        "prediction":0.4582126737,
+        "trueRank":22.0,
+        "predictionRank":27.0
+    },
+    "2114":{
+        "index":1688083200000,
+        "company ID":"CNP",
+        "Rank Target":0.6451612903,
+        "prediction":0.4509064555,
+        "trueRank":12.0,
+        "predictionRank":28.0
+    },
+    "2131":{
+        "index":1688083200000,
+        "company ID":"NWE",
+        "Rank Target":0.1290322581,
+        "prediction":0.4452828765,
+        "trueRank":28.0,
+        "predictionRank":29.0
+    },
+    "2137":{
+        "index":1688083200000,
+        "company ID":"PPL",
+        "Rank Target":0.3548387097,
+        "prediction":0.4430860281,
+        "trueRank":21.0,
+        "predictionRank":30.0
+    },
+    "2118":{
+        "index":1688083200000,
+        "company ID":"ED",
+        "Rank Target":0.8709677419,
+        "prediction":0.4308891594,
+        "trueRank":5.0,
+        "predictionRank":31.0
+    },
+    "2166":{
+        "index":1696032000000,
+        "company ID":"PNW",
+        "Rank Target":0.1290322581,
+        "prediction":0.6726844311,
+        "trueRank":28.0,
+        "predictionRank":1.0
+    },
+    "2143":{
+        "index":1696032000000,
+        "company ID":"AEP",
+        "Rank Target":0.6774193548,
+        "prediction":0.5712528229,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "2150":{
+        "index":1696032000000,
+        "company ID":"EIX",
+        "Rank Target":0.9032258065,
+        "prediction":0.5689911246,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "2160":{
+        "index":1696032000000,
+        "company ID":"MGEE",
+        "Rank Target":0.1612903226,
+        "prediction":0.5651673675,
+        "trueRank":27.0,
+        "predictionRank":4.0
+    },
+    "2165":{
+        "index":1696032000000,
+        "company ID":"PEG",
+        "Rank Target":0.5483870968,
+        "prediction":0.5458311439,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "2152":{
+        "index":1696032000000,
+        "company ID":"ETR",
+        "Rank Target":0.7419354839,
+        "prediction":0.5439886451,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "2170":{
+        "index":1696032000000,
+        "company ID":"TXNM",
+        "Rank Target":0.0322580645,
+        "prediction":0.5303804278,
+        "trueRank":31.0,
+        "predictionRank":7.0
+    },
+    "2145":{
+        "index":1696032000000,
+        "company ID":"CNP",
+        "Rank Target":0.3225806452,
+        "prediction":0.5296835303,
+        "trueRank":22.0,
+        "predictionRank":8.0
+    },
+    "2148":{
+        "index":1696032000000,
+        "company ID":"DUK",
+        "Rank Target":0.8064516129,
+        "prediction":0.5268301368,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "2142":{
+        "index":1696032000000,
+        "company ID":"AEE",
+        "Rank Target":0.0967741935,
+        "prediction":0.5198773146,
+        "trueRank":29.0,
+        "predictionRank":10.0
+    },
+    "2169":{
+        "index":1696032000000,
+        "company ID":"SO",
+        "Rank Target":0.4516129032,
+        "prediction":0.5176716447,
+        "trueRank":18.0,
+        "predictionRank":11.0
+    },
+    "2159":{
+        "index":1696032000000,
+        "company ID":"LNT",
+        "Rank Target":0.4838709677,
+        "prediction":0.5172783732,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "2163":{
+        "index":1696032000000,
+        "company ID":"OGE",
+        "Rank Target":0.3548387097,
+        "prediction":0.5158782005,
+        "trueRank":21.0,
+        "predictionRank":13.0
+    },
+    "2154":{
+        "index":1696032000000,
+        "company ID":"EXC",
+        "Rank Target":0.064516129,
+        "prediction":0.514131546,
+        "trueRank":30.0,
+        "predictionRank":14.0
+    },
+    "2144":{
+        "index":1696032000000,
+        "company ID":"CMS",
+        "Rank Target":0.7096774194,
+        "prediction":0.5125255585,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "2155":{
+        "index":1696032000000,
+        "company ID":"FE",
+        "Rank Target":0.3870967742,
+        "prediction":0.5074957013,
+        "trueRank":20.0,
+        "predictionRank":16.0
+    },
+    "2147":{
+        "index":1696032000000,
+        "company ID":"DTE",
+        "Rank Target":0.7741935484,
+        "prediction":0.5031962395,
+        "trueRank":8.0,
+        "predictionRank":17.0
+    },
+    "2164":{
+        "index":1696032000000,
+        "company ID":"PCG",
+        "Rank Target":0.8709677419,
+        "prediction":0.4986601472,
+        "trueRank":5.0,
+        "predictionRank":18.0
+    },
+    "2158":{
+        "index":1696032000000,
+        "company ID":"IDA",
+        "Rank Target":0.2258064516,
+        "prediction":0.4854032695,
+        "trueRank":25.0,
+        "predictionRank":19.0
+    },
+    "2151":{
+        "index":1696032000000,
+        "company ID":"ES",
+        "Rank Target":0.5806451613,
+        "prediction":0.4831549227,
+        "trueRank":14.0,
+        "predictionRank":20.0
+    },
+    "2167":{
+        "index":1696032000000,
+        "company ID":"POR",
+        "Rank Target":0.5161290323,
+        "prediction":0.4777436852,
+        "trueRank":16.0,
+        "predictionRank":21.0
+    },
+    "2171":{
+        "index":1696032000000,
+        "company ID":"WEC",
+        "Rank Target":0.2580645161,
+        "prediction":0.4713629484,
+        "trueRank":24.0,
+        "predictionRank":22.0
+    },
+    "2168":{
+        "index":1696032000000,
+        "company ID":"PPL",
+        "Rank Target":0.935483871,
+        "prediction":0.4713375568,
+        "trueRank":3.0,
+        "predictionRank":23.0
+    },
+    "2146":{
+        "index":1696032000000,
+        "company ID":"D",
+        "Rank Target":0.6451612903,
+        "prediction":0.4614908397,
+        "trueRank":12.0,
+        "predictionRank":24.0
+    },
+    "2162":{
+        "index":1696032000000,
+        "company ID":"NWE",
+        "Rank Target":0.2903225806,
+        "prediction":0.4499907792,
+        "trueRank":23.0,
+        "predictionRank":25.0
+    },
+    "2153":{
+        "index":1696032000000,
+        "company ID":"EVRG",
+        "Rank Target":0.1935483871,
+        "prediction":0.447991997,
+        "trueRank":26.0,
+        "predictionRank":26.0
+    },
+    "2172":{
+        "index":1696032000000,
+        "company ID":"XEL",
+        "Rank Target":0.6129032258,
+        "prediction":0.4344165325,
+        "trueRank":13.0,
+        "predictionRank":27.0
+    },
+    "2161":{
+        "index":1696032000000,
+        "company ID":"NEE",
+        "Rank Target":0.8387096774,
+        "prediction":0.4249715805,
+        "trueRank":6.0,
+        "predictionRank":28.0
+    },
+    "2156":{
+        "index":1696032000000,
+        "company ID":"GNE",
+        "Rank Target":1.0,
+        "prediction":0.397692889,
+        "trueRank":1.0,
+        "predictionRank":29.0
+    },
+    "2149":{
+        "index":1696032000000,
+        "company ID":"ED",
+        "Rank Target":0.4193548387,
+        "prediction":0.3831647635,
+        "trueRank":19.0,
+        "predictionRank":30.0
+    },
+    "2157":{
+        "index":1696032000000,
+        "company ID":"HE",
+        "Rank Target":0.9677419355,
+        "prediction":0.3799038231,
+        "trueRank":2.0,
+        "predictionRank":31.0
+    },
+    "2176":{
+        "index":1703980800000,
+        "company ID":"CNP",
+        "Rank Target":0.3870967742,
+        "prediction":0.6097803712,
+        "trueRank":20.0,
+        "predictionRank":1.0
+    },
+    "2178":{
+        "index":1703980800000,
+        "company ID":"DTE",
+        "Rank Target":0.6774193548,
+        "prediction":0.5990349054,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "2175":{
+        "index":1703980800000,
+        "company ID":"CMS",
+        "Rank Target":0.7419354839,
+        "prediction":0.5960613489,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "2186":{
+        "index":1703980800000,
+        "company ID":"FE",
+        "Rank Target":0.8064516129,
+        "prediction":0.5807779431,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "2179":{
+        "index":1703980800000,
+        "company ID":"DUK",
+        "Rank Target":0.4516129032,
+        "prediction":0.5739246011,
+        "trueRank":18.0,
+        "predictionRank":5.0
+    },
+    "2183":{
+        "index":1703980800000,
+        "company ID":"ETR",
+        "Rank Target":0.8387096774,
+        "prediction":0.5634699464,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "2200":{
+        "index":1703980800000,
+        "company ID":"SO",
+        "Rank Target":0.5483870968,
+        "prediction":0.5616977811,
+        "trueRank":15.0,
+        "predictionRank":7.0
+    },
+    "2195":{
+        "index":1703980800000,
+        "company ID":"PCG",
+        "Rank Target":0.1290322581,
+        "prediction":0.5552386642,
+        "trueRank":28.0,
+        "predictionRank":8.0
+    },
+    "2185":{
+        "index":1703980800000,
+        "company ID":"EXC",
+        "Rank Target":0.935483871,
+        "prediction":0.547980845,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "2184":{
+        "index":1703980800000,
+        "company ID":"EVRG",
+        "Rank Target":0.5161290323,
+        "prediction":0.5332265496,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "2193":{
+        "index":1703980800000,
+        "company ID":"NWE",
+        "Rank Target":0.6129032258,
+        "prediction":0.5172115564,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "2194":{
+        "index":1703980800000,
+        "company ID":"OGE",
+        "Rank Target":0.3225806452,
+        "prediction":0.5112452507,
+        "trueRank":22.0,
+        "predictionRank":12.0
+    },
+    "2174":{
+        "index":1703980800000,
+        "company ID":"AEP",
+        "Rank Target":0.9032258065,
+        "prediction":0.5092394352,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "2198":{
+        "index":1703980800000,
+        "company ID":"POR",
+        "Rank Target":0.2580645161,
+        "prediction":0.5087599158,
+        "trueRank":24.0,
+        "predictionRank":14.0
+    },
+    "2197":{
+        "index":1703980800000,
+        "company ID":"PNW",
+        "Rank Target":0.7096774194,
+        "prediction":0.5049060583,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "2173":{
+        "index":1703980800000,
+        "company ID":"AEE",
+        "Rank Target":0.6451612903,
+        "prediction":0.4982256889,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "2177":{
+        "index":1703980800000,
+        "company ID":"D",
+        "Rank Target":0.7741935484,
+        "prediction":0.4969992042,
+        "trueRank":8.0,
+        "predictionRank":17.0
+    },
+    "2201":{
+        "index":1703980800000,
+        "company ID":"TXNM",
+        "Rank Target":0.2903225806,
+        "prediction":0.4963525534,
+        "trueRank":23.0,
+        "predictionRank":18.0
+    },
+    "2188":{
+        "index":1703980800000,
+        "company ID":"HE",
+        "Rank Target":0.064516129,
+        "prediction":0.4910125136,
+        "trueRank":30.0,
+        "predictionRank":19.0
+    },
+    "2182":{
+        "index":1703980800000,
+        "company ID":"ES",
+        "Rank Target":0.1612903226,
+        "prediction":0.4899004698,
+        "trueRank":27.0,
+        "predictionRank":20.0
+    },
+    "2196":{
+        "index":1703980800000,
+        "company ID":"PEG",
+        "Rank Target":1.0,
+        "prediction":0.4866669774,
+        "trueRank":1.0,
+        "predictionRank":21.0
+    },
+    "2190":{
+        "index":1703980800000,
+        "company ID":"LNT",
+        "Rank Target":0.3548387097,
+        "prediction":0.4804911017,
+        "trueRank":21.0,
+        "predictionRank":22.0
+    },
+    "2180":{
+        "index":1703980800000,
+        "company ID":"ED",
+        "Rank Target":0.4193548387,
+        "prediction":0.4691050053,
+        "trueRank":19.0,
+        "predictionRank":23.0
+    },
+    "2192":{
+        "index":1703980800000,
+        "company ID":"NEE",
+        "Rank Target":0.8709677419,
+        "prediction":0.446659565,
+        "trueRank":5.0,
+        "predictionRank":24.0
+    },
+    "2203":{
+        "index":1703980800000,
+        "company ID":"XEL",
+        "Rank Target":0.0967741935,
+        "prediction":0.4444189668,
+        "trueRank":29.0,
+        "predictionRank":25.0
+    },
+    "2181":{
+        "index":1703980800000,
+        "company ID":"EIX",
+        "Rank Target":0.4838709677,
+        "prediction":0.4418399036,
+        "trueRank":17.0,
+        "predictionRank":26.0
+    },
+    "2189":{
+        "index":1703980800000,
+        "company ID":"IDA",
+        "Rank Target":0.1935483871,
+        "prediction":0.4281587899,
+        "trueRank":26.0,
+        "predictionRank":27.0
+    },
+    "2191":{
+        "index":1703980800000,
+        "company ID":"MGEE",
+        "Rank Target":0.9677419355,
+        "prediction":0.4252744913,
+        "trueRank":2.0,
+        "predictionRank":28.0
+    },
+    "2202":{
+        "index":1703980800000,
+        "company ID":"WEC",
+        "Rank Target":0.2258064516,
+        "prediction":0.3984616697,
+        "trueRank":25.0,
+        "predictionRank":29.0
+    },
+    "2199":{
+        "index":1703980800000,
+        "company ID":"PPL",
+        "Rank Target":0.5806451613,
+        "prediction":0.3888683319,
+        "trueRank":14.0,
+        "predictionRank":30.0
+    },
+    "2187":{
+        "index":1703980800000,
+        "company ID":"GNE",
+        "Rank Target":0.0322580645,
+        "prediction":0.3552591205,
+        "trueRank":31.0,
+        "predictionRank":31.0
+    },
+    "2234":{
+        "index":1711843200000,
+        "company ID":"WEC",
+        "Rank Target":0.1875,
+        "prediction":0.6277107596,
+        "trueRank":27.0,
+        "predictionRank":1.0
+    },
+    "2232":{
+        "index":1711843200000,
+        "company ID":"SO",
+        "Rank Target":0.90625,
+        "prediction":0.5867254734,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "2205":{
+        "index":1711843200000,
+        "company ID":"AEP",
+        "Rank Target":0.75,
+        "prediction":0.5846732855,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "2230":{
+        "index":1711843200000,
+        "company ID":"POR",
+        "Rank Target":0.875,
+        "prediction":0.5835421085,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "2206":{
+        "index":1711843200000,
+        "company ID":"CMS",
+        "Rank Target":0.40625,
+        "prediction":0.5646480322,
+        "trueRank":20.0,
+        "predictionRank":5.0
+    },
+    "2207":{
+        "index":1711843200000,
+        "company ID":"CNP",
+        "Rank Target":0.9375,
+        "prediction":0.5602989793,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "2224":{
+        "index":1711843200000,
+        "company ID":"NEE",
+        "Rank Target":1.0,
+        "prediction":0.5567616224,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "2213":{
+        "index":1711843200000,
+        "company ID":"ES",
+        "Rank Target":0.25,
+        "prediction":0.555760622,
+        "trueRank":25.0,
+        "predictionRank":8.0
+    },
+    "2210":{
+        "index":1711843200000,
+        "company ID":"DUK",
+        "Rank Target":0.8125,
+        "prediction":0.5480728149,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "2222":{
+        "index":1711843200000,
+        "company ID":"LNT",
+        "Rank Target":0.6875,
+        "prediction":0.5440530777,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "2212":{
+        "index":1711843200000,
+        "company ID":"EIX",
+        "Rank Target":0.59375,
+        "prediction":0.5299709439,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "2215":{
+        "index":1711843200000,
+        "company ID":"EVRG",
+        "Rank Target":0.5,
+        "prediction":0.5245881081,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "2216":{
+        "index":1711843200000,
+        "company ID":"EXC",
+        "Rank Target":0.09375,
+        "prediction":0.5192459822,
+        "trueRank":30.0,
+        "predictionRank":13.0
+    },
+    "2227":{
+        "index":1711843200000,
+        "company ID":"PCG",
+        "Rank Target":0.71875,
+        "prediction":0.5138651729,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "2208":{
+        "index":1711843200000,
+        "company ID":"D",
+        "Rank Target":0.53125,
+        "prediction":0.5124212503,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "2209":{
+        "index":1711843200000,
+        "company ID":"DTE",
+        "Rank Target":0.46875,
+        "prediction":0.5090693831,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "2221":{
+        "index":1711843200000,
+        "company ID":"IMSR",
+        "Rank Target":0.03125,
+        "prediction":0.5070787668,
+        "trueRank":32.0,
+        "predictionRank":17.0
+    },
+    "2229":{
+        "index":1711843200000,
+        "company ID":"PNW",
+        "Rank Target":0.84375,
+        "prediction":0.5057740211,
+        "trueRank":6.0,
+        "predictionRank":18.0
+    },
+    "2217":{
+        "index":1711843200000,
+        "company ID":"FE",
+        "Rank Target":0.4375,
+        "prediction":0.5017873049,
+        "trueRank":19.0,
+        "predictionRank":19.0
+    },
+    "2231":{
+        "index":1711843200000,
+        "company ID":"PPL",
+        "Rank Target":0.5625,
+        "prediction":0.499573946,
+        "trueRank":15.0,
+        "predictionRank":20.0
+    },
+    "2235":{
+        "index":1711843200000,
+        "company ID":"XEL",
+        "Rank Target":0.28125,
+        "prediction":0.4977264404,
+        "trueRank":24.0,
+        "predictionRank":21.0
+    },
+    "2219":{
+        "index":1711843200000,
+        "company ID":"HE",
+        "Rank Target":0.0625,
+        "prediction":0.4945238531,
+        "trueRank":31.0,
+        "predictionRank":22.0
+    },
+    "2204":{
+        "index":1711843200000,
+        "company ID":"AEE",
+        "Rank Target":0.21875,
+        "prediction":0.4863139987,
+        "trueRank":26.0,
+        "predictionRank":23.0
+    },
+    "2223":{
+        "index":1711843200000,
+        "company ID":"MGEE",
+        "Rank Target":0.15625,
+        "prediction":0.4783661067,
+        "trueRank":28.0,
+        "predictionRank":24.0
+    },
+    "2233":{
+        "index":1711843200000,
+        "company ID":"TXNM",
+        "Rank Target":0.34375,
+        "prediction":0.4704062045,
+        "trueRank":22.0,
+        "predictionRank":25.0
+    },
+    "2228":{
+        "index":1711843200000,
+        "company ID":"PEG",
+        "Rank Target":0.96875,
+        "prediction":0.4591682553,
+        "trueRank":2.0,
+        "predictionRank":26.0
+    },
+    "2225":{
+        "index":1711843200000,
+        "company ID":"NWE",
+        "Rank Target":0.375,
+        "prediction":0.4514006078,
+        "trueRank":21.0,
+        "predictionRank":27.0
+    },
+    "2214":{
+        "index":1711843200000,
+        "company ID":"ETR",
+        "Rank Target":0.65625,
+        "prediction":0.4413012564,
+        "trueRank":12.0,
+        "predictionRank":28.0
+    },
+    "2218":{
+        "index":1711843200000,
+        "company ID":"GNE",
+        "Rank Target":0.125,
+        "prediction":0.436455369,
+        "trueRank":29.0,
+        "predictionRank":29.0
+    },
+    "2220":{
+        "index":1711843200000,
+        "company ID":"IDA",
+        "Rank Target":0.625,
+        "prediction":0.4156255722,
+        "trueRank":13.0,
+        "predictionRank":30.0
+    },
+    "2211":{
+        "index":1711843200000,
+        "company ID":"ED",
+        "Rank Target":0.3125,
+        "prediction":0.4129260778,
+        "trueRank":23.0,
+        "predictionRank":31.0
+    },
+    "2226":{
+        "index":1711843200000,
+        "company ID":"OGE",
+        "Rank Target":0.78125,
+        "prediction":0.3922442794,
+        "trueRank":8.0,
+        "predictionRank":32.0
+    },
+    "2242":{
+        "index":1719705600000,
+        "company ID":"DUK",
+        "Rank Target":0.34375,
+        "prediction":0.6104688644,
+        "trueRank":22.0,
+        "predictionRank":1.0
+    },
+    "2264":{
+        "index":1719705600000,
+        "company ID":"SO",
+        "Rank Target":0.28125,
+        "prediction":0.5817177892,
+        "trueRank":24.0,
+        "predictionRank":2.0
+    },
+    "2241":{
+        "index":1719705600000,
+        "company ID":"DTE",
+        "Rank Target":0.46875,
+        "prediction":0.5697045326,
+        "trueRank":18.0,
+        "predictionRank":3.0
+    },
+    "2239":{
+        "index":1719705600000,
+        "company ID":"CNP",
+        "Rank Target":0.03125,
+        "prediction":0.5609229207,
+        "trueRank":32.0,
+        "predictionRank":4.0
+    },
+    "2266":{
+        "index":1719705600000,
+        "company ID":"WEC",
+        "Rank Target":0.96875,
+        "prediction":0.5589102507,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "2236":{
+        "index":1719705600000,
+        "company ID":"AEE",
+        "Rank Target":0.9375,
+        "prediction":0.5557133555,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "2252":{
+        "index":1719705600000,
+        "company ID":"IDA",
+        "Rank Target":0.125,
+        "prediction":0.5496864319,
+        "trueRank":29.0,
+        "predictionRank":7.0
+    },
+    "2261":{
+        "index":1719705600000,
+        "company ID":"PNW",
+        "Rank Target":0.5,
+        "prediction":0.5487843156,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "2247":{
+        "index":1719705600000,
+        "company ID":"EVRG",
+        "Rank Target":0.65625,
+        "prediction":0.5469088554,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "2245":{
+        "index":1719705600000,
+        "company ID":"ES",
+        "Rank Target":0.625,
+        "prediction":0.5401015878,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "2238":{
+        "index":1719705600000,
+        "company ID":"CMS",
+        "Rank Target":0.75,
+        "prediction":0.5332553983,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "2258":{
+        "index":1719705600000,
+        "company ID":"OGE",
+        "Rank Target":0.25,
+        "prediction":0.5265210867,
+        "trueRank":25.0,
+        "predictionRank":12.0
+    },
+    "2262":{
+        "index":1719705600000,
+        "company ID":"POR",
+        "Rank Target":0.15625,
+        "prediction":0.5242845416,
+        "trueRank":28.0,
+        "predictionRank":13.0
+    },
+    "2267":{
+        "index":1719705600000,
+        "company ID":"XEL",
+        "Rank Target":0.90625,
+        "prediction":0.5238171816,
+        "trueRank":4.0,
+        "predictionRank":14.0
+    },
+    "2248":{
+        "index":1719705600000,
+        "company ID":"EXC",
+        "Rank Target":0.40625,
+        "prediction":0.5106607676,
+        "trueRank":20.0,
+        "predictionRank":15.0
+    },
+    "2243":{
+        "index":1719705600000,
+        "company ID":"ED",
+        "Rank Target":0.5625,
+        "prediction":0.4998211861,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "2263":{
+        "index":1719705600000,
+        "company ID":"PPL",
+        "Rank Target":0.71875,
+        "prediction":0.4986582398,
+        "trueRank":10.0,
+        "predictionRank":17.0
+    },
+    "2240":{
+        "index":1719705600000,
+        "company ID":"D",
+        "Rank Target":0.4375,
+        "prediction":0.4960515499,
+        "trueRank":19.0,
+        "predictionRank":18.0
+    },
+    "2244":{
+        "index":1719705600000,
+        "company ID":"EIX",
+        "Rank Target":0.84375,
+        "prediction":0.4850009382,
+        "trueRank":6.0,
+        "predictionRank":19.0
+    },
+    "2257":{
+        "index":1719705600000,
+        "company ID":"NWE",
+        "Rank Target":0.53125,
+        "prediction":0.4770029187,
+        "trueRank":16.0,
+        "predictionRank":20.0
+    },
+    "2237":{
+        "index":1719705600000,
+        "company ID":"AEP",
+        "Rank Target":0.375,
+        "prediction":0.4740746319,
+        "trueRank":21.0,
+        "predictionRank":21.0
+    },
+    "2255":{
+        "index":1719705600000,
+        "company ID":"MGEE",
+        "Rank Target":0.875,
+        "prediction":0.4727409184,
+        "trueRank":5.0,
+        "predictionRank":22.0
+    },
+    "2246":{
+        "index":1719705600000,
+        "company ID":"ETR",
+        "Rank Target":1.0,
+        "prediction":0.4715095162,
+        "trueRank":1.0,
+        "predictionRank":23.0
+    },
+    "2254":{
+        "index":1719705600000,
+        "company ID":"LNT",
+        "Rank Target":0.78125,
+        "prediction":0.4636539221,
+        "trueRank":8.0,
+        "predictionRank":24.0
+    },
+    "2259":{
+        "index":1719705600000,
+        "company ID":"PCG",
+        "Rank Target":0.1875,
+        "prediction":0.4587361217,
+        "trueRank":27.0,
+        "predictionRank":25.0
+    },
+    "2265":{
+        "index":1719705600000,
+        "company ID":"TXNM",
+        "Rank Target":0.8125,
+        "prediction":0.4426601231,
+        "trueRank":7.0,
+        "predictionRank":26.0
+    },
+    "2256":{
+        "index":1719705600000,
+        "company ID":"NEE",
+        "Rank Target":0.59375,
+        "prediction":0.439696908,
+        "trueRank":14.0,
+        "predictionRank":27.0
+    },
+    "2251":{
+        "index":1719705600000,
+        "company ID":"HE",
+        "Rank Target":0.3125,
+        "prediction":0.4377681017,
+        "trueRank":23.0,
+        "predictionRank":28.0
+    },
+    "2249":{
+        "index":1719705600000,
+        "company ID":"FE",
+        "Rank Target":0.21875,
+        "prediction":0.4366614819,
+        "trueRank":26.0,
+        "predictionRank":29.0
+    },
+    "2250":{
+        "index":1719705600000,
+        "company ID":"GNE",
+        "Rank Target":0.09375,
+        "prediction":0.4281981885,
+        "trueRank":30.0,
+        "predictionRank":30.0
+    },
+    "2253":{
+        "index":1719705600000,
+        "company ID":"IMSR",
+        "Rank Target":0.0625,
+        "prediction":0.4170070887,
+        "trueRank":31.0,
+        "predictionRank":31.0
+    },
+    "2260":{
+        "index":1719705600000,
+        "company ID":"PEG",
+        "Rank Target":0.6875,
+        "prediction":0.4144183099,
+        "trueRank":11.0,
+        "predictionRank":32.0
+    },
+    "2285":{
+        "index":1727654400000,
+        "company ID":"LNT",
+        "Rank Target":0.6129032258,
+        "prediction":0.6270618439,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "2279":{
+        "index":1727654400000,
+        "company ID":"EVRG",
+        "Rank Target":0.7419354839,
+        "prediction":0.6032010913,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "2273":{
+        "index":1727654400000,
+        "company ID":"DTE",
+        "Rank Target":0.4516129032,
+        "prediction":0.5986462831,
+        "trueRank":18.0,
+        "predictionRank":3.0
+    },
+    "2287":{
+        "index":1727654400000,
+        "company ID":"NEE",
+        "Rank Target":0.0322580645,
+        "prediction":0.5899659991,
+        "trueRank":31.0,
+        "predictionRank":4.0
+    },
+    "2276":{
+        "index":1727654400000,
+        "company ID":"EIX",
+        "Rank Target":0.2258064516,
+        "prediction":0.5797080994,
+        "trueRank":25.0,
+        "predictionRank":5.0
+    },
+    "2293":{
+        "index":1727654400000,
+        "company ID":"POR",
+        "Rank Target":0.3870967742,
+        "prediction":0.5712944269,
+        "trueRank":20.0,
+        "predictionRank":6.0
+    },
+    "2286":{
+        "index":1727654400000,
+        "company ID":"MGEE",
+        "Rank Target":0.8387096774,
+        "prediction":0.5697017908,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "2283":{
+        "index":1727654400000,
+        "company ID":"HE",
+        "Rank Target":0.6774193548,
+        "prediction":0.5506632924,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "2272":{
+        "index":1727654400000,
+        "company ID":"D",
+        "Rank Target":0.3225806452,
+        "prediction":0.5347676873,
+        "trueRank":22.0,
+        "predictionRank":9.0
+    },
+    "2269":{
+        "index":1727654400000,
+        "company ID":"AEP",
+        "Rank Target":0.1612903226,
+        "prediction":0.5338171124,
+        "trueRank":27.0,
+        "predictionRank":10.0
+    },
+    "2290":{
+        "index":1727654400000,
+        "company ID":"PCG",
+        "Rank Target":0.8064516129,
+        "prediction":0.5260968804,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "2278":{
+        "index":1727654400000,
+        "company ID":"ETR",
+        "Rank Target":1.0,
+        "prediction":0.5249571204,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "2291":{
+        "index":1727654400000,
+        "company ID":"PEG",
+        "Rank Target":0.2580645161,
+        "prediction":0.5210708976,
+        "trueRank":24.0,
+        "predictionRank":13.0
+    },
+    "2292":{
+        "index":1727654400000,
+        "company ID":"PNW",
+        "Rank Target":0.4838709677,
+        "prediction":0.520606041,
+        "trueRank":17.0,
+        "predictionRank":14.0
+    },
+    "2274":{
+        "index":1727654400000,
+        "company ID":"DUK",
+        "Rank Target":0.3548387097,
+        "prediction":0.5169612765,
+        "trueRank":21.0,
+        "predictionRank":15.0
+    },
+    "2270":{
+        "index":1727654400000,
+        "company ID":"CMS",
+        "Rank Target":0.4193548387,
+        "prediction":0.5132524967,
+        "trueRank":19.0,
+        "predictionRank":16.0
+    },
+    "2298":{
+        "index":1727654400000,
+        "company ID":"XEL",
+        "Rank Target":0.8709677419,
+        "prediction":0.5099782348,
+        "trueRank":5.0,
+        "predictionRank":17.0
+    },
+    "2294":{
+        "index":1727654400000,
+        "company ID":"PPL",
+        "Rank Target":0.6451612903,
+        "prediction":0.506095469,
+        "trueRank":12.0,
+        "predictionRank":18.0
+    },
+    "2296":{
+        "index":1727654400000,
+        "company ID":"TXNM",
+        "Rank Target":0.9677419355,
+        "prediction":0.5056387782,
+        "trueRank":2.0,
+        "predictionRank":19.0
+    },
+    "2277":{
+        "index":1727654400000,
+        "company ID":"ES",
+        "Rank Target":0.0967741935,
+        "prediction":0.5055339336,
+        "trueRank":29.0,
+        "predictionRank":20.0
+    },
+    "2284":{
+        "index":1727654400000,
+        "company ID":"IDA",
+        "Rank Target":0.935483871,
+        "prediction":0.503734827,
+        "trueRank":3.0,
+        "predictionRank":21.0
+    },
+    "2288":{
+        "index":1727654400000,
+        "company ID":"NWE",
+        "Rank Target":0.5161290323,
+        "prediction":0.4988975823,
+        "trueRank":16.0,
+        "predictionRank":22.0
+    },
+    "2289":{
+        "index":1727654400000,
+        "company ID":"OGE",
+        "Rank Target":0.7096774194,
+        "prediction":0.4941878915,
+        "trueRank":10.0,
+        "predictionRank":23.0
+    },
+    "2281":{
+        "index":1727654400000,
+        "company ID":"FE",
+        "Rank Target":0.1935483871,
+        "prediction":0.493856281,
+        "trueRank":26.0,
+        "predictionRank":24.0
+    },
+    "2275":{
+        "index":1727654400000,
+        "company ID":"ED",
+        "Rank Target":0.064516129,
+        "prediction":0.4887368381,
+        "trueRank":30.0,
+        "predictionRank":25.0
+    },
+    "2297":{
+        "index":1727654400000,
+        "company ID":"WEC",
+        "Rank Target":0.5806451613,
+        "prediction":0.4861606061,
+        "trueRank":14.0,
+        "predictionRank":26.0
+    },
+    "2268":{
+        "index":1727654400000,
+        "company ID":"AEE",
+        "Rank Target":0.7741935484,
+        "prediction":0.4851655364,
+        "trueRank":8.0,
+        "predictionRank":27.0
+    },
+    "2280":{
+        "index":1727654400000,
+        "company ID":"EXC",
+        "Rank Target":0.2903225806,
+        "prediction":0.4790335298,
+        "trueRank":23.0,
+        "predictionRank":28.0
+    },
+    "2295":{
+        "index":1727654400000,
+        "company ID":"SO",
+        "Rank Target":0.1290322581,
+        "prediction":0.4780788124,
+        "trueRank":28.0,
+        "predictionRank":29.0
+    },
+    "2271":{
+        "index":1727654400000,
+        "company ID":"CNP",
+        "Rank Target":0.9032258065,
+        "prediction":0.4769318402,
+        "trueRank":4.0,
+        "predictionRank":30.0
+    },
+    "2282":{
+        "index":1727654400000,
+        "company ID":"GNE",
+        "Rank Target":0.5483870968,
+        "prediction":0.3551684618,
+        "trueRank":15.0,
+        "predictionRank":31.0
+    },
+    "2308":{
+        "index":1735603200000,
+        "company ID":"ES",
+        "Rank Target":0.3870967742,
+        "prediction":0.6033563018,
+        "trueRank":20.0,
+        "predictionRank":1.0
+    },
+    "2305":{
+        "index":1735603200000,
+        "company ID":"DUK",
+        "Rank Target":0.6774193548,
+        "prediction":0.5819690228,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "2314":{
+        "index":1735603200000,
+        "company ID":"HE",
+        "Rank Target":0.9677419355,
+        "prediction":0.5795007348,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "2323":{
+        "index":1735603200000,
+        "company ID":"PNW",
+        "Rank Target":0.7419354839,
+        "prediction":0.5619413257,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "2328":{
+        "index":1735603200000,
+        "company ID":"WEC",
+        "Rank Target":0.8709677419,
+        "prediction":0.55705446,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "2312":{
+        "index":1735603200000,
+        "company ID":"FE",
+        "Rank Target":0.2258064516,
+        "prediction":0.554846108,
+        "trueRank":25.0,
+        "predictionRank":6.0
+    },
+    "2325":{
+        "index":1735603200000,
+        "company ID":"PPL",
+        "Rank Target":0.6129032258,
+        "prediction":0.5453770161,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "2302":{
+        "index":1735603200000,
+        "company ID":"CNP",
+        "Rank Target":0.8387096774,
+        "prediction":0.5440480113,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "2313":{
+        "index":1735603200000,
+        "company ID":"GNE",
+        "Rank Target":0.1290322581,
+        "prediction":0.5397803783,
+        "trueRank":28.0,
+        "predictionRank":9.0
+    },
+    "2317":{
+        "index":1735603200000,
+        "company ID":"MGEE",
+        "Rank Target":0.1935483871,
+        "prediction":0.5384081006,
+        "trueRank":26.0,
+        "predictionRank":10.0
+    },
+    "2327":{
+        "index":1735603200000,
+        "company ID":"TXNM",
+        "Rank Target":0.4838709677,
+        "prediction":0.5372404456,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "2299":{
+        "index":1735603200000,
+        "company ID":"AEE",
+        "Rank Target":0.7741935484,
+        "prediction":0.5360884666,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "2320":{
+        "index":1735603200000,
+        "company ID":"OGE",
+        "Rank Target":0.5161290323,
+        "prediction":0.5257530808,
+        "trueRank":16.0,
+        "predictionRank":13.0
+    },
+    "2318":{
+        "index":1735603200000,
+        "company ID":"NEE",
+        "Rank Target":0.1612903226,
+        "prediction":0.5208263993,
+        "trueRank":27.0,
+        "predictionRank":14.0
+    },
+    "2315":{
+        "index":1735603200000,
+        "company ID":"IDA",
+        "Rank Target":0.3548387097,
+        "prediction":0.5095552206,
+        "trueRank":21.0,
+        "predictionRank":15.0
+    },
+    "2306":{
+        "index":1735603200000,
+        "company ID":"ED",
+        "Rank Target":1.0,
+        "prediction":0.5085300207,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    },
+    "2310":{
+        "index":1735603200000,
+        "company ID":"EVRG",
+        "Rank Target":0.5806451613,
+        "prediction":0.5071743727,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "2304":{
+        "index":1735603200000,
+        "company ID":"DTE",
+        "Rank Target":0.8064516129,
+        "prediction":0.5065436959,
+        "trueRank":7.0,
+        "predictionRank":18.0
+    },
+    "2301":{
+        "index":1735603200000,
+        "company ID":"CMS",
+        "Rank Target":0.7096774194,
+        "prediction":0.5057664514,
+        "trueRank":10.0,
+        "predictionRank":19.0
+    },
+    "2324":{
+        "index":1735603200000,
+        "company ID":"POR",
+        "Rank Target":0.2903225806,
+        "prediction":0.5036227107,
+        "trueRank":23.0,
+        "predictionRank":20.0
+    },
+    "2307":{
+        "index":1735603200000,
+        "company ID":"EIX",
+        "Rank Target":0.0322580645,
+        "prediction":0.4917370677,
+        "trueRank":31.0,
+        "predictionRank":21.0
+    },
+    "2311":{
+        "index":1735603200000,
+        "company ID":"EXC",
+        "Rank Target":0.935483871,
+        "prediction":0.4907142222,
+        "trueRank":3.0,
+        "predictionRank":22.0
+    },
+    "2329":{
+        "index":1735603200000,
+        "company ID":"XEL",
+        "Rank Target":0.3225806452,
+        "prediction":0.4906305969,
+        "trueRank":22.0,
+        "predictionRank":23.0
+    },
+    "2316":{
+        "index":1735603200000,
+        "company ID":"LNT",
+        "Rank Target":0.4516129032,
+        "prediction":0.4882522523,
+        "trueRank":18.0,
+        "predictionRank":24.0
+    },
+    "2300":{
+        "index":1735603200000,
+        "company ID":"AEP",
+        "Rank Target":0.9032258065,
+        "prediction":0.4868029356,
+        "trueRank":4.0,
+        "predictionRank":25.0
+    },
+    "2322":{
+        "index":1735603200000,
+        "company ID":"PEG",
+        "Rank Target":0.0967741935,
+        "prediction":0.4858570695,
+        "trueRank":29.0,
+        "predictionRank":26.0
+    },
+    "2319":{
+        "index":1735603200000,
+        "company ID":"NWE",
+        "Rank Target":0.4193548387,
+        "prediction":0.4778327346,
+        "trueRank":19.0,
+        "predictionRank":27.0
+    },
+    "2309":{
+        "index":1735603200000,
+        "company ID":"ETR",
+        "Rank Target":0.5483870968,
+        "prediction":0.4731259346,
+        "trueRank":15.0,
+        "predictionRank":28.0
+    },
+    "2303":{
+        "index":1735603200000,
+        "company ID":"D",
+        "Rank Target":0.2580645161,
+        "prediction":0.4580709636,
+        "trueRank":24.0,
+        "predictionRank":29.0
+    },
+    "2326":{
+        "index":1735603200000,
+        "company ID":"SO",
+        "Rank Target":0.6451612903,
+        "prediction":0.4417829514,
+        "trueRank":12.0,
+        "predictionRank":30.0
+    },
+    "2321":{
+        "index":1735603200000,
+        "company ID":"PCG",
+        "Rank Target":0.064516129,
+        "prediction":0.4389856756,
+        "trueRank":30.0,
+        "predictionRank":31.0
+    },
+    "2357":{
+        "index":1743379200000,
+        "company ID":"PPL",
+        "Rank Target":0.25,
+        "prediction":0.6199894547,
+        "trueRank":25.0,
+        "predictionRank":1.0
+    },
+    "2349":{
+        "index":1743379200000,
+        "company ID":"MGEE",
+        "Rank Target":0.53125,
+        "prediction":0.6187753081,
+        "trueRank":16.0,
+        "predictionRank":2.0
+    },
+    "2338":{
+        "index":1743379200000,
+        "company ID":"EIX",
+        "Rank Target":0.125,
+        "prediction":0.6079644561,
+        "trueRank":29.0,
+        "predictionRank":3.0
+    },
+    "2335":{
+        "index":1743379200000,
+        "company ID":"DTE",
+        "Rank Target":0.46875,
+        "prediction":0.5996606946,
+        "trueRank":18.0,
+        "predictionRank":4.0
+    },
+    "2344":{
+        "index":1743379200000,
+        "company ID":"GNE",
+        "Rank Target":1.0,
+        "prediction":0.5963033438,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "2343":{
+        "index":1743379200000,
+        "company ID":"FE",
+        "Rank Target":0.6875,
+        "prediction":0.5668635368,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "2342":{
+        "index":1743379200000,
+        "company ID":"EXC",
+        "Rank Target":0.15625,
+        "prediction":0.5619840622,
+        "trueRank":28.0,
+        "predictionRank":7.0
+    },
+    "2353":{
+        "index":1743379200000,
+        "company ID":"PCG",
+        "Rank Target":0.03125,
+        "prediction":0.5580806732,
+        "trueRank":32.0,
+        "predictionRank":8.0
+    },
+    "2360":{
+        "index":1743379200000,
+        "company ID":"WEC",
+        "Rank Target":0.5,
+        "prediction":0.5575110316,
+        "trueRank":17.0,
+        "predictionRank":9.0
+    },
+    "2348":{
+        "index":1743379200000,
+        "company ID":"LNT",
+        "Rank Target":0.28125,
+        "prediction":0.5565545559,
+        "trueRank":24.0,
+        "predictionRank":10.0
+    },
+    "2341":{
+        "index":1743379200000,
+        "company ID":"EVRG",
+        "Rank Target":0.78125,
+        "prediction":0.555455327,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "2340":{
+        "index":1743379200000,
+        "company ID":"ETR",
+        "Rank Target":0.625,
+        "prediction":0.5445860028,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "2334":{
+        "index":1743379200000,
+        "company ID":"D",
+        "Rank Target":0.8125,
+        "prediction":0.5445454121,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "2332":{
+        "index":1743379200000,
+        "company ID":"CMS",
+        "Rank Target":0.21875,
+        "prediction":0.543193996,
+        "trueRank":26.0,
+        "predictionRank":14.0
+    },
+    "2339":{
+        "index":1743379200000,
+        "company ID":"ES",
+        "Rank Target":0.90625,
+        "prediction":0.5277996659,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "2337":{
+        "index":1743379200000,
+        "company ID":"ED",
+        "Rank Target":0.0625,
+        "prediction":0.5262218714,
+        "trueRank":31.0,
+        "predictionRank":16.0
+    },
+    "2350":{
+        "index":1743379200000,
+        "company ID":"NEE",
+        "Rank Target":0.75,
+        "prediction":0.5249471664,
+        "trueRank":9.0,
+        "predictionRank":17.0
+    },
+    "2330":{
+        "index":1743379200000,
+        "company ID":"AEE",
+        "Rank Target":0.34375,
+        "prediction":0.5243757367,
+        "trueRank":22.0,
+        "predictionRank":18.0
+    },
+    "2352":{
+        "index":1743379200000,
+        "company ID":"OGE",
+        "Rank Target":0.59375,
+        "prediction":0.5129768848,
+        "trueRank":14.0,
+        "predictionRank":19.0
+    },
+    "2333":{
+        "index":1743379200000,
+        "company ID":"CNP",
+        "Rank Target":0.65625,
+        "prediction":0.5122252107,
+        "trueRank":12.0,
+        "predictionRank":20.0
+    },
+    "2354":{
+        "index":1743379200000,
+        "company ID":"PEG",
+        "Rank Target":0.875,
+        "prediction":0.5092744231,
+        "trueRank":5.0,
+        "predictionRank":21.0
+    },
+    "2336":{
+        "index":1743379200000,
+        "company ID":"DUK",
+        "Rank Target":0.4375,
+        "prediction":0.5076950788,
+        "trueRank":19.0,
+        "predictionRank":22.0
+    },
+    "2358":{
+        "index":1743379200000,
+        "company ID":"SO",
+        "Rank Target":0.71875,
+        "prediction":0.5064520836,
+        "trueRank":10.0,
+        "predictionRank":23.0
+    },
+    "2361":{
+        "index":1743379200000,
+        "company ID":"XEL",
+        "Rank Target":0.375,
+        "prediction":0.5010561347,
+        "trueRank":21.0,
+        "predictionRank":24.0
+    },
+    "2346":{
+        "index":1743379200000,
+        "company ID":"IDA",
+        "Rank Target":0.5625,
+        "prediction":0.5002981424,
+        "trueRank":15.0,
+        "predictionRank":25.0
+    },
+    "2351":{
+        "index":1743379200000,
+        "company ID":"NWE",
+        "Rank Target":0.09375,
+        "prediction":0.4990927279,
+        "trueRank":30.0,
+        "predictionRank":26.0
+    },
+    "2359":{
+        "index":1743379200000,
+        "company ID":"TXNM",
+        "Rank Target":0.9375,
+        "prediction":0.4983687401,
+        "trueRank":3.0,
+        "predictionRank":27.0
+    },
+    "2347":{
+        "index":1743379200000,
+        "company ID":"IMSR",
+        "Rank Target":0.96875,
+        "prediction":0.4865854383,
+        "trueRank":2.0,
+        "predictionRank":28.0
+    },
+    "2356":{
+        "index":1743379200000,
+        "company ID":"POR",
+        "Rank Target":0.1875,
+        "prediction":0.4850181937,
+        "trueRank":27.0,
+        "predictionRank":29.0
+    },
+    "2355":{
+        "index":1743379200000,
+        "company ID":"PNW",
+        "Rank Target":0.3125,
+        "prediction":0.484724313,
+        "trueRank":23.0,
+        "predictionRank":30.0
+    },
+    "2331":{
+        "index":1743379200000,
+        "company ID":"AEP",
+        "Rank Target":0.40625,
+        "prediction":0.4138454497,
+        "trueRank":20.0,
+        "predictionRank":31.0
+    },
+    "2345":{
+        "index":1743379200000,
+        "company ID":"HE",
+        "Rank Target":0.84375,
+        "prediction":0.3889637589,
+        "trueRank":6.0,
+        "predictionRank":32.0
+    }
+}

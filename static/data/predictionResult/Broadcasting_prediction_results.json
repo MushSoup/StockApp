@@ -1,0 +1,93 @@
+{
+    "827":{
+        "company ID":"TGNA",
+        "score":0.698187232,
+        "Rank":1.0,
+        "Rank Target":0.8461538462,
+        "stockDifferencePercentage":17.7489547491
+    },
+    "816":{
+        "company ID":"BBGI",
+        "score":0.6530495286,
+        "Rank":2.0,
+        "Rank Target":0.9230769231,
+        "stockDifferencePercentage":31.3725547485
+    },
+    "819":{
+        "company ID":"GTN",
+        "score":0.6442780495,
+        "Rank":3.0,
+        "Rank Target":0.7692307692,
+        "stockDifferencePercentage":16.8389749979
+    },
+    "823":{
+        "company ID":"NXST",
+        "score":0.6438468099,
+        "Rank":4.0,
+        "Rank Target":0.4615384615,
+        "stockDifferencePercentage":10.2549829628
+    },
+    "818":{
+        "company ID":"FUBO",
+        "score":0.5835629702,
+        "Rank":5.0,
+        "Rank Target":0.6923076923,
+        "stockDifferencePercentage":15.7181548702
+    },
+    "825":{
+        "company ID":"SGA",
+        "score":0.5675656796,
+        "Rank":6.0,
+        "Rank Target":0.3076923077,
+        "stockDifferencePercentage":-4.8731808302
+    },
+    "824":{
+        "company ID":"SBGI",
+        "score":0.5431348085,
+        "Rank":7.0,
+        "Rank Target":0.3846153846,
+        "stockDifferencePercentage":2.4946898322
+    },
+    "820":{
+        "company ID":"IHRT",
+        "score":0.533526063,
+        "Rank":8.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":42.5640976101
+    },
+    "828":{
+        "company ID":"UONE",
+        "score":0.5219023824,
+        "Rank":9.0,
+        "Rank Target":0.2307692308,
+        "stockDifferencePercentage":-14.110430655
+    },
+    "817":{
+        "company ID":"CURI",
+        "score":0.489918828,
+        "Rank":10.0,
+        "Rank Target":0.6153846154,
+        "stockDifferencePercentage":14.236049767
+    },
+    "826":{
+        "company ID":"SSP",
+        "score":0.4559064806,
+        "Rank":11.0,
+        "Rank Target":0.0769230769,
+        "stockDifferencePercentage":-23.4940105992
+    },
+    "821":{
+        "company ID":"MDIA",
+        "score":0.4356097877,
+        "Rank":12.0,
+        "Rank Target":0.5384615385,
+        "stockDifferencePercentage":14.090906186
+    },
+    "822":{
+        "company ID":"NMAX",
+        "score":0.3410872221,
+        "Rank":13.0,
+        "Rank Target":0.1538461538,
+        "stockDifferencePercentage":-18.3510653982
+    }
+}

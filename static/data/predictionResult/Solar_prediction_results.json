@@ -1,0 +1,86 @@
+{
+    "289":{
+        "company ID":"ARRY",
+        "score":0.6480529904,
+        "Rank":1.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":3.5943483218
+    },
+    "291":{
+        "company ID":"BEEM",
+        "score":0.6427717805,
+        "Rank":2.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":59.006206215
+    },
+    "292":{
+        "company ID":"FTCI",
+        "score":0.6417528391,
+        "Rank":3.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":43.7246927609
+    },
+    "295":{
+        "company ID":"SHLS",
+        "score":0.6414161921,
+        "Rank":4.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":25.4180598001
+    },
+    "294":{
+        "company ID":"RUN",
+        "score":0.6372964978,
+        "Rank":5.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":69.3333398724
+    },
+    "293":{
+        "company ID":"NXT",
+        "score":0.601780653,
+        "Rank":6.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":14.8092294622
+    },
+    "299":{
+        "company ID":"TYGO",
+        "score":0.5905017257,
+        "Rank":7.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":91.4062580033
+    },
+    "297":{
+        "company ID":"SPRU",
+        "score":0.5177155137,
+        "Rank":8.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":25.0000033125
+    },
+    "300":{
+        "company ID":"ZEO",
+        "score":0.4794033766,
+        "Rank":9.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-49.1039434949
+    },
+    "298":{
+        "company ID":"SUNE",
+        "score":0.4533272982,
+        "Rank":10.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-16.0714279368
+    },
+    "290":{
+        "company ID":"ASTI",
+        "score":0.4229103327,
+        "Rank":11.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-21.6535417579
+    },
+    "296":{
+        "company ID":"SMXT",
+        "score":0.397287935,
+        "Rank":12.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-7.2727310154
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "66":{
+        "index":1735603200000,
+        "company ID":"OZ",
+        "Rank Target":0.5714285714,
+        "prediction":0.5874316692,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "69":{
+        "index":1735603200000,
+        "company ID":"SKYH",
+        "Rank Target":0.8571428571,
+        "prediction":0.5874316692,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "67":{
+        "index":1735603200000,
+        "company ID":"RENX",
+        "Rank Target":0.1428571429,
+        "prediction":0.5871213078,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "63":{
+        "index":1735603200000,
+        "company ID":"CCS",
+        "Rank Target":0.7142857143,
+        "prediction":0.5864434838,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "65":{
+        "index":1735603200000,
+        "company ID":"LPA",
+        "Rank Target":0.4285714286,
+        "prediction":0.5864434838,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "64":{
+        "index":1735603200000,
+        "company ID":"JFB",
+        "Rank Target":1.0,
+        "prediction":0.5850575566,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "68":{
+        "index":1735603200000,
+        "company ID":"SDHC",
+        "Rank Target":0.2857142857,
+        "prediction":0.5850575566,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "70":{
+        "index":1743379200000,
+        "company ID":"CCS",
+        "Rank Target":0.5714285714,
+        "prediction":0.5874316692,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "73":{
+        "index":1743379200000,
+        "company ID":"OZ",
+        "Rank Target":0.7142857143,
+        "prediction":0.5874316692,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "75":{
+        "index":1743379200000,
+        "company ID":"SDHC",
+        "Rank Target":0.8571428571,
+        "prediction":0.5874316692,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "72":{
+        "index":1743379200000,
+        "company ID":"LPA",
+        "Rank Target":0.4285714286,
+        "prediction":0.5861331224,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "74":{
+        "index":1743379200000,
+        "company ID":"RENX",
+        "Rank Target":0.1428571429,
+        "prediction":0.5861331224,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "76":{
+        "index":1743379200000,
+        "company ID":"SKYH",
+        "Rank Target":0.2857142857,
+        "prediction":0.5861331224,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "71":{
+        "index":1743379200000,
+        "company ID":"JFB",
+        "Rank Target":1.0,
+        "prediction":0.5850575566,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "658":{
+        "company ID":"LECO",
+        "score":0.7157196403,
+        "Rank":1.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":8.4103982951
+    },
+    "659":{
+        "company ID":"RBC",
+        "score":0.6765707731,
+        "Rank":2.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":-1.1039935627
+    },
+    "660":{
+        "company ID":"SNA",
+        "score":0.6679255962,
+        "Rank":3.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":7.8371180717
+    },
+    "656":{
+        "company ID":"HLMN",
+        "score":0.6630093455,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":20.4724467588
+    },
+    "655":{
+        "company ID":"EML",
+        "score":0.5247135758,
+        "Rank":5.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":1.9579265738
+    },
+    "662":{
+        "company ID":"TKR",
+        "score":0.4815866947,
+        "Rank":6.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-1.42830937
+    },
+    "661":{
+        "company ID":"SWK",
+        "score":0.477268517,
+        "Rank":7.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":5.1124826775
+    },
+    "654":{
+        "company ID":"CVR",
+        "score":0.4363971949,
+        "Rank":8.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-15.7344575577
+    },
+    "657":{
+        "company ID":"KMT",
+        "score":0.4167717695,
+        "Rank":9.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-13.7657814555
+    }
+}

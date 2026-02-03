@@ -1,0 +1,107 @@
+{
+    "950":{
+        "company ID":"CIX",
+        "score":0.7109283209,
+        "Rank":1.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-4.6287230467
+    },
+    "959":{
+        "company ID":"NSSC",
+        "score":0.6786211133,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":41.4527626621
+    },
+    "948":{
+        "company ID":"BCO",
+        "score":0.6626405716,
+        "Rank":3.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":23.2410224272
+    },
+    "951":{
+        "company ID":"CXW",
+        "score":0.6456621885,
+        "Rank":4.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":-0.6457536334
+    },
+    "960":{
+        "company ID":"VRME",
+        "score":0.6357569695,
+        "Rank":5.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":20.9866682667
+    },
+    "956":{
+        "company ID":"MG",
+        "score":0.6320719719,
+        "Rank":6.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":21.4723936432
+    },
+    "957":{
+        "company ID":"MSA",
+        "score":0.6113386154,
+        "Rank":7.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":-2.3984425929
+    },
+    "953":{
+        "company ID":"GEO",
+        "score":0.6096664667,
+        "Rank":8.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-17.1406011252
+    },
+    "946":{
+        "company ID":"ADT",
+        "score":0.608459115,
+        "Rank":9.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":4.4460067685
+    },
+    "947":{
+        "company ID":"BAER",
+        "score":0.5455508232,
+        "Rank":10.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-11.7948724858
+    },
+    "958":{
+        "company ID":"NL",
+        "score":0.5156436563,
+        "Rank":11.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-3.2666224064
+    },
+    "955":{
+        "company ID":"KSCP",
+        "score":0.4810242951,
+        "Rank":12.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":8.8560887886
+    },
+    "949":{
+        "company ID":"BKYI",
+        "score":0.4736692905,
+        "Rank":13.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":-7.4074076818
+    },
+    "952":{
+        "company ID":"EVLV",
+        "score":0.4676169157,
+        "Rank":14.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":31.2292378815
+    },
+    "954":{
+        "company ID":"IVDA",
+        "score":0.3917817175,
+        "Rank":15.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-36.1904717012
+    }
+}

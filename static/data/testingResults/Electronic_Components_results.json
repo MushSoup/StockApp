@@ -1,0 +1,2898 @@
+{
+    "1601":{
+        "index":1648684800000,
+        "company ID":"CTS",
+        "Rank Target":0.7142857143,
+        "prediction":0.7157263756,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "1612":{
+        "index":1648684800000,
+        "company ID":"MPTI",
+        "Rank Target":0.0357142857,
+        "prediction":0.6745120287,
+        "trueRank":28.0,
+        "predictionRank":2.0
+    },
+    "1608":{
+        "index":1648684800000,
+        "company ID":"LFUS",
+        "Rank Target":0.9285714286,
+        "prediction":0.6179202199,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1615":{
+        "index":1648684800000,
+        "company ID":"OSIS",
+        "Rank Target":0.8571428571,
+        "prediction":0.6036825776,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "1609":{
+        "index":1648684800000,
+        "company ID":"LINK",
+        "Rank Target":0.6428571429,
+        "prediction":0.5974138975,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "1611":{
+        "index":1648684800000,
+        "company ID":"LYTS",
+        "Rank Target":1.0,
+        "prediction":0.5971580744,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "1600":{
+        "index":1648684800000,
+        "company ID":"CPSH",
+        "Rank Target":0.1785714286,
+        "prediction":0.5884789824,
+        "trueRank":24.0,
+        "predictionRank":7.0
+    },
+    "1620":{
+        "index":1648684800000,
+        "company ID":"SANM",
+        "Rank Target":0.8928571429,
+        "prediction":0.580325067,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "1596":{
+        "index":1648684800000,
+        "company ID":"APH",
+        "Rank Target":0.5357142857,
+        "prediction":0.5740837455,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "1604":{
+        "index":1648684800000,
+        "company ID":"GLW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5680904984,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1605":{
+        "index":1648684800000,
+        "company ID":"KN",
+        "Rank Target":0.4642857143,
+        "prediction":0.5602533817,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "1617":{
+        "index":1648684800000,
+        "company ID":"PLXS",
+        "Rank Target":0.75,
+        "prediction":0.5410088897,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "1603":{
+        "index":1648684800000,
+        "company ID":"FLEX",
+        "Rank Target":0.4285714286,
+        "prediction":0.5101162791,
+        "trueRank":17.0,
+        "predictionRank":13.0
+    },
+    "1619":{
+        "index":1648684800000,
+        "company ID":"ROG",
+        "Rank Target":0.7857142857,
+        "prediction":0.5094222426,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "1613":{
+        "index":1648684800000,
+        "company ID":"OLED",
+        "Rank Target":0.2142857143,
+        "prediction":0.5089818239,
+        "trueRank":23.0,
+        "predictionRank":15.0
+    },
+    "1597":{
+        "index":1648684800000,
+        "company ID":"BELFA",
+        "Rank Target":0.9642857143,
+        "prediction":0.48428756,
+        "trueRank":2.0,
+        "predictionRank":16.0
+    },
+    "1598":{
+        "index":1648684800000,
+        "company ID":"BELFB",
+        "Rank Target":0.6785714286,
+        "prediction":0.48428756,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "1610":{
+        "index":1648684800000,
+        "company ID":"LPTH",
+        "Rank Target":0.1428571429,
+        "prediction":0.4782772362,
+        "trueRank":25.0,
+        "predictionRank":18.0
+    },
+    "1607":{
+        "index":1648684800000,
+        "company ID":"KULR",
+        "Rank Target":0.3928571429,
+        "prediction":0.471462369,
+        "trueRank":18.0,
+        "predictionRank":19.0
+    },
+    "1618":{
+        "index":1648684800000,
+        "company ID":"REFR",
+        "Rank Target":0.3571428571,
+        "prediction":0.4635341167,
+        "trueRank":19.0,
+        "predictionRank":20.0
+    },
+    "1621":{
+        "index":1648684800000,
+        "company ID":"TTMI",
+        "Rank Target":0.5,
+        "prediction":0.4432819486,
+        "trueRank":15.0,
+        "predictionRank":21.0
+    },
+    "1599":{
+        "index":1648684800000,
+        "company ID":"BHE",
+        "Rank Target":0.6071428571,
+        "prediction":0.4364448786,
+        "trueRank":12.0,
+        "predictionRank":22.0
+    },
+    "1606":{
+        "index":1648684800000,
+        "company ID":"KOPN",
+        "Rank Target":0.1071428571,
+        "prediction":0.4362552464,
+        "trueRank":26.0,
+        "predictionRank":23.0
+    },
+    "1595":{
+        "index":1648684800000,
+        "company ID":"ALNT",
+        "Rank Target":0.3214285714,
+        "prediction":0.4180602431,
+        "trueRank":20.0,
+        "predictionRank":24.0
+    },
+    "1616":{
+        "index":1648684800000,
+        "company ID":"OUST",
+        "Rank Target":0.0714285714,
+        "prediction":0.3986903131,
+        "trueRank":27.0,
+        "predictionRank":25.0
+    },
+    "1602":{
+        "index":1648684800000,
+        "company ID":"DAIO",
+        "Rank Target":0.25,
+        "prediction":0.3917280436,
+        "trueRank":22.0,
+        "predictionRank":26.0
+    },
+    "1622":{
+        "index":1648684800000,
+        "company ID":"VICR",
+        "Rank Target":0.2857142857,
+        "prediction":0.380219996,
+        "trueRank":21.0,
+        "predictionRank":27.0
+    },
+    "1614":{
+        "index":1648684800000,
+        "company ID":"OPTX",
+        "Rank Target":0.8214285714,
+        "prediction":0.288253963,
+        "trueRank":6.0,
+        "predictionRank":28.0
+    },
+    "1625":{
+        "index":1656547200000,
+        "company ID":"BELFA",
+        "Rank Target":0.9642857143,
+        "prediction":0.6996474266,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1626":{
+        "index":1656547200000,
+        "company ID":"BELFB",
+        "Rank Target":1.0,
+        "prediction":0.6996474266,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1643":{
+        "index":1656547200000,
+        "company ID":"OSIS",
+        "Rank Target":0.1785714286,
+        "prediction":0.6827802658,
+        "trueRank":24.0,
+        "predictionRank":3.0
+    },
+    "1624":{
+        "index":1656547200000,
+        "company ID":"APH",
+        "Rank Target":0.5714285714,
+        "prediction":0.6329472661,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "1632":{
+        "index":1656547200000,
+        "company ID":"GLW",
+        "Rank Target":0.4642857143,
+        "prediction":0.5929874182,
+        "trueRank":16.0,
+        "predictionRank":5.0
+    },
+    "1623":{
+        "index":1656547200000,
+        "company ID":"ALNT",
+        "Rank Target":0.8214285714,
+        "prediction":0.5699722171,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "1650":{
+        "index":1656547200000,
+        "company ID":"VICR",
+        "Rank Target":0.6071428571,
+        "prediction":0.5630187392,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "1649":{
+        "index":1656547200000,
+        "company ID":"TTMI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5536440015,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "1639":{
+        "index":1656547200000,
+        "company ID":"LYTS",
+        "Rank Target":0.8928571429,
+        "prediction":0.5488298535,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1641":{
+        "index":1656547200000,
+        "company ID":"OLED",
+        "Rank Target":0.3214285714,
+        "prediction":0.5364964604,
+        "trueRank":20.0,
+        "predictionRank":10.0
+    },
+    "1645":{
+        "index":1656547200000,
+        "company ID":"PLXS",
+        "Rank Target":0.6785714286,
+        "prediction":0.5357247591,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "1634":{
+        "index":1656547200000,
+        "company ID":"KOPN",
+        "Rank Target":0.2857142857,
+        "prediction":0.5342618823,
+        "trueRank":21.0,
+        "predictionRank":12.0
+    },
+    "1633":{
+        "index":1656547200000,
+        "company ID":"KN",
+        "Rank Target":0.1071428571,
+        "prediction":0.5186889172,
+        "trueRank":26.0,
+        "predictionRank":13.0
+    },
+    "1648":{
+        "index":1656547200000,
+        "company ID":"SANM",
+        "Rank Target":0.75,
+        "prediction":0.510140717,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "1642":{
+        "index":1656547200000,
+        "company ID":"OPTX",
+        "Rank Target":0.5357142857,
+        "prediction":0.5080090761,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "1638":{
+        "index":1656547200000,
+        "company ID":"LPTH",
+        "Rank Target":0.2142857143,
+        "prediction":0.507265985,
+        "trueRank":23.0,
+        "predictionRank":16.0
+    },
+    "1629":{
+        "index":1656547200000,
+        "company ID":"CTS",
+        "Rank Target":0.8571428571,
+        "prediction":0.5061250925,
+        "trueRank":5.0,
+        "predictionRank":17.0
+    },
+    "1644":{
+        "index":1656547200000,
+        "company ID":"OUST",
+        "Rank Target":0.0714285714,
+        "prediction":0.5055019259,
+        "trueRank":27.0,
+        "predictionRank":18.0
+    },
+    "1636":{
+        "index":1656547200000,
+        "company ID":"LFUS",
+        "Rank Target":0.1428571429,
+        "prediction":0.5045143366,
+        "trueRank":25.0,
+        "predictionRank":19.0
+    },
+    "1640":{
+        "index":1656547200000,
+        "company ID":"MPTI",
+        "Rank Target":0.0357142857,
+        "prediction":0.4880566597,
+        "trueRank":28.0,
+        "predictionRank":20.0
+    },
+    "1647":{
+        "index":1656547200000,
+        "company ID":"ROG",
+        "Rank Target":0.4285714286,
+        "prediction":0.4755344391,
+        "trueRank":17.0,
+        "predictionRank":21.0
+    },
+    "1627":{
+        "index":1656547200000,
+        "company ID":"BHE",
+        "Rank Target":0.7142857143,
+        "prediction":0.4621452987,
+        "trueRank":9.0,
+        "predictionRank":22.0
+    },
+    "1630":{
+        "index":1656547200000,
+        "company ID":"DAIO",
+        "Rank Target":0.3928571429,
+        "prediction":0.4579336047,
+        "trueRank":18.0,
+        "predictionRank":23.0
+    },
+    "1628":{
+        "index":1656547200000,
+        "company ID":"CPSH",
+        "Rank Target":0.25,
+        "prediction":0.4532380998,
+        "trueRank":22.0,
+        "predictionRank":24.0
+    },
+    "1635":{
+        "index":1656547200000,
+        "company ID":"KULR",
+        "Rank Target":0.3571428571,
+        "prediction":0.4329485595,
+        "trueRank":19.0,
+        "predictionRank":25.0
+    },
+    "1631":{
+        "index":1656547200000,
+        "company ID":"FLEX",
+        "Rank Target":0.7857142857,
+        "prediction":0.430832535,
+        "trueRank":7.0,
+        "predictionRank":26.0
+    },
+    "1637":{
+        "index":1656547200000,
+        "company ID":"LINK",
+        "Rank Target":0.5,
+        "prediction":0.387388289,
+        "trueRank":15.0,
+        "predictionRank":27.0
+    },
+    "1646":{
+        "index":1656547200000,
+        "company ID":"REFR",
+        "Rank Target":0.9285714286,
+        "prediction":0.3733086288,
+        "trueRank":3.0,
+        "predictionRank":28.0
+    },
+    "1653":{
+        "index":1664496000000,
+        "company ID":"BELFA",
+        "Rank Target":0.6428571429,
+        "prediction":0.6503608823,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "1654":{
+        "index":1664496000000,
+        "company ID":"BELFB",
+        "Rank Target":0.8928571429,
+        "prediction":0.6503608823,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "1657":{
+        "index":1664496000000,
+        "company ID":"CTS",
+        "Rank Target":0.25,
+        "prediction":0.6305193305,
+        "trueRank":22.0,
+        "predictionRank":3.0
+    },
+    "1676":{
+        "index":1664496000000,
+        "company ID":"SANM",
+        "Rank Target":0.8214285714,
+        "prediction":0.6081911922,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1677":{
+        "index":1664496000000,
+        "company ID":"TTMI",
+        "Rank Target":0.5714285714,
+        "prediction":0.6028451324,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "1658":{
+        "index":1664496000000,
+        "company ID":"DAIO",
+        "Rank Target":0.9642857143,
+        "prediction":0.5966318846,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "1652":{
+        "index":1664496000000,
+        "company ID":"APH",
+        "Rank Target":0.5357142857,
+        "prediction":0.5893394947,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "1651":{
+        "index":1664496000000,
+        "company ID":"ALNT",
+        "Rank Target":0.75,
+        "prediction":0.5677949786,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1663":{
+        "index":1664496000000,
+        "company ID":"KULR",
+        "Rank Target":0.2142857143,
+        "prediction":0.5583483577,
+        "trueRank":23.0,
+        "predictionRank":9.0
+    },
+    "1667":{
+        "index":1664496000000,
+        "company ID":"LYTS",
+        "Rank Target":1.0,
+        "prediction":0.5315321088,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "1668":{
+        "index":1664496000000,
+        "company ID":"MPTI",
+        "Rank Target":0.0714285714,
+        "prediction":0.5305017829,
+        "trueRank":27.0,
+        "predictionRank":11.0
+    },
+    "1669":{
+        "index":1664496000000,
+        "company ID":"OLED",
+        "Rank Target":0.6071428571,
+        "prediction":0.5209462643,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1673":{
+        "index":1664496000000,
+        "company ID":"PLXS",
+        "Rank Target":0.6785714286,
+        "prediction":0.5200204253,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1662":{
+        "index":1664496000000,
+        "company ID":"KOPN",
+        "Rank Target":0.7142857143,
+        "prediction":0.5129753947,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "1659":{
+        "index":1664496000000,
+        "company ID":"FLEX",
+        "Rank Target":0.8571428571,
+        "prediction":0.5050795078,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "1664":{
+        "index":1664496000000,
+        "company ID":"LFUS",
+        "Rank Target":0.4285714286,
+        "prediction":0.5042872429,
+        "trueRank":17.0,
+        "predictionRank":16.0
+    },
+    "1656":{
+        "index":1664496000000,
+        "company ID":"CPSH",
+        "Rank Target":0.2857142857,
+        "prediction":0.5038437247,
+        "trueRank":21.0,
+        "predictionRank":17.0
+    },
+    "1678":{
+        "index":1664496000000,
+        "company ID":"VICR",
+        "Rank Target":0.1428571429,
+        "prediction":0.485645473,
+        "trueRank":25.0,
+        "predictionRank":18.0
+    },
+    "1672":{
+        "index":1664496000000,
+        "company ID":"OUST",
+        "Rank Target":0.1785714286,
+        "prediction":0.4615319073,
+        "trueRank":24.0,
+        "predictionRank":19.0
+    },
+    "1671":{
+        "index":1664496000000,
+        "company ID":"OSIS",
+        "Rank Target":0.5,
+        "prediction":0.4571542442,
+        "trueRank":15.0,
+        "predictionRank":20.0
+    },
+    "1655":{
+        "index":1664496000000,
+        "company ID":"BHE",
+        "Rank Target":0.3928571429,
+        "prediction":0.4237753451,
+        "trueRank":18.0,
+        "predictionRank":21.0
+    },
+    "1660":{
+        "index":1664496000000,
+        "company ID":"GLW",
+        "Rank Target":0.4642857143,
+        "prediction":0.4100948274,
+        "trueRank":16.0,
+        "predictionRank":22.0
+    },
+    "1665":{
+        "index":1664496000000,
+        "company ID":"LINK",
+        "Rank Target":0.3214285714,
+        "prediction":0.4015073478,
+        "trueRank":20.0,
+        "predictionRank":23.0
+    },
+    "1661":{
+        "index":1664496000000,
+        "company ID":"KN",
+        "Rank Target":0.9285714286,
+        "prediction":0.400958389,
+        "trueRank":3.0,
+        "predictionRank":24.0
+    },
+    "1674":{
+        "index":1664496000000,
+        "company ID":"REFR",
+        "Rank Target":0.1071428571,
+        "prediction":0.3758274317,
+        "trueRank":26.0,
+        "predictionRank":25.0
+    },
+    "1666":{
+        "index":1664496000000,
+        "company ID":"LPTH",
+        "Rank Target":0.7857142857,
+        "prediction":0.3622159064,
+        "trueRank":7.0,
+        "predictionRank":26.0
+    },
+    "1670":{
+        "index":1664496000000,
+        "company ID":"OPTX",
+        "Rank Target":0.3571428571,
+        "prediction":0.3544926643,
+        "trueRank":19.0,
+        "predictionRank":27.0
+    },
+    "1675":{
+        "index":1664496000000,
+        "company ID":"ROG",
+        "Rank Target":0.0357142857,
+        "prediction":0.3520019352,
+        "trueRank":28.0,
+        "predictionRank":28.0
+    },
+    "1696":{
+        "index":1672444800000,
+        "company ID":"MPTI",
+        "Rank Target":0.8571428571,
+        "prediction":0.6953139901,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1681":{
+        "index":1672444800000,
+        "company ID":"BELFA",
+        "Rank Target":0.5357142857,
+        "prediction":0.6111298203,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "1682":{
+        "index":1672444800000,
+        "company ID":"BELFB",
+        "Rank Target":0.6428571429,
+        "prediction":0.6111298203,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "1694":{
+        "index":1672444800000,
+        "company ID":"LPTH",
+        "Rank Target":0.75,
+        "prediction":0.6023357511,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "1703":{
+        "index":1672444800000,
+        "company ID":"ROG",
+        "Rank Target":0.9642857143,
+        "prediction":0.5995164514,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1704":{
+        "index":1672444800000,
+        "company ID":"SANM",
+        "Rank Target":0.4285714286,
+        "prediction":0.5984522104,
+        "trueRank":17.0,
+        "predictionRank":6.0
+    },
+    "1705":{
+        "index":1672444800000,
+        "company ID":"TTMI",
+        "Rank Target":0.2142857143,
+        "prediction":0.5807638764,
+        "trueRank":23.0,
+        "predictionRank":7.0
+    },
+    "1693":{
+        "index":1672444800000,
+        "company ID":"LINK",
+        "Rank Target":0.7142857143,
+        "prediction":0.5658465624,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1692":{
+        "index":1672444800000,
+        "company ID":"LFUS",
+        "Rank Target":0.8214285714,
+        "prediction":0.565376997,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1680":{
+        "index":1672444800000,
+        "company ID":"APH",
+        "Rank Target":0.5,
+        "prediction":0.5607700944,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "1699":{
+        "index":1672444800000,
+        "company ID":"OSIS",
+        "Rank Target":0.9285714286,
+        "prediction":0.5585253239,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "1689":{
+        "index":1672444800000,
+        "company ID":"KN",
+        "Rank Target":0.3214285714,
+        "prediction":0.5548512936,
+        "trueRank":20.0,
+        "predictionRank":12.0
+    },
+    "1685":{
+        "index":1672444800000,
+        "company ID":"CTS",
+        "Rank Target":0.7857142857,
+        "prediction":0.5541267991,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "1695":{
+        "index":1672444800000,
+        "company ID":"LYTS",
+        "Rank Target":0.6785714286,
+        "prediction":0.5420079827,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "1697":{
+        "index":1672444800000,
+        "company ID":"OLED",
+        "Rank Target":1.0,
+        "prediction":0.540709734,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1687":{
+        "index":1672444800000,
+        "company ID":"FLEX",
+        "Rank Target":0.3928571429,
+        "prediction":0.5194986463,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "1679":{
+        "index":1672444800000,
+        "company ID":"ALNT",
+        "Rank Target":0.6071428571,
+        "prediction":0.5159715414,
+        "trueRank":12.0,
+        "predictionRank":17.0
+    },
+    "1686":{
+        "index":1672444800000,
+        "company ID":"DAIO",
+        "Rank Target":0.8928571429,
+        "prediction":0.5042784214,
+        "trueRank":4.0,
+        "predictionRank":18.0
+    },
+    "1691":{
+        "index":1672444800000,
+        "company ID":"KULR",
+        "Rank Target":0.0357142857,
+        "prediction":0.5010152459,
+        "trueRank":28.0,
+        "predictionRank":19.0
+    },
+    "1702":{
+        "index":1672444800000,
+        "company ID":"REFR",
+        "Rank Target":0.0714285714,
+        "prediction":0.4804558158,
+        "trueRank":27.0,
+        "predictionRank":20.0
+    },
+    "1701":{
+        "index":1672444800000,
+        "company ID":"PLXS",
+        "Rank Target":0.2857142857,
+        "prediction":0.4740712941,
+        "trueRank":21.0,
+        "predictionRank":21.0
+    },
+    "1698":{
+        "index":1672444800000,
+        "company ID":"OPTX",
+        "Rank Target":0.3571428571,
+        "prediction":0.4510886669,
+        "trueRank":19.0,
+        "predictionRank":22.0
+    },
+    "1684":{
+        "index":1672444800000,
+        "company ID":"CPSH",
+        "Rank Target":0.4642857143,
+        "prediction":0.4490949512,
+        "trueRank":16.0,
+        "predictionRank":23.0
+    },
+    "1706":{
+        "index":1672444800000,
+        "company ID":"VICR",
+        "Rank Target":0.1785714286,
+        "prediction":0.4373405576,
+        "trueRank":24.0,
+        "predictionRank":24.0
+    },
+    "1683":{
+        "index":1672444800000,
+        "company ID":"BHE",
+        "Rank Target":0.25,
+        "prediction":0.4337439537,
+        "trueRank":22.0,
+        "predictionRank":25.0
+    },
+    "1690":{
+        "index":1672444800000,
+        "company ID":"KOPN",
+        "Rank Target":0.1071428571,
+        "prediction":0.4143259823,
+        "trueRank":26.0,
+        "predictionRank":26.0
+    },
+    "1688":{
+        "index":1672444800000,
+        "company ID":"GLW",
+        "Rank Target":0.5714285714,
+        "prediction":0.4065309167,
+        "trueRank":13.0,
+        "predictionRank":27.0
+    },
+    "1700":{
+        "index":1672444800000,
+        "company ID":"OUST",
+        "Rank Target":0.1428571429,
+        "prediction":0.3891818821,
+        "trueRank":25.0,
+        "predictionRank":28.0
+    },
+    "1709":{
+        "index":1680220800000,
+        "company ID":"BELFA",
+        "Rank Target":0.9642857143,
+        "prediction":0.7147934437,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1710":{
+        "index":1680220800000,
+        "company ID":"BELFB",
+        "Rank Target":0.9285714286,
+        "prediction":0.7147934437,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "1707":{
+        "index":1680220800000,
+        "company ID":"ALNT",
+        "Rank Target":0.6071428571,
+        "prediction":0.64354527,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "1712":{
+        "index":1680220800000,
+        "company ID":"CPSH",
+        "Rank Target":0.3214285714,
+        "prediction":0.6343693733,
+        "trueRank":20.0,
+        "predictionRank":4.0
+    },
+    "1714":{
+        "index":1680220800000,
+        "company ID":"DAIO",
+        "Rank Target":0.1071428571,
+        "prediction":0.6298691034,
+        "trueRank":26.0,
+        "predictionRank":5.0
+    },
+    "1720":{
+        "index":1680220800000,
+        "company ID":"LFUS",
+        "Rank Target":0.6785714286,
+        "prediction":0.6094369888,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "1727":{
+        "index":1680220800000,
+        "company ID":"OSIS",
+        "Rank Target":0.7857142857,
+        "prediction":0.5918150544,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "1713":{
+        "index":1680220800000,
+        "company ID":"CTS",
+        "Rank Target":0.1785714286,
+        "prediction":0.5759672523,
+        "trueRank":24.0,
+        "predictionRank":8.0
+    },
+    "1734":{
+        "index":1680220800000,
+        "company ID":"VICR",
+        "Rank Target":0.8214285714,
+        "prediction":0.5759004354,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1708":{
+        "index":1680220800000,
+        "company ID":"APH",
+        "Rank Target":0.5714285714,
+        "prediction":0.5683399439,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1732":{
+        "index":1680220800000,
+        "company ID":"SANM",
+        "Rank Target":0.3571428571,
+        "prediction":0.5585170984,
+        "trueRank":19.0,
+        "predictionRank":11.0
+    },
+    "1729":{
+        "index":1680220800000,
+        "company ID":"PLXS",
+        "Rank Target":0.5,
+        "prediction":0.5558537245,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "1718":{
+        "index":1680220800000,
+        "company ID":"KOPN",
+        "Rank Target":1.0,
+        "prediction":0.5523908734,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "1730":{
+        "index":1680220800000,
+        "company ID":"REFR",
+        "Rank Target":0.25,
+        "prediction":0.5500491261,
+        "trueRank":22.0,
+        "predictionRank":14.0
+    },
+    "1721":{
+        "index":1680220800000,
+        "company ID":"LINK",
+        "Rank Target":0.8928571429,
+        "prediction":0.5434566736,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "1724":{
+        "index":1680220800000,
+        "company ID":"MPTI",
+        "Rank Target":0.4642857143,
+        "prediction":0.5301602483,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "1723":{
+        "index":1680220800000,
+        "company ID":"LYTS",
+        "Rank Target":0.1428571429,
+        "prediction":0.5210227966,
+        "trueRank":25.0,
+        "predictionRank":17.0
+    },
+    "1716":{
+        "index":1680220800000,
+        "company ID":"GLW",
+        "Rank Target":0.4285714286,
+        "prediction":0.5151275396,
+        "trueRank":17.0,
+        "predictionRank":18.0
+    },
+    "1715":{
+        "index":1680220800000,
+        "company ID":"FLEX",
+        "Rank Target":0.8571428571,
+        "prediction":0.495719552,
+        "trueRank":5.0,
+        "predictionRank":19.0
+    },
+    "1717":{
+        "index":1680220800000,
+        "company ID":"KN",
+        "Rank Target":0.7142857143,
+        "prediction":0.4889108241,
+        "trueRank":9.0,
+        "predictionRank":20.0
+    },
+    "1725":{
+        "index":1680220800000,
+        "company ID":"OLED",
+        "Rank Target":0.2142857143,
+        "prediction":0.4701804817,
+        "trueRank":23.0,
+        "predictionRank":21.0
+    },
+    "1731":{
+        "index":1680220800000,
+        "company ID":"ROG",
+        "Rank Target":0.3928571429,
+        "prediction":0.4516100585,
+        "trueRank":18.0,
+        "predictionRank":22.0
+    },
+    "1726":{
+        "index":1680220800000,
+        "company ID":"OPTX",
+        "Rank Target":0.5357142857,
+        "prediction":0.4265078902,
+        "trueRank":14.0,
+        "predictionRank":23.0
+    },
+    "1711":{
+        "index":1680220800000,
+        "company ID":"BHE",
+        "Rank Target":0.75,
+        "prediction":0.4097567499,
+        "trueRank":8.0,
+        "predictionRank":24.0
+    },
+    "1719":{
+        "index":1680220800000,
+        "company ID":"KULR",
+        "Rank Target":0.0714285714,
+        "prediction":0.3912080526,
+        "trueRank":27.0,
+        "predictionRank":25.0
+    },
+    "1733":{
+        "index":1680220800000,
+        "company ID":"TTMI",
+        "Rank Target":0.6428571429,
+        "prediction":0.3887297809,
+        "trueRank":11.0,
+        "predictionRank":26.0
+    },
+    "1722":{
+        "index":1680220800000,
+        "company ID":"LPTH",
+        "Rank Target":0.2857142857,
+        "prediction":0.3454105258,
+        "trueRank":21.0,
+        "predictionRank":27.0
+    },
+    "1728":{
+        "index":1680220800000,
+        "company ID":"OUST",
+        "Rank Target":0.0357142857,
+        "prediction":0.3092543483,
+        "trueRank":28.0,
+        "predictionRank":28.0
+    },
+    "1752":{
+        "index":1688083200000,
+        "company ID":"MPTI",
+        "Rank Target":1.0,
+        "prediction":0.6984565854,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1754":{
+        "index":1688083200000,
+        "company ID":"OPTX",
+        "Rank Target":0.8214285714,
+        "prediction":0.6747184396,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "1737":{
+        "index":1688083200000,
+        "company ID":"BELFA",
+        "Rank Target":0.1785714286,
+        "prediction":0.6653779149,
+        "trueRank":24.0,
+        "predictionRank":3.0
+    },
+    "1738":{
+        "index":1688083200000,
+        "company ID":"BELFB",
+        "Rank Target":0.25,
+        "prediction":0.6653779149,
+        "trueRank":22.0,
+        "predictionRank":3.0
+    },
+    "1749":{
+        "index":1688083200000,
+        "company ID":"LINK",
+        "Rank Target":0.4285714286,
+        "prediction":0.6591740251,
+        "trueRank":17.0,
+        "predictionRank":5.0
+    },
+    "1755":{
+        "index":1688083200000,
+        "company ID":"OSIS",
+        "Rank Target":0.75,
+        "prediction":0.656099081,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "1751":{
+        "index":1688083200000,
+        "company ID":"LYTS",
+        "Rank Target":0.9642857143,
+        "prediction":0.6249111891,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "1745":{
+        "index":1688083200000,
+        "company ID":"KN",
+        "Rank Target":0.2857142857,
+        "prediction":0.5909423232,
+        "trueRank":21.0,
+        "predictionRank":8.0
+    },
+    "1759":{
+        "index":1688083200000,
+        "company ID":"ROG",
+        "Rank Target":0.2142857143,
+        "prediction":0.5904209614,
+        "trueRank":23.0,
+        "predictionRank":9.0
+    },
+    "1742":{
+        "index":1688083200000,
+        "company ID":"DAIO",
+        "Rank Target":0.3214285714,
+        "prediction":0.5715668201,
+        "trueRank":20.0,
+        "predictionRank":10.0
+    },
+    "1735":{
+        "index":1688083200000,
+        "company ID":"ALNT",
+        "Rank Target":0.1428571429,
+        "prediction":0.5660508871,
+        "trueRank":25.0,
+        "predictionRank":11.0
+    },
+    "1741":{
+        "index":1688083200000,
+        "company ID":"CTS",
+        "Rank Target":0.7142857143,
+        "prediction":0.564878583,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "1758":{
+        "index":1688083200000,
+        "company ID":"REFR",
+        "Rank Target":0.1071428571,
+        "prediction":0.5619813204,
+        "trueRank":26.0,
+        "predictionRank":13.0
+    },
+    "1736":{
+        "index":1688083200000,
+        "company ID":"APH",
+        "Rank Target":0.7857142857,
+        "prediction":0.5554038286,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "1753":{
+        "index":1688083200000,
+        "company ID":"OLED",
+        "Rank Target":0.9285714286,
+        "prediction":0.5423570871,
+        "trueRank":3.0,
+        "predictionRank":15.0
+    },
+    "1762":{
+        "index":1688083200000,
+        "company ID":"VICR",
+        "Rank Target":0.8571428571,
+        "prediction":0.5341559649,
+        "trueRank":5.0,
+        "predictionRank":16.0
+    },
+    "1748":{
+        "index":1688083200000,
+        "company ID":"LFUS",
+        "Rank Target":0.3571428571,
+        "prediction":0.5179536939,
+        "trueRank":19.0,
+        "predictionRank":17.0
+    },
+    "1740":{
+        "index":1688083200000,
+        "company ID":"CPSH",
+        "Rank Target":0.6785714286,
+        "prediction":0.5078267455,
+        "trueRank":10.0,
+        "predictionRank":18.0
+    },
+    "1750":{
+        "index":1688083200000,
+        "company ID":"LPTH",
+        "Rank Target":0.8928571429,
+        "prediction":0.5010591149,
+        "trueRank":4.0,
+        "predictionRank":19.0
+    },
+    "1747":{
+        "index":1688083200000,
+        "company ID":"KULR",
+        "Rank Target":0.0357142857,
+        "prediction":0.4878786206,
+        "trueRank":28.0,
+        "predictionRank":20.0
+    },
+    "1760":{
+        "index":1688083200000,
+        "company ID":"SANM",
+        "Rank Target":0.4642857143,
+        "prediction":0.4832805395,
+        "trueRank":16.0,
+        "predictionRank":21.0
+    },
+    "1744":{
+        "index":1688083200000,
+        "company ID":"GLW",
+        "Rank Target":0.3928571429,
+        "prediction":0.4473572075,
+        "trueRank":18.0,
+        "predictionRank":22.0
+    },
+    "1739":{
+        "index":1688083200000,
+        "company ID":"BHE",
+        "Rank Target":0.5714285714,
+        "prediction":0.429725945,
+        "trueRank":13.0,
+        "predictionRank":23.0
+    },
+    "1761":{
+        "index":1688083200000,
+        "company ID":"TTMI",
+        "Rank Target":0.5,
+        "prediction":0.4272654653,
+        "trueRank":15.0,
+        "predictionRank":24.0
+    },
+    "1746":{
+        "index":1688083200000,
+        "company ID":"KOPN",
+        "Rank Target":0.0714285714,
+        "prediction":0.4263861775,
+        "trueRank":27.0,
+        "predictionRank":25.0
+    },
+    "1756":{
+        "index":1688083200000,
+        "company ID":"OUST",
+        "Rank Target":0.5357142857,
+        "prediction":0.4040157795,
+        "trueRank":14.0,
+        "predictionRank":26.0
+    },
+    "1743":{
+        "index":1688083200000,
+        "company ID":"FLEX",
+        "Rank Target":0.6428571429,
+        "prediction":0.3915515244,
+        "trueRank":11.0,
+        "predictionRank":27.0
+    },
+    "1757":{
+        "index":1688083200000,
+        "company ID":"PLXS",
+        "Rank Target":0.6071428571,
+        "prediction":0.3766360581,
+        "trueRank":12.0,
+        "predictionRank":28.0
+    },
+    "1764":{
+        "index":1696032000000,
+        "company ID":"APH",
+        "Rank Target":0.6785714286,
+        "prediction":0.6494621038,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "1779":{
+        "index":1696032000000,
+        "company ID":"LYTS",
+        "Rank Target":0.2142857143,
+        "prediction":0.6181374788,
+        "trueRank":23.0,
+        "predictionRank":2.0
+    },
+    "1787":{
+        "index":1696032000000,
+        "company ID":"ROG",
+        "Rank Target":0.3928571429,
+        "prediction":0.6174947023,
+        "trueRank":18.0,
+        "predictionRank":3.0
+    },
+    "1774":{
+        "index":1696032000000,
+        "company ID":"KOPN",
+        "Rank Target":0.9642857143,
+        "prediction":0.6155557632,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "1767":{
+        "index":1696032000000,
+        "company ID":"BHE",
+        "Rank Target":0.5714285714,
+        "prediction":0.615223825,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "1780":{
+        "index":1696032000000,
+        "company ID":"MPTI",
+        "Rank Target":1.0,
+        "prediction":0.6141263843,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "1769":{
+        "index":1696032000000,
+        "company ID":"CTS",
+        "Rank Target":0.4642857143,
+        "prediction":0.6062690616,
+        "trueRank":16.0,
+        "predictionRank":7.0
+    },
+    "1765":{
+        "index":1696032000000,
+        "company ID":"BELFA",
+        "Rank Target":0.8571428571,
+        "prediction":0.6019876003,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1766":{
+        "index":1696032000000,
+        "company ID":"BELFB",
+        "Rank Target":0.8928571429,
+        "prediction":0.6019876003,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "1776":{
+        "index":1696032000000,
+        "company ID":"LFUS",
+        "Rank Target":0.5357142857,
+        "prediction":0.5946769118,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "1785":{
+        "index":1696032000000,
+        "company ID":"PLXS",
+        "Rank Target":0.6428571429,
+        "prediction":0.5925124288,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "1773":{
+        "index":1696032000000,
+        "company ID":"KN",
+        "Rank Target":0.7142857143,
+        "prediction":0.5773921013,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "1771":{
+        "index":1696032000000,
+        "company ID":"FLEX",
+        "Rank Target":0.6071428571,
+        "prediction":0.5752376318,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "1788":{
+        "index":1696032000000,
+        "company ID":"SANM",
+        "Rank Target":0.3214285714,
+        "prediction":0.5654035807,
+        "trueRank":20.0,
+        "predictionRank":14.0
+    },
+    "1763":{
+        "index":1696032000000,
+        "company ID":"ALNT",
+        "Rank Target":0.3571428571,
+        "prediction":0.5628167391,
+        "trueRank":19.0,
+        "predictionRank":15.0
+    },
+    "1772":{
+        "index":1696032000000,
+        "company ID":"GLW",
+        "Rank Target":0.4285714286,
+        "prediction":0.5526788831,
+        "trueRank":17.0,
+        "predictionRank":16.0
+    },
+    "1790":{
+        "index":1696032000000,
+        "company ID":"VICR",
+        "Rank Target":0.1428571429,
+        "prediction":0.5329446197,
+        "trueRank":25.0,
+        "predictionRank":17.0
+    },
+    "1784":{
+        "index":1696032000000,
+        "company ID":"OUST",
+        "Rank Target":0.9285714286,
+        "prediction":0.4928296804,
+        "trueRank":3.0,
+        "predictionRank":18.0
+    },
+    "1786":{
+        "index":1696032000000,
+        "company ID":"REFR",
+        "Rank Target":0.2857142857,
+        "prediction":0.4889059663,
+        "trueRank":21.0,
+        "predictionRank":19.0
+    },
+    "1781":{
+        "index":1696032000000,
+        "company ID":"OLED",
+        "Rank Target":0.75,
+        "prediction":0.4800064564,
+        "trueRank":8.0,
+        "predictionRank":20.0
+    },
+    "1789":{
+        "index":1696032000000,
+        "company ID":"TTMI",
+        "Rank Target":0.7857142857,
+        "prediction":0.4624764621,
+        "trueRank":7.0,
+        "predictionRank":21.0
+    },
+    "1775":{
+        "index":1696032000000,
+        "company ID":"KULR",
+        "Rank Target":0.0714285714,
+        "prediction":0.4612590969,
+        "trueRank":27.0,
+        "predictionRank":22.0
+    },
+    "1777":{
+        "index":1696032000000,
+        "company ID":"LINK",
+        "Rank Target":0.8214285714,
+        "prediction":0.4529407024,
+        "trueRank":6.0,
+        "predictionRank":23.0
+    },
+    "1783":{
+        "index":1696032000000,
+        "company ID":"OSIS",
+        "Rank Target":0.5,
+        "prediction":0.4297421575,
+        "trueRank":15.0,
+        "predictionRank":24.0
+    },
+    "1768":{
+        "index":1696032000000,
+        "company ID":"CPSH",
+        "Rank Target":0.1785714286,
+        "prediction":0.4255123734,
+        "trueRank":24.0,
+        "predictionRank":25.0
+    },
+    "1782":{
+        "index":1696032000000,
+        "company ID":"OPTX",
+        "Rank Target":0.0357142857,
+        "prediction":0.4101848006,
+        "trueRank":28.0,
+        "predictionRank":26.0
+    },
+    "1770":{
+        "index":1696032000000,
+        "company ID":"DAIO",
+        "Rank Target":0.1071428571,
+        "prediction":0.4008652568,
+        "trueRank":26.0,
+        "predictionRank":27.0
+    },
+    "1778":{
+        "index":1696032000000,
+        "company ID":"LPTH",
+        "Rank Target":0.25,
+        "prediction":0.3727242351,
+        "trueRank":22.0,
+        "predictionRank":28.0
+    },
+    "1792":{
+        "index":1703980800000,
+        "company ID":"APH",
+        "Rank Target":0.8928571429,
+        "prediction":0.6321592927,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "1797":{
+        "index":1703980800000,
+        "company ID":"CTS",
+        "Rank Target":0.5,
+        "prediction":0.6075584888,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "1811":{
+        "index":1703980800000,
+        "company ID":"OSIS",
+        "Rank Target":0.6785714286,
+        "prediction":0.6041839123,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1801":{
+        "index":1703980800000,
+        "company ID":"KN",
+        "Rank Target":0.25,
+        "prediction":0.6001629233,
+        "trueRank":22.0,
+        "predictionRank":4.0
+    },
+    "1816":{
+        "index":1703980800000,
+        "company ID":"SANM",
+        "Rank Target":0.9642857143,
+        "prediction":0.5661783814,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1814":{
+        "index":1703980800000,
+        "company ID":"REFR",
+        "Rank Target":0.8214285714,
+        "prediction":0.554068923,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "1795":{
+        "index":1703980800000,
+        "company ID":"BHE",
+        "Rank Target":0.6428571429,
+        "prediction":0.5507173538,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "1798":{
+        "index":1703980800000,
+        "company ID":"DAIO",
+        "Rank Target":0.7142857143,
+        "prediction":0.5416086316,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1793":{
+        "index":1703980800000,
+        "company ID":"BELFA",
+        "Rank Target":0.7857142857,
+        "prediction":0.5409551859,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "1794":{
+        "index":1703980800000,
+        "company ID":"BELFB",
+        "Rank Target":0.3928571429,
+        "prediction":0.5409551859,
+        "trueRank":18.0,
+        "predictionRank":9.0
+    },
+    "1815":{
+        "index":1703980800000,
+        "company ID":"ROG",
+        "Rank Target":0.2142857143,
+        "prediction":0.5273591876,
+        "trueRank":23.0,
+        "predictionRank":11.0
+    },
+    "1807":{
+        "index":1703980800000,
+        "company ID":"LYTS",
+        "Rank Target":0.6071428571,
+        "prediction":0.5189225078,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1812":{
+        "index":1703980800000,
+        "company ID":"OUST",
+        "Rank Target":0.75,
+        "prediction":0.5141555667,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "1804":{
+        "index":1703980800000,
+        "company ID":"LFUS",
+        "Rank Target":0.3571428571,
+        "prediction":0.5043383241,
+        "trueRank":19.0,
+        "predictionRank":14.0
+    },
+    "1809":{
+        "index":1703980800000,
+        "company ID":"OLED",
+        "Rank Target":0.2857142857,
+        "prediction":0.5001546741,
+        "trueRank":21.0,
+        "predictionRank":15.0
+    },
+    "1799":{
+        "index":1703980800000,
+        "company ID":"FLEX",
+        "Rank Target":0.8571428571,
+        "prediction":0.499399662,
+        "trueRank":5.0,
+        "predictionRank":16.0
+    },
+    "1817":{
+        "index":1703980800000,
+        "company ID":"TTMI",
+        "Rank Target":0.4642857143,
+        "prediction":0.4938216209,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "1791":{
+        "index":1703980800000,
+        "company ID":"ALNT",
+        "Rank Target":0.9285714286,
+        "prediction":0.4795674086,
+        "trueRank":3.0,
+        "predictionRank":18.0
+    },
+    "1818":{
+        "index":1703980800000,
+        "company ID":"VICR",
+        "Rank Target":0.4285714286,
+        "prediction":0.478445828,
+        "trueRank":17.0,
+        "predictionRank":19.0
+    },
+    "1808":{
+        "index":1703980800000,
+        "company ID":"MPTI",
+        "Rank Target":0.1071428571,
+        "prediction":0.4738921225,
+        "trueRank":26.0,
+        "predictionRank":20.0
+    },
+    "1796":{
+        "index":1703980800000,
+        "company ID":"CPSH",
+        "Rank Target":0.0714285714,
+        "prediction":0.4692521989,
+        "trueRank":27.0,
+        "predictionRank":21.0
+    },
+    "1805":{
+        "index":1703980800000,
+        "company ID":"LINK",
+        "Rank Target":0.3214285714,
+        "prediction":0.4647936821,
+        "trueRank":20.0,
+        "predictionRank":22.0
+    },
+    "1810":{
+        "index":1703980800000,
+        "company ID":"OPTX",
+        "Rank Target":0.0357142857,
+        "prediction":0.46305269,
+        "trueRank":28.0,
+        "predictionRank":23.0
+    },
+    "1800":{
+        "index":1703980800000,
+        "company ID":"GLW",
+        "Rank Target":0.5357142857,
+        "prediction":0.4521968067,
+        "trueRank":14.0,
+        "predictionRank":24.0
+    },
+    "1813":{
+        "index":1703980800000,
+        "company ID":"PLXS",
+        "Rank Target":0.1428571429,
+        "prediction":0.4514896274,
+        "trueRank":25.0,
+        "predictionRank":25.0
+    },
+    "1803":{
+        "index":1703980800000,
+        "company ID":"KULR",
+        "Rank Target":1.0,
+        "prediction":0.3957749605,
+        "trueRank":1.0,
+        "predictionRank":26.0
+    },
+    "1802":{
+        "index":1703980800000,
+        "company ID":"KOPN",
+        "Rank Target":0.1785714286,
+        "prediction":0.3877853751,
+        "trueRank":24.0,
+        "predictionRank":27.0
+    },
+    "1806":{
+        "index":1703980800000,
+        "company ID":"LPTH",
+        "Rank Target":0.5714285714,
+        "prediction":0.3134717345,
+        "trueRank":13.0,
+        "predictionRank":28.0
+    },
+    "1820":{
+        "index":1711843200000,
+        "company ID":"APH",
+        "Rank Target":0.7857142857,
+        "prediction":0.6631754637,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "1836":{
+        "index":1711843200000,
+        "company ID":"MPTI",
+        "Rank Target":0.8571428571,
+        "prediction":0.6226910353,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "1835":{
+        "index":1711843200000,
+        "company ID":"LYTS",
+        "Rank Target":0.3571428571,
+        "prediction":0.620365262,
+        "trueRank":19.0,
+        "predictionRank":3.0
+    },
+    "1828":{
+        "index":1711843200000,
+        "company ID":"GLW",
+        "Rank Target":0.8214285714,
+        "prediction":0.6029425263,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1823":{
+        "index":1711843200000,
+        "company ID":"BHE",
+        "Rank Target":0.9642857143,
+        "prediction":0.5981400609,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1844":{
+        "index":1711843200000,
+        "company ID":"SANM",
+        "Rank Target":0.6785714286,
+        "prediction":0.573348105,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "1825":{
+        "index":1711843200000,
+        "company ID":"CTS",
+        "Rank Target":0.7142857143,
+        "prediction":0.5690829158,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "1821":{
+        "index":1711843200000,
+        "company ID":"BELFA",
+        "Rank Target":0.75,
+        "prediction":0.5602948666,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1822":{
+        "index":1711843200000,
+        "company ID":"BELFB",
+        "Rank Target":0.5714285714,
+        "prediction":0.5602948666,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "1832":{
+        "index":1711843200000,
+        "company ID":"LFUS",
+        "Rank Target":0.6071428571,
+        "prediction":0.5599525571,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "1843":{
+        "index":1711843200000,
+        "company ID":"ROG",
+        "Rank Target":0.5,
+        "prediction":0.5587905645,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1837":{
+        "index":1711843200000,
+        "company ID":"OLED",
+        "Rank Target":0.8928571429,
+        "prediction":0.5526927114,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "1819":{
+        "index":1711843200000,
+        "company ID":"ALNT",
+        "Rank Target":0.1428571429,
+        "prediction":0.5475791097,
+        "trueRank":25.0,
+        "predictionRank":13.0
+    },
+    "1833":{
+        "index":1711843200000,
+        "company ID":"LINK",
+        "Rank Target":0.1071428571,
+        "prediction":0.5358536243,
+        "trueRank":26.0,
+        "predictionRank":14.0
+    },
+    "1841":{
+        "index":1711843200000,
+        "company ID":"PLXS",
+        "Rank Target":0.5357142857,
+        "prediction":0.5356193781,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "1829":{
+        "index":1711843200000,
+        "company ID":"KN",
+        "Rank Target":0.6428571429,
+        "prediction":0.521954,
+        "trueRank":11.0,
+        "predictionRank":16.0
+    },
+    "1840":{
+        "index":1711843200000,
+        "company ID":"OUST",
+        "Rank Target":0.3928571429,
+        "prediction":0.5006951094,
+        "trueRank":18.0,
+        "predictionRank":17.0
+    },
+    "1846":{
+        "index":1711843200000,
+        "company ID":"VICR",
+        "Rank Target":0.2857142857,
+        "prediction":0.4875957668,
+        "trueRank":21.0,
+        "predictionRank":18.0
+    },
+    "1830":{
+        "index":1711843200000,
+        "company ID":"KOPN",
+        "Rank Target":0.0357142857,
+        "prediction":0.4851335585,
+        "trueRank":28.0,
+        "predictionRank":19.0
+    },
+    "1827":{
+        "index":1711843200000,
+        "company ID":"FLEX",
+        "Rank Target":0.4642857143,
+        "prediction":0.4733456671,
+        "trueRank":16.0,
+        "predictionRank":20.0
+    },
+    "1842":{
+        "index":1711843200000,
+        "company ID":"REFR",
+        "Rank Target":1.0,
+        "prediction":0.4538959265,
+        "trueRank":1.0,
+        "predictionRank":21.0
+    },
+    "1845":{
+        "index":1711843200000,
+        "company ID":"TTMI",
+        "Rank Target":0.9285714286,
+        "prediction":0.4518014789,
+        "trueRank":3.0,
+        "predictionRank":22.0
+    },
+    "1831":{
+        "index":1711843200000,
+        "company ID":"KULR",
+        "Rank Target":0.0714285714,
+        "prediction":0.4377855361,
+        "trueRank":27.0,
+        "predictionRank":23.0
+    },
+    "1839":{
+        "index":1711843200000,
+        "company ID":"OSIS",
+        "Rank Target":0.4285714286,
+        "prediction":0.3999041617,
+        "trueRank":17.0,
+        "predictionRank":24.0
+    },
+    "1834":{
+        "index":1711843200000,
+        "company ID":"LPTH",
+        "Rank Target":0.25,
+        "prediction":0.3994342685,
+        "trueRank":22.0,
+        "predictionRank":25.0
+    },
+    "1838":{
+        "index":1711843200000,
+        "company ID":"OPTX",
+        "Rank Target":0.1785714286,
+        "prediction":0.3848921657,
+        "trueRank":24.0,
+        "predictionRank":26.0
+    },
+    "1826":{
+        "index":1711843200000,
+        "company ID":"DAIO",
+        "Rank Target":0.2142857143,
+        "prediction":0.3833366334,
+        "trueRank":23.0,
+        "predictionRank":27.0
+    },
+    "1824":{
+        "index":1711843200000,
+        "company ID":"CPSH",
+        "Rank Target":0.3214285714,
+        "prediction":0.3729281723,
+        "trueRank":20.0,
+        "predictionRank":28.0
+    },
+    "1853":{
+        "index":1719705600000,
+        "company ID":"CTS",
+        "Rank Target":0.4642857143,
+        "prediction":0.6839977503,
+        "trueRank":16.0,
+        "predictionRank":1.0
+    },
+    "1869":{
+        "index":1719705600000,
+        "company ID":"PLXS",
+        "Rank Target":1.0,
+        "prediction":0.6532868147,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "1855":{
+        "index":1719705600000,
+        "company ID":"FLEX",
+        "Rank Target":0.6785714286,
+        "prediction":0.6340392828,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1860":{
+        "index":1719705600000,
+        "company ID":"LFUS",
+        "Rank Target":0.5714285714,
+        "prediction":0.5979962349,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "1872":{
+        "index":1719705600000,
+        "company ID":"SANM",
+        "Rank Target":0.5357142857,
+        "prediction":0.5929197073,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "1857":{
+        "index":1719705600000,
+        "company ID":"KN",
+        "Rank Target":0.6428571429,
+        "prediction":0.590513587,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "1851":{
+        "index":1719705600000,
+        "company ID":"BHE",
+        "Rank Target":0.7142857143,
+        "prediction":0.5897416472,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "1849":{
+        "index":1719705600000,
+        "company ID":"BELFA",
+        "Rank Target":0.9285714286,
+        "prediction":0.5841908455,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "1850":{
+        "index":1719705600000,
+        "company ID":"BELFB",
+        "Rank Target":0.8928571429,
+        "prediction":0.5841908455,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "1871":{
+        "index":1719705600000,
+        "company ID":"ROG",
+        "Rank Target":0.2857142857,
+        "prediction":0.581597805,
+        "trueRank":21.0,
+        "predictionRank":10.0
+    },
+    "1848":{
+        "index":1719705600000,
+        "company ID":"APH",
+        "Rank Target":0.4285714286,
+        "prediction":0.5628923774,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "1867":{
+        "index":1719705600000,
+        "company ID":"OSIS",
+        "Rank Target":0.6071428571,
+        "prediction":0.5612360239,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1870":{
+        "index":1719705600000,
+        "company ID":"REFR",
+        "Rank Target":0.7857142857,
+        "prediction":0.5513499975,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "1873":{
+        "index":1719705600000,
+        "company ID":"TTMI",
+        "Rank Target":0.3571428571,
+        "prediction":0.5392110348,
+        "trueRank":19.0,
+        "predictionRank":14.0
+    },
+    "1858":{
+        "index":1719705600000,
+        "company ID":"KOPN",
+        "Rank Target":0.1428571429,
+        "prediction":0.5366278291,
+        "trueRank":25.0,
+        "predictionRank":15.0
+    },
+    "1862":{
+        "index":1719705600000,
+        "company ID":"LPTH",
+        "Rank Target":0.5,
+        "prediction":0.5293594003,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "1864":{
+        "index":1719705600000,
+        "company ID":"MPTI",
+        "Rank Target":0.8214285714,
+        "prediction":0.521540761,
+        "trueRank":6.0,
+        "predictionRank":17.0
+    },
+    "1863":{
+        "index":1719705600000,
+        "company ID":"LYTS",
+        "Rank Target":0.75,
+        "prediction":0.5182219744,
+        "trueRank":8.0,
+        "predictionRank":18.0
+    },
+    "1865":{
+        "index":1719705600000,
+        "company ID":"OLED",
+        "Rank Target":0.3928571429,
+        "prediction":0.4991025031,
+        "trueRank":18.0,
+        "predictionRank":19.0
+    },
+    "1866":{
+        "index":1719705600000,
+        "company ID":"OPTX",
+        "Rank Target":0.0357142857,
+        "prediction":0.4902386069,
+        "trueRank":28.0,
+        "predictionRank":20.0
+    },
+    "1861":{
+        "index":1719705600000,
+        "company ID":"LINK",
+        "Rank Target":0.2142857143,
+        "prediction":0.449942261,
+        "trueRank":23.0,
+        "predictionRank":21.0
+    },
+    "1854":{
+        "index":1719705600000,
+        "company ID":"DAIO",
+        "Rank Target":0.3214285714,
+        "prediction":0.4491221905,
+        "trueRank":20.0,
+        "predictionRank":22.0
+    },
+    "1856":{
+        "index":1719705600000,
+        "company ID":"GLW",
+        "Rank Target":0.8571428571,
+        "prediction":0.4461586177,
+        "trueRank":5.0,
+        "predictionRank":23.0
+    },
+    "1859":{
+        "index":1719705600000,
+        "company ID":"KULR",
+        "Rank Target":0.1071428571,
+        "prediction":0.4386507273,
+        "trueRank":26.0,
+        "predictionRank":24.0
+    },
+    "1874":{
+        "index":1719705600000,
+        "company ID":"VICR",
+        "Rank Target":0.9642857143,
+        "prediction":0.4374631643,
+        "trueRank":2.0,
+        "predictionRank":25.0
+    },
+    "1868":{
+        "index":1719705600000,
+        "company ID":"OUST",
+        "Rank Target":0.0714285714,
+        "prediction":0.4251571894,
+        "trueRank":27.0,
+        "predictionRank":26.0
+    },
+    "1847":{
+        "index":1719705600000,
+        "company ID":"ALNT",
+        "Rank Target":0.1785714286,
+        "prediction":0.4134025872,
+        "trueRank":24.0,
+        "predictionRank":27.0
+    },
+    "1852":{
+        "index":1719705600000,
+        "company ID":"CPSH",
+        "Rank Target":0.25,
+        "prediction":0.3410181105,
+        "trueRank":22.0,
+        "predictionRank":28.0
+    },
+    "1881":{
+        "index":1727654400000,
+        "company ID":"CTS",
+        "Rank Target":0.3571428571,
+        "prediction":0.6733391881,
+        "trueRank":19.0,
+        "predictionRank":1.0
+    },
+    "1897":{
+        "index":1727654400000,
+        "company ID":"PLXS",
+        "Rank Target":0.6071428571,
+        "prediction":0.6545155048,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "1883":{
+        "index":1727654400000,
+        "company ID":"FLEX",
+        "Rank Target":0.6428571429,
+        "prediction":0.6225637794,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1892":{
+        "index":1727654400000,
+        "company ID":"MPTI",
+        "Rank Target":0.25,
+        "prediction":0.6141597629,
+        "trueRank":22.0,
+        "predictionRank":4.0
+    },
+    "1900":{
+        "index":1727654400000,
+        "company ID":"SANM",
+        "Rank Target":0.4285714286,
+        "prediction":0.6080795527,
+        "trueRank":17.0,
+        "predictionRank":5.0
+    },
+    "1887":{
+        "index":1727654400000,
+        "company ID":"KULR",
+        "Rank Target":1.0,
+        "prediction":0.5943499207,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "1888":{
+        "index":1727654400000,
+        "company ID":"LFUS",
+        "Rank Target":0.1428571429,
+        "prediction":0.5842077732,
+        "trueRank":25.0,
+        "predictionRank":7.0
+    },
+    "1879":{
+        "index":1727654400000,
+        "company ID":"BHE",
+        "Rank Target":0.2857142857,
+        "prediction":0.5817832351,
+        "trueRank":21.0,
+        "predictionRank":8.0
+    },
+    "1885":{
+        "index":1727654400000,
+        "company ID":"KN",
+        "Rank Target":0.5,
+        "prediction":0.5559151173,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "1876":{
+        "index":1727654400000,
+        "company ID":"APH",
+        "Rank Target":0.3928571429,
+        "prediction":0.5514022708,
+        "trueRank":18.0,
+        "predictionRank":10.0
+    },
+    "1901":{
+        "index":1727654400000,
+        "company ID":"TTMI",
+        "Rank Target":0.7857142857,
+        "prediction":0.543831408,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "1893":{
+        "index":1727654400000,
+        "company ID":"OLED",
+        "Rank Target":0.0357142857,
+        "prediction":0.5382571816,
+        "trueRank":28.0,
+        "predictionRank":12.0
+    },
+    "1902":{
+        "index":1727654400000,
+        "company ID":"VICR",
+        "Rank Target":0.6785714286,
+        "prediction":0.5204777122,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1877":{
+        "index":1727654400000,
+        "company ID":"BELFA",
+        "Rank Target":0.1071428571,
+        "prediction":0.5167356133,
+        "trueRank":26.0,
+        "predictionRank":14.0
+    },
+    "1878":{
+        "index":1727654400000,
+        "company ID":"BELFB",
+        "Rank Target":0.2142857143,
+        "prediction":0.5167356133,
+        "trueRank":23.0,
+        "predictionRank":14.0
+    },
+    "1891":{
+        "index":1727654400000,
+        "company ID":"LYTS",
+        "Rank Target":0.7142857143,
+        "prediction":0.5160454512,
+        "trueRank":9.0,
+        "predictionRank":16.0
+    },
+    "1882":{
+        "index":1727654400000,
+        "company ID":"DAIO",
+        "Rank Target":0.5357142857,
+        "prediction":0.512229681,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "1875":{
+        "index":1727654400000,
+        "company ID":"ALNT",
+        "Rank Target":0.8214285714,
+        "prediction":0.5095804334,
+        "trueRank":6.0,
+        "predictionRank":18.0
+    },
+    "1899":{
+        "index":1727654400000,
+        "company ID":"ROG",
+        "Rank Target":0.1785714286,
+        "prediction":0.5037509203,
+        "trueRank":24.0,
+        "predictionRank":19.0
+    },
+    "1884":{
+        "index":1727654400000,
+        "company ID":"GLW",
+        "Rank Target":0.3214285714,
+        "prediction":0.5009618998,
+        "trueRank":20.0,
+        "predictionRank":20.0
+    },
+    "1886":{
+        "index":1727654400000,
+        "company ID":"KOPN",
+        "Rank Target":0.8928571429,
+        "prediction":0.4966899753,
+        "trueRank":4.0,
+        "predictionRank":21.0
+    },
+    "1898":{
+        "index":1727654400000,
+        "company ID":"REFR",
+        "Rank Target":0.0714285714,
+        "prediction":0.480713129,
+        "trueRank":27.0,
+        "predictionRank":22.0
+    },
+    "1890":{
+        "index":1727654400000,
+        "company ID":"LPTH",
+        "Rank Target":0.9642857143,
+        "prediction":0.4807107151,
+        "trueRank":2.0,
+        "predictionRank":23.0
+    },
+    "1889":{
+        "index":1727654400000,
+        "company ID":"LINK",
+        "Rank Target":0.8571428571,
+        "prediction":0.4711022377,
+        "trueRank":5.0,
+        "predictionRank":24.0
+    },
+    "1895":{
+        "index":1727654400000,
+        "company ID":"OSIS",
+        "Rank Target":0.5714285714,
+        "prediction":0.4340966046,
+        "trueRank":13.0,
+        "predictionRank":25.0
+    },
+    "1896":{
+        "index":1727654400000,
+        "company ID":"OUST",
+        "Rank Target":0.9285714286,
+        "prediction":0.419062227,
+        "trueRank":3.0,
+        "predictionRank":26.0
+    },
+    "1894":{
+        "index":1727654400000,
+        "company ID":"OPTX",
+        "Rank Target":0.75,
+        "prediction":0.4136837721,
+        "trueRank":8.0,
+        "predictionRank":27.0
+    },
+    "1880":{
+        "index":1727654400000,
+        "company ID":"CPSH",
+        "Rank Target":0.4642857143,
+        "prediction":0.2792359293,
+        "trueRank":16.0,
+        "predictionRank":28.0
+    },
+    "1911":{
+        "index":1735603200000,
+        "company ID":"FLEX",
+        "Rank Target":0.4074074074,
+        "prediction":0.6661794782,
+        "trueRank":17.0,
+        "predictionRank":1.0
+    },
+    "1907":{
+        "index":1735603200000,
+        "company ID":"BHE",
+        "Rank Target":0.5185185185,
+        "prediction":0.6555609703,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "1912":{
+        "index":1735603200000,
+        "company ID":"GLW",
+        "Rank Target":0.8518518519,
+        "prediction":0.6417379379,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "1927":{
+        "index":1735603200000,
+        "company ID":"SANM",
+        "Rank Target":0.9259259259,
+        "prediction":0.6383267641,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "1922":{
+        "index":1735603200000,
+        "company ID":"OSIS",
+        "Rank Target":1.0,
+        "prediction":0.6292366982,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "1924":{
+        "index":1735603200000,
+        "company ID":"PLXS",
+        "Rank Target":0.3333333333,
+        "prediction":0.6285357475,
+        "trueRank":19.0,
+        "predictionRank":6.0
+    },
+    "1904":{
+        "index":1735603200000,
+        "company ID":"APH",
+        "Rank Target":0.7777777778,
+        "prediction":0.6081283092,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "1929":{
+        "index":1735603200000,
+        "company ID":"VICR",
+        "Rank Target":0.7407407407,
+        "prediction":0.5895544291,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1920":{
+        "index":1735603200000,
+        "company ID":"MPTI",
+        "Rank Target":0.4814814815,
+        "prediction":0.5710194707,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "1919":{
+        "index":1735603200000,
+        "company ID":"LYTS",
+        "Rank Target":0.5925925926,
+        "prediction":0.5631269217,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "1903":{
+        "index":1735603200000,
+        "company ID":"ALNT",
+        "Rank Target":0.6296296296,
+        "prediction":0.5501611233,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "1914":{
+        "index":1735603200000,
+        "company ID":"KOPN",
+        "Rank Target":0.1111111111,
+        "prediction":0.5436242223,
+        "trueRank":25.0,
+        "predictionRank":12.0
+    },
+    "1909":{
+        "index":1735603200000,
+        "company ID":"CTS",
+        "Rank Target":0.2962962963,
+        "prediction":0.5418123603,
+        "trueRank":20.0,
+        "predictionRank":13.0
+    },
+    "1923":{
+        "index":1735603200000,
+        "company ID":"OUST",
+        "Rank Target":0.1481481481,
+        "prediction":0.5406317115,
+        "trueRank":24.0,
+        "predictionRank":14.0
+    },
+    "1917":{
+        "index":1735603200000,
+        "company ID":"LINK",
+        "Rank Target":0.962962963,
+        "prediction":0.5338087082,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "1913":{
+        "index":1735603200000,
+        "company ID":"KN",
+        "Rank Target":0.2592592593,
+        "prediction":0.5220437646,
+        "trueRank":21.0,
+        "predictionRank":16.0
+    },
+    "1921":{
+        "index":1735603200000,
+        "company ID":"OLED",
+        "Rank Target":0.8148148148,
+        "prediction":0.5201861262,
+        "trueRank":6.0,
+        "predictionRank":17.0
+    },
+    "1925":{
+        "index":1735603200000,
+        "company ID":"REFR",
+        "Rank Target":0.2222222222,
+        "prediction":0.509534657,
+        "trueRank":22.0,
+        "predictionRank":18.0
+    },
+    "1916":{
+        "index":1735603200000,
+        "company ID":"LFUS",
+        "Rank Target":0.5555555556,
+        "prediction":0.5027621388,
+        "trueRank":13.0,
+        "predictionRank":19.0
+    },
+    "1926":{
+        "index":1735603200000,
+        "company ID":"ROG",
+        "Rank Target":0.1851851852,
+        "prediction":0.4952629805,
+        "trueRank":23.0,
+        "predictionRank":20.0
+    },
+    "1908":{
+        "index":1735603200000,
+        "company ID":"CPSH",
+        "Rank Target":0.8888888889,
+        "prediction":0.4880018532,
+        "trueRank":4.0,
+        "predictionRank":21.0
+    },
+    "1905":{
+        "index":1735603200000,
+        "company ID":"BELFA",
+        "Rank Target":0.3703703704,
+        "prediction":0.455252558,
+        "trueRank":18.0,
+        "predictionRank":22.0
+    },
+    "1906":{
+        "index":1735603200000,
+        "company ID":"BELFB",
+        "Rank Target":0.7037037037,
+        "prediction":0.455252558,
+        "trueRank":9.0,
+        "predictionRank":22.0
+    },
+    "1915":{
+        "index":1735603200000,
+        "company ID":"KULR",
+        "Rank Target":0.037037037,
+        "prediction":0.4538974762,
+        "trueRank":27.0,
+        "predictionRank":24.0
+    },
+    "1910":{
+        "index":1735603200000,
+        "company ID":"DAIO",
+        "Rank Target":0.6666666667,
+        "prediction":0.4514916241,
+        "trueRank":10.0,
+        "predictionRank":25.0
+    },
+    "1928":{
+        "index":1735603200000,
+        "company ID":"TTMI",
+        "Rank Target":0.4444444444,
+        "prediction":0.4328006208,
+        "trueRank":16.0,
+        "predictionRank":26.0
+    },
+    "1918":{
+        "index":1735603200000,
+        "company ID":"LPTH",
+        "Rank Target":0.0740740741,
+        "prediction":0.3181547225,
+        "trueRank":26.0,
+        "predictionRank":27.0
+    },
+    "1937":{
+        "index":1743379200000,
+        "company ID":"DAIO",
+        "Rank Target":0.4444444444,
+        "prediction":0.6446024179,
+        "trueRank":16.0,
+        "predictionRank":1.0
+    },
+    "1931":{
+        "index":1743379200000,
+        "company ID":"APH",
+        "Rank Target":0.7407407407,
+        "prediction":0.6405554414,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "1951":{
+        "index":1743379200000,
+        "company ID":"PLXS",
+        "Rank Target":0.2962962963,
+        "prediction":0.6160422564,
+        "trueRank":20.0,
+        "predictionRank":3.0
+    },
+    "1949":{
+        "index":1743379200000,
+        "company ID":"OSIS",
+        "Rank Target":0.4074074074,
+        "prediction":0.613533318,
+        "trueRank":17.0,
+        "predictionRank":4.0
+    },
+    "1932":{
+        "index":1743379200000,
+        "company ID":"BELFA",
+        "Rank Target":0.5555555556,
+        "prediction":0.6083270311,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "1933":{
+        "index":1743379200000,
+        "company ID":"BELFB",
+        "Rank Target":0.7037037037,
+        "prediction":0.6083270311,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "1954":{
+        "index":1743379200000,
+        "company ID":"SANM",
+        "Rank Target":0.6296296296,
+        "prediction":0.6024460196,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "1948":{
+        "index":1743379200000,
+        "company ID":"OLED",
+        "Rank Target":0.4814814815,
+        "prediction":0.5886714458,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "1935":{
+        "index":1743379200000,
+        "company ID":"CPSH",
+        "Rank Target":0.8888888889,
+        "prediction":0.5838460326,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1938":{
+        "index":1743379200000,
+        "company ID":"FLEX",
+        "Rank Target":0.8148148148,
+        "prediction":0.5776948333,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "1943":{
+        "index":1743379200000,
+        "company ID":"LFUS",
+        "Rank Target":0.5925925926,
+        "prediction":0.5635788441,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "1952":{
+        "index":1743379200000,
+        "company ID":"REFR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5536544323,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "1955":{
+        "index":1743379200000,
+        "company ID":"TTMI",
+        "Rank Target":0.962962963,
+        "prediction":0.5482889414,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "1956":{
+        "index":1743379200000,
+        "company ID":"VICR",
+        "Rank Target":0.1111111111,
+        "prediction":0.5472256541,
+        "trueRank":25.0,
+        "predictionRank":14.0
+    },
+    "1930":{
+        "index":1743379200000,
+        "company ID":"ALNT",
+        "Rank Target":0.8518518519,
+        "prediction":0.5458810925,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "1936":{
+        "index":1743379200000,
+        "company ID":"CTS",
+        "Rank Target":0.2592592593,
+        "prediction":0.525870204,
+        "trueRank":21.0,
+        "predictionRank":16.0
+    },
+    "1953":{
+        "index":1743379200000,
+        "company ID":"ROG",
+        "Rank Target":0.1851851852,
+        "prediction":0.5051957965,
+        "trueRank":23.0,
+        "predictionRank":17.0
+    },
+    "1934":{
+        "index":1743379200000,
+        "company ID":"BHE",
+        "Rank Target":0.2222222222,
+        "prediction":0.4858660102,
+        "trueRank":22.0,
+        "predictionRank":18.0
+    },
+    "1947":{
+        "index":1743379200000,
+        "company ID":"MPTI",
+        "Rank Target":0.0740740741,
+        "prediction":0.4849847555,
+        "trueRank":26.0,
+        "predictionRank":19.0
+    },
+    "1941":{
+        "index":1743379200000,
+        "company ID":"KOPN",
+        "Rank Target":0.9259259259,
+        "prediction":0.4848702848,
+        "trueRank":3.0,
+        "predictionRank":20.0
+    },
+    "1946":{
+        "index":1743379200000,
+        "company ID":"LYTS",
+        "Rank Target":0.1481481481,
+        "prediction":0.4806787968,
+        "trueRank":24.0,
+        "predictionRank":21.0
+    },
+    "1950":{
+        "index":1743379200000,
+        "company ID":"OUST",
+        "Rank Target":1.0,
+        "prediction":0.4608219564,
+        "trueRank":1.0,
+        "predictionRank":22.0
+    },
+    "1939":{
+        "index":1743379200000,
+        "company ID":"GLW",
+        "Rank Target":0.3703703704,
+        "prediction":0.457539022,
+        "trueRank":18.0,
+        "predictionRank":23.0
+    },
+    "1944":{
+        "index":1743379200000,
+        "company ID":"LINK",
+        "Rank Target":0.3333333333,
+        "prediction":0.3980935812,
+        "trueRank":19.0,
+        "predictionRank":24.0
+    },
+    "1945":{
+        "index":1743379200000,
+        "company ID":"LPTH",
+        "Rank Target":0.7777777778,
+        "prediction":0.3896011412,
+        "trueRank":7.0,
+        "predictionRank":25.0
+    },
+    "1940":{
+        "index":1743379200000,
+        "company ID":"KN",
+        "Rank Target":0.5185185185,
+        "prediction":0.3843619227,
+        "trueRank":14.0,
+        "predictionRank":26.0
+    },
+    "1942":{
+        "index":1743379200000,
+        "company ID":"KULR",
+        "Rank Target":0.037037037,
+        "prediction":0.3737016916,
+        "trueRank":27.0,
+        "predictionRank":27.0
+    }
+}

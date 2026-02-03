@@ -1,0 +1,354 @@
+{
+    "188":{
+        "index":1719705600000,
+        "company ID":"EA",
+        "Rank Target":0.8181818182,
+        "prediction":0.6941466331,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "196":{
+        "index":1719705600000,
+        "company ID":"SNAL",
+        "Rank Target":0.6363636364,
+        "prediction":0.6469420791,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "195":{
+        "index":1719705600000,
+        "company ID":"SKLZ",
+        "Rank Target":0.5454545455,
+        "prediction":0.6351575851,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "198":{
+        "index":1719705600000,
+        "company ID":"TTWO",
+        "Rank Target":0.7272727273,
+        "prediction":0.6345525384,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "190":{
+        "index":1719705600000,
+        "company ID":"GDC",
+        "Rank Target":1.0,
+        "prediction":0.6132357717,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "194":{
+        "index":1719705600000,
+        "company ID":"RBLX",
+        "Rank Target":0.9090909091,
+        "prediction":0.6055302024,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "192":{
+        "index":1719705600000,
+        "company ID":"MSGM",
+        "Rank Target":0.4545454545,
+        "prediction":0.5816982985,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "193":{
+        "index":1719705600000,
+        "company ID":"MYPS",
+        "Rank Target":0.3636363636,
+        "prediction":0.5761975646,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "197":{
+        "index":1719705600000,
+        "company ID":"TBH",
+        "Rank Target":0.0909090909,
+        "prediction":0.5315170288,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "189":{
+        "index":1719705600000,
+        "company ID":"GAME",
+        "Rank Target":0.1818181818,
+        "prediction":0.5309455395,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "191":{
+        "index":1719705600000,
+        "company ID":"GXAI",
+        "Rank Target":0.2727272727,
+        "prediction":0.3914735019,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "199":{
+        "index":1727654400000,
+        "company ID":"EA",
+        "Rank Target":0.4545454545,
+        "prediction":0.7204235196,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "204":{
+        "index":1727654400000,
+        "company ID":"MYPS",
+        "Rank Target":0.6363636364,
+        "prediction":0.6615696549,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "207":{
+        "index":1727654400000,
+        "company ID":"SNAL",
+        "Rank Target":1.0,
+        "prediction":0.6537488103,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "209":{
+        "index":1727654400000,
+        "company ID":"TTWO",
+        "Rank Target":0.7272727273,
+        "prediction":0.643224895,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "203":{
+        "index":1727654400000,
+        "company ID":"MSGM",
+        "Rank Target":0.3636363636,
+        "prediction":0.6229355335,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "201":{
+        "index":1727654400000,
+        "company ID":"GDC",
+        "Rank Target":0.1818181818,
+        "prediction":0.6223188043,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "205":{
+        "index":1727654400000,
+        "company ID":"RBLX",
+        "Rank Target":0.8181818182,
+        "prediction":0.6056120992,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "200":{
+        "index":1727654400000,
+        "company ID":"GAME",
+        "Rank Target":0.5454545455,
+        "prediction":0.5845358968,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "206":{
+        "index":1727654400000,
+        "company ID":"SKLZ",
+        "Rank Target":0.2727272727,
+        "prediction":0.5711318851,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "208":{
+        "index":1727654400000,
+        "company ID":"TBH",
+        "Rank Target":0.0909090909,
+        "prediction":0.4175717533,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "202":{
+        "index":1727654400000,
+        "company ID":"GXAI",
+        "Rank Target":0.9090909091,
+        "prediction":0.3990038633,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "210":{
+        "index":1735603200000,
+        "company ID":"EA",
+        "Rank Target":0.7272727273,
+        "prediction":0.7172340751,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "220":{
+        "index":1735603200000,
+        "company ID":"TTWO",
+        "Rank Target":0.8181818182,
+        "prediction":0.6800148487,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "214":{
+        "index":1735603200000,
+        "company ID":"MSGM",
+        "Rank Target":0.4545454545,
+        "prediction":0.6530742645,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "215":{
+        "index":1735603200000,
+        "company ID":"MYPS",
+        "Rank Target":0.2727272727,
+        "prediction":0.6483653784,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "218":{
+        "index":1735603200000,
+        "company ID":"SNAL",
+        "Rank Target":0.1818181818,
+        "prediction":0.6462574601,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "216":{
+        "index":1735603200000,
+        "company ID":"RBLX",
+        "Rank Target":0.6363636364,
+        "prediction":0.6047288775,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "217":{
+        "index":1735603200000,
+        "company ID":"SKLZ",
+        "Rank Target":0.5454545455,
+        "prediction":0.5798146129,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "211":{
+        "index":1735603200000,
+        "company ID":"GAME",
+        "Rank Target":0.3636363636,
+        "prediction":0.4891820252,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "219":{
+        "index":1735603200000,
+        "company ID":"TBH",
+        "Rank Target":1.0,
+        "prediction":0.4747081101,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "212":{
+        "index":1735603200000,
+        "company ID":"GDC",
+        "Rank Target":0.9090909091,
+        "prediction":0.420283556,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "213":{
+        "index":1735603200000,
+        "company ID":"GXAI",
+        "Rank Target":0.0909090909,
+        "prediction":0.4097199738,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "221":{
+        "index":1743379200000,
+        "company ID":"EA",
+        "Rank Target":0.0909090909,
+        "prediction":0.7011108994,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "226":{
+        "index":1743379200000,
+        "company ID":"MYPS",
+        "Rank Target":0.1818181818,
+        "prediction":0.6831293106,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "227":{
+        "index":1743379200000,
+        "company ID":"RBLX",
+        "Rank Target":0.9090909091,
+        "prediction":0.6230540276,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "231":{
+        "index":1743379200000,
+        "company ID":"TTWO",
+        "Rank Target":0.4545454545,
+        "prediction":0.6216062903,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "230":{
+        "index":1743379200000,
+        "company ID":"TBH",
+        "Rank Target":0.3636363636,
+        "prediction":0.6149204373,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "225":{
+        "index":1743379200000,
+        "company ID":"MSGM",
+        "Rank Target":1.0,
+        "prediction":0.6124658585,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "228":{
+        "index":1743379200000,
+        "company ID":"SKLZ",
+        "Rank Target":0.6363636364,
+        "prediction":0.5994383097,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "229":{
+        "index":1743379200000,
+        "company ID":"SNAL",
+        "Rank Target":0.8181818182,
+        "prediction":0.59791255,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "224":{
+        "index":1743379200000,
+        "company ID":"GXAI",
+        "Rank Target":0.2727272727,
+        "prediction":0.5798959136,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "222":{
+        "index":1743379200000,
+        "company ID":"GAME",
+        "Rank Target":0.5454545455,
+        "prediction":0.5692353249,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "223":{
+        "index":1743379200000,
+        "company ID":"GDC",
+        "Rank Target":0.7272727273,
+        "prediction":0.5480313897,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    }
+}

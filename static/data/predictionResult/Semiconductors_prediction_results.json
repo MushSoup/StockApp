@@ -1,0 +1,282 @@
+{
+    "2813":{
+        "company ID":"PI",
+        "score":0.7094493508,
+        "Rank":1.0,
+        "Rank Target":0.925,
+        "stockDifferencePercentage":55.5325358181
+    },
+    "2790":{
+        "company ID":"ALAB",
+        "score":0.7057283521,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":118.9427272799
+    },
+    "2809":{
+        "company ID":"MXL",
+        "score":0.6672119498,
+        "Rank":3.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":7.8431362433
+    },
+    "2791":{
+        "company ID":"ALGM",
+        "score":0.6671834588,
+        "Rank":4.0,
+        "Rank Target":0.075,
+        "stockDifferencePercentage":-18.8421942674
+    },
+    "2807":{
+        "company ID":"MRAM",
+        "score":0.6603124738,
+        "Rank":5.0,
+        "Rank Target":0.775,
+        "stockDifferencePercentage":32.8947361082
+    },
+    "2803":{
+        "company ID":"LASR",
+        "score":0.6515952349,
+        "Rank":6.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":47.3444536482
+    },
+    "2804":{
+        "company ID":"LSCC",
+        "score":0.6136113405,
+        "Rank":7.0,
+        "Rank Target":0.85,
+        "stockDifferencePercentage":37.8004239221
+    },
+    "2816":{
+        "company ID":"PXLW",
+        "score":0.5756309628,
+        "Rank":8.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":35.5955712795
+    },
+    "2796":{
+        "company ID":"CRUS",
+        "score":0.5709977746,
+        "Rank":9.0,
+        "Rank Target":0.65,
+        "stockDifferencePercentage":12.4875348613
+    },
+    "2820":{
+        "company ID":"RMBS",
+        "score":0.5696123838,
+        "Rank":10.0,
+        "Rank Target":0.95,
+        "stockDifferencePercentage":57.8236436897
+    },
+    "2806":{
+        "company ID":"MPWR",
+        "score":0.5692507029,
+        "Rank":11.0,
+        "Rank Target":0.725,
+        "stockDifferencePercentage":16.8656994279
+    },
+    "2805":{
+        "company ID":"MCHP",
+        "score":0.5658100843,
+        "Rank":12.0,
+        "Rank Target":0.225,
+        "stockDifferencePercentage":-11.6971169811
+    },
+    "2793":{
+        "company ID":"AMD",
+        "score":0.5632449389,
+        "Rank":13.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":17.0038404217
+    },
+    "2826":{
+        "company ID":"TXN",
+        "score":0.561640501,
+        "Rank":14.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-14.5660777873
+    },
+    "2817":{
+        "company ID":"QCOM",
+        "score":0.558899343,
+        "Rank":15.0,
+        "Rank Target":0.475,
+        "stockDifferencePercentage":2.4848662171
+    },
+    "2800":{
+        "company ID":"GSIT",
+        "score":0.5426778197,
+        "Rank":16.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":5.0847477016
+    },
+    "2821":{
+        "company ID":"SITM",
+        "score":0.5426467061,
+        "Rank":17.0,
+        "Rank Target":0.825,
+        "stockDifferencePercentage":37.7090824782
+    },
+    "2825":{
+        "company ID":"SYNA",
+        "score":0.5413016081,
+        "Rank":18.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-0.3784050935
+    },
+    "2818":{
+        "company ID":"QRVO",
+        "score":0.5406307578,
+        "Rank":19.0,
+        "Rank Target":0.45,
+        "stockDifferencePercentage":1.8923184594
+    },
+    "2795":{
+        "company ID":"CEVA",
+        "score":0.537612915,
+        "Rank":20.0,
+        "Rank Target":0.675,
+        "stockDifferencePercentage":13.6681271626
+    },
+    "2808":{
+        "company ID":"MTSI",
+        "score":0.5358359814,
+        "Rank":21.0,
+        "Rank Target":0.175,
+        "stockDifferencePercentage":-12.3613823327
+    },
+    "2824":{
+        "company ID":"SWKS",
+        "score":0.5357105136,
+        "Rank":22.0,
+        "Rank Target":0.35,
+        "stockDifferencePercentage":-1.4116109806
+    },
+    "2794":{
+        "company ID":"AOSL",
+        "score":0.5213860869,
+        "Rank":23.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-0.323741565
+    },
+    "2822":{
+        "company ID":"SKYT",
+        "score":0.512789309,
+        "Rank":24.0,
+        "Rank Target":0.975,
+        "stockDifferencePercentage":67.4632272226
+    },
+    "2789":{
+        "company ID":"AIP",
+        "score":0.5057251453,
+        "Rank":25.0,
+        "Rank Target":0.55,
+        "stockDifferencePercentage":6.9339152237
+    },
+    "2814":{
+        "company ID":"POWI",
+        "score":0.4986050725,
+        "Rank":26.0,
+        "Rank Target":0.025,
+        "stockDifferencePercentage":-33.5753707322
+    },
+    "2811":{
+        "company ID":"NVTS",
+        "score":0.4964100122,
+        "Rank":27.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":11.6459626295
+    },
+    "2819":{
+        "company ID":"QUIK",
+        "score":0.4957551062,
+        "Rank":28.0,
+        "Rank Target":0.325,
+        "stockDifferencePercentage":-4.6774188842
+    },
+    "2827":{
+        "company ID":"VSH",
+        "score":0.4943097532,
+        "Rank":29.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-11.3317570361
+    },
+    "2823":{
+        "company ID":"SLAB",
+        "score":0.4878926575,
+        "Rank":30.0,
+        "Rank Target":0.1,
+        "stockDifferencePercentage":-16.0281414709
+    },
+    "2810":{
+        "company ID":"NVEC",
+        "score":0.4835433066,
+        "Rank":31.0,
+        "Rank Target":0.15,
+        "stockDifferencePercentage":-13.4786801188
+    },
+    "2797":{
+        "company ID":"DIOD",
+        "score":0.4725828767,
+        "Rank":32.0,
+        "Rank Target":0.275,
+        "stockDifferencePercentage":-8.1955851734
+    },
+    "2812":{
+        "company ID":"ON",
+        "score":0.4686661065,
+        "Rank":33.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-12.0848062491
+    },
+    "2801":{
+        "company ID":"INTC",
+        "score":0.4530928135,
+        "Rank":34.0,
+        "Rank Target":0.9,
+        "stockDifferencePercentage":53.3125828952
+    },
+    "2799":{
+        "company ID":"GFS",
+        "score":0.423080653,
+        "Rank":35.0,
+        "Rank Target":0.3,
+        "stockDifferencePercentage":-6.9598002786
+    },
+    "2798":{
+        "company ID":"GCTS",
+        "score":0.4110791683,
+        "Rank":36.0,
+        "Rank Target":0.575,
+        "stockDifferencePercentage":7.8014196387
+    },
+    "2815":{
+        "company ID":"PRSO",
+        "score":0.4074361026,
+        "Rank":37.0,
+        "Rank Target":0.7,
+        "stockDifferencePercentage":14.4230866149
+    },
+    "2792":{
+        "company ID":"AMBQ",
+        "score":0.4063323438,
+        "Rank":38.0,
+        "Rank Target":0.05,
+        "stockDifferencePercentage":-21.1004397051
+    },
+    "2802":{
+        "company ID":"IPWR",
+        "score":0.3543077111,
+        "Rank":39.0,
+        "Rank Target":0.525,
+        "stockDifferencePercentage":6.3829830398
+    },
+    "2828":{
+        "company ID":"WOLF",
+        "score":0.3262075782,
+        "Rank":40.0,
+        "Rank Target":0.425,
+        "stockDifferencePercentage":0.0
+    }
+}

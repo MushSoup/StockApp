@@ -1,0 +1,58 @@
+{
+    "607":{
+        "company ID":"FRD",
+        "score":0.7234225869,
+        "Rank":1.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":33.6978985864
+    },
+    "608":{
+        "company ID":"MTUS",
+        "score":0.6117858887,
+        "Rank":2.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-1.0259509923
+    },
+    "606":{
+        "company ID":"CLF",
+        "score":0.6010665298,
+        "Rank":3.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":45.5782380601
+    },
+    "610":{
+        "company ID":"NWPX",
+        "score":0.5806617737,
+        "Rank":4.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":21.8326330508
+    },
+    "609":{
+        "company ID":"NUE",
+        "score":0.5454467535,
+        "Rank":5.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-1.2983213189
+    },
+    "612":{
+        "company ID":"STLD",
+        "score":0.4853112996,
+        "Rank":6.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":4.232955672
+    },
+    "611":{
+        "company ID":"RS",
+        "score":0.4789939225,
+        "Rank":7.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-14.8271126422
+    },
+    "613":{
+        "company ID":"ZEUS",
+        "score":0.4472435117,
+        "Rank":8.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-13.2625511675
+    }
+}

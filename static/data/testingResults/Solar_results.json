@@ -1,0 +1,482 @@
+{
+    "211":{
+        "index":1696032000000,
+        "company ID":"SHLS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6473110914,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "205":{
+        "index":1696032000000,
+        "company ID":"ARRY",
+        "Rank Target":0.5833333333,
+        "prediction":0.6378616095,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "207":{
+        "index":1696032000000,
+        "company ID":"BEEM",
+        "Rank Target":0.75,
+        "prediction":0.6238627434,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "214":{
+        "index":1696032000000,
+        "company ID":"SUNE",
+        "Rank Target":0.4166666667,
+        "prediction":0.6125680804,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "210":{
+        "index":1696032000000,
+        "company ID":"RUN",
+        "Rank Target":1.0,
+        "prediction":0.5976413488,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "215":{
+        "index":1696032000000,
+        "company ID":"TYGO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5906442404,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "208":{
+        "index":1696032000000,
+        "company ID":"FTCI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5871012807,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "213":{
+        "index":1696032000000,
+        "company ID":"SPRU",
+        "Rank Target":0.5,
+        "prediction":0.5814726353,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "209":{
+        "index":1696032000000,
+        "company ID":"NXT",
+        "Rank Target":0.9166666667,
+        "prediction":0.5805164576,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "216":{
+        "index":1696032000000,
+        "company ID":"ZEO",
+        "Rank Target":0.8333333333,
+        "prediction":0.5552008152,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "212":{
+        "index":1696032000000,
+        "company ID":"SMXT",
+        "Rank Target":0.0833333333,
+        "prediction":0.4927126467,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "206":{
+        "index":1696032000000,
+        "company ID":"ASTI",
+        "Rank Target":0.25,
+        "prediction":0.4721400738,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "217":{
+        "index":1703980800000,
+        "company ID":"ARRY",
+        "Rank Target":0.75,
+        "prediction":0.648647964,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "223":{
+        "index":1703980800000,
+        "company ID":"SHLS",
+        "Rank Target":0.5,
+        "prediction":0.6282102466,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "225":{
+        "index":1703980800000,
+        "company ID":"SPRU",
+        "Rank Target":0.6666666667,
+        "prediction":0.6213020682,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "228":{
+        "index":1703980800000,
+        "company ID":"ZEO",
+        "Rank Target":0.25,
+        "prediction":0.6195036769,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "220":{
+        "index":1703980800000,
+        "company ID":"FTCI",
+        "Rank Target":0.5833333333,
+        "prediction":0.6121797562,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "222":{
+        "index":1703980800000,
+        "company ID":"RUN",
+        "Rank Target":0.4166666667,
+        "prediction":0.6018095613,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "219":{
+        "index":1703980800000,
+        "company ID":"BEEM",
+        "Rank Target":0.8333333333,
+        "prediction":0.5877021551,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "227":{
+        "index":1703980800000,
+        "company ID":"TYGO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5850037336,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "221":{
+        "index":1703980800000,
+        "company ID":"NXT",
+        "Rank Target":1.0,
+        "prediction":0.5724541545,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "226":{
+        "index":1703980800000,
+        "company ID":"SUNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.5284841657,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "224":{
+        "index":1703980800000,
+        "company ID":"SMXT",
+        "Rank Target":0.9166666667,
+        "prediction":0.5033780336,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "218":{
+        "index":1703980800000,
+        "company ID":"ASTI",
+        "Rank Target":0.1666666667,
+        "prediction":0.4745508134,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "235":{
+        "index":1711843200000,
+        "company ID":"SHLS",
+        "Rank Target":0.3333333333,
+        "prediction":0.6897108555,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "229":{
+        "index":1711843200000,
+        "company ID":"ARRY",
+        "Rank Target":0.5833333333,
+        "prediction":0.67418468,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "240":{
+        "index":1711843200000,
+        "company ID":"ZEO",
+        "Rank Target":0.25,
+        "prediction":0.6599730849,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "232":{
+        "index":1711843200000,
+        "company ID":"FTCI",
+        "Rank Target":0.4166666667,
+        "prediction":0.6351305246,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "234":{
+        "index":1711843200000,
+        "company ID":"RUN",
+        "Rank Target":0.75,
+        "prediction":0.6277450323,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "233":{
+        "index":1711843200000,
+        "company ID":"NXT",
+        "Rank Target":0.6666666667,
+        "prediction":0.6230651736,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "231":{
+        "index":1711843200000,
+        "company ID":"BEEM",
+        "Rank Target":0.5,
+        "prediction":0.5963900685,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "237":{
+        "index":1711843200000,
+        "company ID":"SPRU",
+        "Rank Target":0.8333333333,
+        "prediction":0.5962965488,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "239":{
+        "index":1711843200000,
+        "company ID":"TYGO",
+        "Rank Target":1.0,
+        "prediction":0.5962740779,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "236":{
+        "index":1711843200000,
+        "company ID":"SMXT",
+        "Rank Target":0.0833333333,
+        "prediction":0.5616778135,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "238":{
+        "index":1711843200000,
+        "company ID":"SUNE",
+        "Rank Target":0.9166666667,
+        "prediction":0.5190089941,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "230":{
+        "index":1711843200000,
+        "company ID":"ASTI",
+        "Rank Target":0.1666666667,
+        "prediction":0.4611536264,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "241":{
+        "index":1719705600000,
+        "company ID":"ARRY",
+        "Rank Target":0.3333333333,
+        "prediction":0.6607919931,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "247":{
+        "index":1719705600000,
+        "company ID":"SHLS",
+        "Rank Target":0.75,
+        "prediction":0.6588061452,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "245":{
+        "index":1719705600000,
+        "company ID":"NXT",
+        "Rank Target":0.4166666667,
+        "prediction":0.6461362839,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "252":{
+        "index":1719705600000,
+        "company ID":"ZEO",
+        "Rank Target":0.5,
+        "prediction":0.6427620053,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "249":{
+        "index":1719705600000,
+        "company ID":"SPRU",
+        "Rank Target":0.5833333333,
+        "prediction":0.6324224472,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "246":{
+        "index":1719705600000,
+        "company ID":"RUN",
+        "Rank Target":0.9166666667,
+        "prediction":0.6214032173,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "243":{
+        "index":1719705600000,
+        "company ID":"BEEM",
+        "Rank Target":0.6666666667,
+        "prediction":0.6207467914,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "244":{
+        "index":1719705600000,
+        "company ID":"FTCI",
+        "Rank Target":1.0,
+        "prediction":0.5891754627,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "251":{
+        "index":1719705600000,
+        "company ID":"TYGO",
+        "Rank Target":0.8333333333,
+        "prediction":0.5741350055,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "248":{
+        "index":1719705600000,
+        "company ID":"SMXT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5008909106,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "250":{
+        "index":1719705600000,
+        "company ID":"SUNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.4943653643,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "242":{
+        "index":1719705600000,
+        "company ID":"ASTI",
+        "Rank Target":0.25,
+        "prediction":0.4927369654,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "255":{
+        "index":1727654400000,
+        "company ID":"BEEM",
+        "Rank Target":0.25,
+        "prediction":0.6781741381,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "259":{
+        "index":1727654400000,
+        "company ID":"SHLS",
+        "Rank Target":0.6666666667,
+        "prediction":0.649030447,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "257":{
+        "index":1727654400000,
+        "company ID":"NXT",
+        "Rank Target":0.5,
+        "prediction":0.6472535133,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "253":{
+        "index":1727654400000,
+        "company ID":"ARRY",
+        "Rank Target":0.4166666667,
+        "prediction":0.6198616624,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "263":{
+        "index":1727654400000,
+        "company ID":"TYGO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6106675863,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "258":{
+        "index":1727654400000,
+        "company ID":"RUN",
+        "Rank Target":0.1666666667,
+        "prediction":0.6072879434,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "256":{
+        "index":1727654400000,
+        "company ID":"FTCI",
+        "Rank Target":0.5833333333,
+        "prediction":0.5934019685,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "261":{
+        "index":1727654400000,
+        "company ID":"SPRU",
+        "Rank Target":0.75,
+        "prediction":0.5828666687,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "264":{
+        "index":1727654400000,
+        "company ID":"ZEO",
+        "Rank Target":0.9166666667,
+        "prediction":0.5625112057,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "262":{
+        "index":1727654400000,
+        "company ID":"SUNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.5565406084,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "254":{
+        "index":1727654400000,
+        "company ID":"ASTI",
+        "Rank Target":0.8333333333,
+        "prediction":0.5015356541,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "260":{
+        "index":1727654400000,
+        "company ID":"SMXT",
+        "Rank Target":1.0,
+        "prediction":0.5004824996,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    }
+}

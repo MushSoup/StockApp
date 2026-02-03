@@ -1,0 +1,121 @@
+{
+    "1073":{
+        "company ID":"FTAI",
+        "score":0.6719138026,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":42.3450855399
+    },
+    "1074":{
+        "company ID":"GATX",
+        "score":0.6668266058,
+        "Rank":2.0,
+        "Rank Target":0.8235294118,
+        "stockDifferencePercentage":10.382128674
+    },
+    "1079":{
+        "company ID":"R",
+        "score":0.6666040421,
+        "Rank":3.0,
+        "Rank Target":0.7647058824,
+        "stockDifferencePercentage":9.523735062
+    },
+    "1084":{
+        "company ID":"WLFC",
+        "score":0.6314614415,
+        "Rank":4.0,
+        "Rank Target":0.5882352941,
+        "stockDifferencePercentage":-2.0423950253
+    },
+    "1069":{
+        "company ID":"AL",
+        "score":0.6287738681,
+        "Rank":5.0,
+        "Rank Target":0.6470588235,
+        "stockDifferencePercentage":6.8762447456
+    },
+    "1078":{
+        "company ID":"PRG",
+        "score":0.6285766363,
+        "Rank":6.0,
+        "Rank Target":0.7058823529,
+        "stockDifferencePercentage":8.0885602732
+    },
+    "1077":{
+        "company ID":"MGRC",
+        "score":0.5976512432,
+        "Rank":7.0,
+        "Rank Target":0.5294117647,
+        "stockDifferencePercentage":-2.7953530648
+    },
+    "1082":{
+        "company ID":"URI",
+        "score":0.5974834561,
+        "Rank":8.0,
+        "Rank Target":0.8823529412,
+        "stockDifferencePercentage":19.3357976895
+    },
+    "1072":{
+        "company ID":"CTOS",
+        "score":0.5799838901,
+        "Rank":9.0,
+        "Rank Target":0.9411764706,
+        "stockDifferencePercentage":23.3463096745
+    },
+    "1085":{
+        "company ID":"WSC",
+        "score":0.5366085172,
+        "Rank":10.0,
+        "Rank Target":0.1176470588,
+        "stockDifferencePercentage":-28.1276214863
+    },
+    "1070":{
+        "company ID":"ALTG",
+        "score":0.5259899497,
+        "Rank":11.0,
+        "Rank Target":0.4705882353,
+        "stockDifferencePercentage":-5.7742790539
+    },
+    "1083":{
+        "company ID":"VSTS",
+        "score":0.4965066314,
+        "Rank":12.0,
+        "Rank Target":0.0588235294,
+        "stockDifferencePercentage":-28.130081175
+    },
+    "1076":{
+        "company ID":"HTZ",
+        "score":0.4806892276,
+        "Rank":13.0,
+        "Rank Target":0.4117647059,
+        "stockDifferencePercentage":-6.1728369225
+    },
+    "1075":{
+        "company ID":"HRI",
+        "score":0.4804474413,
+        "Rank":14.0,
+        "Rank Target":0.1764705882,
+        "stockDifferencePercentage":-20.9215962876
+    },
+    "1071":{
+        "company ID":"CAR",
+        "score":0.4513892829,
+        "Rank":15.0,
+        "Rank Target":0.2352941176,
+        "stockDifferencePercentage":-10.9094915039
+    },
+    "1080":{
+        "company ID":"UHAL",
+        "score":0.370999366,
+        "Rank":16.0,
+        "Rank Target":0.3529411765,
+        "stockDifferencePercentage":-7.2038637566
+    },
+    "1081":{
+        "company ID":"UHAL-B",
+        "score":0.370999366,
+        "Rank":16.0,
+        "Rank Target":0.2941176471,
+        "stockDifferencePercentage":-8.9339708493
+    }
+}

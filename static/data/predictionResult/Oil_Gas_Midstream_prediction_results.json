@@ -1,0 +1,212 @@
+{
+    "1828":{
+        "company ID":"DTM",
+        "score":0.6366655827,
+        "Rank":1.0,
+        "Rank Target":0.7666666667,
+        "stockDifferencePercentage":7.5329702254
+    },
+    "1826":{
+        "company ID":"AM",
+        "score":0.6200866699,
+        "Rank":2.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":8.9363691626
+    },
+    "1844":{
+        "company ID":"NGL",
+        "score":0.6131145954,
+        "Rank":3.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":41.2178041399
+    },
+    "1848":{
+        "company ID":"PBT",
+        "score":0.6028425694,
+        "Rank":4.0,
+        "Rank Target":0.9666666667,
+        "stockDifferencePercentage":39.7162916546
+    },
+    "1849":{
+        "company ID":"SBR",
+        "score":0.5998200178,
+        "Rank":5.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":21.6286118639
+    },
+    "1836":{
+        "company ID":"KMI",
+        "score":0.5783658028,
+        "Rank":6.0,
+        "Rank Target":0.5666666667,
+        "stockDifferencePercentage":0.9148353231
+    },
+    "1842":{
+        "company ID":"MPLX",
+        "score":0.5724692941,
+        "Rank":7.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":-0.0637170267
+    },
+    "1852":{
+        "company ID":"VG",
+        "score":0.5691815615,
+        "Rank":8.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-8.4994379035
+    },
+    "1855":{
+        "company ID":"WMB",
+        "score":0.5573787093,
+        "Rank":9.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":10.016521941
+    },
+    "1834":{
+        "company ID":"HESM",
+        "score":0.5524702072,
+        "Rank":10.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-7.5823932743
+    },
+    "1841":{
+        "company ID":"MMLP",
+        "score":0.551554203,
+        "Rank":11.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":4.418988327
+    },
+    "1854":{
+        "company ID":"WES",
+        "score":0.5412737131,
+        "Rank":12.0,
+        "Rank Target":0.6333333333,
+        "stockDifferencePercentage":0.9719092456
+    },
+    "1845":{
+        "company ID":"OKE",
+        "score":0.5377082825,
+        "Rank":13.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-9.8750583458
+    },
+    "1833":{
+        "company ID":"GLP",
+        "score":0.5145305991,
+        "Rank":14.0,
+        "Rank Target":0.2333333333,
+        "stockDifferencePercentage":-5.5776071908
+    },
+    "1846":{
+        "company ID":"PAA",
+        "score":0.5118077993,
+        "Rank":15.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":-4.4976591643
+    },
+    "1839":{
+        "company ID":"LPG",
+        "score":0.5096569657,
+        "Rank":16.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":18.3615162104
+    },
+    "1847":{
+        "company ID":"PAGP",
+        "score":0.5094299912,
+        "Rank":17.0,
+        "Rank Target":0.3,
+        "stockDifferencePercentage":-4.0921643163
+    },
+    "1832":{
+        "company ID":"GEL",
+        "score":0.5045880675,
+        "Rank":18.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-3.914427108
+    },
+    "1827":{
+        "company ID":"CQP",
+        "score":0.4966737926,
+        "Rank":19.0,
+        "Rank Target":0.3666666667,
+        "stockDifferencePercentage":-3.2724333224
+    },
+    "1829":{
+        "company ID":"EE",
+        "score":0.494486928,
+        "Rank":20.0,
+        "Rank Target":0.1,
+        "stockDifferencePercentage":-13.6965940833
+    },
+    "1830":{
+        "company ID":"EPD",
+        "score":0.4921407998,
+        "Rank":21.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":0.9555183136
+    },
+    "1850":{
+        "company ID":"SMC",
+        "score":0.4911542237,
+        "Rank":22.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-13.7603848305
+    },
+    "1835":{
+        "company ID":"INSW",
+        "score":0.4888188839,
+        "Rank":23.0,
+        "Rank Target":0.9,
+        "stockDifferencePercentage":20.2131402569
+    },
+    "1838":{
+        "company ID":"LNG",
+        "score":0.4865910113,
+        "Rank":24.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":-1.5268014221
+    },
+    "1837":{
+        "company ID":"KNTK",
+        "score":0.4822441936,
+        "Rank":25.0,
+        "Rank Target":0.7,
+        "stockDifferencePercentage":3.4438823907
+    },
+    "1851":{
+        "company ID":"TRGP",
+        "score":0.4776501954,
+        "Rank":26.0,
+        "Rank Target":0.4333333333,
+        "stockDifferencePercentage":-1.9672979342
+    },
+    "1831":{
+        "company ID":"ET",
+        "score":0.4528485239,
+        "Rank":27.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-2.4580706849
+    },
+    "1853":{
+        "company ID":"VNOM",
+        "score":0.4455179274,
+        "Rank":28.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":2.5350495533
+    },
+    "1843":{
+        "company ID":"NFE",
+        "score":0.3932133913,
+        "Rank":29.0,
+        "Rank Target":0.0333333333,
+        "stockDifferencePercentage":-50.9756088471
+    },
+    "1840":{
+        "company ID":"MARPS",
+        "score":0.3688586056,
+        "Rank":30.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-0.5434105679
+    }
+}

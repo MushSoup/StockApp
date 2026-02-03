@@ -1,0 +1,247 @@
+{
+    "1876":{
+        "company ID":"FOX",
+        "score":0.6847954392,
+        "Rank":1.0,
+        "Rank Target":0.6285714286,
+        "stockDifferencePercentage":10.6594476613
+    },
+    "1877":{
+        "company ID":"FOXA",
+        "score":0.6847954392,
+        "Rank":1.0,
+        "Rank Target":0.6571428571,
+        "stockDifferencePercentage":12.3017275344
+    },
+    "1897":{
+        "company ID":"TKO",
+        "score":0.675160706,
+        "Rank":3.0,
+        "Rank Target":0.7714285714,
+        "stockDifferencePercentage":16.3507759512
+    },
+    "1892":{
+        "company ID":"ROKU",
+        "score":0.6544822454,
+        "Rank":4.0,
+        "Rank Target":0.6857142857,
+        "stockDifferencePercentage":13.3794104873
+    },
+    "1879":{
+        "company ID":"FWONK",
+        "score":0.6497708559,
+        "Rank":5.0,
+        "Rank Target":0.4571428571,
+        "stockDifferencePercentage":1.2427172615
+    },
+    "1887":{
+        "company ID":"NFLX",
+        "score":0.64133358,
+        "Rank":6.0,
+        "Rank Target":0.3142857143,
+        "stockDifferencePercentage":-6.997489413
+    },
+    "1895":{
+        "company ID":"SPHR",
+        "score":0.6402304769,
+        "Rank":7.0,
+        "Rank Target":0.9142857143,
+        "stockDifferencePercentage":43.0347651286
+    },
+    "1899":{
+        "company ID":"WBD",
+        "score":0.6368468404,
+        "Rank":8.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":68.0926930623
+    },
+    "1878":{
+        "company ID":"FWONA",
+        "score":0.6352812052,
+        "Rank":9.0,
+        "Rank Target":0.5142857143,
+        "stockDifferencePercentage":2.1212807313
+    },
+    "1893":{
+        "company ID":"RSVR",
+        "score":0.6103246212,
+        "Rank":10.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":0.6345141266
+    },
+    "1866":{
+        "company ID":"AENT",
+        "score":0.6054058671,
+        "Rank":11.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":33.7078588476
+    },
+    "1894":{
+        "company ID":"SIRI",
+        "score":0.6009514332,
+        "Rank":12.0,
+        "Rank Target":0.3714285714,
+        "stockDifferencePercentage":-5.3883411529
+    },
+    "1890":{
+        "company ID":"PSKY",
+        "score":0.5698372126,
+        "Rank":13.0,
+        "Rank Target":0.9714285714,
+        "stockDifferencePercentage":51.5661152546
+    },
+    "1885":{
+        "company ID":"MCS",
+        "score":0.5660009384,
+        "Rank":14.0,
+        "Rank Target":0.1714285714,
+        "stockDifferencePercentage":-11.0291404592
+    },
+    "1869":{
+        "company ID":"AMCX",
+        "score":0.564958632,
+        "Rank":15.0,
+        "Rank Target":0.8857142857,
+        "stockDifferencePercentage":35.6097564753
+    },
+    "1884":{
+        "company ID":"LYV",
+        "score":0.5643694401,
+        "Rank":16.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":10.1091953547
+    },
+    "1873":{
+        "company ID":"CNK",
+        "score":0.5508347154,
+        "Rank":17.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-9.9789718864
+    },
+    "1875":{
+        "company ID":"DIS",
+        "score":0.5195527077,
+        "Rank":18.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-7.4354821116
+    },
+    "1889":{
+        "company ID":"NWSA",
+        "score":0.5027663112,
+        "Rank":19.0,
+        "Rank Target":0.5428571429,
+        "stockDifferencePercentage":4.6934532424
+    },
+    "1888":{
+        "company ID":"NWS",
+        "score":0.4991337061,
+        "Rank":20.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":0.5132992485
+    },
+    "1867":{
+        "company ID":"AGAE",
+        "score":0.4885852933,
+        "Rank":21.0,
+        "Rank Target":0.0857142857,
+        "stockDifferencePercentage":-47.6243069746
+    },
+    "1881":{
+        "company ID":"LLYVA",
+        "score":0.4764055312,
+        "Rank":22.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":17.8133568037
+    },
+    "1882":{
+        "company ID":"LLYVK",
+        "score":0.4764055312,
+        "Rank":22.0,
+        "Rank Target":0.8285714286,
+        "stockDifferencePercentage":18.4413710809
+    },
+    "1900":{
+        "company ID":"WMG",
+        "score":0.4744161963,
+        "Rank":24.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":15.6484320231
+    },
+    "1871":{
+        "company ID":"BATRA",
+        "score":0.4735324681,
+        "Rank":25.0,
+        "Rank Target":0.2285714286,
+        "stockDifferencePercentage":-7.8506547923
+    },
+    "1872":{
+        "company ID":"BATRK",
+        "score":0.471757412,
+        "Rank":26.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-11.2968923589
+    },
+    "1886":{
+        "company ID":"MSGS",
+        "score":0.4554393589,
+        "Rank":27.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":10.6445433057
+    },
+    "1883":{
+        "company ID":"LVO",
+        "score":0.4361477792,
+        "Rank":28.0,
+        "Rank Target":0.0571428571,
+        "stockDifferencePercentage":-49.1525445648
+    },
+    "1880":{
+        "company ID":"GAIA",
+        "score":0.4353365302,
+        "Rank":29.0,
+        "Rank Target":0.9428571429,
+        "stockDifferencePercentage":47.6415228031
+    },
+    "1874":{
+        "company ID":"CNVS",
+        "score":0.4250870943,
+        "Rank":30.0,
+        "Rank Target":0.1142857143,
+        "stockDifferencePercentage":-42.7152307959
+    },
+    "1870":{
+        "company ID":"ANGX",
+        "score":0.4098741114,
+        "Rank":31.0,
+        "Rank Target":0.0285714286,
+        "stockDifferencePercentage":-57.3846156777
+    },
+    "1891":{
+        "company ID":"RDI",
+        "score":0.4058263898,
+        "Rank":32.0,
+        "Rank Target":0.7428571429,
+        "stockDifferencePercentage":15.8730197705
+    },
+    "1896":{
+        "company ID":"STRZ",
+        "score":0.4012985826,
+        "Rank":33.0,
+        "Rank Target":0.3428571429,
+        "stockDifferencePercentage":-5.4627272402
+    },
+    "1868":{
+        "company ID":"AMC",
+        "score":0.3927937448,
+        "Rank":34.0,
+        "Rank Target":0.4857142857,
+        "stockDifferencePercentage":1.6949136099
+    },
+    "1898":{
+        "company ID":"TOON",
+        "score":0.3530641794,
+        "Rank":35.0,
+        "Rank Target":0.2571428571,
+        "stockDifferencePercentage":-7.4358936701
+    }
+}

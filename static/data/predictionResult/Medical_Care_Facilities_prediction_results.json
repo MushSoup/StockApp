@@ -1,0 +1,303 @@
+{
+    "2194":{
+        "company ID":"MD",
+        "score":0.7081727386,
+        "Rank":1.0,
+        "Rank Target":0.8139534884,
+        "stockDifferencePercentage":17.7068187785
+    },
+    "2176":{
+        "company ID":"AVAH",
+        "score":0.6808858514,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":90.7526817983
+    },
+    "2175":{
+        "company ID":"ASTH",
+        "score":0.6617462635,
+        "Rank":3.0,
+        "Rank Target":0.7674418605,
+        "stockDifferencePercentage":14.636071025
+    },
+    "2189":{
+        "company ID":"HCA",
+        "score":0.6468253136,
+        "Rank":4.0,
+        "Rank Target":0.6744186047,
+        "stockDifferencePercentage":11.9743734695
+    },
+    "2171":{
+        "company ID":"AIRS",
+        "score":0.6443831921,
+        "Rank":5.0,
+        "Rank Target":0.9534883721,
+        "stockDifferencePercentage":39.6296264573
+    },
+    "2187":{
+        "company ID":"ENSG",
+        "score":0.62438941,
+        "Rank":6.0,
+        "Rank Target":0.7441860465,
+        "stockDifferencePercentage":14.2295908993
+    },
+    "2209":{
+        "company ID":"UHS",
+        "score":0.6235929132,
+        "Rank":7.0,
+        "Rank Target":0.6279069767,
+        "stockDifferencePercentage":9.0834632063
+    },
+    "2210":{
+        "company ID":"USPH",
+        "score":0.6232321858,
+        "Rank":8.0,
+        "Rank Target":0.4186046512,
+        "stockDifferencePercentage":2.2001642601
+    },
+    "2201":{
+        "company ID":"PNTG",
+        "score":0.6163098216,
+        "Rank":9.0,
+        "Rank Target":0.3255813953,
+        "stockDifferencePercentage":-4.2585511954
+    },
+    "2193":{
+        "company ID":"LFST",
+        "score":0.6114760041,
+        "Rank":10.0,
+        "Rank Target":0.7209302326,
+        "stockDifferencePercentage":13.152403328
+    },
+    "2186":{
+        "company ID":"EHC",
+        "score":0.6073985696,
+        "Rank":11.0,
+        "Rank Target":0.5348837209,
+        "stockDifferencePercentage":5.7375702525
+    },
+    "2169":{
+        "company ID":"ADUS",
+        "score":0.603510499,
+        "Rank":12.0,
+        "Rank Target":0.511627907,
+        "stockDifferencePercentage":5.3012696878
+    },
+    "2203":{
+        "company ID":"SGRY",
+        "score":0.5939338803,
+        "Rank":13.0,
+        "Rank Target":0.3488372093,
+        "stockDifferencePercentage":-1.0835204299
+    },
+    "2181":{
+        "company ID":"CON",
+        "score":0.5886152387,
+        "Rank":14.0,
+        "Rank Target":0.3953488372,
+        "stockDifferencePercentage":1.248413508
+    },
+    "2188":{
+        "company ID":"GRDN",
+        "score":0.5879651308,
+        "Rank":15.0,
+        "Rank Target":0.9069767442,
+        "stockDifferencePercentage":25.0359674714
+    },
+    "2208":{
+        "company ID":"TOI",
+        "score":0.5851123333,
+        "Rank":16.0,
+        "Rank Target":0.9302325581,
+        "stockDifferencePercentage":37.3015898542
+    },
+    "2196":{
+        "company ID":"NHC",
+        "score":0.5833768845,
+        "Rank":17.0,
+        "Rank Target":0.6976744186,
+        "stockDifferencePercentage":12.9380260177
+    },
+    "2198":{
+        "company ID":"OPCH",
+        "score":0.5768887997,
+        "Rank":18.0,
+        "Rank Target":0.2093023256,
+        "stockDifferencePercentage":-11.6174549089
+    },
+    "2204":{
+        "company ID":"SNDA",
+        "score":0.5702406168,
+        "Rank":19.0,
+        "Rank Target":0.5813953488,
+        "stockDifferencePercentage":8.5590905531
+    },
+    "2205":{
+        "company ID":"SRTA",
+        "score":0.5611382127,
+        "Rank":20.0,
+        "Rank Target":0.8837209302,
+        "stockDifferencePercentage":22.0095721074
+    },
+    "2207":{
+        "company ID":"THC",
+        "score":0.5605224967,
+        "Rank":21.0,
+        "Rank Target":0.7906976744,
+        "stockDifferencePercentage":17.3177824771
+    },
+    "2184":{
+        "company ID":"DVA",
+        "score":0.5602983832,
+        "Rank":22.0,
+        "Rank Target":0.2558139535,
+        "stockDifferencePercentage":-8.3964656465
+    },
+    "2168":{
+        "company ID":"ACHC",
+        "score":0.5562854409,
+        "Rank":23.0,
+        "Rank Target":0.4418604651,
+        "stockDifferencePercentage":5.0513710371
+    },
+    "2182":{
+        "company ID":"CYH",
+        "score":0.5493873358,
+        "Rank":24.0,
+        "Rank Target":0.2790697674,
+        "stockDifferencePercentage":-7.9178878037
+    },
+    "2172":{
+        "company ID":"AMN",
+        "score":0.5439274311,
+        "Rank":25.0,
+        "Rank Target":0.1627906977,
+        "stockDifferencePercentage":-15.5565685927
+    },
+    "2173":{
+        "company ID":"AMS",
+        "score":0.5279167295,
+        "Rank":26.0,
+        "Rank Target":0.8372093023,
+        "stockDifferencePercentage":18.8755030846
+    },
+    "2177":{
+        "company ID":"BKD",
+        "score":0.525295198,
+        "Rank":27.0,
+        "Rank Target":0.8604651163,
+        "stockDifferencePercentage":20.4678302232
+    },
+    "2197":{
+        "company ID":"NUTX",
+        "score":0.4954895377,
+        "Rank":28.0,
+        "Rank Target":0.2325581395,
+        "stockDifferencePercentage":-10.2559762676
+    },
+    "2200":{
+        "company ID":"PIII",
+        "score":0.4875716865,
+        "Rank":29.0,
+        "Rank Target":0.976744186,
+        "stockDifferencePercentage":50.6739771744
+    },
+    "2190":{
+        "company ID":"HCSG",
+        "score":0.483443588,
+        "Rank":30.0,
+        "Rank Target":0.6046511628,
+        "stockDifferencePercentage":8.9167727687
+    },
+    "2202":{
+        "company ID":"SEM",
+        "score":0.4779410958,
+        "Rank":31.0,
+        "Rank Target":0.1162790698,
+        "stockDifferencePercentage":-17.0156428961
+    },
+    "2185":{
+        "company ID":"EHAB",
+        "score":0.4726573825,
+        "Rank":32.0,
+        "Rank Target":0.488372093,
+        "stockDifferencePercentage":5.2287593505
+    },
+    "2180":{
+        "company ID":"CHE",
+        "score":0.4693061411,
+        "Rank":33.0,
+        "Rank Target":0.3023255814,
+        "stockDifferencePercentage":-4.3167508307
+    },
+    "2179":{
+        "company ID":"CCRN",
+        "score":0.467491895,
+        "Rank":34.0,
+        "Rank Target":0.5581395349,
+        "stockDifferencePercentage":5.7647962091
+    },
+    "2191":{
+        "company ID":"INNV",
+        "score":0.4630267322,
+        "Rank":35.0,
+        "Rank Target":0.6511627907,
+        "stockDifferencePercentage":9.8654720525
+    },
+    "2174":{
+        "company ID":"ARDT",
+        "score":0.4587262273,
+        "Rank":36.0,
+        "Rank Target":0.3720930233,
+        "stockDifferencePercentage":-0.8961903094
+    },
+    "2192":{
+        "company ID":"JYNT",
+        "score":0.442971766,
+        "Rank":37.0,
+        "Rank Target":0.1395348837,
+        "stockDifferencePercentage":-15.8254875467
+    },
+    "2178":{
+        "company ID":"BTMD",
+        "score":0.4243997037,
+        "Rank":38.0,
+        "Rank Target":0.0930232558,
+        "stockDifferencePercentage":-29.1469156837
+    },
+    "2183":{
+        "company ID":"DCGO",
+        "score":0.3977859914,
+        "Rank":39.0,
+        "Rank Target":0.1860465116,
+        "stockDifferencePercentage":-12.6582305234
+    },
+    "2195":{
+        "company ID":"NAKA",
+        "score":0.3694297075,
+        "Rank":40.0,
+        "Rank Target":0.023255814,
+        "stockDifferencePercentage":-90.8235297482
+    },
+    "2199":{
+        "company ID":"PACS",
+        "score":0.3394323289,
+        "Rank":41.0,
+        "Rank Target":0.4651162791,
+        "stockDifferencePercentage":5.1750329812
+    },
+    "2170":{
+        "company ID":"AGL",
+        "score":0.3222502768,
+        "Rank":42.0,
+        "Rank Target":0.0465116279,
+        "stockDifferencePercentage":-54.3209883215
+    },
+    "2206":{
+        "company ID":"SRXH",
+        "score":0.2690300345,
+        "Rank":43.0,
+        "Rank Target":0.0697674419,
+        "stockDifferencePercentage":-47.5155275227
+    }
+}

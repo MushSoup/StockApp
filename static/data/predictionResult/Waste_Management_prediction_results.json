@@ -1,0 +1,86 @@
+{
+    "834":{
+        "company ID":"MEG",
+        "score":0.6960253716,
+        "Rank":1.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":24.1595760916
+    },
+    "830":{
+        "company ID":"AWX",
+        "score":0.6610789299,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":7.4688722818
+    },
+    "831":{
+        "company ID":"CLH",
+        "score":0.6189718246,
+        "Rank":3.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-0.2946774292
+    },
+    "828":{
+        "company ID":"ABAT",
+        "score":0.5982441306,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":181.9671981659
+    },
+    "838":{
+        "company ID":"RSG",
+        "score":0.5791721344,
+        "Rank":5.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-5.0095402541
+    },
+    "839":{
+        "company ID":"WM",
+        "score":0.5741986632,
+        "Rank":6.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-3.0145028286
+    },
+    "832":{
+        "company ID":"CWST",
+        "score":0.5616617203,
+        "Rank":7.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-19.7795414492
+    },
+    "836":{
+        "company ID":"PESI",
+        "score":0.554908216,
+        "Rank":8.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-9.7560971407
+    },
+    "837":{
+        "company ID":"QRHC",
+        "score":0.545383513,
+        "Rank":9.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-29.7297332116
+    },
+    "835":{
+        "company ID":"NVRI",
+        "score":0.5410832167,
+        "Rank":10.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":42.7922738314
+    },
+    "829":{
+        "company ID":"AQMS",
+        "score":0.4476985633,
+        "Rank":11.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":34.4761893867
+    },
+    "833":{
+        "company ID":"LNZA",
+        "score":0.423518002,
+        "Rank":12.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":0.1071453093
+    }
+}

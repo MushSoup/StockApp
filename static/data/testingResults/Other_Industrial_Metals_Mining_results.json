@@ -1,0 +1,986 @@
+{
+    "494":{
+        "index":1648684800000,
+        "company ID":"MTRN",
+        "Rank Target":1.0,
+        "prediction":0.7836947441,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "497":{
+        "index":1648684800000,
+        "company ID":"UAMY",
+        "Rank Target":0.6666666667,
+        "prediction":0.7321313024,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "491":{
+        "index":1648684800000,
+        "company ID":"CMP",
+        "Rank Target":0.3333333333,
+        "prediction":0.7177593708,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "493":{
+        "index":1648684800000,
+        "company ID":"MP",
+        "Rank Target":0.5555555556,
+        "prediction":0.6892071366,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "499":{
+        "index":1648684800000,
+        "company ID":"XPL",
+        "Rank Target":0.7777777778,
+        "prediction":0.6204721928,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "496":{
+        "index":1648684800000,
+        "company ID":"OMEX",
+        "Rank Target":0.2222222222,
+        "prediction":0.6169523597,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "498":{
+        "index":1648684800000,
+        "company ID":"WWR",
+        "Rank Target":0.4444444444,
+        "prediction":0.5251654983,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "495":{
+        "index":1648684800000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4706502855,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "492":{
+        "index":1648684800000,
+        "company ID":"IPX",
+        "Rank Target":0.8888888889,
+        "prediction":0.1656304747,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "506":{
+        "index":1656547200000,
+        "company ID":"UAMY",
+        "Rank Target":0.5555555556,
+        "prediction":0.7276411057,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "503":{
+        "index":1656547200000,
+        "company ID":"MTRN",
+        "Rank Target":0.8888888889,
+        "prediction":0.7242401242,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "502":{
+        "index":1656547200000,
+        "company ID":"MP",
+        "Rank Target":0.2222222222,
+        "prediction":0.717022717,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "500":{
+        "index":1656547200000,
+        "company ID":"CMP",
+        "Rank Target":1.0,
+        "prediction":0.6777762175,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "505":{
+        "index":1656547200000,
+        "company ID":"OMEX",
+        "Rank Target":0.4444444444,
+        "prediction":0.6030592322,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "508":{
+        "index":1656547200000,
+        "company ID":"XPL",
+        "Rank Target":0.3333333333,
+        "prediction":0.530559063,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "507":{
+        "index":1656547200000,
+        "company ID":"WWR",
+        "Rank Target":0.7777777778,
+        "prediction":0.5301160216,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "504":{
+        "index":1656547200000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4796983898,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "501":{
+        "index":1656547200000,
+        "company ID":"IPX",
+        "Rank Target":0.6666666667,
+        "prediction":0.1792986989,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "512":{
+        "index":1664496000000,
+        "company ID":"MTRN",
+        "Rank Target":0.6666666667,
+        "prediction":0.7714378238,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "515":{
+        "index":1664496000000,
+        "company ID":"UAMY",
+        "Rank Target":1.0,
+        "prediction":0.734990716,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "511":{
+        "index":1664496000000,
+        "company ID":"MP",
+        "Rank Target":0.4444444444,
+        "prediction":0.6866758466,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "509":{
+        "index":1664496000000,
+        "company ID":"CMP",
+        "Rank Target":0.5555555556,
+        "prediction":0.6557233334,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "514":{
+        "index":1664496000000,
+        "company ID":"OMEX",
+        "Rank Target":0.8888888889,
+        "prediction":0.6195229888,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "517":{
+        "index":1664496000000,
+        "company ID":"XPL",
+        "Rank Target":0.7777777778,
+        "prediction":0.5203044415,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "516":{
+        "index":1664496000000,
+        "company ID":"WWR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5093067884,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "513":{
+        "index":1664496000000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4552139044,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "510":{
+        "index":1664496000000,
+        "company ID":"IPX",
+        "Rank Target":0.3333333333,
+        "prediction":0.214120388,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "521":{
+        "index":1672444800000,
+        "company ID":"MTRN",
+        "Rank Target":0.8888888889,
+        "prediction":0.7436900139,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "520":{
+        "index":1672444800000,
+        "company ID":"MP",
+        "Rank Target":0.7777777778,
+        "prediction":0.7139132619,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "518":{
+        "index":1672444800000,
+        "company ID":"CMP",
+        "Rank Target":0.2222222222,
+        "prediction":0.7125450969,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "526":{
+        "index":1672444800000,
+        "company ID":"XPL",
+        "Rank Target":0.5555555556,
+        "prediction":0.644387126,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "524":{
+        "index":1672444800000,
+        "company ID":"UAMY",
+        "Rank Target":0.1111111111,
+        "prediction":0.5974161625,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "523":{
+        "index":1672444800000,
+        "company ID":"OMEX",
+        "Rank Target":0.4444444444,
+        "prediction":0.5573590994,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "522":{
+        "index":1672444800000,
+        "company ID":"NB",
+        "Rank Target":0.3333333333,
+        "prediction":0.5015906692,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "525":{
+        "index":1672444800000,
+        "company ID":"WWR",
+        "Rank Target":1.0,
+        "prediction":0.4742173851,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "519":{
+        "index":1672444800000,
+        "company ID":"IPX",
+        "Rank Target":0.6666666667,
+        "prediction":0.1980559081,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "530":{
+        "index":1680220800000,
+        "company ID":"MTRN",
+        "Rank Target":0.6666666667,
+        "prediction":0.7803396583,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "529":{
+        "index":1680220800000,
+        "company ID":"MP",
+        "Rank Target":0.3333333333,
+        "prediction":0.7145926952,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "527":{
+        "index":1680220800000,
+        "company ID":"CMP",
+        "Rank Target":0.7777777778,
+        "prediction":0.6970744729,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "533":{
+        "index":1680220800000,
+        "company ID":"UAMY",
+        "Rank Target":0.5555555556,
+        "prediction":0.665137589,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "532":{
+        "index":1680220800000,
+        "company ID":"OMEX",
+        "Rank Target":0.8888888889,
+        "prediction":0.5651910901,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "535":{
+        "index":1680220800000,
+        "company ID":"XPL",
+        "Rank Target":0.4444444444,
+        "prediction":0.5301337242,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "534":{
+        "index":1680220800000,
+        "company ID":"WWR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5266680717,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "531":{
+        "index":1680220800000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4716854692,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "528":{
+        "index":1680220800000,
+        "company ID":"IPX",
+        "Rank Target":1.0,
+        "prediction":0.2246613503,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "539":{
+        "index":1688083200000,
+        "company ID":"MTRN",
+        "Rank Target":0.5555555556,
+        "prediction":0.7469125986,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "538":{
+        "index":1688083200000,
+        "company ID":"MP",
+        "Rank Target":0.4444444444,
+        "prediction":0.7194063663,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "536":{
+        "index":1688083200000,
+        "company ID":"CMP",
+        "Rank Target":0.3333333333,
+        "prediction":0.6579971313,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "542":{
+        "index":1688083200000,
+        "company ID":"UAMY",
+        "Rank Target":0.8888888889,
+        "prediction":0.6542010903,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "541":{
+        "index":1688083200000,
+        "company ID":"OMEX",
+        "Rank Target":0.7777777778,
+        "prediction":0.5485600829,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "544":{
+        "index":1688083200000,
+        "company ID":"XPL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5331501961,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "543":{
+        "index":1688083200000,
+        "company ID":"WWR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5277891755,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "540":{
+        "index":1688083200000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4855472445,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "537":{
+        "index":1688083200000,
+        "company ID":"IPX",
+        "Rank Target":1.0,
+        "prediction":0.202980876,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "548":{
+        "index":1696032000000,
+        "company ID":"MTRN",
+        "Rank Target":1.0,
+        "prediction":0.7822286487,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "547":{
+        "index":1696032000000,
+        "company ID":"MP",
+        "Rank Target":0.8,
+        "prediction":0.7285571098,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "551":{
+        "index":1696032000000,
+        "company ID":"UAMY",
+        "Rank Target":0.1,
+        "prediction":0.6654006243,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "545":{
+        "index":1696032000000,
+        "company ID":"CMP",
+        "Rank Target":0.3,
+        "prediction":0.648037374,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "550":{
+        "index":1696032000000,
+        "company ID":"OMEX",
+        "Rank Target":0.9,
+        "prediction":0.552550137,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "554":{
+        "index":1696032000000,
+        "company ID":"XPL",
+        "Rank Target":0.7,
+        "prediction":0.5356938839,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "549":{
+        "index":1696032000000,
+        "company ID":"NB",
+        "Rank Target":0.2,
+        "prediction":0.5274914503,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "553":{
+        "index":1696032000000,
+        "company ID":"WWR",
+        "Rank Target":0.4,
+        "prediction":0.5063111186,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "552":{
+        "index":1696032000000,
+        "company ID":"USAR",
+        "Rank Target":0.5,
+        "prediction":0.2260124981,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "546":{
+        "index":1696032000000,
+        "company ID":"IPX",
+        "Rank Target":0.6,
+        "prediction":0.2209753841,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "555":{
+        "index":1703980800000,
+        "company ID":"CMP",
+        "Rank Target":0.1,
+        "prediction":0.6884714961,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "558":{
+        "index":1703980800000,
+        "company ID":"MTRN",
+        "Rank Target":0.8,
+        "prediction":0.6866233349,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "564":{
+        "index":1703980800000,
+        "company ID":"XPL",
+        "Rank Target":0.9,
+        "prediction":0.6783483028,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "561":{
+        "index":1703980800000,
+        "company ID":"UAMY",
+        "Rank Target":0.6,
+        "prediction":0.6681709886,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "557":{
+        "index":1703980800000,
+        "company ID":"MP",
+        "Rank Target":0.2,
+        "prediction":0.6442226171,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "563":{
+        "index":1703980800000,
+        "company ID":"WWR",
+        "Rank Target":0.4,
+        "prediction":0.5679305196,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "560":{
+        "index":1703980800000,
+        "company ID":"OMEX",
+        "Rank Target":0.3,
+        "prediction":0.5322996378,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "559":{
+        "index":1703980800000,
+        "company ID":"NB",
+        "Rank Target":0.5,
+        "prediction":0.4971420467,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "562":{
+        "index":1703980800000,
+        "company ID":"USAR",
+        "Rank Target":0.7,
+        "prediction":0.4331713915,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "556":{
+        "index":1703980800000,
+        "company ID":"IPX",
+        "Rank Target":1.0,
+        "prediction":0.2586778402,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "566":{
+        "index":1711843200000,
+        "company ID":"MP",
+        "Rank Target":0.2222222222,
+        "prediction":0.74185431,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "567":{
+        "index":1711843200000,
+        "company ID":"MTRN",
+        "Rank Target":0.3333333333,
+        "prediction":0.7331280708,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "570":{
+        "index":1711843200000,
+        "company ID":"UAMY",
+        "Rank Target":0.8888888889,
+        "prediction":0.6408944726,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "569":{
+        "index":1711843200000,
+        "company ID":"OMEX",
+        "Rank Target":0.7777777778,
+        "prediction":0.5855392218,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "568":{
+        "index":1711843200000,
+        "company ID":"NB",
+        "Rank Target":0.1111111111,
+        "prediction":0.5381461382,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "572":{
+        "index":1711843200000,
+        "company ID":"WWR",
+        "Rank Target":0.5555555556,
+        "prediction":0.5239681602,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "573":{
+        "index":1711843200000,
+        "company ID":"XPL",
+        "Rank Target":1.0,
+        "prediction":0.514656961,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "571":{
+        "index":1711843200000,
+        "company ID":"USAR",
+        "Rank Target":0.6666666667,
+        "prediction":0.2677096725,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "565":{
+        "index":1711843200000,
+        "company ID":"IPX",
+        "Rank Target":0.4444444444,
+        "prediction":0.2147411406,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "577":{
+        "index":1719705600000,
+        "company ID":"MTRN",
+        "Rank Target":0.4,
+        "prediction":0.7192850709,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "579":{
+        "index":1719705600000,
+        "company ID":"OMEX",
+        "Rank Target":0.1,
+        "prediction":0.7099596262,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "576":{
+        "index":1719705600000,
+        "company ID":"MP",
+        "Rank Target":0.9,
+        "prediction":0.6455071568,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "574":{
+        "index":1719705600000,
+        "company ID":"CMP",
+        "Rank Target":0.6,
+        "prediction":0.6282293797,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "580":{
+        "index":1719705600000,
+        "company ID":"UAMY",
+        "Rank Target":1.0,
+        "prediction":0.6263070703,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "582":{
+        "index":1719705600000,
+        "company ID":"WWR",
+        "Rank Target":0.5,
+        "prediction":0.591221571,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "583":{
+        "index":1719705600000,
+        "company ID":"XPL",
+        "Rank Target":0.2,
+        "prediction":0.5405461788,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "578":{
+        "index":1719705600000,
+        "company ID":"NB",
+        "Rank Target":0.7,
+        "prediction":0.5156456232,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "581":{
+        "index":1719705600000,
+        "company ID":"USAR",
+        "Rank Target":0.3,
+        "prediction":0.4243804812,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "575":{
+        "index":1719705600000,
+        "company ID":"IPX",
+        "Rank Target":0.8,
+        "prediction":0.2210389972,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "587":{
+        "index":1727654400000,
+        "company ID":"MTRN",
+        "Rank Target":0.6,
+        "prediction":0.7724274993,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "584":{
+        "index":1727654400000,
+        "company ID":"CMP",
+        "Rank Target":0.3,
+        "prediction":0.7250783443,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "586":{
+        "index":1727654400000,
+        "company ID":"MP",
+        "Rank Target":0.4,
+        "prediction":0.6697568297,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "590":{
+        "index":1727654400000,
+        "company ID":"UAMY",
+        "Rank Target":1.0,
+        "prediction":0.660417676,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "592":{
+        "index":1727654400000,
+        "company ID":"WWR",
+        "Rank Target":0.9,
+        "prediction":0.6123236418,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "589":{
+        "index":1727654400000,
+        "company ID":"OMEX",
+        "Rank Target":0.5,
+        "prediction":0.5859545469,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "591":{
+        "index":1727654400000,
+        "company ID":"USAR",
+        "Rank Target":0.7,
+        "prediction":0.5554617047,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "593":{
+        "index":1727654400000,
+        "company ID":"XPL",
+        "Rank Target":0.2,
+        "prediction":0.5320094228,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "588":{
+        "index":1727654400000,
+        "company ID":"NB",
+        "Rank Target":0.1,
+        "prediction":0.4701448679,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "585":{
+        "index":1727654400000,
+        "company ID":"IPX",
+        "Rank Target":0.8,
+        "prediction":0.2211939692,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "597":{
+        "index":1735603200000,
+        "company ID":"MTRN",
+        "Rank Target":0.5,
+        "prediction":0.7217336893,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "594":{
+        "index":1735603200000,
+        "company ID":"CMP",
+        "Rank Target":0.6,
+        "prediction":0.7014956474,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "596":{
+        "index":1735603200000,
+        "company ID":"MP",
+        "Rank Target":1.0,
+        "prediction":0.6630598903,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "599":{
+        "index":1735603200000,
+        "company ID":"OMEX",
+        "Rank Target":0.3,
+        "prediction":0.6331396103,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "600":{
+        "index":1735603200000,
+        "company ID":"UAMY",
+        "Rank Target":0.8,
+        "prediction":0.6309743524,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "602":{
+        "index":1735603200000,
+        "company ID":"WWR",
+        "Rank Target":0.4,
+        "prediction":0.6042512059,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "603":{
+        "index":1735603200000,
+        "company ID":"XPL",
+        "Rank Target":0.7,
+        "prediction":0.5452314019,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "601":{
+        "index":1735603200000,
+        "company ID":"USAR",
+        "Rank Target":0.1,
+        "prediction":0.5406829119,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "598":{
+        "index":1735603200000,
+        "company ID":"NB",
+        "Rank Target":0.9,
+        "prediction":0.4510990381,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "595":{
+        "index":1735603200000,
+        "company ID":"IPX",
+        "Rank Target":0.2,
+        "prediction":0.2283703387,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "607":{
+        "index":1743379200000,
+        "company ID":"MTRN",
+        "Rank Target":0.2,
+        "prediction":0.7126564384,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "606":{
+        "index":1743379200000,
+        "company ID":"MP",
+        "Rank Target":0.6,
+        "prediction":0.6775391102,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "604":{
+        "index":1743379200000,
+        "company ID":"CMP",
+        "Rank Target":0.9,
+        "prediction":0.6739820242,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "610":{
+        "index":1743379200000,
+        "company ID":"UAMY",
+        "Rank Target":0.1,
+        "prediction":0.6545833945,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "612":{
+        "index":1743379200000,
+        "company ID":"WWR",
+        "Rank Target":0.3,
+        "prediction":0.5936386585,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "609":{
+        "index":1743379200000,
+        "company ID":"OMEX",
+        "Rank Target":1.0,
+        "prediction":0.5858163834,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "611":{
+        "index":1743379200000,
+        "company ID":"USAR",
+        "Rank Target":0.7,
+        "prediction":0.5799960494,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "613":{
+        "index":1743379200000,
+        "company ID":"XPL",
+        "Rank Target":0.4,
+        "prediction":0.5132608414,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "608":{
+        "index":1743379200000,
+        "company ID":"NB",
+        "Rank Target":0.5,
+        "prediction":0.4715880156,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "605":{
+        "index":1743379200000,
+        "company ID":"IPX",
+        "Rank Target":0.8,
+        "prediction":0.1978949457,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    }
+}

@@ -1,0 +1,1378 @@
+{
+    "561":{
+        "index":1648684800000,
+        "company ID":"PAG",
+        "Rank Target":1.0,
+        "prediction":0.6623123884,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "563":{
+        "index":1648684800000,
+        "company ID":"RUSHA",
+        "Rank Target":0.7692307692,
+        "prediction":0.6466366649,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "553":{
+        "index":1648684800000,
+        "company ID":"ABG",
+        "Rank Target":0.8461538462,
+        "prediction":0.61120224,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "557":{
+        "index":1648684800000,
+        "company ID":"CVNA",
+        "Rank Target":0.0769230769,
+        "prediction":0.556076169,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "559":{
+        "index":1648684800000,
+        "company ID":"LAD",
+        "Rank Target":0.6923076923,
+        "prediction":0.5479346514,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "564":{
+        "index":1648684800000,
+        "company ID":"SAH",
+        "Rank Target":0.5384615385,
+        "prediction":0.5470995903,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "555":{
+        "index":1648684800000,
+        "company ID":"AN",
+        "Rank Target":0.9230769231,
+        "prediction":0.5359655023,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "558":{
+        "index":1648684800000,
+        "company ID":"CWH",
+        "Rank Target":0.4615384615,
+        "prediction":0.5082162619,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "565":{
+        "index":1648684800000,
+        "company ID":"VVV",
+        "Rank Target":0.6153846154,
+        "prediction":0.5070899129,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "556":{
+        "index":1648684800000,
+        "company ID":"CARG",
+        "Rank Target":0.3076923077,
+        "prediction":0.499450922,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "560":{
+        "index":1648684800000,
+        "company ID":"MCW",
+        "Rank Target":0.3846153846,
+        "prediction":0.4632089436,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "562":{
+        "index":1648684800000,
+        "company ID":"RDNW",
+        "Rank Target":0.2307692308,
+        "prediction":0.4393811822,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "554":{
+        "index":1648684800000,
+        "company ID":"ACVA",
+        "Rank Target":0.1538461538,
+        "prediction":0.393004179,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "576":{
+        "index":1656547200000,
+        "company ID":"RUSHA",
+        "Rank Target":0.6153846154,
+        "prediction":0.6820420027,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "575":{
+        "index":1656547200000,
+        "company ID":"RDNW",
+        "Rank Target":0.8461538462,
+        "prediction":0.657858789,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "578":{
+        "index":1656547200000,
+        "company ID":"VVV",
+        "Rank Target":0.5384615385,
+        "prediction":0.6578309536,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "574":{
+        "index":1656547200000,
+        "company ID":"PAG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6420263648,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "568":{
+        "index":1656547200000,
+        "company ID":"AN",
+        "Rank Target":0.4615384615,
+        "prediction":0.6297143698,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "569":{
+        "index":1656547200000,
+        "company ID":"CARG",
+        "Rank Target":0.0769230769,
+        "prediction":0.6060646176,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "566":{
+        "index":1656547200000,
+        "company ID":"ABG",
+        "Rank Target":0.3846153846,
+        "prediction":0.6054726839,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "571":{
+        "index":1656547200000,
+        "company ID":"CWH",
+        "Rank Target":0.7692307692,
+        "prediction":0.60273844,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "577":{
+        "index":1656547200000,
+        "company ID":"SAH",
+        "Rank Target":1.0,
+        "prediction":0.5814780593,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "570":{
+        "index":1656547200000,
+        "company ID":"CVNA",
+        "Rank Target":0.3076923077,
+        "prediction":0.5058530569,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "573":{
+        "index":1656547200000,
+        "company ID":"MCW",
+        "Rank Target":0.1538461538,
+        "prediction":0.4810679555,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "572":{
+        "index":1656547200000,
+        "company ID":"LAD",
+        "Rank Target":0.2307692308,
+        "prediction":0.4750388861,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "567":{
+        "index":1656547200000,
+        "company ID":"ACVA",
+        "Rank Target":0.9230769231,
+        "prediction":0.3688334525,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "585":{
+        "index":1664496000000,
+        "company ID":"LAD",
+        "Rank Target":0.3076923077,
+        "prediction":0.6634019017,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "581":{
+        "index":1664496000000,
+        "company ID":"AN",
+        "Rank Target":0.4615384615,
+        "prediction":0.6501779556,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "589":{
+        "index":1664496000000,
+        "company ID":"RUSHA",
+        "Rank Target":0.9230769231,
+        "prediction":0.646843791,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "579":{
+        "index":1664496000000,
+        "company ID":"ABG",
+        "Rank Target":0.8461538462,
+        "prediction":0.6390788555,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "587":{
+        "index":1664496000000,
+        "company ID":"PAG",
+        "Rank Target":0.7692307692,
+        "prediction":0.6282433271,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "590":{
+        "index":1664496000000,
+        "company ID":"SAH",
+        "Rank Target":0.6923076923,
+        "prediction":0.5681051612,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "582":{
+        "index":1664496000000,
+        "company ID":"CARG",
+        "Rank Target":0.3846153846,
+        "prediction":0.5323698521,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "584":{
+        "index":1664496000000,
+        "company ID":"CWH",
+        "Rank Target":0.2307692308,
+        "prediction":0.5309448838,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "591":{
+        "index":1664496000000,
+        "company ID":"VVV",
+        "Rank Target":1.0,
+        "prediction":0.5132009387,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "588":{
+        "index":1664496000000,
+        "company ID":"RDNW",
+        "Rank Target":0.1538461538,
+        "prediction":0.4932670891,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "583":{
+        "index":1664496000000,
+        "company ID":"CVNA",
+        "Rank Target":0.0769230769,
+        "prediction":0.4852288961,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "580":{
+        "index":1664496000000,
+        "company ID":"ACVA",
+        "Rank Target":0.6153846154,
+        "prediction":0.4519958496,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "586":{
+        "index":1664496000000,
+        "company ID":"MCW",
+        "Rank Target":0.5384615385,
+        "prediction":0.4062516391,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "600":{
+        "index":1672444800000,
+        "company ID":"PAG",
+        "Rank Target":0.75,
+        "prediction":0.6764655709,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "601":{
+        "index":1672444800000,
+        "company ID":"RUSHA",
+        "Rank Target":0.25,
+        "prediction":0.6732346416,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "598":{
+        "index":1672444800000,
+        "company ID":"LAD",
+        "Rank Target":0.4166666667,
+        "prediction":0.6155353785,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "592":{
+        "index":1672444800000,
+        "company ID":"ABG",
+        "Rank Target":0.5833333333,
+        "prediction":0.6148569584,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "594":{
+        "index":1672444800000,
+        "company ID":"AN",
+        "Rank Target":0.6666666667,
+        "prediction":0.597150445,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "602":{
+        "index":1672444800000,
+        "company ID":"SAH",
+        "Rank Target":0.5,
+        "prediction":0.5781628489,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "596":{
+        "index":1672444800000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.5482189059,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "599":{
+        "index":1672444800000,
+        "company ID":"MCW",
+        "Rank Target":0.0833333333,
+        "prediction":0.4850408137,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "595":{
+        "index":1672444800000,
+        "company ID":"CARG",
+        "Rank Target":0.8333333333,
+        "prediction":0.4693227112,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "593":{
+        "index":1672444800000,
+        "company ID":"ACVA",
+        "Rank Target":0.9166666667,
+        "prediction":0.4650944769,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "603":{
+        "index":1672444800000,
+        "company ID":"VVV",
+        "Rank Target":0.3333333333,
+        "prediction":0.4637190998,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "597":{
+        "index":1672444800000,
+        "company ID":"CWH",
+        "Rank Target":0.1666666667,
+        "prediction":0.4057098031,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "606":{
+        "index":1680220800000,
+        "company ID":"AN",
+        "Rank Target":0.5384615385,
+        "prediction":0.6631156206,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "608":{
+        "index":1680220800000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.6510565877,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "612":{
+        "index":1680220800000,
+        "company ID":"PAG",
+        "Rank Target":0.4615384615,
+        "prediction":0.6466476321,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "616":{
+        "index":1680220800000,
+        "company ID":"VVV",
+        "Rank Target":0.1538461538,
+        "prediction":0.5896298885,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "604":{
+        "index":1680220800000,
+        "company ID":"ABG",
+        "Rank Target":0.3846153846,
+        "prediction":0.5849624276,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "610":{
+        "index":1680220800000,
+        "company ID":"LAD",
+        "Rank Target":0.6923076923,
+        "prediction":0.5818012357,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "614":{
+        "index":1680220800000,
+        "company ID":"RUSHA",
+        "Rank Target":0.3076923077,
+        "prediction":0.5649400353,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "605":{
+        "index":1680220800000,
+        "company ID":"ACVA",
+        "Rank Target":0.7692307692,
+        "prediction":0.562484324,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "609":{
+        "index":1680220800000,
+        "company ID":"CWH",
+        "Rank Target":0.8461538462,
+        "prediction":0.5584041476,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "615":{
+        "index":1680220800000,
+        "company ID":"SAH",
+        "Rank Target":0.0769230769,
+        "prediction":0.5171633363,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "607":{
+        "index":1680220800000,
+        "company ID":"CARG",
+        "Rank Target":0.6153846154,
+        "prediction":0.4940676987,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "611":{
+        "index":1680220800000,
+        "company ID":"MCW",
+        "Rank Target":0.2307692308,
+        "prediction":0.4916270673,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "613":{
+        "index":1680220800000,
+        "company ID":"RDNW",
+        "Rank Target":0.9230769231,
+        "prediction":0.3937848508,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "617":{
+        "index":1688083200000,
+        "company ID":"ABG",
+        "Rank Target":0.6153846154,
+        "prediction":0.7204954028,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "625":{
+        "index":1688083200000,
+        "company ID":"PAG",
+        "Rank Target":0.8461538462,
+        "prediction":0.6769644618,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "623":{
+        "index":1688083200000,
+        "company ID":"LAD",
+        "Rank Target":0.6923076923,
+        "prediction":0.6741173863,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "627":{
+        "index":1688083200000,
+        "company ID":"RUSHA",
+        "Rank Target":0.9230769231,
+        "prediction":0.5860807896,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "621":{
+        "index":1688083200000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.580047667,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "619":{
+        "index":1688083200000,
+        "company ID":"AN",
+        "Rank Target":0.4615384615,
+        "prediction":0.5790979862,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "628":{
+        "index":1688083200000,
+        "company ID":"SAH",
+        "Rank Target":0.7692307692,
+        "prediction":0.5612385273,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "622":{
+        "index":1688083200000,
+        "company ID":"CWH",
+        "Rank Target":0.2307692308,
+        "prediction":0.5420920849,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "624":{
+        "index":1688083200000,
+        "company ID":"MCW",
+        "Rank Target":0.1538461538,
+        "prediction":0.5256729126,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "629":{
+        "index":1688083200000,
+        "company ID":"VVV",
+        "Rank Target":0.3846153846,
+        "prediction":0.4982482493,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "626":{
+        "index":1688083200000,
+        "company ID":"RDNW",
+        "Rank Target":0.0769230769,
+        "prediction":0.496442169,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "620":{
+        "index":1688083200000,
+        "company ID":"CARG",
+        "Rank Target":0.3076923077,
+        "prediction":0.424580127,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "618":{
+        "index":1688083200000,
+        "company ID":"ACVA",
+        "Rank Target":0.5384615385,
+        "prediction":0.3939767778,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "638":{
+        "index":1696032000000,
+        "company ID":"PAG",
+        "Rank Target":0.0769230769,
+        "prediction":0.6519293785,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "636":{
+        "index":1696032000000,
+        "company ID":"LAD",
+        "Rank Target":0.3846153846,
+        "prediction":0.6503998041,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "642":{
+        "index":1696032000000,
+        "company ID":"VVV",
+        "Rank Target":0.4615384615,
+        "prediction":0.6470292211,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "634":{
+        "index":1696032000000,
+        "company ID":"CVNA",
+        "Rank Target":0.7692307692,
+        "prediction":0.6410871148,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "632":{
+        "index":1696032000000,
+        "company ID":"AN",
+        "Rank Target":0.2307692308,
+        "prediction":0.5828189254,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "640":{
+        "index":1696032000000,
+        "company ID":"RUSHA",
+        "Rank Target":0.6153846154,
+        "prediction":0.5825006962,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "641":{
+        "index":1696032000000,
+        "company ID":"SAH",
+        "Rank Target":0.5384615385,
+        "prediction":0.5590654016,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "631":{
+        "index":1696032000000,
+        "company ID":"ACVA",
+        "Rank Target":0.1538461538,
+        "prediction":0.5420373082,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "630":{
+        "index":1696032000000,
+        "company ID":"ABG",
+        "Rank Target":0.3076923077,
+        "prediction":0.5290688872,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "637":{
+        "index":1696032000000,
+        "company ID":"MCW",
+        "Rank Target":1.0,
+        "prediction":0.5288817286,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "635":{
+        "index":1696032000000,
+        "company ID":"CWH",
+        "Rank Target":0.6923076923,
+        "prediction":0.5065719485,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "633":{
+        "index":1696032000000,
+        "company ID":"CARG",
+        "Rank Target":0.8461538462,
+        "prediction":0.497081399,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "639":{
+        "index":1696032000000,
+        "company ID":"RDNW",
+        "Rank Target":0.9230769231,
+        "prediction":0.4892295003,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "645":{
+        "index":1703980800000,
+        "company ID":"AN",
+        "Rank Target":0.7692307692,
+        "prediction":0.6813453436,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "653":{
+        "index":1703980800000,
+        "company ID":"RUSHA",
+        "Rank Target":0.6153846154,
+        "prediction":0.6746277809,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "651":{
+        "index":1703980800000,
+        "company ID":"PAG",
+        "Rank Target":0.3846153846,
+        "prediction":0.669629395,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "654":{
+        "index":1703980800000,
+        "company ID":"SAH",
+        "Rank Target":0.4615384615,
+        "prediction":0.5977950692,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "643":{
+        "index":1703980800000,
+        "company ID":"ABG",
+        "Rank Target":0.5384615385,
+        "prediction":0.5890498757,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "649":{
+        "index":1703980800000,
+        "company ID":"LAD",
+        "Rank Target":0.2307692308,
+        "prediction":0.573923707,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "647":{
+        "index":1703980800000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.554705143,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "655":{
+        "index":1703980800000,
+        "company ID":"VVV",
+        "Rank Target":0.8461538462,
+        "prediction":0.5479246974,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "652":{
+        "index":1703980800000,
+        "company ID":"RDNW",
+        "Rank Target":0.0769230769,
+        "prediction":0.5409585834,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "650":{
+        "index":1703980800000,
+        "company ID":"MCW",
+        "Rank Target":0.1538461538,
+        "prediction":0.4869670868,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "646":{
+        "index":1703980800000,
+        "company ID":"CARG",
+        "Rank Target":0.3076923077,
+        "prediction":0.4626072645,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "644":{
+        "index":1703980800000,
+        "company ID":"ACVA",
+        "Rank Target":0.9230769231,
+        "prediction":0.4449931085,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "648":{
+        "index":1703980800000,
+        "company ID":"CWH",
+        "Rank Target":0.6923076923,
+        "prediction":0.4325781167,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "656":{
+        "index":1711843200000,
+        "company ID":"ABG",
+        "Rank Target":0.8571428571,
+        "prediction":0.6926695108,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "660":{
+        "index":1711843200000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.6663662791,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "665":{
+        "index":1711843200000,
+        "company ID":"PAG",
+        "Rank Target":0.4285714286,
+        "prediction":0.6652882099,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "666":{
+        "index":1711843200000,
+        "company ID":"RDNW",
+        "Rank Target":0.2142857143,
+        "prediction":0.6417566538,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "662":{
+        "index":1711843200000,
+        "company ID":"LAD",
+        "Rank Target":0.3571428571,
+        "prediction":0.6235753298,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "668":{
+        "index":1711843200000,
+        "company ID":"SAH",
+        "Rank Target":0.7857142857,
+        "prediction":0.5842178464,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "659":{
+        "index":1711843200000,
+        "company ID":"CARG",
+        "Rank Target":0.9285714286,
+        "prediction":0.5838652849,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "669":{
+        "index":1711843200000,
+        "company ID":"VVV",
+        "Rank Target":0.6428571429,
+        "prediction":0.5829671621,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "658":{
+        "index":1711843200000,
+        "company ID":"AN",
+        "Rank Target":0.7142857143,
+        "prediction":0.5752859116,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "667":{
+        "index":1711843200000,
+        "company ID":"RUSHA",
+        "Rank Target":0.2857142857,
+        "prediction":0.5488699675,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "663":{
+        "index":1711843200000,
+        "company ID":"MCW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5227137208,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "657":{
+        "index":1711843200000,
+        "company ID":"ACVA",
+        "Rank Target":0.5,
+        "prediction":0.4874241054,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "661":{
+        "index":1711843200000,
+        "company ID":"CWH",
+        "Rank Target":0.1428571429,
+        "prediction":0.4712002277,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "664":{
+        "index":1711843200000,
+        "company ID":"OTH",
+        "Rank Target":0.0714285714,
+        "prediction":0.3598405719,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "681":{
+        "index":1719705600000,
+        "company ID":"RUSHA",
+        "Rank Target":0.7857142857,
+        "prediction":0.6612779498,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "679":{
+        "index":1719705600000,
+        "company ID":"PAG",
+        "Rank Target":0.4285714286,
+        "prediction":0.6411442757,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "675":{
+        "index":1719705600000,
+        "company ID":"CWH",
+        "Rank Target":1.0,
+        "prediction":0.6126772165,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "682":{
+        "index":1719705600000,
+        "company ID":"SAH",
+        "Rank Target":0.3571428571,
+        "prediction":0.6069735289,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "674":{
+        "index":1719705600000,
+        "company ID":"CVNA",
+        "Rank Target":0.9285714286,
+        "prediction":0.5979053974,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "676":{
+        "index":1719705600000,
+        "company ID":"LAD",
+        "Rank Target":0.8571428571,
+        "prediction":0.5869768858,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "680":{
+        "index":1719705600000,
+        "company ID":"RDNW",
+        "Rank Target":0.7142857143,
+        "prediction":0.5806933641,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "683":{
+        "index":1719705600000,
+        "company ID":"VVV",
+        "Rank Target":0.1428571429,
+        "prediction":0.5802288651,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "672":{
+        "index":1719705600000,
+        "company ID":"AN",
+        "Rank Target":0.5,
+        "prediction":0.5689390898,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "671":{
+        "index":1719705600000,
+        "company ID":"ACVA",
+        "Rank Target":0.5714285714,
+        "prediction":0.4981734157,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "670":{
+        "index":1719705600000,
+        "company ID":"ABG",
+        "Rank Target":0.2857142857,
+        "prediction":0.4836549163,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "677":{
+        "index":1719705600000,
+        "company ID":"MCW",
+        "Rank Target":0.2142857143,
+        "prediction":0.4830720723,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "673":{
+        "index":1719705600000,
+        "company ID":"CARG",
+        "Rank Target":0.6428571429,
+        "prediction":0.4496115744,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "678":{
+        "index":1719705600000,
+        "company ID":"OTH",
+        "Rank Target":0.0714285714,
+        "prediction":0.3157240152,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "684":{
+        "index":1727654400000,
+        "company ID":"ABG",
+        "Rank Target":0.3846153846,
+        "prediction":0.6399853826,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "688":{
+        "index":1727654400000,
+        "company ID":"CVNA",
+        "Rank Target":0.9230769231,
+        "prediction":0.5992605686,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "694":{
+        "index":1727654400000,
+        "company ID":"RUSHA",
+        "Rank Target":0.4615384615,
+        "prediction":0.5717189312,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "695":{
+        "index":1727654400000,
+        "company ID":"SAH",
+        "Rank Target":0.6153846154,
+        "prediction":0.5618916154,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "692":{
+        "index":1727654400000,
+        "company ID":"PAG",
+        "Rank Target":0.3076923077,
+        "prediction":0.5606657863,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "690":{
+        "index":1727654400000,
+        "company ID":"LAD",
+        "Rank Target":0.7692307692,
+        "prediction":0.5549420118,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "686":{
+        "index":1727654400000,
+        "company ID":"AN",
+        "Rank Target":0.2307692308,
+        "prediction":0.5469822884,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "689":{
+        "index":1727654400000,
+        "company ID":"CWH",
+        "Rank Target":0.1538461538,
+        "prediction":0.5451279283,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "687":{
+        "index":1727654400000,
+        "company ID":"CARG",
+        "Rank Target":1.0,
+        "prediction":0.5387672186,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "696":{
+        "index":1727654400000,
+        "company ID":"VVV",
+        "Rank Target":0.0769230769,
+        "prediction":0.514072001,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "693":{
+        "index":1727654400000,
+        "company ID":"RDNW",
+        "Rank Target":0.8461538462,
+        "prediction":0.499882549,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "685":{
+        "index":1727654400000,
+        "company ID":"ACVA",
+        "Rank Target":0.6923076923,
+        "prediction":0.4924632609,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "691":{
+        "index":1727654400000,
+        "company ID":"MCW",
+        "Rank Target":0.5384615385,
+        "prediction":0.4063139856,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "706":{
+        "index":1735603200000,
+        "company ID":"PAG",
+        "Rank Target":0.7142857143,
+        "prediction":0.7210648656,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "709":{
+        "index":1735603200000,
+        "company ID":"SAH",
+        "Rank Target":0.5,
+        "prediction":0.703727901,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "703":{
+        "index":1735603200000,
+        "company ID":"LAD",
+        "Rank Target":0.4285714286,
+        "prediction":0.6662112474,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "699":{
+        "index":1735603200000,
+        "company ID":"AN",
+        "Rank Target":0.6428571429,
+        "prediction":0.6454604268,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "697":{
+        "index":1735603200000,
+        "company ID":"ABG",
+        "Rank Target":0.5714285714,
+        "prediction":0.6396206021,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "708":{
+        "index":1735603200000,
+        "company ID":"RUSHA",
+        "Rank Target":0.7857142857,
+        "prediction":0.5961776376,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "701":{
+        "index":1735603200000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.59381634,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "710":{
+        "index":1735603200000,
+        "company ID":"VVV",
+        "Rank Target":0.8571428571,
+        "prediction":0.5533162355,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "707":{
+        "index":1735603200000,
+        "company ID":"RDNW",
+        "Rank Target":0.1428571429,
+        "prediction":0.5042408109,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "702":{
+        "index":1735603200000,
+        "company ID":"CWH",
+        "Rank Target":0.2857142857,
+        "prediction":0.461320132,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "700":{
+        "index":1735603200000,
+        "company ID":"CARG",
+        "Rank Target":0.3571428571,
+        "prediction":0.4393565059,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "704":{
+        "index":1735603200000,
+        "company ID":"MCW",
+        "Rank Target":0.9285714286,
+        "prediction":0.4245608449,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "705":{
+        "index":1735603200000,
+        "company ID":"OTH",
+        "Rank Target":0.0714285714,
+        "prediction":0.4111385345,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "698":{
+        "index":1735603200000,
+        "company ID":"ACVA",
+        "Rank Target":0.2142857143,
+        "prediction":0.3894044459,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "715":{
+        "index":1743379200000,
+        "company ID":"CVNA",
+        "Rank Target":1.0,
+        "prediction":0.6949407458,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "723":{
+        "index":1743379200000,
+        "company ID":"SAH",
+        "Rank Target":0.9285714286,
+        "prediction":0.6445370317,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "720":{
+        "index":1743379200000,
+        "company ID":"PAG",
+        "Rank Target":0.7142857143,
+        "prediction":0.6155417562,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "711":{
+        "index":1743379200000,
+        "company ID":"ABG",
+        "Rank Target":0.4285714286,
+        "prediction":0.6037586927,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "722":{
+        "index":1743379200000,
+        "company ID":"RUSHA",
+        "Rank Target":0.2857142857,
+        "prediction":0.5731625557,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "713":{
+        "index":1743379200000,
+        "company ID":"AN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5589506626,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "714":{
+        "index":1743379200000,
+        "company ID":"CARG",
+        "Rank Target":0.6428571429,
+        "prediction":0.5581232905,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "718":{
+        "index":1743379200000,
+        "company ID":"MCW",
+        "Rank Target":0.1428571429,
+        "prediction":0.5494778156,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "716":{
+        "index":1743379200000,
+        "company ID":"CWH",
+        "Rank Target":0.8571428571,
+        "prediction":0.5185396671,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "717":{
+        "index":1743379200000,
+        "company ID":"LAD",
+        "Rank Target":0.5714285714,
+        "prediction":0.5176254511,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "712":{
+        "index":1743379200000,
+        "company ID":"ACVA",
+        "Rank Target":0.5,
+        "prediction":0.4951815605,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "721":{
+        "index":1743379200000,
+        "company ID":"RDNW",
+        "Rank Target":0.2142857143,
+        "prediction":0.4836919308,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "724":{
+        "index":1743379200000,
+        "company ID":"VVV",
+        "Rank Target":0.3571428571,
+        "prediction":0.4598777592,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "719":{
+        "index":1743379200000,
+        "company ID":"OTH",
+        "Rank Target":0.0714285714,
+        "prediction":0.4476723969,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    }
+}

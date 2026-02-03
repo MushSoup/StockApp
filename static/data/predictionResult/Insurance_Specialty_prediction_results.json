@@ -1,0 +1,100 @@
+{
+    "931":{
+        "company ID":"ITIC",
+        "score":0.7497336864,
+        "Rank":1.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":19.0148903201
+    },
+    "929":{
+        "company ID":"FAF",
+        "score":0.6634511352,
+        "Rank":2.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":1.8402410047
+    },
+    "930":{
+        "company ID":"FNF",
+        "score":0.6596024036,
+        "Rank":3.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":4.0222865955
+    },
+    "939":{
+        "company ID":"TIPT",
+        "score":0.5539070368,
+        "Rank":4.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-18.2717221546
+    },
+    "933":{
+        "company ID":"MBI",
+        "score":0.5516252518,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":71.2018243073
+    },
+    "938":{
+        "company ID":"RYAN",
+        "score":0.5360705256,
+        "Rank":6.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-16.1969972097
+    },
+    "928":{
+        "company ID":"EIG",
+        "score":0.5274100304,
+        "Rank":7.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-11.53267537
+    },
+    "935":{
+        "company ID":"NMIH",
+        "score":0.4788039625,
+        "Rank":8.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-10.3360434333
+    },
+    "927":{
+        "company ID":"AMSF",
+        "score":0.4776719809,
+        "Rank":9.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":0.0374349181
+    },
+    "934":{
+        "company ID":"MTG",
+        "score":0.4720589519,
+        "Rank":10.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":0.2759654922
+    },
+    "932":{
+        "company ID":"JRVR",
+        "score":0.4705345035,
+        "Rank":11.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":0.3663248211
+    },
+    "926":{
+        "company ID":"ACT",
+        "score":0.4660510123,
+        "Rank":12.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":3.0648651363
+    },
+    "937":{
+        "company ID":"RDN",
+        "score":0.3786945343,
+        "Rank":13.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-0.2614298801
+    },
+    "936":{
+        "company ID":"OSG",
+        "score":0.3646557927,
+        "Rank":14.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":35.1877634169
+    }
+}

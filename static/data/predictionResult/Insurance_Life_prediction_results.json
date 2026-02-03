@@ -1,0 +1,100 @@
+{
+    "953":{
+        "company ID":"AAME",
+        "score":0.6081326008,
+        "Rank":1.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":24.3589825855
+    },
+    "954":{
+        "company ID":"AFL",
+        "score":0.5766686201,
+        "Rank":2.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":7.064642777
+    },
+    "957":{
+        "company ID":"CNO",
+        "score":0.5619578362,
+        "Rank":3.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":3.7142214564
+    },
+    "956":{
+        "company ID":"CIA",
+        "score":0.5305565,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":48.4679679968
+    },
+    "961":{
+        "company ID":"JXN",
+        "score":0.5233937502,
+        "Rank":5.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":15.6721018251
+    },
+    "955":{
+        "company ID":"BHF",
+        "score":0.4983258247,
+        "Rank":6.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":2.3247125515
+    },
+    "959":{
+        "company ID":"GL",
+        "score":0.4891040325,
+        "Rank":7.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":18.4158480912
+    },
+    "964":{
+        "company ID":"PRI",
+        "score":0.4560979903,
+        "Rank":8.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":0.0136136933
+    },
+    "960":{
+        "company ID":"GNW",
+        "score":0.4498726726,
+        "Rank":9.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":12.0150195958
+    },
+    "963":{
+        "company ID":"MET",
+        "score":0.4448729753,
+        "Rank":10.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":2.5390161635
+    },
+    "958":{
+        "company ID":"FG",
+        "score":0.4278528988,
+        "Rank":11.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-2.1740394992
+    },
+    "966":{
+        "company ID":"UNM",
+        "score":0.4238295853,
+        "Rank":12.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-5.1781820315
+    },
+    "965":{
+        "company ID":"PRU",
+        "score":0.4073354602,
+        "Rank":13.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-3.5922836572
+    },
+    "962":{
+        "company ID":"LNC",
+        "score":0.3600957692,
+        "Rank":14.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":17.9061529737
+    }
+}

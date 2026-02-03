@@ -1,0 +1,338 @@
+{
+    "223":{
+        "index":1703980800000,
+        "company ID":"NGVC",
+        "Rank Target":0.8333333333,
+        "prediction":0.6575247645,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "224":{
+        "index":1703980800000,
+        "company ID":"SFM",
+        "Rank Target":1.0,
+        "prediction":0.6407555342,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "225":{
+        "index":1703980800000,
+        "company ID":"WMK",
+        "Rank Target":0.3333333333,
+        "prediction":0.5881655812,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "220":{
+        "index":1703980800000,
+        "company ID":"DNUT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5437026024,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "222":{
+        "index":1703980800000,
+        "company ID":"IMKTA",
+        "Rank Target":0.1666666667,
+        "prediction":0.5275612473,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "221":{
+        "index":1703980800000,
+        "company ID":"GO",
+        "Rank Target":0.5,
+        "prediction":0.524312079,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "229":{
+        "index":1711843200000,
+        "company ID":"NGVC",
+        "Rank Target":0.8333333333,
+        "prediction":0.6776112914,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "230":{
+        "index":1711843200000,
+        "company ID":"SFM",
+        "Rank Target":1.0,
+        "prediction":0.6396461129,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "228":{
+        "index":1711843200000,
+        "company ID":"IMKTA",
+        "Rank Target":0.5,
+        "prediction":0.5807368755,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "231":{
+        "index":1711843200000,
+        "company ID":"WMK",
+        "Rank Target":0.6666666667,
+        "prediction":0.5560536385,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "227":{
+        "index":1711843200000,
+        "company ID":"GO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5477282405,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "226":{
+        "index":1711843200000,
+        "company ID":"DNUT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5285129547,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "236":{
+        "index":1719705600000,
+        "company ID":"SFM",
+        "Rank Target":1.0,
+        "prediction":0.6679756045,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "235":{
+        "index":1719705600000,
+        "company ID":"NGVC",
+        "Rank Target":0.8333333333,
+        "prediction":0.633346796,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "234":{
+        "index":1719705600000,
+        "company ID":"IMKTA",
+        "Rank Target":0.5,
+        "prediction":0.5662249327,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "233":{
+        "index":1719705600000,
+        "company ID":"GO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5533556342,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "237":{
+        "index":1719705600000,
+        "company ID":"WMK",
+        "Rank Target":0.6666666667,
+        "prediction":0.5454907417,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "232":{
+        "index":1719705600000,
+        "company ID":"DNUT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5246511102,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "241":{
+        "index":1727654400000,
+        "company ID":"NGVC",
+        "Rank Target":1.0,
+        "prediction":0.6679334641,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "242":{
+        "index":1727654400000,
+        "company ID":"SFM",
+        "Rank Target":0.8333333333,
+        "prediction":0.6496796012,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "243":{
+        "index":1727654400000,
+        "company ID":"WMK",
+        "Rank Target":0.6666666667,
+        "prediction":0.6149157286,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "240":{
+        "index":1727654400000,
+        "company ID":"IMKTA",
+        "Rank Target":0.5,
+        "prediction":0.5561060905,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "239":{
+        "index":1727654400000,
+        "company ID":"GO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5549919605,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "238":{
+        "index":1727654400000,
+        "company ID":"DNUT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5422801971,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "247":{
+        "index":1735603200000,
+        "company ID":"NGVC",
+        "Rank Target":0.5,
+        "prediction":0.6504112482,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "248":{
+        "index":1735603200000,
+        "company ID":"SFM",
+        "Rank Target":0.8333333333,
+        "prediction":0.6493233442,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "249":{
+        "index":1735603200000,
+        "company ID":"WMK",
+        "Rank Target":1.0,
+        "prediction":0.6011576056,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "246":{
+        "index":1735603200000,
+        "company ID":"IMKTA",
+        "Rank Target":0.6666666667,
+        "prediction":0.5715584159,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "244":{
+        "index":1735603200000,
+        "company ID":"DNUT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5086019635,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "245":{
+        "index":1735603200000,
+        "company ID":"GO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5075963736,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "253":{
+        "index":1743379200000,
+        "company ID":"NGVC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6816883683,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "254":{
+        "index":1743379200000,
+        "company ID":"SFM",
+        "Rank Target":1.0,
+        "prediction":0.6489219069,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "252":{
+        "index":1743379200000,
+        "company ID":"IMKTA",
+        "Rank Target":0.8333333333,
+        "prediction":0.6186107397,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "251":{
+        "index":1743379200000,
+        "company ID":"GO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5448670983,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "250":{
+        "index":1743379200000,
+        "company ID":"DNUT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5298805237,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "255":{
+        "index":1743379200000,
+        "company ID":"WMK",
+        "Rank Target":0.5,
+        "prediction":0.4779429138,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "259":{
+        "index":1751241600000,
+        "company ID":"NGVC",
+        "Rank Target":0.5,
+        "prediction":0.6624509692,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "260":{
+        "index":1751241600000,
+        "company ID":"SFM",
+        "Rank Target":0.1666666667,
+        "prediction":0.6546530128,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "258":{
+        "index":1751241600000,
+        "company ID":"IMKTA",
+        "Rank Target":0.6666666667,
+        "prediction":0.6300627589,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "261":{
+        "index":1751241600000,
+        "company ID":"WMK",
+        "Rank Target":0.3333333333,
+        "prediction":0.563839376,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "257":{
+        "index":1751241600000,
+        "company ID":"GO",
+        "Rank Target":1.0,
+        "prediction":0.5331053734,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "256":{
+        "index":1751241600000,
+        "company ID":"DNUT",
+        "Rank Target":0.8333333333,
+        "prediction":0.4786733389,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    }
+}

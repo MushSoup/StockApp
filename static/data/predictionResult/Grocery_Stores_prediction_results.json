@@ -1,0 +1,44 @@
+{
+    "260":{
+        "company ID":"SFM",
+        "score":0.6588238478,
+        "Rank":1.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-32.5589984126
+    },
+    "258":{
+        "company ID":"IMKTA",
+        "score":0.6543170214,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":5.1629394659
+    },
+    "259":{
+        "company ID":"NGVC",
+        "score":0.6400492787,
+        "Rank":3.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-3.7905270509
+    },
+    "257":{
+        "company ID":"GO",
+        "score":0.5674671531,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":19.7908924889
+    },
+    "261":{
+        "company ID":"WMK",
+        "score":0.5411270857,
+        "Rank":5.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-3.8496934183
+    },
+    "256":{
+        "company ID":"DNUT",
+        "score":0.4395577013,
+        "Rank":6.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":7.5301206334
+    }
+}

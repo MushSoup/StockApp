@@ -1,0 +1,65 @@
+{
+    "534":{
+        "company ID":"PII",
+        "score":0.6955026984,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":29.6576712691
+    },
+    "527":{
+        "company ID":"BC",
+        "score":0.687030375,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":8.6853309634
+    },
+    "528":{
+        "company ID":"HOG",
+        "score":0.6390654445,
+        "Rank":3.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":13.0737453197
+    },
+    "532":{
+        "company ID":"MCFT",
+        "score":0.6270979047,
+        "Rank":4.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":7.0192788356
+    },
+    "533":{
+        "company ID":"MPX",
+        "score":0.5754067302,
+        "Rank":5.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-0.5401413349
+    },
+    "530":{
+        "company ID":"MAMO",
+        "score":0.5667176843,
+        "Rank":6.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":2.8673808169
+    },
+    "531":{
+        "company ID":"MBUU",
+        "score":0.5557195544,
+        "Rank":7.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-6.830601003
+    },
+    "535":{
+        "company ID":"VEEE",
+        "score":0.5420938134,
+        "Rank":8.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":27.272722345
+    },
+    "529":{
+        "company ID":"LCII",
+        "score":0.5280024409,
+        "Rank":9.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-3.2924748259
+    }
+}

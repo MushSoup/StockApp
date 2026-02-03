@@ -1,0 +1,170 @@
+{
+    "1238":{
+        "company ID":"APP",
+        "score":0.7577093244,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":108.5118706264
+    },
+    "1256":{
+        "company ID":"SWAG",
+        "score":0.6703801751,
+        "Rank":2.0,
+        "Rank Target":0.7916666667,
+        "stockDifferencePercentage":10.4895175459
+    },
+    "1239":{
+        "company ID":"CCO",
+        "score":0.6437300444,
+        "Rank":3.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":26.6129064897
+    },
+    "1252":{
+        "company ID":"OMC",
+        "score":0.6106561422,
+        "Rank":4.0,
+        "Rank Target":0.7083333333,
+        "stockDifferencePercentage":6.8712646867
+    },
+    "1257":{
+        "company ID":"TSQ",
+        "score":0.6052957177,
+        "Rank":5.0,
+        "Rank Target":0.2083333333,
+        "stockDifferencePercentage":-16.4115124756
+    },
+    "1248":{
+        "company ID":"LDWY",
+        "score":0.6024330258,
+        "Rank":6.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":4.7227931089
+    },
+    "1245":{
+        "company ID":"EVC",
+        "score":0.5749951601,
+        "Rank":7.0,
+        "Rank Target":0.5416666667,
+        "stockDifferencePercentage":-2.1860158663
+    },
+    "1259":{
+        "company ID":"ZD",
+        "score":0.5740003586,
+        "Rank":8.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":20.4397593279
+    },
+    "1237":{
+        "company ID":"ADV",
+        "score":0.5651469231,
+        "Rank":9.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":-1.9108337323
+    },
+    "1240":{
+        "company ID":"CDLX",
+        "score":0.5556117892,
+        "Rank":10.0,
+        "Rank Target":0.9583333333,
+        "stockDifferencePercentage":41.9354884195
+    },
+    "1255":{
+        "company ID":"STGW",
+        "score":0.5515003204,
+        "Rank":11.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":19.9561372547
+    },
+    "1249":{
+        "company ID":"MCHX",
+        "score":0.5444368124,
+        "Rank":12.0,
+        "Rank Target":0.2916666667,
+        "stockDifferencePercentage":-13.6150265457
+    },
+    "1241":{
+        "company ID":"DLPN",
+        "score":0.5417653918,
+        "Rank":13.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":0.0
+    },
+    "1254":{
+        "company ID":"SOPA",
+        "score":0.54009974,
+        "Rank":14.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-14.7058857057
+    },
+    "1258":{
+        "company ID":"TTD",
+        "score":0.5075791478,
+        "Rank":15.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-33.2885405906
+    },
+    "1246":{
+        "company ID":"FLNT",
+        "score":0.4973796308,
+        "Rank":16.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":10.3960415933
+    },
+    "1250":{
+        "company ID":"MGNI",
+        "score":0.4966894984,
+        "Rank":17.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-9.1724416511
+    },
+    "1251":{
+        "company ID":"NCMI",
+        "score":0.4783563316,
+        "Rank":18.0,
+        "Rank Target":0.4583333333,
+        "stockDifferencePercentage":-3.7292308472
+    },
+    "1244":{
+        "company ID":"EEX",
+        "score":0.4769960344,
+        "Rank":19.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-3.6727001518
+    },
+    "1253":{
+        "company ID":"QNST",
+        "score":0.4486711025,
+        "Rank":20.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-5.5622791958
+    },
+    "1236":{
+        "company ID":"ACCS",
+        "score":0.4477296174,
+        "Rank":21.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-8.2758621261
+    },
+    "1247":{
+        "company ID":"IAS",
+        "score":0.4255915284,
+        "Rank":22.0,
+        "Rank Target":0.0416666667,
+        "stockDifferencePercentage":-100.0
+    },
+    "1243":{
+        "company ID":"DV",
+        "score":0.4194251299,
+        "Rank":23.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-21.2848784262
+    },
+    "1242":{
+        "company ID":"DRCT",
+        "score":0.409819752,
+        "Rank":24.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-49.4382047182
+    }
+}

@@ -1,0 +1,922 @@
+{
+    "414":{
+        "index":1648684800000,
+        "company ID":"LCII",
+        "Rank Target":1.0,
+        "prediction":0.6657369137,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "419":{
+        "index":1648684800000,
+        "company ID":"VEEE",
+        "Rank Target":0.125,
+        "prediction":0.6142420769,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "418":{
+        "index":1648684800000,
+        "company ID":"PII",
+        "Rank Target":0.75,
+        "prediction":0.5653683543,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "417":{
+        "index":1648684800000,
+        "company ID":"MPX",
+        "Rank Target":0.25,
+        "prediction":0.563400805,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "415":{
+        "index":1648684800000,
+        "company ID":"MBUU",
+        "Rank Target":0.875,
+        "prediction":0.5097219944,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "412":{
+        "index":1648684800000,
+        "company ID":"BC",
+        "Rank Target":0.5,
+        "prediction":0.5057872534,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "416":{
+        "index":1648684800000,
+        "company ID":"MCFT",
+        "Rank Target":0.625,
+        "prediction":0.4936571717,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "413":{
+        "index":1648684800000,
+        "company ID":"HOG",
+        "Rank Target":0.375,
+        "prediction":0.4911463857,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "424":{
+        "index":1656547200000,
+        "company ID":"MCFT",
+        "Rank Target":0.25,
+        "prediction":0.6942981482,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "423":{
+        "index":1656547200000,
+        "company ID":"MBUU",
+        "Rank Target":0.5,
+        "prediction":0.6613319516,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "425":{
+        "index":1656547200000,
+        "company ID":"MPX",
+        "Rank Target":0.625,
+        "prediction":0.6531588435,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "426":{
+        "index":1656547200000,
+        "company ID":"PII",
+        "Rank Target":0.375,
+        "prediction":0.6036419868,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "420":{
+        "index":1656547200000,
+        "company ID":"BC",
+        "Rank Target":0.75,
+        "prediction":0.5999953151,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "427":{
+        "index":1656547200000,
+        "company ID":"VEEE",
+        "Rank Target":0.875,
+        "prediction":0.5969266295,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "422":{
+        "index":1656547200000,
+        "company ID":"LCII",
+        "Rank Target":0.125,
+        "prediction":0.5957455039,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "421":{
+        "index":1656547200000,
+        "company ID":"HOG",
+        "Rank Target":1.0,
+        "prediction":0.5511122942,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "429":{
+        "index":1664496000000,
+        "company ID":"HOG",
+        "Rank Target":0.7777777778,
+        "prediction":0.6650275588,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "428":{
+        "index":1664496000000,
+        "company ID":"BC",
+        "Rank Target":0.5555555556,
+        "prediction":0.6398695111,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "435":{
+        "index":1664496000000,
+        "company ID":"PII",
+        "Rank Target":0.4444444444,
+        "prediction":0.6272403002,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "430":{
+        "index":1664496000000,
+        "company ID":"LCII",
+        "Rank Target":0.3333333333,
+        "prediction":0.5905730128,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "433":{
+        "index":1664496000000,
+        "company ID":"MCFT",
+        "Rank Target":1.0,
+        "prediction":0.5879741311,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "434":{
+        "index":1664496000000,
+        "company ID":"MPX",
+        "Rank Target":0.8888888889,
+        "prediction":0.5745370984,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "432":{
+        "index":1664496000000,
+        "company ID":"MBUU",
+        "Rank Target":0.6666666667,
+        "prediction":0.5701545477,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "436":{
+        "index":1664496000000,
+        "company ID":"VEEE",
+        "Rank Target":0.2222222222,
+        "prediction":0.5609996915,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "431":{
+        "index":1664496000000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.3546018898,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "441":{
+        "index":1672444800000,
+        "company ID":"MBUU",
+        "Rank Target":0.4444444444,
+        "prediction":0.7112469673,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "443":{
+        "index":1672444800000,
+        "company ID":"MPX",
+        "Rank Target":1.0,
+        "prediction":0.6689246297,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "442":{
+        "index":1672444800000,
+        "company ID":"MCFT",
+        "Rank Target":0.8888888889,
+        "prediction":0.6488787532,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "445":{
+        "index":1672444800000,
+        "company ID":"VEEE",
+        "Rank Target":0.3333333333,
+        "prediction":0.6047791243,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "437":{
+        "index":1672444800000,
+        "company ID":"BC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5632256866,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "444":{
+        "index":1672444800000,
+        "company ID":"PII",
+        "Rank Target":0.5555555556,
+        "prediction":0.5602107644,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "439":{
+        "index":1672444800000,
+        "company ID":"LCII",
+        "Rank Target":0.7777777778,
+        "prediction":0.5562726259,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "438":{
+        "index":1672444800000,
+        "company ID":"HOG",
+        "Rank Target":0.2222222222,
+        "prediction":0.4714606404,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "440":{
+        "index":1672444800000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.4254720509,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "452":{
+        "index":1680220800000,
+        "company ID":"MPX",
+        "Rank Target":1.0,
+        "prediction":0.6555309296,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "448":{
+        "index":1680220800000,
+        "company ID":"LCII",
+        "Rank Target":0.7777777778,
+        "prediction":0.6351061463,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "453":{
+        "index":1680220800000,
+        "company ID":"PII",
+        "Rank Target":0.6666666667,
+        "prediction":0.6156704426,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "447":{
+        "index":1680220800000,
+        "company ID":"HOG",
+        "Rank Target":0.2222222222,
+        "prediction":0.6140769124,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "450":{
+        "index":1680220800000,
+        "company ID":"MBUU",
+        "Rank Target":0.4444444444,
+        "prediction":0.5897324085,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "451":{
+        "index":1680220800000,
+        "company ID":"MCFT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5347952843,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "454":{
+        "index":1680220800000,
+        "company ID":"VEEE",
+        "Rank Target":0.8888888889,
+        "prediction":0.5290409327,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "446":{
+        "index":1680220800000,
+        "company ID":"BC",
+        "Rank Target":0.5555555556,
+        "prediction":0.4450346828,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "449":{
+        "index":1680220800000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.3070003688,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "457":{
+        "index":1688083200000,
+        "company ID":"LCII",
+        "Rank Target":1.0,
+        "prediction":0.6334162354,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "463":{
+        "index":1688083200000,
+        "company ID":"VEEE",
+        "Rank Target":0.2222222222,
+        "prediction":0.604788363,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "456":{
+        "index":1688083200000,
+        "company ID":"HOG",
+        "Rank Target":0.8888888889,
+        "prediction":0.5926058292,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "459":{
+        "index":1688083200000,
+        "company ID":"MBUU",
+        "Rank Target":0.4444444444,
+        "prediction":0.5796584487,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "460":{
+        "index":1688083200000,
+        "company ID":"MCFT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5747371912,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "455":{
+        "index":1688083200000,
+        "company ID":"BC",
+        "Rank Target":0.7777777778,
+        "prediction":0.5693153143,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "461":{
+        "index":1688083200000,
+        "company ID":"MPX",
+        "Rank Target":0.5555555556,
+        "prediction":0.5041067004,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "462":{
+        "index":1688083200000,
+        "company ID":"PII",
+        "Rank Target":0.6666666667,
+        "prediction":0.461604625,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "458":{
+        "index":1688083200000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.3459764123,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "466":{
+        "index":1696032000000,
+        "company ID":"LCII",
+        "Rank Target":0.6666666667,
+        "prediction":0.7116518617,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "465":{
+        "index":1696032000000,
+        "company ID":"HOG",
+        "Rank Target":0.8888888889,
+        "prediction":0.6194813251,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "469":{
+        "index":1696032000000,
+        "company ID":"MCFT",
+        "Rank Target":0.4444444444,
+        "prediction":0.5905749202,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "464":{
+        "index":1696032000000,
+        "company ID":"BC",
+        "Rank Target":1.0,
+        "prediction":0.5833049417,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "470":{
+        "index":1696032000000,
+        "company ID":"MPX",
+        "Rank Target":0.2222222222,
+        "prediction":0.5613490939,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "472":{
+        "index":1696032000000,
+        "company ID":"VEEE",
+        "Rank Target":0.5555555556,
+        "prediction":0.5604386926,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "468":{
+        "index":1696032000000,
+        "company ID":"MBUU",
+        "Rank Target":0.7777777778,
+        "prediction":0.4979560673,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "471":{
+        "index":1696032000000,
+        "company ID":"PII",
+        "Rank Target":0.3333333333,
+        "prediction":0.4956549406,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "467":{
+        "index":1696032000000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.4284899831,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "476":{
+        "index":1703980800000,
+        "company ID":"MAMO",
+        "Rank Target":0.1111111111,
+        "prediction":0.7170636654,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "478":{
+        "index":1703980800000,
+        "company ID":"MCFT",
+        "Rank Target":0.7777777778,
+        "prediction":0.6810973287,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "475":{
+        "index":1703980800000,
+        "company ID":"LCII",
+        "Rank Target":0.4444444444,
+        "prediction":0.6466389298,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "481":{
+        "index":1703980800000,
+        "company ID":"VEEE",
+        "Rank Target":0.2222222222,
+        "prediction":0.6131848097,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "480":{
+        "index":1703980800000,
+        "company ID":"PII",
+        "Rank Target":0.8888888889,
+        "prediction":0.6073613763,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "477":{
+        "index":1703980800000,
+        "company ID":"MBUU",
+        "Rank Target":0.3333333333,
+        "prediction":0.5689157248,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "479":{
+        "index":1703980800000,
+        "company ID":"MPX",
+        "Rank Target":0.5555555556,
+        "prediction":0.5561522841,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "473":{
+        "index":1703980800000,
+        "company ID":"BC",
+        "Rank Target":0.6666666667,
+        "prediction":0.53990978,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "474":{
+        "index":1703980800000,
+        "company ID":"HOG",
+        "Rank Target":1.0,
+        "prediction":0.4894596338,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "488":{
+        "index":1711843200000,
+        "company ID":"MPX",
+        "Rank Target":0.8888888889,
+        "prediction":0.6798712015,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "485":{
+        "index":1711843200000,
+        "company ID":"MAMO",
+        "Rank Target":1.0,
+        "prediction":0.6279821992,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "487":{
+        "index":1711843200000,
+        "company ID":"MCFT",
+        "Rank Target":0.4444444444,
+        "prediction":0.6262792945,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "484":{
+        "index":1711843200000,
+        "company ID":"LCII",
+        "Rank Target":0.7777777778,
+        "prediction":0.6162869334,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "486":{
+        "index":1711843200000,
+        "company ID":"MBUU",
+        "Rank Target":0.6666666667,
+        "prediction":0.6136095524,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "483":{
+        "index":1711843200000,
+        "company ID":"HOG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5869782567,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "490":{
+        "index":1711843200000,
+        "company ID":"VEEE",
+        "Rank Target":0.1111111111,
+        "prediction":0.5804233551,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "489":{
+        "index":1711843200000,
+        "company ID":"PII",
+        "Rank Target":0.5555555556,
+        "prediction":0.5694405437,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "482":{
+        "index":1711843200000,
+        "company ID":"BC",
+        "Rank Target":0.2222222222,
+        "prediction":0.4486308992,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "493":{
+        "index":1719705600000,
+        "company ID":"LCII",
+        "Rank Target":0.6666666667,
+        "prediction":0.6927689314,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "498":{
+        "index":1719705600000,
+        "company ID":"PII",
+        "Rank Target":0.4444444444,
+        "prediction":0.6487542987,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "499":{
+        "index":1719705600000,
+        "company ID":"VEEE",
+        "Rank Target":0.7777777778,
+        "prediction":0.6468147635,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "497":{
+        "index":1719705600000,
+        "company ID":"MPX",
+        "Rank Target":0.2222222222,
+        "prediction":0.6180892587,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "492":{
+        "index":1719705600000,
+        "company ID":"HOG",
+        "Rank Target":0.8888888889,
+        "prediction":0.6177323461,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "491":{
+        "index":1719705600000,
+        "company ID":"BC",
+        "Rank Target":1.0,
+        "prediction":0.5979788899,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "494":{
+        "index":1719705600000,
+        "company ID":"MAMO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5855705142,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "496":{
+        "index":1719705600000,
+        "company ID":"MCFT",
+        "Rank Target":0.1111111111,
+        "prediction":0.5803406239,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "495":{
+        "index":1719705600000,
+        "company ID":"MBUU",
+        "Rank Target":0.5555555556,
+        "prediction":0.5253645182,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "506":{
+        "index":1727654400000,
+        "company ID":"MPX",
+        "Rank Target":0.8888888889,
+        "prediction":0.6562164426,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "505":{
+        "index":1727654400000,
+        "company ID":"MCFT",
+        "Rank Target":1.0,
+        "prediction":0.6119784713,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "502":{
+        "index":1727654400000,
+        "company ID":"LCII",
+        "Rank Target":0.6666666667,
+        "prediction":0.596103847,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "503":{
+        "index":1727654400000,
+        "company ID":"MAMO",
+        "Rank Target":0.2222222222,
+        "prediction":0.5895023942,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "500":{
+        "index":1727654400000,
+        "company ID":"BC",
+        "Rank Target":0.4444444444,
+        "prediction":0.5796695352,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "504":{
+        "index":1727654400000,
+        "company ID":"MBUU",
+        "Rank Target":0.7777777778,
+        "prediction":0.5656675696,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "501":{
+        "index":1727654400000,
+        "company ID":"HOG",
+        "Rank Target":0.5555555556,
+        "prediction":0.5442923307,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "508":{
+        "index":1727654400000,
+        "company ID":"VEEE",
+        "Rank Target":0.1111111111,
+        "prediction":0.5375754833,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "507":{
+        "index":1727654400000,
+        "company ID":"PII",
+        "Rank Target":0.3333333333,
+        "prediction":0.5135533214,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "514":{
+        "index":1735603200000,
+        "company ID":"MCFT",
+        "Rank Target":0.7777777778,
+        "prediction":0.6585680842,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "513":{
+        "index":1735603200000,
+        "company ID":"MBUU",
+        "Rank Target":0.3333333333,
+        "prediction":0.6531783938,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "512":{
+        "index":1735603200000,
+        "company ID":"MAMO",
+        "Rank Target":1.0,
+        "prediction":0.6374383569,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "509":{
+        "index":1735603200000,
+        "company ID":"BC",
+        "Rank Target":0.4444444444,
+        "prediction":0.6328625083,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "511":{
+        "index":1735603200000,
+        "company ID":"LCII",
+        "Rank Target":0.6666666667,
+        "prediction":0.615509212,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "515":{
+        "index":1735603200000,
+        "company ID":"MPX",
+        "Rank Target":0.8888888889,
+        "prediction":0.6131898761,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "517":{
+        "index":1735603200000,
+        "company ID":"VEEE",
+        "Rank Target":0.1111111111,
+        "prediction":0.6106436253,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "516":{
+        "index":1735603200000,
+        "company ID":"PII",
+        "Rank Target":0.2222222222,
+        "prediction":0.5865523815,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "510":{
+        "index":1735603200000,
+        "company ID":"HOG",
+        "Rank Target":0.5555555556,
+        "prediction":0.522992909,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "524":{
+        "index":1743379200000,
+        "company ID":"MPX",
+        "Rank Target":0.4444444444,
+        "prediction":0.7048328519,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "523":{
+        "index":1743379200000,
+        "company ID":"MCFT",
+        "Rank Target":0.6666666667,
+        "prediction":0.6702126265,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "522":{
+        "index":1743379200000,
+        "company ID":"MBUU",
+        "Rank Target":0.5555555556,
+        "prediction":0.658018887,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "525":{
+        "index":1743379200000,
+        "company ID":"PII",
+        "Rank Target":0.8888888889,
+        "prediction":0.6289219856,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "519":{
+        "index":1743379200000,
+        "company ID":"HOG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5959628224,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "526":{
+        "index":1743379200000,
+        "company ID":"VEEE",
+        "Rank Target":0.1111111111,
+        "prediction":0.5674154758,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "520":{
+        "index":1743379200000,
+        "company ID":"LCII",
+        "Rank Target":0.7777777778,
+        "prediction":0.5671282411,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "521":{
+        "index":1743379200000,
+        "company ID":"MAMO",
+        "Rank Target":0.2222222222,
+        "prediction":0.5611156225,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "518":{
+        "index":1743379200000,
+        "company ID":"BC",
+        "Rank Target":1.0,
+        "prediction":0.5332952738,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    }
+}

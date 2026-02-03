@@ -1,0 +1,1458 @@
+{
+    "728":{
+        "index":1648684800000,
+        "company ID":"LXU",
+        "Rank Target":0.2142857143,
+        "prediction":0.7183676362,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "721":{
+        "index":1648684800000,
+        "company ID":"ACNT",
+        "Rank Target":0.7142857143,
+        "prediction":0.7136394978,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "722":{
+        "index":1648684800000,
+        "company ID":"ASIX",
+        "Rank Target":0.2857142857,
+        "prediction":0.6845721602,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "725":{
+        "index":1648684800000,
+        "company ID":"DOW",
+        "Rank Target":0.5,
+        "prediction":0.6759732366,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "729":{
+        "index":1648684800000,
+        "company ID":"OLN",
+        "Rank Target":0.7857142857,
+        "prediction":0.6707978249,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "733":{
+        "index":1648684800000,
+        "company ID":"VHI",
+        "Rank Target":1.0,
+        "prediction":0.6035551429,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "724":{
+        "index":1648684800000,
+        "company ID":"CE",
+        "Rank Target":0.5714285714,
+        "prediction":0.5992564559,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "732":{
+        "index":1648684800000,
+        "company ID":"TROX",
+        "Rank Target":0.6428571429,
+        "prediction":0.5498145819,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "734":{
+        "index":1648684800000,
+        "company ID":"WLKP",
+        "Rank Target":0.9285714286,
+        "prediction":0.5438825488,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "727":{
+        "index":1648684800000,
+        "company ID":"HUN",
+        "Rank Target":0.4285714286,
+        "prediction":0.5404762626,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "726":{
+        "index":1648684800000,
+        "company ID":"GPRE",
+        "Rank Target":0.8571428571,
+        "prediction":0.4631597996,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "731":{
+        "index":1648684800000,
+        "company ID":"RYAM",
+        "Rank Target":0.1428571429,
+        "prediction":0.4441770613,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "730":{
+        "index":1648684800000,
+        "company ID":"ORGN",
+        "Rank Target":0.3571428571,
+        "prediction":0.3560712636,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "723":{
+        "index":1648684800000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3505769372,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "742":{
+        "index":1656547200000,
+        "company ID":"LXU",
+        "Rank Target":0.9285714286,
+        "prediction":0.7164188027,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "748":{
+        "index":1656547200000,
+        "company ID":"WLKP",
+        "Rank Target":0.5,
+        "prediction":0.6709280014,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "735":{
+        "index":1656547200000,
+        "company ID":"ACNT",
+        "Rank Target":0.8571428571,
+        "prediction":0.6503117681,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "736":{
+        "index":1656547200000,
+        "company ID":"ASIX",
+        "Rank Target":0.6428571429,
+        "prediction":0.6402091384,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "741":{
+        "index":1656547200000,
+        "company ID":"HUN",
+        "Rank Target":0.4285714286,
+        "prediction":0.6352260709,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "743":{
+        "index":1656547200000,
+        "company ID":"OLN",
+        "Rank Target":0.5714285714,
+        "prediction":0.6314080954,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "740":{
+        "index":1656547200000,
+        "company ID":"GPRE",
+        "Rank Target":0.7142857143,
+        "prediction":0.620739758,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "738":{
+        "index":1656547200000,
+        "company ID":"CE",
+        "Rank Target":0.2857142857,
+        "prediction":0.6076441407,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "739":{
+        "index":1656547200000,
+        "company ID":"DOW",
+        "Rank Target":0.3571428571,
+        "prediction":0.584579289,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "746":{
+        "index":1656547200000,
+        "company ID":"TROX",
+        "Rank Target":0.2142857143,
+        "prediction":0.5791996121,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "747":{
+        "index":1656547200000,
+        "company ID":"VHI",
+        "Rank Target":0.1428571429,
+        "prediction":0.5676706433,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "745":{
+        "index":1656547200000,
+        "company ID":"RYAM",
+        "Rank Target":1.0,
+        "prediction":0.4744966626,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "744":{
+        "index":1656547200000,
+        "company ID":"ORGN",
+        "Rank Target":0.7857142857,
+        "prediction":0.4151450992,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "737":{
+        "index":1656547200000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3242863715,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "759":{
+        "index":1664496000000,
+        "company ID":"RYAM",
+        "Rank Target":1.0,
+        "prediction":0.6905627847,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "762":{
+        "index":1664496000000,
+        "company ID":"WLKP",
+        "Rank Target":0.5,
+        "prediction":0.6241797209,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "760":{
+        "index":1664496000000,
+        "company ID":"TROX",
+        "Rank Target":0.6428571429,
+        "prediction":0.6217586994,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "749":{
+        "index":1664496000000,
+        "company ID":"ACNT",
+        "Rank Target":0.1428571429,
+        "prediction":0.6213222742,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "752":{
+        "index":1664496000000,
+        "company ID":"CE",
+        "Rank Target":0.7142857143,
+        "prediction":0.6109237671,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "757":{
+        "index":1664496000000,
+        "company ID":"OLN",
+        "Rank Target":0.9285714286,
+        "prediction":0.5828081369,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "754":{
+        "index":1664496000000,
+        "company ID":"GPRE",
+        "Rank Target":0.4285714286,
+        "prediction":0.580716908,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "753":{
+        "index":1664496000000,
+        "company ID":"DOW",
+        "Rank Target":0.7857142857,
+        "prediction":0.5672335625,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "750":{
+        "index":1664496000000,
+        "company ID":"ASIX",
+        "Rank Target":0.8571428571,
+        "prediction":0.5607664585,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "756":{
+        "index":1664496000000,
+        "company ID":"LXU",
+        "Rank Target":0.2857142857,
+        "prediction":0.5304610133,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "755":{
+        "index":1664496000000,
+        "company ID":"HUN",
+        "Rank Target":0.5714285714,
+        "prediction":0.5167505145,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "761":{
+        "index":1664496000000,
+        "company ID":"VHI",
+        "Rank Target":0.3571428571,
+        "prediction":0.4952324331,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "758":{
+        "index":1664496000000,
+        "company ID":"ORGN",
+        "Rank Target":0.2142857143,
+        "prediction":0.412807554,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "751":{
+        "index":1664496000000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.2783253491,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "770":{
+        "index":1672444800000,
+        "company ID":"LXU",
+        "Rank Target":0.2142857143,
+        "prediction":0.693810463,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "776":{
+        "index":1672444800000,
+        "company ID":"WLKP",
+        "Rank Target":0.5,
+        "prediction":0.6489493251,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "774":{
+        "index":1672444800000,
+        "company ID":"TROX",
+        "Rank Target":0.7142857143,
+        "prediction":0.6426374912,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "767":{
+        "index":1672444800000,
+        "company ID":"DOW",
+        "Rank Target":1.0,
+        "prediction":0.6078704,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "763":{
+        "index":1672444800000,
+        "company ID":"ACNT",
+        "Rank Target":0.5714285714,
+        "prediction":0.6077978611,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "764":{
+        "index":1672444800000,
+        "company ID":"ASIX",
+        "Rank Target":0.6428571429,
+        "prediction":0.6039415598,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "771":{
+        "index":1672444800000,
+        "company ID":"OLN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5832371712,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "768":{
+        "index":1672444800000,
+        "company ID":"GPRE",
+        "Rank Target":0.9285714286,
+        "prediction":0.5559002161,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "769":{
+        "index":1672444800000,
+        "company ID":"HUN",
+        "Rank Target":0.4285714286,
+        "prediction":0.5539097786,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "766":{
+        "index":1672444800000,
+        "company ID":"CE",
+        "Rank Target":0.8571428571,
+        "prediction":0.5472787619,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "773":{
+        "index":1672444800000,
+        "company ID":"RYAM",
+        "Rank Target":0.1428571429,
+        "prediction":0.5417260528,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "775":{
+        "index":1672444800000,
+        "company ID":"VHI",
+        "Rank Target":0.2857142857,
+        "prediction":0.5402436852,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "772":{
+        "index":1672444800000,
+        "company ID":"ORGN",
+        "Rank Target":0.3571428571,
+        "prediction":0.4883709848,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "765":{
+        "index":1672444800000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3311920464,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "783":{
+        "index":1680220800000,
+        "company ID":"HUN",
+        "Rank Target":0.8571428571,
+        "prediction":0.6840273738,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "790":{
+        "index":1680220800000,
+        "company ID":"WLKP",
+        "Rank Target":0.7857142857,
+        "prediction":0.6722927094,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "780":{
+        "index":1680220800000,
+        "company ID":"CE",
+        "Rank Target":1.0,
+        "prediction":0.6698799729,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "788":{
+        "index":1680220800000,
+        "company ID":"TROX",
+        "Rank Target":0.2857142857,
+        "prediction":0.6399748921,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "778":{
+        "index":1680220800000,
+        "company ID":"ASIX",
+        "Rank Target":0.3571428571,
+        "prediction":0.6114404202,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "785":{
+        "index":1680220800000,
+        "company ID":"OLN",
+        "Rank Target":0.4285714286,
+        "prediction":0.6089882255,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "787":{
+        "index":1680220800000,
+        "company ID":"RYAM",
+        "Rank Target":0.1428571429,
+        "prediction":0.5955278277,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "781":{
+        "index":1680220800000,
+        "company ID":"DOW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5912100673,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "784":{
+        "index":1680220800000,
+        "company ID":"LXU",
+        "Rank Target":0.5,
+        "prediction":0.5800136328,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "777":{
+        "index":1680220800000,
+        "company ID":"ACNT",
+        "Rank Target":0.6428571429,
+        "prediction":0.5367871523,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "789":{
+        "index":1680220800000,
+        "company ID":"VHI",
+        "Rank Target":0.2142857143,
+        "prediction":0.525047183,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "782":{
+        "index":1680220800000,
+        "company ID":"GPRE",
+        "Rank Target":0.7142857143,
+        "prediction":0.5083887577,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "786":{
+        "index":1680220800000,
+        "company ID":"ORGN",
+        "Rank Target":0.9285714286,
+        "prediction":0.5020529032,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "779":{
+        "index":1680220800000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3709532619,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "802":{
+        "index":1688083200000,
+        "company ID":"TROX",
+        "Rank Target":0.8571428571,
+        "prediction":0.699988544,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "795":{
+        "index":1688083200000,
+        "company ID":"DOW",
+        "Rank Target":0.5,
+        "prediction":0.6837115288,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "794":{
+        "index":1688083200000,
+        "company ID":"CE",
+        "Rank Target":0.9285714286,
+        "prediction":0.667760849,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "798":{
+        "index":1688083200000,
+        "company ID":"LXU",
+        "Rank Target":0.7142857143,
+        "prediction":0.6309977174,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "799":{
+        "index":1688083200000,
+        "company ID":"OLN",
+        "Rank Target":0.4285714286,
+        "prediction":0.6176787615,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "803":{
+        "index":1688083200000,
+        "company ID":"VHI",
+        "Rank Target":0.7857142857,
+        "prediction":0.5990448594,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "797":{
+        "index":1688083200000,
+        "company ID":"HUN",
+        "Rank Target":0.2857142857,
+        "prediction":0.5908328295,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "796":{
+        "index":1688083200000,
+        "company ID":"GPRE",
+        "Rank Target":0.3571428571,
+        "prediction":0.5770839453,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "792":{
+        "index":1688083200000,
+        "company ID":"ASIX",
+        "Rank Target":0.2142857143,
+        "prediction":0.5770342946,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "804":{
+        "index":1688083200000,
+        "company ID":"WLKP",
+        "Rank Target":0.6428571429,
+        "prediction":0.5294535756,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "801":{
+        "index":1688083200000,
+        "company ID":"RYAM",
+        "Rank Target":0.1428571429,
+        "prediction":0.4735475183,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "791":{
+        "index":1688083200000,
+        "company ID":"ACNT",
+        "Rank Target":0.5714285714,
+        "prediction":0.4701818526,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "800":{
+        "index":1688083200000,
+        "company ID":"ORGN",
+        "Rank Target":0.0714285714,
+        "prediction":0.4513796866,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "793":{
+        "index":1688083200000,
+        "company ID":"ASPI",
+        "Rank Target":1.0,
+        "prediction":0.2458120435,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "810":{
+        "index":1696032000000,
+        "company ID":"GPRE",
+        "Rank Target":0.1428571429,
+        "prediction":0.7536231875,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "808":{
+        "index":1696032000000,
+        "company ID":"CE",
+        "Rank Target":0.9285714286,
+        "prediction":0.6295709014,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "818":{
+        "index":1696032000000,
+        "company ID":"WLKP",
+        "Rank Target":0.2857142857,
+        "prediction":0.6161240935,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "811":{
+        "index":1696032000000,
+        "company ID":"HUN",
+        "Rank Target":0.4285714286,
+        "prediction":0.5923635364,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "816":{
+        "index":1696032000000,
+        "company ID":"TROX",
+        "Rank Target":0.7142857143,
+        "prediction":0.5715144873,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "813":{
+        "index":1696032000000,
+        "company ID":"OLN",
+        "Rank Target":0.6428571429,
+        "prediction":0.5674778223,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "809":{
+        "index":1696032000000,
+        "company ID":"DOW",
+        "Rank Target":0.5,
+        "prediction":0.5405822396,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "817":{
+        "index":1696032000000,
+        "company ID":"VHI",
+        "Rank Target":0.7857142857,
+        "prediction":0.5256216526,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "806":{
+        "index":1696032000000,
+        "company ID":"ASIX",
+        "Rank Target":0.3571428571,
+        "prediction":0.5012967587,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "812":{
+        "index":1696032000000,
+        "company ID":"LXU",
+        "Rank Target":0.2142857143,
+        "prediction":0.4995075166,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "814":{
+        "index":1696032000000,
+        "company ID":"ORGN",
+        "Rank Target":0.0714285714,
+        "prediction":0.4799762964,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "815":{
+        "index":1696032000000,
+        "company ID":"RYAM",
+        "Rank Target":0.8571428571,
+        "prediction":0.4707771242,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "805":{
+        "index":1696032000000,
+        "company ID":"ACNT",
+        "Rank Target":0.5714285714,
+        "prediction":0.4639179111,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "807":{
+        "index":1696032000000,
+        "company ID":"ASPI",
+        "Rank Target":1.0,
+        "prediction":0.2653857172,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "832":{
+        "index":1703980800000,
+        "company ID":"WLKP",
+        "Rank Target":0.4285714286,
+        "prediction":0.6463845372,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "827":{
+        "index":1703980800000,
+        "company ID":"OLN",
+        "Rank Target":0.6428571429,
+        "prediction":0.6249113083,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "820":{
+        "index":1703980800000,
+        "company ID":"ASIX",
+        "Rank Target":0.2857142857,
+        "prediction":0.6083462238,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "824":{
+        "index":1703980800000,
+        "company ID":"GPRE",
+        "Rank Target":0.1428571429,
+        "prediction":0.607298553,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "831":{
+        "index":1703980800000,
+        "company ID":"VHI",
+        "Rank Target":0.8571428571,
+        "prediction":0.6033667326,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "822":{
+        "index":1703980800000,
+        "company ID":"CE",
+        "Rank Target":0.7857142857,
+        "prediction":0.6032634377,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "819":{
+        "index":1703980800000,
+        "company ID":"ACNT",
+        "Rank Target":0.3571428571,
+        "prediction":0.5940188169,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "826":{
+        "index":1703980800000,
+        "company ID":"LXU",
+        "Rank Target":0.2142857143,
+        "prediction":0.5777344704,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "830":{
+        "index":1703980800000,
+        "company ID":"TROX",
+        "Rank Target":0.9285714286,
+        "prediction":0.5496516824,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "828":{
+        "index":1703980800000,
+        "company ID":"ORGN",
+        "Rank Target":0.0714285714,
+        "prediction":0.5482849479,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "823":{
+        "index":1703980800000,
+        "company ID":"DOW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5425966382,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "825":{
+        "index":1703980800000,
+        "company ID":"HUN",
+        "Rank Target":0.5,
+        "prediction":0.5403237939,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "829":{
+        "index":1703980800000,
+        "company ID":"RYAM",
+        "Rank Target":0.7142857143,
+        "prediction":0.5191783905,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "821":{
+        "index":1703980800000,
+        "company ID":"ASPI",
+        "Rank Target":1.0,
+        "prediction":0.238768816,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "840":{
+        "index":1711843200000,
+        "company ID":"LXU",
+        "Rank Target":0.7142857143,
+        "prediction":0.6649793386,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "843":{
+        "index":1711843200000,
+        "company ID":"RYAM",
+        "Rank Target":0.9285714286,
+        "prediction":0.6614339948,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "844":{
+        "index":1711843200000,
+        "company ID":"TROX",
+        "Rank Target":0.5714285714,
+        "prediction":0.6499834061,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "845":{
+        "index":1711843200000,
+        "company ID":"VHI",
+        "Rank Target":0.8571428571,
+        "prediction":0.6387705207,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "837":{
+        "index":1711843200000,
+        "company ID":"DOW",
+        "Rank Target":0.5,
+        "prediction":0.6293840408,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "846":{
+        "index":1711843200000,
+        "company ID":"WLKP",
+        "Rank Target":0.7857142857,
+        "prediction":0.6184616089,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "841":{
+        "index":1711843200000,
+        "company ID":"OLN",
+        "Rank Target":0.2142857143,
+        "prediction":0.596277535,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "839":{
+        "index":1711843200000,
+        "company ID":"HUN",
+        "Rank Target":0.4285714286,
+        "prediction":0.5599884987,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "836":{
+        "index":1711843200000,
+        "company ID":"CE",
+        "Rank Target":0.1428571429,
+        "prediction":0.5438091159,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "838":{
+        "index":1711843200000,
+        "company ID":"GPRE",
+        "Rank Target":0.0714285714,
+        "prediction":0.5169013143,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "834":{
+        "index":1711843200000,
+        "company ID":"ASIX",
+        "Rank Target":0.3571428571,
+        "prediction":0.4796713889,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "833":{
+        "index":1711843200000,
+        "company ID":"ACNT",
+        "Rank Target":0.6428571429,
+        "prediction":0.4392968416,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "842":{
+        "index":1711843200000,
+        "company ID":"ORGN",
+        "Rank Target":1.0,
+        "prediction":0.4018341601,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "835":{
+        "index":1711843200000,
+        "company ID":"ASPI",
+        "Rank Target":0.2857142857,
+        "prediction":0.3854142725,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "859":{
+        "index":1719705600000,
+        "company ID":"VHI",
+        "Rank Target":0.9285714286,
+        "prediction":0.7315091491,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "848":{
+        "index":1719705600000,
+        "company ID":"ASIX",
+        "Rank Target":0.7857142857,
+        "prediction":0.6775627732,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "857":{
+        "index":1719705600000,
+        "company ID":"RYAM",
+        "Rank Target":0.8571428571,
+        "prediction":0.6694031954,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "858":{
+        "index":1719705600000,
+        "company ID":"TROX",
+        "Rank Target":0.1428571429,
+        "prediction":0.6669459939,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "854":{
+        "index":1719705600000,
+        "company ID":"LXU",
+        "Rank Target":0.2857142857,
+        "prediction":0.6546574831,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "850":{
+        "index":1719705600000,
+        "company ID":"CE",
+        "Rank Target":0.5,
+        "prediction":0.6341995001,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "853":{
+        "index":1719705600000,
+        "company ID":"HUN",
+        "Rank Target":0.7142857143,
+        "prediction":0.6191048026,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "855":{
+        "index":1719705600000,
+        "company ID":"OLN",
+        "Rank Target":0.6428571429,
+        "prediction":0.5988250375,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "847":{
+        "index":1719705600000,
+        "company ID":"ACNT",
+        "Rank Target":0.4285714286,
+        "prediction":0.5642852783,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "860":{
+        "index":1719705600000,
+        "company ID":"WLKP",
+        "Rank Target":0.3571428571,
+        "prediction":0.5572491884,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "851":{
+        "index":1719705600000,
+        "company ID":"DOW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5474402308,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "852":{
+        "index":1719705600000,
+        "company ID":"GPRE",
+        "Rank Target":0.2142857143,
+        "prediction":0.5288331509,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "849":{
+        "index":1719705600000,
+        "company ID":"ASPI",
+        "Rank Target":0.0714285714,
+        "prediction":0.496588707,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "856":{
+        "index":1719705600000,
+        "company ID":"ORGN",
+        "Rank Target":1.0,
+        "prediction":0.4569922984,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "866":{
+        "index":1727654400000,
+        "company ID":"GPRE",
+        "Rank Target":0.1428571429,
+        "prediction":0.7220371366,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "861":{
+        "index":1727654400000,
+        "company ID":"ACNT",
+        "Rank Target":0.9285714286,
+        "prediction":0.6627936959,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "874":{
+        "index":1727654400000,
+        "company ID":"WLKP",
+        "Rank Target":0.8571428571,
+        "prediction":0.6519382596,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "867":{
+        "index":1727654400000,
+        "company ID":"HUN",
+        "Rank Target":0.5,
+        "prediction":0.6308778524,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "869":{
+        "index":1727654400000,
+        "company ID":"OLN",
+        "Rank Target":0.2857142857,
+        "prediction":0.5981944203,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "864":{
+        "index":1727654400000,
+        "company ID":"CE",
+        "Rank Target":0.0714285714,
+        "prediction":0.5628062487,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "862":{
+        "index":1727654400000,
+        "company ID":"ASIX",
+        "Rank Target":0.6428571429,
+        "prediction":0.5560449362,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "873":{
+        "index":1727654400000,
+        "company ID":"VHI",
+        "Rank Target":0.2142857143,
+        "prediction":0.5515434742,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "871":{
+        "index":1727654400000,
+        "company ID":"RYAM",
+        "Rank Target":0.7857142857,
+        "prediction":0.5403555036,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "872":{
+        "index":1727654400000,
+        "company ID":"TROX",
+        "Rank Target":0.3571428571,
+        "prediction":0.5208021998,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "865":{
+        "index":1727654400000,
+        "company ID":"DOW",
+        "Rank Target":0.4285714286,
+        "prediction":0.5024359226,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "863":{
+        "index":1727654400000,
+        "company ID":"ASPI",
+        "Rank Target":1.0,
+        "prediction":0.4826918542,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "868":{
+        "index":1727654400000,
+        "company ID":"LXU",
+        "Rank Target":0.7142857143,
+        "prediction":0.464589119,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "870":{
+        "index":1727654400000,
+        "company ID":"ORGN",
+        "Rank Target":0.5714285714,
+        "prediction":0.4394262135,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "885":{
+        "index":1735603200000,
+        "company ID":"RYAM",
+        "Rank Target":0.2142857143,
+        "prediction":0.6689100862,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "883":{
+        "index":1735603200000,
+        "company ID":"OLN",
+        "Rank Target":0.3571428571,
+        "prediction":0.6354088187,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "875":{
+        "index":1735603200000,
+        "company ID":"ACNT",
+        "Rank Target":1.0,
+        "prediction":0.6060364842,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "886":{
+        "index":1735603200000,
+        "company ID":"TROX",
+        "Rank Target":0.4285714286,
+        "prediction":0.5974892974,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "887":{
+        "index":1735603200000,
+        "company ID":"VHI",
+        "Rank Target":0.2857142857,
+        "prediction":0.5911083817,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "882":{
+        "index":1735603200000,
+        "company ID":"LXU",
+        "Rank Target":0.6428571429,
+        "prediction":0.5821629763,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "878":{
+        "index":1735603200000,
+        "company ID":"CE",
+        "Rank Target":0.7142857143,
+        "prediction":0.5547220707,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "881":{
+        "index":1735603200000,
+        "company ID":"HUN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5120797157,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "876":{
+        "index":1735603200000,
+        "company ID":"ASIX",
+        "Rank Target":0.5714285714,
+        "prediction":0.5074971318,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "879":{
+        "index":1735603200000,
+        "company ID":"DOW",
+        "Rank Target":0.7857142857,
+        "prediction":0.5040426254,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "888":{
+        "index":1735603200000,
+        "company ID":"WLKP",
+        "Rank Target":0.9285714286,
+        "prediction":0.4971269071,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "877":{
+        "index":1735603200000,
+        "company ID":"ASPI",
+        "Rank Target":0.5,
+        "prediction":0.4706404507,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "880":{
+        "index":1735603200000,
+        "company ID":"GPRE",
+        "Rank Target":0.0714285714,
+        "prediction":0.4676045775,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "884":{
+        "index":1735603200000,
+        "company ID":"ORGN",
+        "Rank Target":0.1428571429,
+        "prediction":0.4528018832,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "896":{
+        "index":1743379200000,
+        "company ID":"LXU",
+        "Rank Target":0.8571428571,
+        "prediction":0.6926688552,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "895":{
+        "index":1743379200000,
+        "company ID":"HUN",
+        "Rank Target":0.2142857143,
+        "prediction":0.6856928468,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "892":{
+        "index":1743379200000,
+        "company ID":"CE",
+        "Rank Target":0.7857142857,
+        "prediction":0.6693863273,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "890":{
+        "index":1743379200000,
+        "company ID":"ASIX",
+        "Rank Target":0.7142857143,
+        "prediction":0.6463348866,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "897":{
+        "index":1743379200000,
+        "company ID":"OLN",
+        "Rank Target":0.3571428571,
+        "prediction":0.6208476424,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "899":{
+        "index":1743379200000,
+        "company ID":"RYAM",
+        "Rank Target":0.0714285714,
+        "prediction":0.5721978545,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "901":{
+        "index":1743379200000,
+        "company ID":"VHI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5470579267,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "893":{
+        "index":1743379200000,
+        "company ID":"DOW",
+        "Rank Target":0.2857142857,
+        "prediction":0.5468871593,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "894":{
+        "index":1743379200000,
+        "company ID":"GPRE",
+        "Rank Target":0.9285714286,
+        "prediction":0.5121494532,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "902":{
+        "index":1743379200000,
+        "company ID":"WLKP",
+        "Rank Target":0.4285714286,
+        "prediction":0.5019413829,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "889":{
+        "index":1743379200000,
+        "company ID":"ACNT",
+        "Rank Target":0.5,
+        "prediction":0.4893265367,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "900":{
+        "index":1743379200000,
+        "company ID":"TROX",
+        "Rank Target":0.5714285714,
+        "prediction":0.4520780742,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "891":{
+        "index":1743379200000,
+        "company ID":"ASPI",
+        "Rank Target":1.0,
+        "prediction":0.4286781549,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "898":{
+        "index":1743379200000,
+        "company ID":"ORGN",
+        "Rank Target":0.1428571429,
+        "prediction":0.4069617987,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    }
+}

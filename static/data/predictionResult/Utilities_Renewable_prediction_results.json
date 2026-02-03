@@ -1,0 +1,79 @@
+{
+    "391":{
+        "company ID":"ORA",
+        "score":0.7227555513,
+        "Rank":1.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":9.0910271982
+    },
+    "394":{
+        "company ID":"XIFR",
+        "score":0.7104779482,
+        "Rank":2.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":14.8272004918
+    },
+    "392":{
+        "company ID":"STEM",
+        "score":0.6537851095,
+        "Rank":3.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":99.3031420628
+    },
+    "388":{
+        "company ID":"FLNC",
+        "score":0.6253800988,
+        "Rank":4.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":35.5529111219
+    },
+    "387":{
+        "company ID":"CWEN-A",
+        "score":0.6071010232,
+        "Rank":5.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":-10.6567083125
+    },
+    "386":{
+        "company ID":"CWEN",
+        "score":0.6071010232,
+        "Rank":5.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-11.7619286883
+    },
+    "393":{
+        "company ID":"VGAS",
+        "score":0.5958449244,
+        "Rank":7.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-14.5604449046
+    },
+    "389":{
+        "company ID":"NRGV",
+        "score":0.5901716352,
+        "Rank":8.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":253.6299858145
+    },
+    "385":{
+        "company ID":"BEPC",
+        "score":0.5634066463,
+        "Rank":9.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":3.0812946539
+    },
+    "384":{
+        "company ID":"AGIG",
+        "score":0.4473377764,
+        "Rank":10.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-31.5286649994
+    },
+    "390":{
+        "company ID":"NXXT",
+        "score":0.3887161911,
+        "Rank":11.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-28.9962852793
+    }
+}

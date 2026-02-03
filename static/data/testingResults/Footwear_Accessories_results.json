@@ -1,0 +1,978 @@
+{
+    "558":{
+        "index":1648684800000,
+        "company ID":"FWDI",
+        "Rank Target":0.5555555556,
+        "prediction":0.627681911,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "561":{
+        "index":1648684800000,
+        "company ID":"WEYS",
+        "Rank Target":1.0,
+        "prediction":0.6111739874,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "559":{
+        "index":1648684800000,
+        "company ID":"RCKY",
+        "Rank Target":0.4444444444,
+        "prediction":0.5944315791,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "560":{
+        "index":1648684800000,
+        "company ID":"SHOO",
+        "Rank Target":0.6666666667,
+        "prediction":0.5904628038,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "562":{
+        "index":1648684800000,
+        "company ID":"WWW",
+        "Rank Target":0.7777777778,
+        "prediction":0.5838859081,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "557":{
+        "index":1648684800000,
+        "company ID":"FOSL",
+        "Rank Target":0.2222222222,
+        "prediction":0.573204875,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "556":{
+        "index":1648684800000,
+        "company ID":"DECK",
+        "Rank Target":0.8888888889,
+        "prediction":0.5576225519,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "555":{
+        "index":1648684800000,
+        "company ID":"CROX",
+        "Rank Target":0.3333333333,
+        "prediction":0.469186157,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "554":{
+        "index":1648684800000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.4531928003,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "571":{
+        "index":1656547200000,
+        "company ID":"WWW",
+        "Rank Target":0.4444444444,
+        "prediction":0.684882164,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "564":{
+        "index":1656547200000,
+        "company ID":"CROX",
+        "Rank Target":1.0,
+        "prediction":0.5748505592,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "566":{
+        "index":1656547200000,
+        "company ID":"FOSL",
+        "Rank Target":0.3333333333,
+        "prediction":0.5737627149,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "570":{
+        "index":1656547200000,
+        "company ID":"WEYS",
+        "Rank Target":0.5555555556,
+        "prediction":0.5356575847,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "563":{
+        "index":1656547200000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.5260291696,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "565":{
+        "index":1656547200000,
+        "company ID":"DECK",
+        "Rank Target":0.8888888889,
+        "prediction":0.4998266399,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "568":{
+        "index":1656547200000,
+        "company ID":"RCKY",
+        "Rank Target":0.2222222222,
+        "prediction":0.4543640912,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "569":{
+        "index":1656547200000,
+        "company ID":"SHOO",
+        "Rank Target":0.7777777778,
+        "prediction":0.4363312423,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "567":{
+        "index":1656547200000,
+        "company ID":"FWDI",
+        "Rank Target":0.6666666667,
+        "prediction":0.4095698297,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "579":{
+        "index":1664496000000,
+        "company ID":"WEYS",
+        "Rank Target":0.4444444444,
+        "prediction":0.6925604343,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "574":{
+        "index":1664496000000,
+        "company ID":"DECK",
+        "Rank Target":0.7777777778,
+        "prediction":0.6579634547,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "578":{
+        "index":1664496000000,
+        "company ID":"SHOO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6288245916,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "577":{
+        "index":1664496000000,
+        "company ID":"RCKY",
+        "Rank Target":0.5555555556,
+        "prediction":0.6196146011,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "575":{
+        "index":1664496000000,
+        "company ID":"FOSL",
+        "Rank Target":0.8888888889,
+        "prediction":0.6070402265,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "573":{
+        "index":1664496000000,
+        "company ID":"CROX",
+        "Rank Target":1.0,
+        "prediction":0.5583439469,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "580":{
+        "index":1664496000000,
+        "company ID":"WWW",
+        "Rank Target":0.2222222222,
+        "prediction":0.4853185415,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "572":{
+        "index":1664496000000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.471978575,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "576":{
+        "index":1664496000000,
+        "company ID":"FWDI",
+        "Rank Target":0.3333333333,
+        "prediction":0.3875897229,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "583":{
+        "index":1672444800000,
+        "company ID":"DECK",
+        "Rank Target":0.7777777778,
+        "prediction":0.6255021691,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "586":{
+        "index":1672444800000,
+        "company ID":"RCKY",
+        "Rank Target":0.3333333333,
+        "prediction":0.5624064207,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "584":{
+        "index":1672444800000,
+        "company ID":"FOSL",
+        "Rank Target":0.1111111111,
+        "prediction":0.5382585526,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "585":{
+        "index":1672444800000,
+        "company ID":"FWDI",
+        "Rank Target":0.4444444444,
+        "prediction":0.5348489285,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "587":{
+        "index":1672444800000,
+        "company ID":"SHOO",
+        "Rank Target":0.5555555556,
+        "prediction":0.5083714128,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "582":{
+        "index":1672444800000,
+        "company ID":"CROX",
+        "Rank Target":0.8888888889,
+        "prediction":0.4921203256,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "588":{
+        "index":1672444800000,
+        "company ID":"WEYS",
+        "Rank Target":0.6666666667,
+        "prediction":0.475523591,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "581":{
+        "index":1672444800000,
+        "company ID":"AREB",
+        "Rank Target":0.2222222222,
+        "prediction":0.4692497253,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "589":{
+        "index":1672444800000,
+        "company ID":"WWW",
+        "Rank Target":1.0,
+        "prediction":0.4523310363,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "597":{
+        "index":1680220800000,
+        "company ID":"WEYS",
+        "Rank Target":0.8888888889,
+        "prediction":0.6847789288,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "593":{
+        "index":1680220800000,
+        "company ID":"FOSL",
+        "Rank Target":0.1111111111,
+        "prediction":0.6503580213,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "596":{
+        "index":1680220800000,
+        "company ID":"SHOO",
+        "Rank Target":0.7777777778,
+        "prediction":0.6441468596,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "590":{
+        "index":1680220800000,
+        "company ID":"AREB",
+        "Rank Target":0.5555555556,
+        "prediction":0.6225700974,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "598":{
+        "index":1680220800000,
+        "company ID":"WWW",
+        "Rank Target":0.3333333333,
+        "prediction":0.6053099036,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "591":{
+        "index":1680220800000,
+        "company ID":"CROX",
+        "Rank Target":0.4444444444,
+        "prediction":0.5643479228,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "592":{
+        "index":1680220800000,
+        "company ID":"DECK",
+        "Rank Target":1.0,
+        "prediction":0.5400161743,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "594":{
+        "index":1680220800000,
+        "company ID":"FWDI",
+        "Rank Target":0.2222222222,
+        "prediction":0.4691450596,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "595":{
+        "index":1680220800000,
+        "company ID":"RCKY",
+        "Rank Target":0.6666666667,
+        "prediction":0.4560366571,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "605":{
+        "index":1688083200000,
+        "company ID":"SHOO",
+        "Rank Target":0.8888888889,
+        "prediction":0.6405789256,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "607":{
+        "index":1688083200000,
+        "company ID":"WWW",
+        "Rank Target":0.2222222222,
+        "prediction":0.5829336643,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "601":{
+        "index":1688083200000,
+        "company ID":"DECK",
+        "Rank Target":0.7777777778,
+        "prediction":0.563241601,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "600":{
+        "index":1688083200000,
+        "company ID":"CROX",
+        "Rank Target":0.5555555556,
+        "prediction":0.5609279871,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "606":{
+        "index":1688083200000,
+        "company ID":"WEYS",
+        "Rank Target":1.0,
+        "prediction":0.5529271364,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "602":{
+        "index":1688083200000,
+        "company ID":"FOSL",
+        "Rank Target":0.4444444444,
+        "prediction":0.5497846007,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "603":{
+        "index":1688083200000,
+        "company ID":"FWDI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5425478816,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "604":{
+        "index":1688083200000,
+        "company ID":"RCKY",
+        "Rank Target":0.3333333333,
+        "prediction":0.4789742529,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "599":{
+        "index":1688083200000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.3603852689,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "610":{
+        "index":1696032000000,
+        "company ID":"DECK",
+        "Rank Target":0.7777777778,
+        "prediction":0.7195328474,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "613":{
+        "index":1696032000000,
+        "company ID":"RCKY",
+        "Rank Target":1.0,
+        "prediction":0.6747326255,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "614":{
+        "index":1696032000000,
+        "company ID":"SHOO",
+        "Rank Target":0.8888888889,
+        "prediction":0.6375471354,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "611":{
+        "index":1696032000000,
+        "company ID":"FOSL",
+        "Rank Target":0.2222222222,
+        "prediction":0.5556767583,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "612":{
+        "index":1696032000000,
+        "company ID":"FWDI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5534693599,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "615":{
+        "index":1696032000000,
+        "company ID":"WEYS",
+        "Rank Target":0.6666666667,
+        "prediction":0.5387305617,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "616":{
+        "index":1696032000000,
+        "company ID":"WWW",
+        "Rank Target":0.5555555556,
+        "prediction":0.5091192126,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "609":{
+        "index":1696032000000,
+        "company ID":"CROX",
+        "Rank Target":0.4444444444,
+        "prediction":0.4846553802,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "608":{
+        "index":1696032000000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.3225658536,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "624":{
+        "index":1703980800000,
+        "company ID":"SHOO",
+        "Rank Target":0.6,
+        "prediction":0.6855589747,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "623":{
+        "index":1703980800000,
+        "company ID":"RCKY",
+        "Rank Target":0.5,
+        "prediction":0.6473047137,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "625":{
+        "index":1703980800000,
+        "company ID":"WEYS",
+        "Rank Target":0.7,
+        "prediction":0.6070971489,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "621":{
+        "index":1703980800000,
+        "company ID":"FOSL",
+        "Rank Target":0.2,
+        "prediction":0.5825788379,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "619":{
+        "index":1703980800000,
+        "company ID":"DECK",
+        "Rank Target":0.8,
+        "prediction":0.5802448392,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "626":{
+        "index":1703980800000,
+        "company ID":"WWW",
+        "Rank Target":0.9,
+        "prediction":0.5635666847,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "622":{
+        "index":1703980800000,
+        "company ID":"FWDI",
+        "Rank Target":0.3,
+        "prediction":0.543310523,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "618":{
+        "index":1703980800000,
+        "company ID":"CROX",
+        "Rank Target":1.0,
+        "prediction":0.4999191463,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "620":{
+        "index":1703980800000,
+        "company ID":"FMFC",
+        "Rank Target":0.1,
+        "prediction":0.436491847,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "617":{
+        "index":1703980800000,
+        "company ID":"AREB",
+        "Rank Target":0.4,
+        "prediction":0.3631975949,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "634":{
+        "index":1711843200000,
+        "company ID":"SHOO",
+        "Rank Target":0.4,
+        "prediction":0.6884456873,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "635":{
+        "index":1711843200000,
+        "company ID":"WEYS",
+        "Rank Target":0.3,
+        "prediction":0.6326900125,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "628":{
+        "index":1711843200000,
+        "company ID":"CROX",
+        "Rank Target":0.5,
+        "prediction":0.5988258123,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "629":{
+        "index":1711843200000,
+        "company ID":"DECK",
+        "Rank Target":0.6,
+        "prediction":0.5986279249,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "633":{
+        "index":1711843200000,
+        "company ID":"RCKY",
+        "Rank Target":0.8,
+        "prediction":0.5911107659,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "630":{
+        "index":1711843200000,
+        "company ID":"FMFC",
+        "Rank Target":0.1,
+        "prediction":0.5009832978,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "632":{
+        "index":1711843200000,
+        "company ID":"FWDI",
+        "Rank Target":0.2,
+        "prediction":0.5006816983,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "636":{
+        "index":1711843200000,
+        "company ID":"WWW",
+        "Rank Target":0.7,
+        "prediction":0.4918394685,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "631":{
+        "index":1711843200000,
+        "company ID":"FOSL",
+        "Rank Target":0.9,
+        "prediction":0.4720911682,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "627":{
+        "index":1711843200000,
+        "company ID":"AREB",
+        "Rank Target":1.0,
+        "prediction":0.3029731214,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "639":{
+        "index":1719705600000,
+        "company ID":"DECK",
+        "Rank Target":0.7,
+        "prediction":0.6522020102,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "644":{
+        "index":1719705600000,
+        "company ID":"SHOO",
+        "Rank Target":0.8,
+        "prediction":0.6314527988,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "646":{
+        "index":1719705600000,
+        "company ID":"WWW",
+        "Rank Target":1.0,
+        "prediction":0.6020310521,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "638":{
+        "index":1719705600000,
+        "company ID":"CROX",
+        "Rank Target":0.5,
+        "prediction":0.5929211378,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "645":{
+        "index":1719705600000,
+        "company ID":"WEYS",
+        "Rank Target":0.9,
+        "prediction":0.5866837502,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "640":{
+        "index":1719705600000,
+        "company ID":"FMFC",
+        "Rank Target":0.1,
+        "prediction":0.5606587529,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "643":{
+        "index":1719705600000,
+        "company ID":"RCKY",
+        "Rank Target":0.3,
+        "prediction":0.4941727519,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "642":{
+        "index":1719705600000,
+        "company ID":"FWDI",
+        "Rank Target":0.4,
+        "prediction":0.4912581742,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "641":{
+        "index":1719705600000,
+        "company ID":"FOSL",
+        "Rank Target":0.2,
+        "prediction":0.4762826264,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "637":{
+        "index":1719705600000,
+        "company ID":"AREB",
+        "Rank Target":0.6,
+        "prediction":0.2871584296,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "656":{
+        "index":1727654400000,
+        "company ID":"WWW",
+        "Rank Target":0.7,
+        "prediction":0.6995459795,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "649":{
+        "index":1727654400000,
+        "company ID":"DECK",
+        "Rank Target":0.8,
+        "prediction":0.6680079699,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "654":{
+        "index":1727654400000,
+        "company ID":"SHOO",
+        "Rank Target":0.5,
+        "prediction":0.6633597016,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "653":{
+        "index":1727654400000,
+        "company ID":"RCKY",
+        "Rank Target":0.3,
+        "prediction":0.6430820227,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "651":{
+        "index":1727654400000,
+        "company ID":"FOSL",
+        "Rank Target":0.9,
+        "prediction":0.5977860689,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "655":{
+        "index":1727654400000,
+        "company ID":"WEYS",
+        "Rank Target":0.6,
+        "prediction":0.593357861,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "648":{
+        "index":1727654400000,
+        "company ID":"CROX",
+        "Rank Target":0.4,
+        "prediction":0.5229482055,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "652":{
+        "index":1727654400000,
+        "company ID":"FWDI",
+        "Rank Target":1.0,
+        "prediction":0.5103175044,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "650":{
+        "index":1727654400000,
+        "company ID":"FMFC",
+        "Rank Target":0.1,
+        "prediction":0.4861803651,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "647":{
+        "index":1727654400000,
+        "company ID":"AREB",
+        "Rank Target":0.2,
+        "prediction":0.290640682,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "666":{
+        "index":1735603200000,
+        "company ID":"WWW",
+        "Rank Target":0.4,
+        "prediction":0.7000724673,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "663":{
+        "index":1735603200000,
+        "company ID":"RCKY",
+        "Rank Target":0.7,
+        "prediction":0.6816906333,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "665":{
+        "index":1735603200000,
+        "company ID":"WEYS",
+        "Rank Target":0.8,
+        "prediction":0.6707764268,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "659":{
+        "index":1735603200000,
+        "company ID":"DECK",
+        "Rank Target":0.2,
+        "prediction":0.5910846591,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "664":{
+        "index":1735603200000,
+        "company ID":"SHOO",
+        "Rank Target":0.5,
+        "prediction":0.5824692845,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "661":{
+        "index":1735603200000,
+        "company ID":"FOSL",
+        "Rank Target":0.3,
+        "prediction":0.5486272573,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "658":{
+        "index":1735603200000,
+        "company ID":"CROX",
+        "Rank Target":0.9,
+        "prediction":0.4972507656,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "662":{
+        "index":1735603200000,
+        "company ID":"FWDI",
+        "Rank Target":0.6,
+        "prediction":0.4738379121,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "657":{
+        "index":1735603200000,
+        "company ID":"AREB",
+        "Rank Target":0.1,
+        "prediction":0.3590994775,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "660":{
+        "index":1735603200000,
+        "company ID":"FMFC",
+        "Rank Target":1.0,
+        "prediction":0.3543753922,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "670":{
+        "index":1743379200000,
+        "company ID":"FOSL",
+        "Rank Target":0.7777777778,
+        "prediction":0.6464426517,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "673":{
+        "index":1743379200000,
+        "company ID":"SHOO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6105827093,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "675":{
+        "index":1743379200000,
+        "company ID":"WWW",
+        "Rank Target":1.0,
+        "prediction":0.6006432176,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "668":{
+        "index":1743379200000,
+        "company ID":"CROX",
+        "Rank Target":0.4444444444,
+        "prediction":0.5905857086,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "672":{
+        "index":1743379200000,
+        "company ID":"RCKY",
+        "Rank Target":0.8888888889,
+        "prediction":0.5666915774,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "669":{
+        "index":1743379200000,
+        "company ID":"DECK",
+        "Rank Target":0.2222222222,
+        "prediction":0.5421268344,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "674":{
+        "index":1743379200000,
+        "company ID":"WEYS",
+        "Rank Target":0.6666666667,
+        "prediction":0.512652874,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "671":{
+        "index":1743379200000,
+        "company ID":"FWDI",
+        "Rank Target":0.5555555556,
+        "prediction":0.3480071127,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "667":{
+        "index":1743379200000,
+        "company ID":"AREB",
+        "Rank Target":0.1111111111,
+        "prediction":0.3370604813,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    }
+}

@@ -1,0 +1,1458 @@
+{
+    "750":{
+        "index":1648684800000,
+        "company ID":"JRVR",
+        "Rank Target":0.7142857143,
+        "prediction":0.7026167512,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "752":{
+        "index":1648684800000,
+        "company ID":"MTG",
+        "Rank Target":0.5714285714,
+        "prediction":0.6499342918,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "753":{
+        "index":1648684800000,
+        "company ID":"NMIH",
+        "Rank Target":0.4285714286,
+        "prediction":0.6418176293,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "745":{
+        "index":1648684800000,
+        "company ID":"AMSF",
+        "Rank Target":0.9285714286,
+        "prediction":0.5982242823,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "755":{
+        "index":1648684800000,
+        "company ID":"RDN",
+        "Rank Target":0.5,
+        "prediction":0.5866405964,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "756":{
+        "index":1648684800000,
+        "company ID":"RYAN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5677728653,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "748":{
+        "index":1648684800000,
+        "company ID":"FNF",
+        "Rank Target":0.2142857143,
+        "prediction":0.5562052727,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "751":{
+        "index":1648684800000,
+        "company ID":"MBI",
+        "Rank Target":0.1428571429,
+        "prediction":0.5454818606,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "744":{
+        "index":1648684800000,
+        "company ID":"ACT",
+        "Rank Target":0.6428571429,
+        "prediction":0.5180333257,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "754":{
+        "index":1648684800000,
+        "company ID":"OSG",
+        "Rank Target":1.0,
+        "prediction":0.5087543726,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "746":{
+        "index":1648684800000,
+        "company ID":"EIG",
+        "Rank Target":0.8571428571,
+        "prediction":0.4761772454,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "747":{
+        "index":1648684800000,
+        "company ID":"FAF",
+        "Rank Target":0.3571428571,
+        "prediction":0.4729904532,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "757":{
+        "index":1648684800000,
+        "company ID":"TIPT",
+        "Rank Target":0.2857142857,
+        "prediction":0.4569694996,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "749":{
+        "index":1648684800000,
+        "company ID":"ITIC",
+        "Rank Target":0.0714285714,
+        "prediction":0.4317361712,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "766":{
+        "index":1656547200000,
+        "company ID":"MTG",
+        "Rank Target":0.8571428571,
+        "prediction":0.7206956744,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "758":{
+        "index":1656547200000,
+        "company ID":"ACT",
+        "Rank Target":0.7857142857,
+        "prediction":0.694919765,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "770":{
+        "index":1656547200000,
+        "company ID":"RYAN",
+        "Rank Target":0.7142857143,
+        "prediction":0.6559313536,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "769":{
+        "index":1656547200000,
+        "company ID":"RDN",
+        "Rank Target":0.5714285714,
+        "prediction":0.6379666924,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "762":{
+        "index":1656547200000,
+        "company ID":"FNF",
+        "Rank Target":0.5,
+        "prediction":0.6312610507,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "761":{
+        "index":1656547200000,
+        "company ID":"FAF",
+        "Rank Target":0.2142857143,
+        "prediction":0.6288266182,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "767":{
+        "index":1656547200000,
+        "company ID":"NMIH",
+        "Rank Target":1.0,
+        "prediction":0.6017540097,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "771":{
+        "index":1656547200000,
+        "company ID":"TIPT",
+        "Rank Target":0.6428571429,
+        "prediction":0.5227026343,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "759":{
+        "index":1656547200000,
+        "company ID":"AMSF",
+        "Rank Target":0.2857142857,
+        "prediction":0.5052757263,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "764":{
+        "index":1656547200000,
+        "company ID":"JRVR",
+        "Rank Target":0.3571428571,
+        "prediction":0.493178308,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "765":{
+        "index":1656547200000,
+        "company ID":"MBI",
+        "Rank Target":0.0714285714,
+        "prediction":0.4832023084,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "763":{
+        "index":1656547200000,
+        "company ID":"ITIC",
+        "Rank Target":0.4285714286,
+        "prediction":0.4590751231,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "768":{
+        "index":1656547200000,
+        "company ID":"OSG",
+        "Rank Target":0.9285714286,
+        "prediction":0.4436495006,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "760":{
+        "index":1656547200000,
+        "company ID":"EIG",
+        "Rank Target":0.1428571429,
+        "prediction":0.4179840684,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "780":{
+        "index":1664496000000,
+        "company ID":"MTG",
+        "Rank Target":0.2142857143,
+        "prediction":0.6658579707,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "782":{
+        "index":1664496000000,
+        "company ID":"OSG",
+        "Rank Target":0.9285714286,
+        "prediction":0.6655856371,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "785":{
+        "index":1664496000000,
+        "company ID":"TIPT",
+        "Rank Target":0.7857142857,
+        "prediction":0.6578392386,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "774":{
+        "index":1664496000000,
+        "company ID":"EIG",
+        "Rank Target":0.8571428571,
+        "prediction":0.6434082389,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "773":{
+        "index":1664496000000,
+        "company ID":"AMSF",
+        "Rank Target":0.7142857143,
+        "prediction":0.6357985735,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "777":{
+        "index":1664496000000,
+        "company ID":"ITIC",
+        "Rank Target":0.4285714286,
+        "prediction":0.6272147894,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "783":{
+        "index":1664496000000,
+        "company ID":"RDN",
+        "Rank Target":0.1428571429,
+        "prediction":0.5899053812,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "781":{
+        "index":1664496000000,
+        "company ID":"NMIH",
+        "Rank Target":0.2857142857,
+        "prediction":0.5891589522,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "778":{
+        "index":1664496000000,
+        "company ID":"JRVR",
+        "Rank Target":0.0714285714,
+        "prediction":0.5834262967,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "776":{
+        "index":1664496000000,
+        "company ID":"FNF",
+        "Rank Target":0.5,
+        "prediction":0.5655527711,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "772":{
+        "index":1664496000000,
+        "company ID":"ACT",
+        "Rank Target":0.5714285714,
+        "prediction":0.5648725629,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "775":{
+        "index":1664496000000,
+        "company ID":"FAF",
+        "Rank Target":0.6428571429,
+        "prediction":0.5404844284,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "784":{
+        "index":1664496000000,
+        "company ID":"RYAN",
+        "Rank Target":0.3571428571,
+        "prediction":0.5024085641,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "779":{
+        "index":1664496000000,
+        "company ID":"MBI",
+        "Rank Target":1.0,
+        "prediction":0.3858326077,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "792":{
+        "index":1672444800000,
+        "company ID":"JRVR",
+        "Rank Target":0.5714285714,
+        "prediction":0.6994880438,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "787":{
+        "index":1672444800000,
+        "company ID":"AMSF",
+        "Rank Target":0.3571428571,
+        "prediction":0.682939887,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "789":{
+        "index":1672444800000,
+        "company ID":"FAF",
+        "Rank Target":0.7857142857,
+        "prediction":0.6811093688,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "788":{
+        "index":1672444800000,
+        "company ID":"EIG",
+        "Rank Target":0.5,
+        "prediction":0.6249777675,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "798":{
+        "index":1672444800000,
+        "company ID":"RYAN",
+        "Rank Target":0.4285714286,
+        "prediction":0.6248889565,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "796":{
+        "index":1672444800000,
+        "company ID":"OSG",
+        "Rank Target":0.1428571429,
+        "prediction":0.5936750174,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "790":{
+        "index":1672444800000,
+        "company ID":"FNF",
+        "Rank Target":0.2142857143,
+        "prediction":0.5770862103,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "794":{
+        "index":1672444800000,
+        "company ID":"MTG",
+        "Rank Target":0.7142857143,
+        "prediction":0.5758826137,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "799":{
+        "index":1672444800000,
+        "company ID":"TIPT",
+        "Rank Target":0.6428571429,
+        "prediction":0.568402648,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "791":{
+        "index":1672444800000,
+        "company ID":"ITIC",
+        "Rank Target":0.9285714286,
+        "prediction":0.524454236,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "797":{
+        "index":1672444800000,
+        "company ID":"RDN",
+        "Rank Target":1.0,
+        "prediction":0.5144844055,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "786":{
+        "index":1672444800000,
+        "company ID":"ACT",
+        "Rank Target":0.2857142857,
+        "prediction":0.5023645759,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "795":{
+        "index":1672444800000,
+        "company ID":"NMIH",
+        "Rank Target":0.8571428571,
+        "prediction":0.4973396957,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "793":{
+        "index":1672444800000,
+        "company ID":"MBI",
+        "Rank Target":0.0714285714,
+        "prediction":0.4556200504,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "800":{
+        "index":1680220800000,
+        "company ID":"ACT",
+        "Rank Target":0.7142857143,
+        "prediction":0.6873551011,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "801":{
+        "index":1680220800000,
+        "company ID":"AMSF",
+        "Rank Target":0.6428571429,
+        "prediction":0.6409744024,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "803":{
+        "index":1680220800000,
+        "company ID":"FAF",
+        "Rank Target":0.4285714286,
+        "prediction":0.6285455823,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "813":{
+        "index":1680220800000,
+        "company ID":"TIPT",
+        "Rank Target":0.5,
+        "prediction":0.6111386418,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "806":{
+        "index":1680220800000,
+        "company ID":"JRVR",
+        "Rank Target":0.0714285714,
+        "prediction":0.6031242609,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "809":{
+        "index":1680220800000,
+        "company ID":"NMIH",
+        "Rank Target":0.9285714286,
+        "prediction":0.5931226611,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "802":{
+        "index":1680220800000,
+        "company ID":"EIG",
+        "Rank Target":0.2142857143,
+        "prediction":0.5727903247,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "812":{
+        "index":1680220800000,
+        "company ID":"RYAN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5690837502,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "805":{
+        "index":1680220800000,
+        "company ID":"ITIC",
+        "Rank Target":0.1428571429,
+        "prediction":0.5460238457,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "808":{
+        "index":1680220800000,
+        "company ID":"MTG",
+        "Rank Target":1.0,
+        "prediction":0.5403038263,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "811":{
+        "index":1680220800000,
+        "company ID":"RDN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5301638842,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "804":{
+        "index":1680220800000,
+        "company ID":"FNF",
+        "Rank Target":0.5714285714,
+        "prediction":0.4946950972,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "810":{
+        "index":1680220800000,
+        "company ID":"OSG",
+        "Rank Target":0.2857142857,
+        "prediction":0.4860322475,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "807":{
+        "index":1680220800000,
+        "company ID":"MBI",
+        "Rank Target":0.3571428571,
+        "prediction":0.4124726951,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "816":{
+        "index":1688083200000,
+        "company ID":"EIG",
+        "Rank Target":0.7857142857,
+        "prediction":0.7024640441,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "818":{
+        "index":1688083200000,
+        "company ID":"FNF",
+        "Rank Target":1.0,
+        "prediction":0.6848558187,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "819":{
+        "index":1688083200000,
+        "company ID":"ITIC",
+        "Rank Target":0.5,
+        "prediction":0.6590576172,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "817":{
+        "index":1688083200000,
+        "company ID":"FAF",
+        "Rank Target":0.4285714286,
+        "prediction":0.6557670236,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "827":{
+        "index":1688083200000,
+        "company ID":"TIPT",
+        "Rank Target":0.9285714286,
+        "prediction":0.6527795196,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "826":{
+        "index":1688083200000,
+        "company ID":"RYAN",
+        "Rank Target":0.8571428571,
+        "prediction":0.6430972815,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "822":{
+        "index":1688083200000,
+        "company ID":"MTG",
+        "Rank Target":0.6428571429,
+        "prediction":0.5793157816,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "815":{
+        "index":1688083200000,
+        "company ID":"AMSF",
+        "Rank Target":0.2857142857,
+        "prediction":0.5461879373,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "820":{
+        "index":1688083200000,
+        "company ID":"JRVR",
+        "Rank Target":0.1428571429,
+        "prediction":0.5351819396,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "823":{
+        "index":1688083200000,
+        "company ID":"NMIH",
+        "Rank Target":0.5714285714,
+        "prediction":0.5288196802,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "814":{
+        "index":1688083200000,
+        "company ID":"ACT",
+        "Rank Target":0.7142857143,
+        "prediction":0.5106176138,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "825":{
+        "index":1688083200000,
+        "company ID":"RDN",
+        "Rank Target":0.3571428571,
+        "prediction":0.498947531,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "824":{
+        "index":1688083200000,
+        "company ID":"OSG",
+        "Rank Target":0.2142857143,
+        "prediction":0.4946356416,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "821":{
+        "index":1688083200000,
+        "company ID":"MBI",
+        "Rank Target":0.0714285714,
+        "prediction":0.428491205,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "834":{
+        "index":1696032000000,
+        "company ID":"JRVR",
+        "Rank Target":0.0714285714,
+        "prediction":0.7579658628,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "831":{
+        "index":1696032000000,
+        "company ID":"FAF",
+        "Rank Target":0.7857142857,
+        "prediction":0.6260179877,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "832":{
+        "index":1696032000000,
+        "company ID":"FNF",
+        "Rank Target":0.8571428571,
+        "prediction":0.599281311,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "841":{
+        "index":1696032000000,
+        "company ID":"TIPT",
+        "Rank Target":0.7142857143,
+        "prediction":0.595328629,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "833":{
+        "index":1696032000000,
+        "company ID":"ITIC",
+        "Rank Target":0.5,
+        "prediction":0.5710924864,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "840":{
+        "index":1696032000000,
+        "company ID":"RYAN",
+        "Rank Target":0.1428571429,
+        "prediction":0.5433288813,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "839":{
+        "index":1696032000000,
+        "company ID":"RDN",
+        "Rank Target":0.5714285714,
+        "prediction":0.5257398486,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "830":{
+        "index":1696032000000,
+        "company ID":"EIG",
+        "Rank Target":0.2857142857,
+        "prediction":0.5177593827,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "829":{
+        "index":1696032000000,
+        "company ID":"AMSF",
+        "Rank Target":0.2142857143,
+        "prediction":0.5155066252,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "828":{
+        "index":1696032000000,
+        "company ID":"ACT",
+        "Rank Target":0.3571428571,
+        "prediction":0.4752364457,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "836":{
+        "index":1696032000000,
+        "company ID":"MTG",
+        "Rank Target":0.6428571429,
+        "prediction":0.4723448157,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "837":{
+        "index":1696032000000,
+        "company ID":"NMIH",
+        "Rank Target":0.4285714286,
+        "prediction":0.4673767388,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "838":{
+        "index":1696032000000,
+        "company ID":"OSG",
+        "Rank Target":0.9285714286,
+        "prediction":0.4273677468,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "835":{
+        "index":1696032000000,
+        "company ID":"MBI",
+        "Rank Target":1.0,
+        "prediction":0.3782633245,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "844":{
+        "index":1703980800000,
+        "company ID":"EIG",
+        "Rank Target":0.7142857143,
+        "prediction":0.7416437268,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "855":{
+        "index":1703980800000,
+        "company ID":"TIPT",
+        "Rank Target":0.0714285714,
+        "prediction":0.6830824018,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "854":{
+        "index":1703980800000,
+        "company ID":"RYAN",
+        "Rank Target":1.0,
+        "prediction":0.6553524733,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "845":{
+        "index":1703980800000,
+        "company ID":"FAF",
+        "Rank Target":0.2142857143,
+        "prediction":0.6547229886,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "847":{
+        "index":1703980800000,
+        "company ID":"ITIC",
+        "Rank Target":0.3571428571,
+        "prediction":0.5791141987,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "850":{
+        "index":1703980800000,
+        "company ID":"MTG",
+        "Rank Target":0.7857142857,
+        "prediction":0.5626568198,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "851":{
+        "index":1703980800000,
+        "company ID":"NMIH",
+        "Rank Target":0.5,
+        "prediction":0.5332120657,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "846":{
+        "index":1703980800000,
+        "company ID":"FNF",
+        "Rank Target":0.6428571429,
+        "prediction":0.5295438766,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "853":{
+        "index":1703980800000,
+        "company ID":"RDN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5067526698,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "843":{
+        "index":1703980800000,
+        "company ID":"AMSF",
+        "Rank Target":0.4285714286,
+        "prediction":0.5027869344,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "848":{
+        "index":1703980800000,
+        "company ID":"JRVR",
+        "Rank Target":0.2857142857,
+        "prediction":0.4846224487,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "852":{
+        "index":1703980800000,
+        "company ID":"OSG",
+        "Rank Target":0.1428571429,
+        "prediction":0.4044552743,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "842":{
+        "index":1703980800000,
+        "company ID":"ACT",
+        "Rank Target":0.5714285714,
+        "prediction":0.3997161686,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "849":{
+        "index":1703980800000,
+        "company ID":"MBI",
+        "Rank Target":0.9285714286,
+        "prediction":0.3856425285,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "869":{
+        "index":1711843200000,
+        "company ID":"TIPT",
+        "Rank Target":0.6428571429,
+        "prediction":0.6720083952,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "862":{
+        "index":1711843200000,
+        "company ID":"JRVR",
+        "Rank Target":0.1428571429,
+        "prediction":0.6661140919,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "860":{
+        "index":1711843200000,
+        "company ID":"FNF",
+        "Rank Target":0.4285714286,
+        "prediction":0.6361428499,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "859":{
+        "index":1711843200000,
+        "company ID":"FAF",
+        "Rank Target":0.2857142857,
+        "prediction":0.6280995607,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "868":{
+        "index":1711843200000,
+        "company ID":"RYAN",
+        "Rank Target":0.9285714286,
+        "prediction":0.5933597684,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "865":{
+        "index":1711843200000,
+        "company ID":"NMIH",
+        "Rank Target":0.8571428571,
+        "prediction":0.5406598449,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "867":{
+        "index":1711843200000,
+        "company ID":"RDN",
+        "Rank Target":0.5714285714,
+        "prediction":0.5184823871,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "861":{
+        "index":1711843200000,
+        "company ID":"ITIC",
+        "Rank Target":1.0,
+        "prediction":0.5146887898,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "866":{
+        "index":1711843200000,
+        "company ID":"OSG",
+        "Rank Target":0.0714285714,
+        "prediction":0.5047448874,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "856":{
+        "index":1711843200000,
+        "company ID":"ACT",
+        "Rank Target":0.7857142857,
+        "prediction":0.4796708524,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "858":{
+        "index":1711843200000,
+        "company ID":"EIG",
+        "Rank Target":0.5,
+        "prediction":0.4687651694,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "864":{
+        "index":1711843200000,
+        "company ID":"MTG",
+        "Rank Target":0.7142857143,
+        "prediction":0.4464868903,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "857":{
+        "index":1711843200000,
+        "company ID":"AMSF",
+        "Rank Target":0.3571428571,
+        "prediction":0.4165515304,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "863":{
+        "index":1711843200000,
+        "company ID":"MBI",
+        "Rank Target":0.2142857143,
+        "prediction":0.3557459414,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "873":{
+        "index":1719705600000,
+        "company ID":"FAF",
+        "Rank Target":0.8571428571,
+        "prediction":0.6511765718,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "883":{
+        "index":1719705600000,
+        "company ID":"TIPT",
+        "Rank Target":0.7142857143,
+        "prediction":0.6240363717,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "882":{
+        "index":1719705600000,
+        "company ID":"RYAN",
+        "Rank Target":0.5,
+        "prediction":0.6222682595,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "874":{
+        "index":1719705600000,
+        "company ID":"FNF",
+        "Rank Target":0.9285714286,
+        "prediction":0.5824107528,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "878":{
+        "index":1719705600000,
+        "company ID":"MTG",
+        "Rank Target":0.5714285714,
+        "prediction":0.5669295192,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "875":{
+        "index":1719705600000,
+        "company ID":"ITIC",
+        "Rank Target":1.0,
+        "prediction":0.5413264632,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "872":{
+        "index":1719705600000,
+        "company ID":"EIG",
+        "Rank Target":0.4285714286,
+        "prediction":0.5189627409,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "876":{
+        "index":1719705600000,
+        "company ID":"JRVR",
+        "Rank Target":0.1428571429,
+        "prediction":0.51254493,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "879":{
+        "index":1719705600000,
+        "company ID":"NMIH",
+        "Rank Target":0.7857142857,
+        "prediction":0.5049318671,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "870":{
+        "index":1719705600000,
+        "company ID":"ACT",
+        "Rank Target":0.6428571429,
+        "prediction":0.4831328094,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "871":{
+        "index":1719705600000,
+        "company ID":"AMSF",
+        "Rank Target":0.3571428571,
+        "prediction":0.457926482,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "881":{
+        "index":1719705600000,
+        "company ID":"RDN",
+        "Rank Target":0.2857142857,
+        "prediction":0.4067471325,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "880":{
+        "index":1719705600000,
+        "company ID":"OSG",
+        "Rank Target":0.2142857143,
+        "prediction":0.3557288349,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "877":{
+        "index":1719705600000,
+        "company ID":"MBI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3249812126,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "897":{
+        "index":1727654400000,
+        "company ID":"TIPT",
+        "Rank Target":0.7142857143,
+        "prediction":0.6597168446,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "889":{
+        "index":1727654400000,
+        "company ID":"ITIC",
+        "Rank Target":0.9285714286,
+        "prediction":0.6456438899,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "886":{
+        "index":1727654400000,
+        "company ID":"EIG",
+        "Rank Target":0.6428571429,
+        "prediction":0.6206856966,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "885":{
+        "index":1727654400000,
+        "company ID":"AMSF",
+        "Rank Target":0.8571428571,
+        "prediction":0.6110236645,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "888":{
+        "index":1727654400000,
+        "company ID":"FNF",
+        "Rank Target":0.3571428571,
+        "prediction":0.5997415185,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "896":{
+        "index":1727654400000,
+        "company ID":"RYAN",
+        "Rank Target":0.2142857143,
+        "prediction":0.5783321857,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "887":{
+        "index":1727654400000,
+        "company ID":"FAF",
+        "Rank Target":0.5714285714,
+        "prediction":0.5649853349,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "894":{
+        "index":1727654400000,
+        "company ID":"OSG",
+        "Rank Target":0.7857142857,
+        "prediction":0.4901086986,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "893":{
+        "index":1727654400000,
+        "company ID":"NMIH",
+        "Rank Target":0.1428571429,
+        "prediction":0.4562794566,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "890":{
+        "index":1727654400000,
+        "company ID":"JRVR",
+        "Rank Target":0.0714285714,
+        "prediction":0.4433481395,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "895":{
+        "index":1727654400000,
+        "company ID":"RDN",
+        "Rank Target":0.4285714286,
+        "prediction":0.4386131167,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "884":{
+        "index":1727654400000,
+        "company ID":"ACT",
+        "Rank Target":0.2857142857,
+        "prediction":0.403028965,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "892":{
+        "index":1727654400000,
+        "company ID":"MTG",
+        "Rank Target":0.5,
+        "prediction":0.3904188871,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "891":{
+        "index":1727654400000,
+        "company ID":"MBI",
+        "Rank Target":1.0,
+        "prediction":0.3526850939,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "902":{
+        "index":1735603200000,
+        "company ID":"FNF",
+        "Rank Target":0.8571428571,
+        "prediction":0.6700499654,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "901":{
+        "index":1735603200000,
+        "company ID":"FAF",
+        "Rank Target":0.7857142857,
+        "prediction":0.6643872857,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "911":{
+        "index":1735603200000,
+        "company ID":"TIPT",
+        "Rank Target":0.9285714286,
+        "prediction":0.6510064602,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "910":{
+        "index":1735603200000,
+        "company ID":"RYAN",
+        "Rank Target":1.0,
+        "prediction":0.575168252,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "903":{
+        "index":1735603200000,
+        "company ID":"ITIC",
+        "Rank Target":0.6428571429,
+        "prediction":0.5748306513,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "909":{
+        "index":1735603200000,
+        "company ID":"RDN",
+        "Rank Target":0.4285714286,
+        "prediction":0.515177846,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "907":{
+        "index":1735603200000,
+        "company ID":"NMIH",
+        "Rank Target":0.2857142857,
+        "prediction":0.496599406,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "904":{
+        "index":1735603200000,
+        "company ID":"JRVR",
+        "Rank Target":0.2142857143,
+        "prediction":0.4842115939,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "900":{
+        "index":1735603200000,
+        "company ID":"EIG",
+        "Rank Target":0.3571428571,
+        "prediction":0.4756885767,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "899":{
+        "index":1735603200000,
+        "company ID":"AMSF",
+        "Rank Target":0.5714285714,
+        "prediction":0.4709457755,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "905":{
+        "index":1735603200000,
+        "company ID":"MBI",
+        "Rank Target":0.1428571429,
+        "prediction":0.4563260078,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "898":{
+        "index":1735603200000,
+        "company ID":"ACT",
+        "Rank Target":0.7142857143,
+        "prediction":0.4297700822,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "906":{
+        "index":1735603200000,
+        "company ID":"MTG",
+        "Rank Target":0.5,
+        "prediction":0.3990719914,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "908":{
+        "index":1735603200000,
+        "company ID":"OSG",
+        "Rank Target":0.0714285714,
+        "prediction":0.3265641332,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "921":{
+        "index":1743379200000,
+        "company ID":"NMIH",
+        "Rank Target":0.9285714286,
+        "prediction":0.6097162962,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "918":{
+        "index":1743379200000,
+        "company ID":"JRVR",
+        "Rank Target":1.0,
+        "prediction":0.5518633127,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "923":{
+        "index":1743379200000,
+        "company ID":"RDN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5494298935,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "915":{
+        "index":1743379200000,
+        "company ID":"FAF",
+        "Rank Target":0.5,
+        "prediction":0.5330630541,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "925":{
+        "index":1743379200000,
+        "company ID":"TIPT",
+        "Rank Target":0.6428571429,
+        "prediction":0.5325367451,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "917":{
+        "index":1743379200000,
+        "company ID":"ITIC",
+        "Rank Target":0.4285714286,
+        "prediction":0.5211622119,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "924":{
+        "index":1743379200000,
+        "company ID":"RYAN",
+        "Rank Target":0.2142857143,
+        "prediction":0.4790015519,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "916":{
+        "index":1743379200000,
+        "company ID":"FNF",
+        "Rank Target":0.1428571429,
+        "prediction":0.4737133384,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "912":{
+        "index":1743379200000,
+        "company ID":"ACT",
+        "Rank Target":0.7142857143,
+        "prediction":0.4655128419,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "922":{
+        "index":1743379200000,
+        "company ID":"OSG",
+        "Rank Target":0.2857142857,
+        "prediction":0.4592109323,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "920":{
+        "index":1743379200000,
+        "company ID":"MTG",
+        "Rank Target":0.8571428571,
+        "prediction":0.454125315,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "914":{
+        "index":1743379200000,
+        "company ID":"EIG",
+        "Rank Target":0.3571428571,
+        "prediction":0.4440245032,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "919":{
+        "index":1743379200000,
+        "company ID":"MBI",
+        "Rank Target":0.5714285714,
+        "prediction":0.4363789558,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "913":{
+        "index":1743379200000,
+        "company ID":"AMSF",
+        "Rank Target":0.0714285714,
+        "prediction":0.3408588469,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    }
+}

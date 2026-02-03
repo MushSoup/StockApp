@@ -1,0 +1,954 @@
+{
+    "405":{
+        "index":1640908800000,
+        "company ID":"AAPL",
+        "Rank Target":1.0,
+        "prediction":0.7921293974,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "407":{
+        "index":1640908800000,
+        "company ID":"GPRO",
+        "Rank Target":0.6666666667,
+        "prediction":0.7341330647,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "411":{
+        "index":1640908800000,
+        "company ID":"SONO",
+        "Rank Target":0.8888888889,
+        "prediction":0.7047085166,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "408":{
+        "index":1640908800000,
+        "company ID":"KOSS",
+        "Rank Target":0.5555555556,
+        "prediction":0.5946942568,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "409":{
+        "index":1640908800000,
+        "company ID":"MSN",
+        "Rank Target":0.7777777778,
+        "prediction":0.5649798512,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "413":{
+        "index":1640908800000,
+        "company ID":"VUZI",
+        "Rank Target":0.4444444444,
+        "prediction":0.5507807136,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "412":{
+        "index":1640908800000,
+        "company ID":"UEIC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5152042508,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "406":{
+        "index":1640908800000,
+        "company ID":"BOXL",
+        "Rank Target":0.1111111111,
+        "prediction":0.4176473916,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "410":{
+        "index":1640908800000,
+        "company ID":"RIME",
+        "Rank Target":0.2222222222,
+        "prediction":0.4007112086,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "414":{
+        "index":1648684800000,
+        "company ID":"AAPL",
+        "Rank Target":0.5,
+        "prediction":0.8100014925,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "417":{
+        "index":1648684800000,
+        "company ID":"KOSS",
+        "Rank Target":0.625,
+        "prediction":0.6337727904,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "416":{
+        "index":1648684800000,
+        "company ID":"GPRO",
+        "Rank Target":0.25,
+        "prediction":0.6296813488,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "421":{
+        "index":1648684800000,
+        "company ID":"VUZI",
+        "Rank Target":1.0,
+        "prediction":0.591550827,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "419":{
+        "index":1648684800000,
+        "company ID":"SONO",
+        "Rank Target":0.375,
+        "prediction":0.5417895913,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "418":{
+        "index":1648684800000,
+        "company ID":"MSN",
+        "Rank Target":0.875,
+        "prediction":0.5210532546,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "415":{
+        "index":1648684800000,
+        "company ID":"BOXL",
+        "Rank Target":0.125,
+        "prediction":0.4143640995,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "420":{
+        "index":1648684800000,
+        "company ID":"UEIC",
+        "Rank Target":0.75,
+        "prediction":0.4081076682,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "422":{
+        "index":1656547200000,
+        "company ID":"AAPL",
+        "Rank Target":1.0,
+        "prediction":0.8389938474,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "424":{
+        "index":1656547200000,
+        "company ID":"GPRO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6488570571,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "425":{
+        "index":1656547200000,
+        "company ID":"KOSS",
+        "Rank Target":0.8888888889,
+        "prediction":0.6086620688,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "430":{
+        "index":1656547200000,
+        "company ID":"VUZI",
+        "Rank Target":0.5555555556,
+        "prediction":0.6046330929,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "428":{
+        "index":1656547200000,
+        "company ID":"SONO",
+        "Rank Target":0.3333333333,
+        "prediction":0.561917901,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "426":{
+        "index":1656547200000,
+        "company ID":"MSN",
+        "Rank Target":0.7777777778,
+        "prediction":0.52009058,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "429":{
+        "index":1656547200000,
+        "company ID":"UEIC",
+        "Rank Target":0.4444444444,
+        "prediction":0.5125550032,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "423":{
+        "index":1656547200000,
+        "company ID":"BOXL",
+        "Rank Target":0.2222222222,
+        "prediction":0.4683534801,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "427":{
+        "index":1656547200000,
+        "company ID":"RIME",
+        "Rank Target":0.1111111111,
+        "prediction":0.3990458548,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "431":{
+        "index":1664496000000,
+        "company ID":"AAPL",
+        "Rank Target":0.6666666667,
+        "prediction":0.8431370258,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "433":{
+        "index":1664496000000,
+        "company ID":"GPRO",
+        "Rank Target":0.7777777778,
+        "prediction":0.6340387464,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "439":{
+        "index":1664496000000,
+        "company ID":"VUZI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5935233831,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "438":{
+        "index":1664496000000,
+        "company ID":"UEIC",
+        "Rank Target":0.8888888889,
+        "prediction":0.5851839185,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "435":{
+        "index":1664496000000,
+        "company ID":"MSN",
+        "Rank Target":0.5555555556,
+        "prediction":0.5377008319,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "434":{
+        "index":1664496000000,
+        "company ID":"KOSS",
+        "Rank Target":0.4444444444,
+        "prediction":0.5305777788,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "437":{
+        "index":1664496000000,
+        "company ID":"SONO",
+        "Rank Target":1.0,
+        "prediction":0.5148026943,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "436":{
+        "index":1664496000000,
+        "company ID":"RIME",
+        "Rank Target":0.2222222222,
+        "prediction":0.4551364481,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "432":{
+        "index":1664496000000,
+        "company ID":"BOXL",
+        "Rank Target":0.1111111111,
+        "prediction":0.4514276981,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "440":{
+        "index":1672444800000,
+        "company ID":"AAPL",
+        "Rank Target":1.0,
+        "prediction":0.791898191,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "442":{
+        "index":1672444800000,
+        "company ID":"GPRO",
+        "Rank Target":0.5555555556,
+        "prediction":0.6317008138,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "444":{
+        "index":1672444800000,
+        "company ID":"MSN",
+        "Rank Target":0.6666666667,
+        "prediction":0.610991478,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "446":{
+        "index":1672444800000,
+        "company ID":"SONO",
+        "Rank Target":0.8888888889,
+        "prediction":0.6012229323,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "448":{
+        "index":1672444800000,
+        "company ID":"VUZI",
+        "Rank Target":0.7777777778,
+        "prediction":0.6009489298,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "447":{
+        "index":1672444800000,
+        "company ID":"UEIC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5360139608,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "443":{
+        "index":1672444800000,
+        "company ID":"KOSS",
+        "Rank Target":0.4444444444,
+        "prediction":0.5359939933,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "441":{
+        "index":1672444800000,
+        "company ID":"BOXL",
+        "Rank Target":0.2222222222,
+        "prediction":0.5180459619,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "445":{
+        "index":1672444800000,
+        "company ID":"RIME",
+        "Rank Target":0.1111111111,
+        "prediction":0.3243858814,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "449":{
+        "index":1680220800000,
+        "company ID":"AAPL",
+        "Rank Target":0.9,
+        "prediction":0.7959928513,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "454":{
+        "index":1680220800000,
+        "company ID":"MSN",
+        "Rank Target":0.7,
+        "prediction":0.7254138589,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "458":{
+        "index":1680220800000,
+        "company ID":"VUZI",
+        "Rank Target":1.0,
+        "prediction":0.6026512384,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "453":{
+        "index":1680220800000,
+        "company ID":"KOSS",
+        "Rank Target":0.3,
+        "prediction":0.5475344658,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "452":{
+        "index":1680220800000,
+        "company ID":"GPRO",
+        "Rank Target":0.5,
+        "prediction":0.5335279703,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "450":{
+        "index":1680220800000,
+        "company ID":"BOXL",
+        "Rank Target":0.2,
+        "prediction":0.5135548711,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "457":{
+        "index":1680220800000,
+        "company ID":"UEIC",
+        "Rank Target":0.6,
+        "prediction":0.4992512465,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "455":{
+        "index":1680220800000,
+        "company ID":"SONO",
+        "Rank Target":0.4,
+        "prediction":0.4759645462,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "451":{
+        "index":1680220800000,
+        "company ID":"FOXX",
+        "Rank Target":0.1,
+        "prediction":0.4705901742,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "456":{
+        "index":1680220800000,
+        "company ID":"TBCH",
+        "Rank Target":0.8,
+        "prediction":0.4377512634,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "459":{
+        "index":1688083200000,
+        "company ID":"AAPL",
+        "Rank Target":0.9090909091,
+        "prediction":0.8205887675,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "469":{
+        "index":1688083200000,
+        "company ID":"VUZI",
+        "Rank Target":0.3636363636,
+        "prediction":0.596427381,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "464":{
+        "index":1688083200000,
+        "company ID":"MSN",
+        "Rank Target":1.0,
+        "prediction":0.5917832851,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "463":{
+        "index":1688083200000,
+        "company ID":"KOSS",
+        "Rank Target":0.7272727273,
+        "prediction":0.572037518,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "460":{
+        "index":1688083200000,
+        "company ID":"BOXL",
+        "Rank Target":0.2727272727,
+        "prediction":0.5517552495,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "461":{
+        "index":1688083200000,
+        "company ID":"FOXX",
+        "Rank Target":0.0909090909,
+        "prediction":0.5426017642,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "462":{
+        "index":1688083200000,
+        "company ID":"GPRO",
+        "Rank Target":0.4545454545,
+        "prediction":0.5336794853,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "466":{
+        "index":1688083200000,
+        "company ID":"SONO",
+        "Rank Target":0.6363636364,
+        "prediction":0.5127118826,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "468":{
+        "index":1688083200000,
+        "company ID":"UEIC",
+        "Rank Target":0.8181818182,
+        "prediction":0.4686247706,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "467":{
+        "index":1688083200000,
+        "company ID":"TBCH",
+        "Rank Target":0.5454545455,
+        "prediction":0.4446330965,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "465":{
+        "index":1688083200000,
+        "company ID":"RIME",
+        "Rank Target":0.1818181818,
+        "prediction":0.4286592901,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "470":{
+        "index":1696032000000,
+        "company ID":"AAPL",
+        "Rank Target":0.6,
+        "prediction":0.9049245119,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "474":{
+        "index":1696032000000,
+        "company ID":"KOSS",
+        "Rank Target":0.8,
+        "prediction":0.6040400267,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "479":{
+        "index":1696032000000,
+        "company ID":"VUZI",
+        "Rank Target":0.3,
+        "prediction":0.5810963511,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "476":{
+        "index":1696032000000,
+        "company ID":"SONO",
+        "Rank Target":1.0,
+        "prediction":0.5493206382,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "473":{
+        "index":1696032000000,
+        "company ID":"GPRO",
+        "Rank Target":0.7,
+        "prediction":0.5361374617,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "475":{
+        "index":1696032000000,
+        "company ID":"MSN",
+        "Rank Target":0.4,
+        "prediction":0.5191618204,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "472":{
+        "index":1696032000000,
+        "company ID":"FOXX",
+        "Rank Target":0.1,
+        "prediction":0.5043279529,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "471":{
+        "index":1696032000000,
+        "company ID":"BOXL",
+        "Rank Target":0.2,
+        "prediction":0.4391084015,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "477":{
+        "index":1696032000000,
+        "company ID":"TBCH",
+        "Rank Target":0.9,
+        "prediction":0.407066673,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "478":{
+        "index":1696032000000,
+        "company ID":"UEIC",
+        "Rank Target":0.5,
+        "prediction":0.3999131918,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "480":{
+        "index":1703980800000,
+        "company ID":"AAPL",
+        "Rank Target":0.6363636364,
+        "prediction":0.7887314558,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "487":{
+        "index":1703980800000,
+        "company ID":"SONO",
+        "Rank Target":0.9090909091,
+        "prediction":0.676246345,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "484":{
+        "index":1703980800000,
+        "company ID":"KOSS",
+        "Rank Target":0.5454545455,
+        "prediction":0.5803641081,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "490":{
+        "index":1703980800000,
+        "company ID":"VUZI",
+        "Rank Target":0.3636363636,
+        "prediction":0.5790663362,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "488":{
+        "index":1703980800000,
+        "company ID":"TBCH",
+        "Rank Target":1.0,
+        "prediction":0.5626837611,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "485":{
+        "index":1703980800000,
+        "company ID":"MSN",
+        "Rank Target":0.7272727273,
+        "prediction":0.5350387096,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "483":{
+        "index":1703980800000,
+        "company ID":"GPRO",
+        "Rank Target":0.4545454545,
+        "prediction":0.5232774615,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "489":{
+        "index":1703980800000,
+        "company ID":"UEIC",
+        "Rank Target":0.8181818182,
+        "prediction":0.5102895498,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "482":{
+        "index":1703980800000,
+        "company ID":"FOXX",
+        "Rank Target":0.0909090909,
+        "prediction":0.4407893419,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "481":{
+        "index":1703980800000,
+        "company ID":"BOXL",
+        "Rank Target":0.2727272727,
+        "prediction":0.4201495945,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "486":{
+        "index":1703980800000,
+        "company ID":"RIME",
+        "Rank Target":0.1818181818,
+        "prediction":0.3366531134,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "491":{
+        "index":1711843200000,
+        "company ID":"AAPL",
+        "Rank Target":0.9090909091,
+        "prediction":0.7078617811,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "501":{
+        "index":1711843200000,
+        "company ID":"VUZI",
+        "Rank Target":0.7272727273,
+        "prediction":0.6036921144,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "495":{
+        "index":1711843200000,
+        "company ID":"KOSS",
+        "Rank Target":1.0,
+        "prediction":0.5581757426,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "496":{
+        "index":1711843200000,
+        "company ID":"MSN",
+        "Rank Target":0.6363636364,
+        "prediction":0.5400912166,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "500":{
+        "index":1711843200000,
+        "company ID":"UEIC",
+        "Rank Target":0.8181818182,
+        "prediction":0.5067023039,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "498":{
+        "index":1711843200000,
+        "company ID":"SONO",
+        "Rank Target":0.4545454545,
+        "prediction":0.4856211841,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "493":{
+        "index":1711843200000,
+        "company ID":"FOXX",
+        "Rank Target":0.0909090909,
+        "prediction":0.4573076665,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "499":{
+        "index":1711843200000,
+        "company ID":"TBCH",
+        "Rank Target":0.5454545455,
+        "prediction":0.4527184069,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "492":{
+        "index":1711843200000,
+        "company ID":"BOXL",
+        "Rank Target":0.2727272727,
+        "prediction":0.4227107763,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "494":{
+        "index":1711843200000,
+        "company ID":"GPRO",
+        "Rank Target":0.3636363636,
+        "prediction":0.4214719534,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "497":{
+        "index":1711843200000,
+        "company ID":"RIME",
+        "Rank Target":0.1818181818,
+        "prediction":0.3473920524,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "502":{
+        "index":1719705600000,
+        "company ID":"AAPL",
+        "Rank Target":0.9090909091,
+        "prediction":0.7901818156,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "509":{
+        "index":1719705600000,
+        "company ID":"SONO",
+        "Rank Target":0.4545454545,
+        "prediction":0.6305155158,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "506":{
+        "index":1719705600000,
+        "company ID":"KOSS",
+        "Rank Target":0.2727272727,
+        "prediction":0.612585187,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "511":{
+        "index":1719705600000,
+        "company ID":"UEIC",
+        "Rank Target":0.3636363636,
+        "prediction":0.5746516585,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "507":{
+        "index":1719705600000,
+        "company ID":"MSN",
+        "Rank Target":0.8181818182,
+        "prediction":0.5516623855,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "512":{
+        "index":1719705600000,
+        "company ID":"VUZI",
+        "Rank Target":0.5454545455,
+        "prediction":0.5349374413,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "510":{
+        "index":1719705600000,
+        "company ID":"TBCH",
+        "Rank Target":1.0,
+        "prediction":0.4859543443,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "503":{
+        "index":1719705600000,
+        "company ID":"BOXL",
+        "Rank Target":0.1818181818,
+        "prediction":0.4665652514,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "505":{
+        "index":1719705600000,
+        "company ID":"GPRO",
+        "Rank Target":0.7272727273,
+        "prediction":0.4450097084,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "504":{
+        "index":1719705600000,
+        "company ID":"FOXX",
+        "Rank Target":0.6363636364,
+        "prediction":0.3359401524,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "508":{
+        "index":1719705600000,
+        "company ID":"RIME",
+        "Rank Target":0.0909090909,
+        "prediction":0.3275376558,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "513":{
+        "index":1727654400000,
+        "company ID":"AAPL",
+        "Rank Target":0.6363636364,
+        "prediction":0.7430489659,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "522":{
+        "index":1727654400000,
+        "company ID":"UEIC",
+        "Rank Target":0.8181818182,
+        "prediction":0.5854343772,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "523":{
+        "index":1727654400000,
+        "company ID":"VUZI",
+        "Rank Target":1.0,
+        "prediction":0.5713369846,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "517":{
+        "index":1727654400000,
+        "company ID":"KOSS",
+        "Rank Target":0.5454545455,
+        "prediction":0.5678147674,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "518":{
+        "index":1727654400000,
+        "company ID":"MSN",
+        "Rank Target":0.3636363636,
+        "prediction":0.5673277974,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "520":{
+        "index":1727654400000,
+        "company ID":"SONO",
+        "Rank Target":0.9090909091,
+        "prediction":0.4947826862,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "514":{
+        "index":1727654400000,
+        "company ID":"BOXL",
+        "Rank Target":0.1818181818,
+        "prediction":0.492924422,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "516":{
+        "index":1727654400000,
+        "company ID":"GPRO",
+        "Rank Target":0.4545454545,
+        "prediction":0.4641353488,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "521":{
+        "index":1727654400000,
+        "company ID":"TBCH",
+        "Rank Target":0.7272727273,
+        "prediction":0.4476951659,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "519":{
+        "index":1727654400000,
+        "company ID":"RIME",
+        "Rank Target":0.0909090909,
+        "prediction":0.3985856771,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "515":{
+        "index":1727654400000,
+        "company ID":"FOXX",
+        "Rank Target":0.2727272727,
+        "prediction":0.387116313,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    }
+}

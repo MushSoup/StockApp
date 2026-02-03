@@ -1,0 +1,1666 @@
+{
+    "791":{
+        "index":1648684800000,
+        "company ID":"SKY",
+        "Rank Target":0.5,
+        "prediction":0.7260434031,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "789":{
+        "index":1648684800000,
+        "company ID":"NVR",
+        "Rank Target":0.625,
+        "prediction":0.6998946667,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "780":{
+        "index":1648684800000,
+        "company ID":"CVCO",
+        "Rank Target":0.25,
+        "prediction":0.678755939,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "784":{
+        "index":1648684800000,
+        "company ID":"IBP",
+        "Rank Target":0.9375,
+        "prediction":0.6660325527,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "785":{
+        "index":1648684800000,
+        "company ID":"LEGH",
+        "Rank Target":0.125,
+        "prediction":0.637722373,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "783":{
+        "index":1648684800000,
+        "company ID":"GRBK",
+        "Rank Target":0.875,
+        "prediction":0.6215543151,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "790":{
+        "index":1648684800000,
+        "company ID":"PHM",
+        "Rank Target":0.8125,
+        "prediction":0.6032084227,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "787":{
+        "index":1648684800000,
+        "company ID":"MHO",
+        "Rank Target":0.6875,
+        "prediction":0.5807641745,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "779":{
+        "index":1648684800000,
+        "company ID":"BZH",
+        "Rank Target":0.1875,
+        "prediction":0.5466211438,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "788":{
+        "index":1648684800000,
+        "company ID":"MTH",
+        "Rank Target":0.75,
+        "prediction":0.54410851,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "782":{
+        "index":1648684800000,
+        "company ID":"DHI",
+        "Rank Target":0.5625,
+        "prediction":0.5209224224,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "792":{
+        "index":1648684800000,
+        "company ID":"TMHC",
+        "Rank Target":0.375,
+        "prediction":0.4895269871,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "781":{
+        "index":1648684800000,
+        "company ID":"DFH",
+        "Rank Target":0.0625,
+        "prediction":0.460767597,
+        "trueRank":16.0,
+        "predictionRank":13.0
+    },
+    "794":{
+        "index":1648684800000,
+        "company ID":"UHG",
+        "Rank Target":1.0,
+        "prediction":0.4553951621,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "786":{
+        "index":1648684800000,
+        "company ID":"LGIH",
+        "Rank Target":0.4375,
+        "prediction":0.4097262621,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "793":{
+        "index":1648684800000,
+        "company ID":"TPH",
+        "Rank Target":0.3125,
+        "prediction":0.3937937319,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "808":{
+        "index":1656547200000,
+        "company ID":"TMHC",
+        "Rank Target":0.625,
+        "prediction":0.6600348949,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "800":{
+        "index":1656547200000,
+        "company ID":"IBP",
+        "Rank Target":0.5625,
+        "prediction":0.6448282599,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "807":{
+        "index":1656547200000,
+        "company ID":"SKY",
+        "Rank Target":0.9375,
+        "prediction":0.6269361377,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "810":{
+        "index":1656547200000,
+        "company ID":"UHG",
+        "Rank Target":0.8125,
+        "prediction":0.6227065325,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "796":{
+        "index":1656547200000,
+        "company ID":"CVCO",
+        "Rank Target":0.75,
+        "prediction":0.6186314821,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "799":{
+        "index":1656547200000,
+        "company ID":"GRBK",
+        "Rank Target":0.875,
+        "prediction":0.6023979187,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "803":{
+        "index":1656547200000,
+        "company ID":"MHO",
+        "Rank Target":0.1875,
+        "prediction":0.560569942,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "798":{
+        "index":1656547200000,
+        "company ID":"DHI",
+        "Rank Target":0.6875,
+        "prediction":0.5369120836,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "805":{
+        "index":1656547200000,
+        "company ID":"NVR",
+        "Rank Target":0.5,
+        "prediction":0.5346270204,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "797":{
+        "index":1656547200000,
+        "company ID":"DFH",
+        "Rank Target":0.375,
+        "prediction":0.5231419206,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "802":{
+        "index":1656547200000,
+        "company ID":"LGIH",
+        "Rank Target":0.125,
+        "prediction":0.5222600698,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "806":{
+        "index":1656547200000,
+        "company ID":"PHM",
+        "Rank Target":0.3125,
+        "prediction":0.5205327868,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "801":{
+        "index":1656547200000,
+        "company ID":"LEGH",
+        "Rank Target":1.0,
+        "prediction":0.4662489593,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "809":{
+        "index":1656547200000,
+        "company ID":"TPH",
+        "Rank Target":0.25,
+        "prediction":0.42466712,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "795":{
+        "index":1656547200000,
+        "company ID":"BZH",
+        "Rank Target":0.0625,
+        "prediction":0.4214394987,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "804":{
+        "index":1656547200000,
+        "company ID":"MTH",
+        "Rank Target":0.4375,
+        "prediction":0.4115057886,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "823":{
+        "index":1664496000000,
+        "company ID":"SKY",
+        "Rank Target":0.125,
+        "prediction":0.7754960656,
+        "trueRank":15.0,
+        "predictionRank":1.0
+    },
+    "816":{
+        "index":1664496000000,
+        "company ID":"IBP",
+        "Rank Target":0.1875,
+        "prediction":0.6858948469,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "812":{
+        "index":1664496000000,
+        "company ID":"CVCO",
+        "Rank Target":0.3125,
+        "prediction":0.6580875516,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "821":{
+        "index":1664496000000,
+        "company ID":"NVR",
+        "Rank Target":0.5625,
+        "prediction":0.6451416016,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "824":{
+        "index":1664496000000,
+        "company ID":"TMHC",
+        "Rank Target":0.875,
+        "prediction":0.6359879375,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "811":{
+        "index":1664496000000,
+        "company ID":"BZH",
+        "Rank Target":0.8125,
+        "prediction":0.6170952916,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "814":{
+        "index":1664496000000,
+        "company ID":"DHI",
+        "Rank Target":1.0,
+        "prediction":0.5808134079,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "813":{
+        "index":1664496000000,
+        "company ID":"DFH",
+        "Rank Target":0.0625,
+        "prediction":0.5748818517,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "820":{
+        "index":1664496000000,
+        "company ID":"MTH",
+        "Rank Target":0.9375,
+        "prediction":0.5500308871,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "825":{
+        "index":1664496000000,
+        "company ID":"TPH",
+        "Rank Target":0.6875,
+        "prediction":0.5448512435,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "817":{
+        "index":1664496000000,
+        "company ID":"LEGH",
+        "Rank Target":0.375,
+        "prediction":0.5196046829,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "822":{
+        "index":1664496000000,
+        "company ID":"PHM",
+        "Rank Target":0.625,
+        "prediction":0.4894784689,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "819":{
+        "index":1664496000000,
+        "company ID":"MHO",
+        "Rank Target":0.75,
+        "prediction":0.4808655679,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "815":{
+        "index":1664496000000,
+        "company ID":"GRBK",
+        "Rank Target":0.4375,
+        "prediction":0.4566783905,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "826":{
+        "index":1664496000000,
+        "company ID":"UHG",
+        "Rank Target":0.25,
+        "prediction":0.4344939888,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "818":{
+        "index":1664496000000,
+        "company ID":"LGIH",
+        "Rank Target":0.5,
+        "prediction":0.4268396497,
+        "trueRank":9.0,
+        "predictionRank":16.0
+    },
+    "837":{
+        "index":1672444800000,
+        "company ID":"NVR",
+        "Rank Target":0.25,
+        "prediction":0.7267594934,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "841":{
+        "index":1672444800000,
+        "company ID":"TPH",
+        "Rank Target":0.75,
+        "prediction":0.6326546073,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "832":{
+        "index":1672444800000,
+        "company ID":"IBP",
+        "Rank Target":0.625,
+        "prediction":0.5979674459,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "836":{
+        "index":1672444800000,
+        "company ID":"MTH",
+        "Rank Target":0.4375,
+        "prediction":0.5945196748,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "838":{
+        "index":1672444800000,
+        "company ID":"PHM",
+        "Rank Target":0.5,
+        "prediction":0.5668141842,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "833":{
+        "index":1672444800000,
+        "company ID":"LEGH",
+        "Rank Target":0.375,
+        "prediction":0.5526807904,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "835":{
+        "index":1672444800000,
+        "company ID":"MHO",
+        "Rank Target":0.6875,
+        "prediction":0.5406675339,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "840":{
+        "index":1672444800000,
+        "company ID":"TMHC",
+        "Rank Target":0.3125,
+        "prediction":0.5391658545,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "829":{
+        "index":1672444800000,
+        "company ID":"DFH",
+        "Rank Target":0.875,
+        "prediction":0.53345716,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "842":{
+        "index":1672444800000,
+        "company ID":"UHG",
+        "Rank Target":0.5625,
+        "prediction":0.428139627,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "828":{
+        "index":1672444800000,
+        "company ID":"CVCO",
+        "Rank Target":0.8125,
+        "prediction":0.4263436794,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "834":{
+        "index":1672444800000,
+        "company ID":"LGIH",
+        "Rank Target":0.125,
+        "prediction":0.4003537893,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "831":{
+        "index":1672444800000,
+        "company ID":"GRBK",
+        "Rank Target":0.9375,
+        "prediction":0.3959445655,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "830":{
+        "index":1672444800000,
+        "company ID":"DHI",
+        "Rank Target":0.0625,
+        "prediction":0.3938798904,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "839":{
+        "index":1672444800000,
+        "company ID":"SKY",
+        "Rank Target":1.0,
+        "prediction":0.3905642629,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "827":{
+        "index":1672444800000,
+        "company ID":"BZH",
+        "Rank Target":0.1875,
+        "prediction":0.3365549743,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "847":{
+        "index":1680220800000,
+        "company ID":"GRBK",
+        "Rank Target":0.875,
+        "prediction":0.7048053145,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "851":{
+        "index":1680220800000,
+        "company ID":"MHO",
+        "Rank Target":0.8125,
+        "prediction":0.6951993108,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "848":{
+        "index":1680220800000,
+        "company ID":"IBP",
+        "Rank Target":0.5,
+        "prediction":0.6518933177,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "854":{
+        "index":1680220800000,
+        "company ID":"PHM",
+        "Rank Target":0.75,
+        "prediction":0.6327788234,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "856":{
+        "index":1680220800000,
+        "company ID":"TMHC",
+        "Rank Target":0.625,
+        "prediction":0.626435101,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "843":{
+        "index":1680220800000,
+        "company ID":"BZH",
+        "Rank Target":0.9375,
+        "prediction":0.5958966613,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "850":{
+        "index":1680220800000,
+        "company ID":"LGIH",
+        "Rank Target":0.375,
+        "prediction":0.5851445198,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "858":{
+        "index":1680220800000,
+        "company ID":"UHG",
+        "Rank Target":0.0625,
+        "prediction":0.5826123357,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "857":{
+        "index":1680220800000,
+        "company ID":"TPH",
+        "Rank Target":0.6875,
+        "prediction":0.4840465784,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "849":{
+        "index":1680220800000,
+        "company ID":"LEGH",
+        "Rank Target":0.25,
+        "prediction":0.4831193984,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "844":{
+        "index":1680220800000,
+        "company ID":"CVCO",
+        "Rank Target":0.1875,
+        "prediction":0.4437569678,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "846":{
+        "index":1680220800000,
+        "company ID":"DHI",
+        "Rank Target":0.5625,
+        "prediction":0.4425905049,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "855":{
+        "index":1680220800000,
+        "company ID":"SKY",
+        "Rank Target":0.125,
+        "prediction":0.4414389431,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "845":{
+        "index":1680220800000,
+        "company ID":"DFH",
+        "Rank Target":1.0,
+        "prediction":0.417939961,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "853":{
+        "index":1680220800000,
+        "company ID":"NVR",
+        "Rank Target":0.3125,
+        "prediction":0.3848111928,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "852":{
+        "index":1680220800000,
+        "company ID":"MTH",
+        "Rank Target":0.4375,
+        "prediction":0.3525401056,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "859":{
+        "index":1688083200000,
+        "company ID":"BZH",
+        "Rank Target":0.5,
+        "prediction":0.620775938,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "870":{
+        "index":1688083200000,
+        "company ID":"PHM",
+        "Rank Target":0.875,
+        "prediction":0.6198752522,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "868":{
+        "index":1688083200000,
+        "company ID":"MTH",
+        "Rank Target":0.375,
+        "prediction":0.6190465093,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "874":{
+        "index":1688083200000,
+        "company ID":"UHG",
+        "Rank Target":0.0625,
+        "prediction":0.6040671468,
+        "trueRank":16.0,
+        "predictionRank":4.0
+    },
+    "871":{
+        "index":1688083200000,
+        "company ID":"SKY",
+        "Rank Target":0.9375,
+        "prediction":0.5975928307,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "861":{
+        "index":1688083200000,
+        "company ID":"DFH",
+        "Rank Target":0.6875,
+        "prediction":0.595805645,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "862":{
+        "index":1688083200000,
+        "company ID":"DHI",
+        "Rank Target":0.5625,
+        "prediction":0.5669530034,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "867":{
+        "index":1688083200000,
+        "company ID":"MHO",
+        "Rank Target":1.0,
+        "prediction":0.5621555448,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "872":{
+        "index":1688083200000,
+        "company ID":"TMHC",
+        "Rank Target":0.4375,
+        "prediction":0.5506717563,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "860":{
+        "index":1688083200000,
+        "company ID":"CVCO",
+        "Rank Target":0.75,
+        "prediction":0.5493987799,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "864":{
+        "index":1688083200000,
+        "company ID":"IBP",
+        "Rank Target":0.625,
+        "prediction":0.5486992002,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "863":{
+        "index":1688083200000,
+        "company ID":"GRBK",
+        "Rank Target":0.125,
+        "prediction":0.5368078947,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "866":{
+        "index":1688083200000,
+        "company ID":"LGIH",
+        "Rank Target":0.1875,
+        "prediction":0.5352945924,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "865":{
+        "index":1688083200000,
+        "company ID":"LEGH",
+        "Rank Target":0.3125,
+        "prediction":0.4767411649,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "869":{
+        "index":1688083200000,
+        "company ID":"NVR",
+        "Rank Target":0.8125,
+        "prediction":0.4498279691,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "873":{
+        "index":1688083200000,
+        "company ID":"TPH",
+        "Rank Target":0.25,
+        "prediction":0.3338655829,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "878":{
+        "index":1696032000000,
+        "company ID":"DHI",
+        "Rank Target":0.6875,
+        "prediction":0.6808024049,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "879":{
+        "index":1696032000000,
+        "company ID":"GRBK",
+        "Rank Target":0.1875,
+        "prediction":0.6663278937,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "880":{
+        "index":1696032000000,
+        "company ID":"IBP",
+        "Rank Target":0.8125,
+        "prediction":0.6589236259,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "885":{
+        "index":1696032000000,
+        "company ID":"NVR",
+        "Rank Target":0.0625,
+        "prediction":0.6493053436,
+        "trueRank":16.0,
+        "predictionRank":4.0
+    },
+    "881":{
+        "index":1696032000000,
+        "company ID":"LEGH",
+        "Rank Target":0.3125,
+        "prediction":0.6411086917,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "886":{
+        "index":1696032000000,
+        "company ID":"PHM",
+        "Rank Target":0.625,
+        "prediction":0.6355960965,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "883":{
+        "index":1696032000000,
+        "company ID":"MHO",
+        "Rank Target":1.0,
+        "prediction":0.6035359502,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "877":{
+        "index":1696032000000,
+        "company ID":"DFH",
+        "Rank Target":0.9375,
+        "prediction":0.5853443742,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "882":{
+        "index":1696032000000,
+        "company ID":"LGIH",
+        "Rank Target":0.5,
+        "prediction":0.5768715143,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "876":{
+        "index":1696032000000,
+        "company ID":"CVCO",
+        "Rank Target":0.4375,
+        "prediction":0.5618576407,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "887":{
+        "index":1696032000000,
+        "company ID":"SKY",
+        "Rank Target":0.125,
+        "prediction":0.5417873263,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "875":{
+        "index":1696032000000,
+        "company ID":"BZH",
+        "Rank Target":0.5625,
+        "prediction":0.4908900559,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "890":{
+        "index":1696032000000,
+        "company ID":"UHG",
+        "Rank Target":0.875,
+        "prediction":0.483938992,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "889":{
+        "index":1696032000000,
+        "company ID":"TPH",
+        "Rank Target":0.375,
+        "prediction":0.4806020558,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "884":{
+        "index":1696032000000,
+        "company ID":"MTH",
+        "Rank Target":0.75,
+        "prediction":0.4488576949,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "888":{
+        "index":1696032000000,
+        "company ID":"TMHC",
+        "Rank Target":0.25,
+        "prediction":0.4078986645,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "896":{
+        "index":1703980800000,
+        "company ID":"IBP",
+        "Rank Target":1.0,
+        "prediction":0.674261868,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "893":{
+        "index":1703980800000,
+        "company ID":"DFH",
+        "Rank Target":0.9375,
+        "prediction":0.6604220867,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "903":{
+        "index":1703980800000,
+        "company ID":"SKY",
+        "Rank Target":0.8125,
+        "prediction":0.6588488817,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "906":{
+        "index":1703980800000,
+        "company ID":"UHG",
+        "Rank Target":0.0625,
+        "prediction":0.6474065185,
+        "trueRank":16.0,
+        "predictionRank":4.0
+    },
+    "895":{
+        "index":1703980800000,
+        "company ID":"GRBK",
+        "Rank Target":0.625,
+        "prediction":0.6263404489,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "898":{
+        "index":1703980800000,
+        "company ID":"LGIH",
+        "Rank Target":0.1875,
+        "prediction":0.6049740911,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "901":{
+        "index":1703980800000,
+        "company ID":"NVR",
+        "Rank Target":0.5625,
+        "prediction":0.5999186635,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "892":{
+        "index":1703980800000,
+        "company ID":"CVCO",
+        "Rank Target":0.875,
+        "prediction":0.5994853973,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "904":{
+        "index":1703980800000,
+        "company ID":"TMHC",
+        "Rank Target":0.75,
+        "prediction":0.5617354512,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "905":{
+        "index":1703980800000,
+        "company ID":"TPH",
+        "Rank Target":0.5,
+        "prediction":0.5375880003,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "894":{
+        "index":1703980800000,
+        "company ID":"DHI",
+        "Rank Target":0.4375,
+        "prediction":0.4960072339,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "891":{
+        "index":1703980800000,
+        "company ID":"BZH",
+        "Rank Target":0.25,
+        "prediction":0.4426857829,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "897":{
+        "index":1703980800000,
+        "company ID":"LEGH",
+        "Rank Target":0.125,
+        "prediction":0.4391132593,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "902":{
+        "index":1703980800000,
+        "company ID":"PHM",
+        "Rank Target":0.6875,
+        "prediction":0.4232173264,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "899":{
+        "index":1703980800000,
+        "company ID":"MHO",
+        "Rank Target":0.375,
+        "prediction":0.3873915672,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "900":{
+        "index":1703980800000,
+        "company ID":"MTH",
+        "Rank Target":0.3125,
+        "prediction":0.3825401664,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "921":{
+        "index":1711843200000,
+        "company ID":"TPH",
+        "Rank Target":0.9375,
+        "prediction":0.7344052792,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "916":{
+        "index":1711843200000,
+        "company ID":"MTH",
+        "Rank Target":0.875,
+        "prediction":0.7233955264,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "915":{
+        "index":1711843200000,
+        "company ID":"MHO",
+        "Rank Target":0.8125,
+        "prediction":0.6840936542,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "918":{
+        "index":1711843200000,
+        "company ID":"PHM",
+        "Rank Target":0.625,
+        "prediction":0.668450892,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "912":{
+        "index":1711843200000,
+        "company ID":"IBP",
+        "Rank Target":0.125,
+        "prediction":0.5799844861,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "917":{
+        "index":1711843200000,
+        "company ID":"NVR",
+        "Rank Target":0.6875,
+        "prediction":0.5756598711,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "913":{
+        "index":1711843200000,
+        "company ID":"LEGH",
+        "Rank Target":1.0,
+        "prediction":0.5740507841,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "919":{
+        "index":1711843200000,
+        "company ID":"SKY",
+        "Rank Target":0.3125,
+        "prediction":0.5342851281,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "922":{
+        "index":1711843200000,
+        "company ID":"UHG",
+        "Rank Target":0.25,
+        "prediction":0.5259224176,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "911":{
+        "index":1711843200000,
+        "company ID":"GRBK",
+        "Rank Target":0.75,
+        "prediction":0.5218408704,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "910":{
+        "index":1711843200000,
+        "company ID":"DHI",
+        "Rank Target":0.4375,
+        "prediction":0.5055894852,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "907":{
+        "index":1711843200000,
+        "company ID":"BZH",
+        "Rank Target":0.375,
+        "prediction":0.4904115498,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "920":{
+        "index":1711843200000,
+        "company ID":"TMHC",
+        "Rank Target":0.5625,
+        "prediction":0.4864540994,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "908":{
+        "index":1711843200000,
+        "company ID":"CVCO",
+        "Rank Target":0.5,
+        "prediction":0.4664579928,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "914":{
+        "index":1711843200000,
+        "company ID":"LGIH",
+        "Rank Target":0.1875,
+        "prediction":0.3738955259,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "909":{
+        "index":1711843200000,
+        "company ID":"DFH",
+        "Rank Target":0.0625,
+        "prediction":0.3607030213,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "931":{
+        "index":1719705600000,
+        "company ID":"MHO",
+        "Rank Target":0.875,
+        "prediction":0.6580108404,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "927":{
+        "index":1719705600000,
+        "company ID":"GRBK",
+        "Rank Target":1.0,
+        "prediction":0.6546762586,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "935":{
+        "index":1719705600000,
+        "company ID":"SKY",
+        "Rank Target":0.8125,
+        "prediction":0.6541385055,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "933":{
+        "index":1719705600000,
+        "company ID":"NVR",
+        "Rank Target":0.5,
+        "prediction":0.6175859571,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "934":{
+        "index":1719705600000,
+        "company ID":"PHM",
+        "Rank Target":0.6875,
+        "prediction":0.6083071828,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "937":{
+        "index":1719705600000,
+        "company ID":"TPH",
+        "Rank Target":0.1875,
+        "prediction":0.6033993959,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "924":{
+        "index":1719705600000,
+        "company ID":"CVCO",
+        "Rank Target":0.3125,
+        "prediction":0.5871783495,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "928":{
+        "index":1719705600000,
+        "company ID":"IBP",
+        "Rank Target":0.25,
+        "prediction":0.564460516,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "929":{
+        "index":1719705600000,
+        "company ID":"LEGH",
+        "Rank Target":0.125,
+        "prediction":0.5363162756,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "926":{
+        "index":1719705600000,
+        "company ID":"DHI",
+        "Rank Target":0.75,
+        "prediction":0.5270687938,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "925":{
+        "index":1719705600000,
+        "company ID":"DFH",
+        "Rank Target":0.9375,
+        "prediction":0.524428606,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "930":{
+        "index":1719705600000,
+        "company ID":"LGIH",
+        "Rank Target":0.625,
+        "prediction":0.5189653635,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "923":{
+        "index":1719705600000,
+        "company ID":"BZH",
+        "Rank Target":0.375,
+        "prediction":0.4876025617,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "938":{
+        "index":1719705600000,
+        "company ID":"UHG",
+        "Rank Target":0.0625,
+        "prediction":0.4516506493,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "932":{
+        "index":1719705600000,
+        "company ID":"MTH",
+        "Rank Target":0.5625,
+        "prediction":0.3816910386,
+        "trueRank":8.0,
+        "predictionRank":15.0
+    },
+    "936":{
+        "index":1719705600000,
+        "company ID":"TMHC",
+        "Rank Target":0.4375,
+        "prediction":0.3568771482,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "940":{
+        "index":1727654400000,
+        "company ID":"CVCO",
+        "Rank Target":1.0,
+        "prediction":0.7048226595,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "952":{
+        "index":1727654400000,
+        "company ID":"TMHC",
+        "Rank Target":0.8125,
+        "prediction":0.6764870882,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "945":{
+        "index":1727654400000,
+        "company ID":"LEGH",
+        "Rank Target":0.875,
+        "prediction":0.6648426056,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "944":{
+        "index":1727654400000,
+        "company ID":"IBP",
+        "Rank Target":0.25,
+        "prediction":0.6430452466,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "942":{
+        "index":1727654400000,
+        "company ID":"DHI",
+        "Rank Target":0.3125,
+        "prediction":0.619143486,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "953":{
+        "index":1727654400000,
+        "company ID":"TPH",
+        "Rank Target":0.625,
+        "prediction":0.617298305,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "950":{
+        "index":1727654400000,
+        "company ID":"PHM",
+        "Rank Target":0.4375,
+        "prediction":0.6111358404,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "949":{
+        "index":1727654400000,
+        "company ID":"NVR",
+        "Rank Target":0.75,
+        "prediction":0.5595455766,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "951":{
+        "index":1727654400000,
+        "company ID":"SKY",
+        "Rank Target":0.9375,
+        "prediction":0.5580930114,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "939":{
+        "index":1727654400000,
+        "company ID":"BZH",
+        "Rank Target":0.6875,
+        "prediction":0.5504033566,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "943":{
+        "index":1727654400000,
+        "company ID":"GRBK",
+        "Rank Target":0.125,
+        "prediction":0.5273647308,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "946":{
+        "index":1727654400000,
+        "company ID":"LGIH",
+        "Rank Target":0.5,
+        "prediction":0.5246351957,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "954":{
+        "index":1727654400000,
+        "company ID":"UHG",
+        "Rank Target":0.1875,
+        "prediction":0.502900362,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "947":{
+        "index":1727654400000,
+        "company ID":"MHO",
+        "Rank Target":0.5625,
+        "prediction":0.4668655396,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "941":{
+        "index":1727654400000,
+        "company ID":"DFH",
+        "Rank Target":0.0625,
+        "prediction":0.4316354394,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "948":{
+        "index":1727654400000,
+        "company ID":"MTH",
+        "Rank Target":0.375,
+        "prediction":0.401514262,
+        "trueRank":11.0,
+        "predictionRank":16.0
+    },
+    "965":{
+        "index":1735603200000,
+        "company ID":"NVR",
+        "Rank Target":0.375,
+        "prediction":0.7192177773,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "956":{
+        "index":1735603200000,
+        "company ID":"CVCO",
+        "Rank Target":1.0,
+        "prediction":0.6738951802,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "959":{
+        "index":1735603200000,
+        "company ID":"GRBK",
+        "Rank Target":0.8125,
+        "prediction":0.6239858866,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "961":{
+        "index":1735603200000,
+        "company ID":"LEGH",
+        "Rank Target":0.9375,
+        "prediction":0.623406291,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "957":{
+        "index":1735603200000,
+        "company ID":"DFH",
+        "Rank Target":0.625,
+        "prediction":0.6162875295,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "968":{
+        "index":1735603200000,
+        "company ID":"TMHC",
+        "Rank Target":0.6875,
+        "prediction":0.6051133275,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "970":{
+        "index":1735603200000,
+        "company ID":"UHG",
+        "Rank Target":0.0625,
+        "prediction":0.5985406041,
+        "trueRank":16.0,
+        "predictionRank":7.0
+    },
+    "963":{
+        "index":1735603200000,
+        "company ID":"MHO",
+        "Rank Target":0.25,
+        "prediction":0.5983556509,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "967":{
+        "index":1735603200000,
+        "company ID":"SKY",
+        "Rank Target":0.875,
+        "prediction":0.5679816604,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "962":{
+        "index":1735603200000,
+        "company ID":"LGIH",
+        "Rank Target":0.125,
+        "prediction":0.5206900239,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "969":{
+        "index":1735603200000,
+        "company ID":"TPH",
+        "Rank Target":0.3125,
+        "prediction":0.5037602782,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "966":{
+        "index":1735603200000,
+        "company ID":"PHM",
+        "Rank Target":0.5,
+        "prediction":0.4993769825,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "958":{
+        "index":1735603200000,
+        "company ID":"DHI",
+        "Rank Target":0.4375,
+        "prediction":0.4784020483,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "960":{
+        "index":1735603200000,
+        "company ID":"IBP",
+        "Rank Target":0.75,
+        "prediction":0.4569346011,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "955":{
+        "index":1735603200000,
+        "company ID":"BZH",
+        "Rank Target":0.1875,
+        "prediction":0.3893984854,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "964":{
+        "index":1735603200000,
+        "company ID":"MTH",
+        "Rank Target":0.5625,
+        "prediction":0.3465327024,
+        "trueRank":8.0,
+        "predictionRank":16.0
+    },
+    "972":{
+        "index":1743379200000,
+        "company ID":"CVCO",
+        "Rank Target":0.1875,
+        "prediction":0.6397512555,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "983":{
+        "index":1743379200000,
+        "company ID":"SKY",
+        "Rank Target":0.0625,
+        "prediction":0.6304371953,
+        "trueRank":16.0,
+        "predictionRank":2.0
+    },
+    "975":{
+        "index":1743379200000,
+        "company ID":"GRBK",
+        "Rank Target":0.875,
+        "prediction":0.5925406814,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "976":{
+        "index":1743379200000,
+        "company ID":"IBP",
+        "Rank Target":0.8125,
+        "prediction":0.5755611658,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "977":{
+        "index":1743379200000,
+        "company ID":"LEGH",
+        "Rank Target":0.25,
+        "prediction":0.5491187572,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "984":{
+        "index":1743379200000,
+        "company ID":"TMHC",
+        "Rank Target":0.625,
+        "prediction":0.5307477117,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "971":{
+        "index":1743379200000,
+        "company ID":"BZH",
+        "Rank Target":1.0,
+        "prediction":0.5244428515,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "979":{
+        "index":1743379200000,
+        "company ID":"MHO",
+        "Rank Target":0.375,
+        "prediction":0.5230123401,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "981":{
+        "index":1743379200000,
+        "company ID":"NVR",
+        "Rank Target":0.4375,
+        "prediction":0.4959189892,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "982":{
+        "index":1743379200000,
+        "company ID":"PHM",
+        "Rank Target":0.6875,
+        "prediction":0.4749877453,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "980":{
+        "index":1743379200000,
+        "company ID":"MTH",
+        "Rank Target":0.3125,
+        "prediction":0.4653443098,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "985":{
+        "index":1743379200000,
+        "company ID":"TPH",
+        "Rank Target":0.5,
+        "prediction":0.4358834922,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "974":{
+        "index":1743379200000,
+        "company ID":"DHI",
+        "Rank Target":0.5625,
+        "prediction":0.421323061,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "973":{
+        "index":1743379200000,
+        "company ID":"DFH",
+        "Rank Target":0.9375,
+        "prediction":0.4154276252,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "978":{
+        "index":1743379200000,
+        "company ID":"LGIH",
+        "Rank Target":0.125,
+        "prediction":0.4116971791,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "986":{
+        "index":1743379200000,
+        "company ID":"UHG",
+        "Rank Target":0.75,
+        "prediction":0.3926054835,
+        "trueRank":5.0,
+        "predictionRank":16.0
+    }
+}

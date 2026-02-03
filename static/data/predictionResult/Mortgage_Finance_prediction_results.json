@@ -1,0 +1,86 @@
+{
+    "562":{
+        "company ID":"LDI",
+        "score":0.6924207807,
+        "Rank":1.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":146.0937629518
+    },
+    "564":{
+        "company ID":"PFSI",
+        "score":0.640383482,
+        "Rank":2.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":22.1319345996
+    },
+    "569":{
+        "company ID":"WD",
+        "score":0.6309914589,
+        "Rank":3.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":11.1677184719
+    },
+    "565":{
+        "company ID":"RKT",
+        "score":0.6257873774,
+        "Rank":4.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":41.4325822566
+    },
+    "563":{
+        "company ID":"ONIT",
+        "score":0.6093984842,
+        "Rank":5.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":4.2927430587
+    },
+    "558":{
+        "company ID":"BETR",
+        "score":0.6087942719,
+        "Rank":6.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":346.0546248417
+    },
+    "567":{
+        "company ID":"UWMC",
+        "score":0.5687065721,
+        "Rank":7.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":48.2149465938
+    },
+    "568":{
+        "company ID":"VEL",
+        "score":0.5637270212,
+        "Rank":8.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-2.1459207704
+    },
+    "559":{
+        "company ID":"BLNE",
+        "score":0.5627532601,
+        "Rank":9.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":172.6618705677
+    },
+    "561":{
+        "company ID":"IOR",
+        "score":0.5598608851,
+        "Rank":10.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-5.0659680905
+    },
+    "560":{
+        "company ID":"GHI",
+        "score":0.5333808661,
+        "Rank":11.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-6.4459904344
+    },
+    "566":{
+        "company ID":"SNFCA",
+        "score":0.5018471479,
+        "Rank":12.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-13.3573466878
+    }
+}

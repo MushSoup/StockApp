@@ -1,0 +1,906 @@
+{
+    "506":{
+        "index":1648684800000,
+        "company ID":"EFX",
+        "Rank Target":0.125,
+        "prediction":0.6091111302,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "508":{
+        "index":1648684800000,
+        "company ID":"FORR",
+        "Rank Target":0.375,
+        "prediction":0.6032540202,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "510":{
+        "index":1648684800000,
+        "company ID":"ICFI",
+        "Rank Target":0.5,
+        "prediction":0.5941845179,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "511":{
+        "index":1648684800000,
+        "company ID":"VRSK",
+        "Rank Target":0.25,
+        "prediction":0.591978848,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "504":{
+        "index":1648684800000,
+        "company ID":"BAH",
+        "Rank Target":0.625,
+        "prediction":0.5723552704,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "509":{
+        "index":1648684800000,
+        "company ID":"HURN",
+        "Rank Target":1.0,
+        "prediction":0.5645529628,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "505":{
+        "index":1648684800000,
+        "company ID":"CRAI",
+        "Rank Target":0.75,
+        "prediction":0.5350301266,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "507":{
+        "index":1648684800000,
+        "company ID":"FCN",
+        "Rank Target":0.875,
+        "prediction":0.4999805689,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "516":{
+        "index":1656547200000,
+        "company ID":"FORR",
+        "Rank Target":0.125,
+        "prediction":0.691914022,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "512":{
+        "index":1656547200000,
+        "company ID":"BAH",
+        "Rank Target":0.75,
+        "prediction":0.6811602712,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "515":{
+        "index":1656547200000,
+        "company ID":"FCN",
+        "Rank Target":0.375,
+        "prediction":0.6558948159,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "513":{
+        "index":1656547200000,
+        "company ID":"CRAI",
+        "Rank Target":0.625,
+        "prediction":0.6096432209,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "519":{
+        "index":1656547200000,
+        "company ID":"VRSK",
+        "Rank Target":0.5,
+        "prediction":0.5824347138,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "518":{
+        "index":1656547200000,
+        "company ID":"ICFI",
+        "Rank Target":1.0,
+        "prediction":0.5536193848,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "517":{
+        "index":1656547200000,
+        "company ID":"HURN",
+        "Rank Target":0.875,
+        "prediction":0.5450577736,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "514":{
+        "index":1656547200000,
+        "company ID":"EFX",
+        "Rank Target":0.25,
+        "prediction":0.5035206676,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "521":{
+        "index":1664496000000,
+        "company ID":"CRAI",
+        "Rank Target":1.0,
+        "prediction":0.6986461878,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "523":{
+        "index":1664496000000,
+        "company ID":"FCN",
+        "Rank Target":0.25,
+        "prediction":0.6595990062,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "525":{
+        "index":1664496000000,
+        "company ID":"HURN",
+        "Rank Target":0.625,
+        "prediction":0.6523703933,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "520":{
+        "index":1664496000000,
+        "company ID":"BAH",
+        "Rank Target":0.75,
+        "prediction":0.6097781062,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "527":{
+        "index":1664496000000,
+        "company ID":"VRSK",
+        "Rank Target":0.5,
+        "prediction":0.5499048233,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "526":{
+        "index":1664496000000,
+        "company ID":"ICFI",
+        "Rank Target":0.125,
+        "prediction":0.5383359194,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "522":{
+        "index":1664496000000,
+        "company ID":"EFX",
+        "Rank Target":0.875,
+        "prediction":0.4704299271,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "524":{
+        "index":1664496000000,
+        "company ID":"FORR",
+        "Rank Target":0.375,
+        "prediction":0.435400486,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "531":{
+        "index":1672444800000,
+        "company ID":"FCN",
+        "Rank Target":1.0,
+        "prediction":0.6032906175,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "529":{
+        "index":1672444800000,
+        "company ID":"CRAI",
+        "Rank Target":0.125,
+        "prediction":0.5975573063,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "533":{
+        "index":1672444800000,
+        "company ID":"HURN",
+        "Rank Target":0.875,
+        "prediction":0.5687322617,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "534":{
+        "index":1672444800000,
+        "company ID":"ICFI",
+        "Rank Target":0.625,
+        "prediction":0.5440071225,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "532":{
+        "index":1672444800000,
+        "company ID":"FORR",
+        "Rank Target":0.375,
+        "prediction":0.5148666501,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "528":{
+        "index":1672444800000,
+        "company ID":"BAH",
+        "Rank Target":0.25,
+        "prediction":0.4684941471,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "530":{
+        "index":1672444800000,
+        "company ID":"EFX",
+        "Rank Target":0.5,
+        "prediction":0.4617428184,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "535":{
+        "index":1672444800000,
+        "company ID":"VRSK",
+        "Rank Target":0.75,
+        "prediction":0.4508701563,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "537":{
+        "index":1680220800000,
+        "company ID":"CRAI",
+        "Rank Target":0.2222222222,
+        "prediction":0.605620265,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "544":{
+        "index":1680220800000,
+        "company ID":"VRSK",
+        "Rank Target":1.0,
+        "prediction":0.6004365087,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "538":{
+        "index":1680220800000,
+        "company ID":"EFX",
+        "Rank Target":0.7777777778,
+        "prediction":0.5858664513,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "539":{
+        "index":1680220800000,
+        "company ID":"FCN",
+        "Rank Target":0.3333333333,
+        "prediction":0.5489937663,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "540":{
+        "index":1680220800000,
+        "company ID":"FORR",
+        "Rank Target":0.1111111111,
+        "prediction":0.5188533068,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "541":{
+        "index":1680220800000,
+        "company ID":"HURN",
+        "Rank Target":0.5555555556,
+        "prediction":0.5044990182,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "542":{
+        "index":1680220800000,
+        "company ID":"ICFI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5027439594,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "536":{
+        "index":1680220800000,
+        "company ID":"BAH",
+        "Rank Target":0.8888888889,
+        "prediction":0.4666434824,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "543":{
+        "index":1680220800000,
+        "company ID":"SBC",
+        "Rank Target":0.4444444444,
+        "prediction":0.4015983343,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "548":{
+        "index":1688083200000,
+        "company ID":"FCN",
+        "Rank Target":0.2222222222,
+        "prediction":0.6751026511,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "550":{
+        "index":1688083200000,
+        "company ID":"HURN",
+        "Rank Target":1.0,
+        "prediction":0.6303098798,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "553":{
+        "index":1688083200000,
+        "company ID":"VRSK",
+        "Rank Target":0.8888888889,
+        "prediction":0.6147552729,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "546":{
+        "index":1688083200000,
+        "company ID":"CRAI",
+        "Rank Target":0.5555555556,
+        "prediction":0.5953281522,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "545":{
+        "index":1688083200000,
+        "company ID":"BAH",
+        "Rank Target":0.4444444444,
+        "prediction":0.5764090419,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "547":{
+        "index":1688083200000,
+        "company ID":"EFX",
+        "Rank Target":0.1111111111,
+        "prediction":0.519323051,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "551":{
+        "index":1688083200000,
+        "company ID":"ICFI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5038721561,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "552":{
+        "index":1688083200000,
+        "company ID":"SBC",
+        "Rank Target":0.7777777778,
+        "prediction":0.4847327173,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "549":{
+        "index":1688083200000,
+        "company ID":"FORR",
+        "Rank Target":0.6666666667,
+        "prediction":0.4377160966,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "557":{
+        "index":1696032000000,
+        "company ID":"FCN",
+        "Rank Target":0.6666666667,
+        "prediction":0.6818166375,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "559":{
+        "index":1696032000000,
+        "company ID":"HURN",
+        "Rank Target":0.2222222222,
+        "prediction":0.6451109052,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "562":{
+        "index":1696032000000,
+        "company ID":"VRSK",
+        "Rank Target":0.5555555556,
+        "prediction":0.6324315667,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "555":{
+        "index":1696032000000,
+        "company ID":"CRAI",
+        "Rank Target":0.4444444444,
+        "prediction":0.601547122,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "561":{
+        "index":1696032000000,
+        "company ID":"SBC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5533172488,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "556":{
+        "index":1696032000000,
+        "company ID":"EFX",
+        "Rank Target":1.0,
+        "prediction":0.5520275235,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "554":{
+        "index":1696032000000,
+        "company ID":"BAH",
+        "Rank Target":0.8888888889,
+        "prediction":0.5186470151,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "560":{
+        "index":1696032000000,
+        "company ID":"ICFI",
+        "Rank Target":0.7777777778,
+        "prediction":0.4993335605,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "558":{
+        "index":1696032000000,
+        "company ID":"FORR",
+        "Rank Target":0.1111111111,
+        "prediction":0.480777204,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "566":{
+        "index":1703980800000,
+        "company ID":"FCN",
+        "Rank Target":0.4444444444,
+        "prediction":0.6690494418,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "564":{
+        "index":1703980800000,
+        "company ID":"CRAI",
+        "Rank Target":1.0,
+        "prediction":0.647208333,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "571":{
+        "index":1703980800000,
+        "company ID":"VRSK",
+        "Rank Target":0.3333333333,
+        "prediction":0.6303873062,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "563":{
+        "index":1703980800000,
+        "company ID":"BAH",
+        "Rank Target":0.8888888889,
+        "prediction":0.5948700905,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "570":{
+        "index":1703980800000,
+        "company ID":"SBC",
+        "Rank Target":0.7777777778,
+        "prediction":0.5635957718,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "565":{
+        "index":1703980800000,
+        "company ID":"EFX",
+        "Rank Target":0.6666666667,
+        "prediction":0.4908784628,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "567":{
+        "index":1703980800000,
+        "company ID":"FORR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4596595764,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "568":{
+        "index":1703980800000,
+        "company ID":"HURN",
+        "Rank Target":0.2222222222,
+        "prediction":0.4545403421,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "569":{
+        "index":1703980800000,
+        "company ID":"ICFI",
+        "Rank Target":0.5555555556,
+        "prediction":0.4469723105,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "580":{
+        "index":1711843200000,
+        "company ID":"VRSK",
+        "Rank Target":1.0,
+        "prediction":0.6028467417,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "573":{
+        "index":1711843200000,
+        "company ID":"CRAI",
+        "Rank Target":0.8888888889,
+        "prediction":0.578301549,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "574":{
+        "index":1711843200000,
+        "company ID":"EFX",
+        "Rank Target":0.2222222222,
+        "prediction":0.5694455504,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "572":{
+        "index":1711843200000,
+        "company ID":"BAH",
+        "Rank Target":0.7777777778,
+        "prediction":0.5532750487,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "575":{
+        "index":1711843200000,
+        "company ID":"FCN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5519765019,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "579":{
+        "index":1711843200000,
+        "company ID":"SBC",
+        "Rank Target":0.4444444444,
+        "prediction":0.5239084959,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "577":{
+        "index":1711843200000,
+        "company ID":"HURN",
+        "Rank Target":0.5555555556,
+        "prediction":0.5210162401,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "576":{
+        "index":1711843200000,
+        "company ID":"FORR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4962964058,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "578":{
+        "index":1711843200000,
+        "company ID":"ICFI",
+        "Rank Target":0.3333333333,
+        "prediction":0.4899944067,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "584":{
+        "index":1719705600000,
+        "company ID":"FCN",
+        "Rank Target":0.5555555556,
+        "prediction":0.6493036747,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "587":{
+        "index":1719705600000,
+        "company ID":"ICFI",
+        "Rank Target":1.0,
+        "prediction":0.6458527446,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "583":{
+        "index":1719705600000,
+        "company ID":"EFX",
+        "Rank Target":0.8888888889,
+        "prediction":0.6328136325,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "586":{
+        "index":1719705600000,
+        "company ID":"HURN",
+        "Rank Target":0.7777777778,
+        "prediction":0.615395546,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "589":{
+        "index":1719705600000,
+        "company ID":"VRSK",
+        "Rank Target":0.2222222222,
+        "prediction":0.6111713052,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "588":{
+        "index":1719705600000,
+        "company ID":"SBC",
+        "Rank Target":0.1111111111,
+        "prediction":0.6078937054,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "581":{
+        "index":1719705600000,
+        "company ID":"BAH",
+        "Rank Target":0.6666666667,
+        "prediction":0.5971539617,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "585":{
+        "index":1719705600000,
+        "company ID":"FORR",
+        "Rank Target":0.4444444444,
+        "prediction":0.5481443405,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "582":{
+        "index":1719705600000,
+        "company ID":"CRAI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5409225821,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "590":{
+        "index":1727654400000,
+        "company ID":"BAH",
+        "Rank Target":0.3333333333,
+        "prediction":0.7314908504,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "591":{
+        "index":1727654400000,
+        "company ID":"CRAI",
+        "Rank Target":0.8888888889,
+        "prediction":0.6983590722,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "596":{
+        "index":1727654400000,
+        "company ID":"ICFI",
+        "Rank Target":0.2222222222,
+        "prediction":0.6046507359,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "598":{
+        "index":1727654400000,
+        "company ID":"VRSK",
+        "Rank Target":0.7777777778,
+        "prediction":0.5826826096,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "592":{
+        "index":1727654400000,
+        "company ID":"EFX",
+        "Rank Target":0.5555555556,
+        "prediction":0.579608202,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "593":{
+        "index":1727654400000,
+        "company ID":"FCN",
+        "Rank Target":0.4444444444,
+        "prediction":0.5507569313,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "595":{
+        "index":1727654400000,
+        "company ID":"HURN",
+        "Rank Target":1.0,
+        "prediction":0.5404133201,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "594":{
+        "index":1727654400000,
+        "company ID":"FORR",
+        "Rank Target":0.6666666667,
+        "prediction":0.4960610569,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "597":{
+        "index":1727654400000,
+        "company ID":"SBC",
+        "Rank Target":0.1111111111,
+        "prediction":0.487097919,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "600":{
+        "index":1735603200000,
+        "company ID":"CRAI",
+        "Rank Target":0.6666666667,
+        "prediction":0.6460034251,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "605":{
+        "index":1735603200000,
+        "company ID":"ICFI",
+        "Rank Target":0.3333333333,
+        "prediction":0.6364803314,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "604":{
+        "index":1735603200000,
+        "company ID":"HURN",
+        "Rank Target":1.0,
+        "prediction":0.6356937289,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "607":{
+        "index":1735603200000,
+        "company ID":"VRSK",
+        "Rank Target":0.8888888889,
+        "prediction":0.622089088,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "602":{
+        "index":1735603200000,
+        "company ID":"FCN",
+        "Rank Target":0.5555555556,
+        "prediction":0.6002328396,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "601":{
+        "index":1735603200000,
+        "company ID":"EFX",
+        "Rank Target":0.7777777778,
+        "prediction":0.5967301726,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "603":{
+        "index":1735603200000,
+        "company ID":"FORR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5540719628,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "599":{
+        "index":1735603200000,
+        "company ID":"BAH",
+        "Rank Target":0.4444444444,
+        "prediction":0.5534194112,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "606":{
+        "index":1735603200000,
+        "company ID":"SBC",
+        "Rank Target":0.1111111111,
+        "prediction":0.5403420329,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "615":{
+        "index":1743379200000,
+        "company ID":"SBC",
+        "Rank Target":1.0,
+        "prediction":0.6572016478,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "610":{
+        "index":1743379200000,
+        "company ID":"EFX",
+        "Rank Target":0.7777777778,
+        "prediction":0.6356257796,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "616":{
+        "index":1743379200000,
+        "company ID":"VRSK",
+        "Rank Target":0.5555555556,
+        "prediction":0.6000273824,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "613":{
+        "index":1743379200000,
+        "company ID":"HURN",
+        "Rank Target":0.1111111111,
+        "prediction":0.5567508936,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "611":{
+        "index":1743379200000,
+        "company ID":"FCN",
+        "Rank Target":0.3333333333,
+        "prediction":0.5346946716,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "609":{
+        "index":1743379200000,
+        "company ID":"CRAI",
+        "Rank Target":0.8888888889,
+        "prediction":0.5312278271,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "612":{
+        "index":1743379200000,
+        "company ID":"FORR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5204651952,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "608":{
+        "index":1743379200000,
+        "company ID":"BAH",
+        "Rank Target":0.2222222222,
+        "prediction":0.5128273964,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "614":{
+        "index":1743379200000,
+        "company ID":"ICFI",
+        "Rank Target":0.4444444444,
+        "prediction":0.5031400323,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    }
+}

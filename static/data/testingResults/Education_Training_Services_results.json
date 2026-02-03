@@ -1,0 +1,1762 @@
+{
+    "882":{
+        "index":1648684800000,
+        "company ID":"LRN",
+        "Rank Target":0.9375,
+        "prediction":0.7842994332,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "881":{
+        "index":1648684800000,
+        "company ID":"LOPE",
+        "Rank Target":0.75,
+        "prediction":0.7066265941,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "874":{
+        "index":1648684800000,
+        "company ID":"CHGG",
+        "Rank Target":0.1875,
+        "prediction":0.6320118308,
+        "trueRank":14.0,
+        "predictionRank":3.0
+    },
+    "872":{
+        "index":1648684800000,
+        "company ID":"APEI",
+        "Rank Target":0.375,
+        "prediction":0.6297685504,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "884":{
+        "index":1648684800000,
+        "company ID":"STRA",
+        "Rank Target":0.8125,
+        "prediction":0.6257027984,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "879":{
+        "index":1648684800000,
+        "company ID":"LAUR",
+        "Rank Target":0.6875,
+        "prediction":0.6100318432,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "877":{
+        "index":1648684800000,
+        "company ID":"GHC",
+        "Rank Target":0.625,
+        "prediction":0.5999260545,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "883":{
+        "index":1648684800000,
+        "company ID":"PRDO",
+        "Rank Target":0.875,
+        "prediction":0.5941574574,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "873":{
+        "index":1648684800000,
+        "company ID":"ATGE",
+        "Rank Target":1.0,
+        "prediction":0.5933130383,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "880":{
+        "index":1648684800000,
+        "company ID":"LINC",
+        "Rank Target":0.5625,
+        "prediction":0.5735065937,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "878":{
+        "index":1648684800000,
+        "company ID":"KLC",
+        "Rank Target":0.0625,
+        "prediction":0.5681598783,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "886":{
+        "index":1648684800000,
+        "company ID":"UTI",
+        "Rank Target":0.5,
+        "prediction":0.5647639036,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "885":{
+        "index":1648684800000,
+        "company ID":"UDMY",
+        "Rank Target":0.4375,
+        "prediction":0.397811085,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "875":{
+        "index":1648684800000,
+        "company ID":"COUR",
+        "Rank Target":0.25,
+        "prediction":0.3175878823,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "876":{
+        "index":1648684800000,
+        "company ID":"EEIQ",
+        "Rank Target":0.3125,
+        "prediction":0.2566898167,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "871":{
+        "index":1648684800000,
+        "company ID":"AMBO",
+        "Rank Target":0.125,
+        "prediction":0.1681497842,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "897":{
+        "index":1656547200000,
+        "company ID":"LRN",
+        "Rank Target":0.8666666667,
+        "prediction":0.7783266902,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "896":{
+        "index":1656547200000,
+        "company ID":"LOPE",
+        "Rank Target":0.5333333333,
+        "prediction":0.7345578074,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "895":{
+        "index":1656547200000,
+        "company ID":"LINC",
+        "Rank Target":0.4,
+        "prediction":0.7174258232,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "894":{
+        "index":1656547200000,
+        "company ID":"LAUR",
+        "Rank Target":0.8,
+        "prediction":0.6875816584,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "899":{
+        "index":1656547200000,
+        "company ID":"STRA",
+        "Rank Target":0.6,
+        "prediction":0.6463709474,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "898":{
+        "index":1656547200000,
+        "company ID":"PRDO",
+        "Rank Target":0.4666666667,
+        "prediction":0.6038041711,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "889":{
+        "index":1656547200000,
+        "company ID":"ATGE",
+        "Rank Target":0.7333333333,
+        "prediction":0.5905026793,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "890":{
+        "index":1656547200000,
+        "company ID":"CHGG",
+        "Rank Target":0.9333333333,
+        "prediction":0.5619233847,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "901":{
+        "index":1656547200000,
+        "company ID":"UTI",
+        "Rank Target":0.2666666667,
+        "prediction":0.5611181259,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "900":{
+        "index":1656547200000,
+        "company ID":"UDMY",
+        "Rank Target":1.0,
+        "prediction":0.557169199,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "893":{
+        "index":1656547200000,
+        "company ID":"GHC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5315368176,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "888":{
+        "index":1656547200000,
+        "company ID":"APEI",
+        "Rank Target":0.1333333333,
+        "prediction":0.5187653303,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "891":{
+        "index":1656547200000,
+        "company ID":"COUR",
+        "Rank Target":0.2,
+        "prediction":0.4840276539,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "887":{
+        "index":1656547200000,
+        "company ID":"AMBO",
+        "Rank Target":0.3333333333,
+        "prediction":0.3770118058,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "892":{
+        "index":1656547200000,
+        "company ID":"EEIQ",
+        "Rank Target":0.0666666667,
+        "prediction":0.2877672911,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "910":{
+        "index":1664496000000,
+        "company ID":"LINC",
+        "Rank Target":0.4,
+        "prediction":0.7734186053,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "911":{
+        "index":1664496000000,
+        "company ID":"LOPE",
+        "Rank Target":0.8,
+        "prediction":0.6777045727,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "916":{
+        "index":1664496000000,
+        "company ID":"UTI",
+        "Rank Target":0.6666666667,
+        "prediction":0.662412405,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "905":{
+        "index":1664496000000,
+        "company ID":"CHGG",
+        "Rank Target":0.6,
+        "prediction":0.6451964378,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "913":{
+        "index":1664496000000,
+        "company ID":"PRDO",
+        "Rank Target":0.9333333333,
+        "prediction":0.6368002892,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "903":{
+        "index":1664496000000,
+        "company ID":"APEI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6286246777,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "914":{
+        "index":1664496000000,
+        "company ID":"STRA",
+        "Rank Target":0.7333333333,
+        "prediction":0.6221602559,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "908":{
+        "index":1664496000000,
+        "company ID":"GHC",
+        "Rank Target":0.5333333333,
+        "prediction":0.6186537147,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "904":{
+        "index":1664496000000,
+        "company ID":"ATGE",
+        "Rank Target":0.2666666667,
+        "prediction":0.6165118217,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "912":{
+        "index":1664496000000,
+        "company ID":"LRN",
+        "Rank Target":0.0666666667,
+        "prediction":0.5533033609,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "909":{
+        "index":1664496000000,
+        "company ID":"LAUR",
+        "Rank Target":0.2,
+        "prediction":0.5202269554,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "906":{
+        "index":1664496000000,
+        "company ID":"COUR",
+        "Rank Target":0.4666666667,
+        "prediction":0.4802339673,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "915":{
+        "index":1664496000000,
+        "company ID":"UDMY",
+        "Rank Target":0.1333333333,
+        "prediction":0.3957999051,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "902":{
+        "index":1664496000000,
+        "company ID":"AMBO",
+        "Rank Target":0.3333333333,
+        "prediction":0.3772729933,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "907":{
+        "index":1664496000000,
+        "company ID":"EEIQ",
+        "Rank Target":1.0,
+        "prediction":0.2897897661,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "928":{
+        "index":1672444800000,
+        "company ID":"LRN",
+        "Rank Target":0.9375,
+        "prediction":0.7524645925,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "927":{
+        "index":1672444800000,
+        "company ID":"LOPE",
+        "Rank Target":0.75,
+        "prediction":0.6785434484,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "929":{
+        "index":1672444800000,
+        "company ID":"PRDO",
+        "Rank Target":0.5,
+        "prediction":0.6648872495,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "926":{
+        "index":1672444800000,
+        "company ID":"LINC",
+        "Rank Target":0.5625,
+        "prediction":0.6598974466,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "920":{
+        "index":1672444800000,
+        "company ID":"CHGG",
+        "Rank Target":0.25,
+        "prediction":0.6288509369,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "930":{
+        "index":1672444800000,
+        "company ID":"STRA",
+        "Rank Target":0.875,
+        "prediction":0.6240451336,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "919":{
+        "index":1672444800000,
+        "company ID":"ATGE",
+        "Rank Target":0.6875,
+        "prediction":0.6002296209,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "923":{
+        "index":1672444800000,
+        "company ID":"GHC",
+        "Rank Target":0.625,
+        "prediction":0.5543061495,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "932":{
+        "index":1672444800000,
+        "company ID":"UTI",
+        "Rank Target":0.8125,
+        "prediction":0.5485061407,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "925":{
+        "index":1672444800000,
+        "company ID":"LAUR",
+        "Rank Target":1.0,
+        "prediction":0.5443729758,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "918":{
+        "index":1672444800000,
+        "company ID":"APEI",
+        "Rank Target":0.125,
+        "prediction":0.4584906399,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "924":{
+        "index":1672444800000,
+        "company ID":"KLC",
+        "Rank Target":0.0625,
+        "prediction":0.3871367574,
+        "trueRank":16.0,
+        "predictionRank":12.0
+    },
+    "921":{
+        "index":1672444800000,
+        "company ID":"COUR",
+        "Rank Target":0.375,
+        "prediction":0.3823696971,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "917":{
+        "index":1672444800000,
+        "company ID":"AMBO",
+        "Rank Target":0.4375,
+        "prediction":0.3513990343,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "931":{
+        "index":1672444800000,
+        "company ID":"UDMY",
+        "Rank Target":0.3125,
+        "prediction":0.2991476357,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "922":{
+        "index":1672444800000,
+        "company ID":"EEIQ",
+        "Rank Target":0.1875,
+        "prediction":0.1859383583,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "945":{
+        "index":1680220800000,
+        "company ID":"LRN",
+        "Rank Target":0.6470588235,
+        "prediction":0.7665609121,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "943":{
+        "index":1680220800000,
+        "company ID":"LINC",
+        "Rank Target":0.9411764706,
+        "prediction":0.6972132325,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "944":{
+        "index":1680220800000,
+        "company ID":"LOPE",
+        "Rank Target":0.3529411765,
+        "prediction":0.6574472189,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "946":{
+        "index":1680220800000,
+        "company ID":"PRDO",
+        "Rank Target":0.5294117647,
+        "prediction":0.6292139888,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "936":{
+        "index":1680220800000,
+        "company ID":"CHGG",
+        "Rank Target":0.1764705882,
+        "prediction":0.6138372421,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "935":{
+        "index":1680220800000,
+        "company ID":"ATGE",
+        "Rank Target":0.4117647059,
+        "prediction":0.6124045253,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "939":{
+        "index":1680220800000,
+        "company ID":"GHC",
+        "Rank Target":0.7058823529,
+        "prediction":0.6076256633,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "949":{
+        "index":1680220800000,
+        "company ID":"UTI",
+        "Rank Target":0.5882352941,
+        "prediction":0.5967550278,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "947":{
+        "index":1680220800000,
+        "company ID":"STRA",
+        "Rank Target":0.2941176471,
+        "prediction":0.588737309,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "934":{
+        "index":1680220800000,
+        "company ID":"APEI",
+        "Rank Target":0.4705882353,
+        "prediction":0.5607465506,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "941":{
+        "index":1680220800000,
+        "company ID":"LAUR",
+        "Rank Target":0.7647058824,
+        "prediction":0.5111342669,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "933":{
+        "index":1680220800000,
+        "company ID":"AMBO",
+        "Rank Target":0.2352941176,
+        "prediction":0.4438648224,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "937":{
+        "index":1680220800000,
+        "company ID":"COUR",
+        "Rank Target":0.8823529412,
+        "prediction":0.4215631485,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "948":{
+        "index":1680220800000,
+        "company ID":"UDMY",
+        "Rank Target":1.0,
+        "prediction":0.3032093346,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "938":{
+        "index":1680220800000,
+        "company ID":"EEIQ",
+        "Rank Target":0.8235294118,
+        "prediction":0.275513202,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "940":{
+        "index":1680220800000,
+        "company ID":"KLC",
+        "Rank Target":0.0882352941,
+        "prediction":0.2515003681,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "942":{
+        "index":1680220800000,
+        "company ID":"LGCY",
+        "Rank Target":0.0882352941,
+        "prediction":0.2174471021,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "961":{
+        "index":1688083200000,
+        "company ID":"LINC",
+        "Rank Target":0.8333333333,
+        "prediction":0.7561731339,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "963":{
+        "index":1688083200000,
+        "company ID":"LRN",
+        "Rank Target":0.7222222222,
+        "prediction":0.7195411325,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "962":{
+        "index":1688083200000,
+        "company ID":"LOPE",
+        "Rank Target":0.5555555556,
+        "prediction":0.6726426482,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "964":{
+        "index":1688083200000,
+        "company ID":"PRDO",
+        "Rank Target":0.9444444444,
+        "prediction":0.6694222689,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "956":{
+        "index":1688083200000,
+        "company ID":"GHC",
+        "Rank Target":0.4444444444,
+        "prediction":0.6522032022,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "953":{
+        "index":1688083200000,
+        "company ID":"CHGG",
+        "Rank Target":0.3333333333,
+        "prediction":0.6319611073,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "952":{
+        "index":1688083200000,
+        "company ID":"ATGE",
+        "Rank Target":0.7777777778,
+        "prediction":0.6242643595,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "959":{
+        "index":1688083200000,
+        "company ID":"LAUR",
+        "Rank Target":0.6111111111,
+        "prediction":0.6188825965,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "965":{
+        "index":1688083200000,
+        "company ID":"STRA",
+        "Rank Target":0.5,
+        "prediction":0.6146589518,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "967":{
+        "index":1688083200000,
+        "company ID":"UTI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5585192442,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "960":{
+        "index":1688083200000,
+        "company ID":"LGCY",
+        "Rank Target":0.1111111111,
+        "prediction":0.5553231239,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "951":{
+        "index":1688083200000,
+        "company ID":"APEI",
+        "Rank Target":0.3888888889,
+        "prediction":0.5281289816,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "950":{
+        "index":1688083200000,
+        "company ID":"AMBO",
+        "Rank Target":0.2222222222,
+        "prediction":0.5178428888,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "966":{
+        "index":1688083200000,
+        "company ID":"UDMY",
+        "Rank Target":0.2777777778,
+        "prediction":0.46317783,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "954":{
+        "index":1688083200000,
+        "company ID":"COUR",
+        "Rank Target":1.0,
+        "prediction":0.3701919913,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "958":{
+        "index":1688083200000,
+        "company ID":"KLC",
+        "Rank Target":0.1111111111,
+        "prediction":0.2189542949,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "957":{
+        "index":1688083200000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1111111111,
+        "prediction":0.1995373517,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "955":{
+        "index":1688083200000,
+        "company ID":"EEIQ",
+        "Rank Target":0.8888888889,
+        "prediction":0.1767673194,
+        "trueRank":3.0,
+        "predictionRank":18.0
+    },
+    "969":{
+        "index":1696032000000,
+        "company ID":"APEI",
+        "Rank Target":1.0,
+        "prediction":0.7561618686,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "984":{
+        "index":1696032000000,
+        "company ID":"UTI",
+        "Rank Target":0.8823529412,
+        "prediction":0.7057451606,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "980":{
+        "index":1696032000000,
+        "company ID":"LRN",
+        "Rank Target":0.7647058824,
+        "prediction":0.6921237111,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "970":{
+        "index":1696032000000,
+        "company ID":"ATGE",
+        "Rank Target":0.8235294118,
+        "prediction":0.6716945171,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "982":{
+        "index":1696032000000,
+        "company ID":"STRA",
+        "Rank Target":0.6470588235,
+        "prediction":0.6386377215,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "973":{
+        "index":1696032000000,
+        "company ID":"GHC",
+        "Rank Target":0.5882352941,
+        "prediction":0.5985261202,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "979":{
+        "index":1696032000000,
+        "company ID":"LOPE",
+        "Rank Target":0.4705882353,
+        "prediction":0.596036315,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "976":{
+        "index":1696032000000,
+        "company ID":"LAUR",
+        "Rank Target":0.3529411765,
+        "prediction":0.5901377797,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "978":{
+        "index":1696032000000,
+        "company ID":"LINC",
+        "Rank Target":0.5294117647,
+        "prediction":0.5803034306,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "971":{
+        "index":1696032000000,
+        "company ID":"CHGG",
+        "Rank Target":0.7058823529,
+        "prediction":0.5494914651,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "981":{
+        "index":1696032000000,
+        "company ID":"PRDO",
+        "Rank Target":0.2352941176,
+        "prediction":0.5484059453,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "983":{
+        "index":1696032000000,
+        "company ID":"UDMY",
+        "Rank Target":0.9411764706,
+        "prediction":0.4926959574,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "972":{
+        "index":1696032000000,
+        "company ID":"COUR",
+        "Rank Target":0.4117647059,
+        "prediction":0.4597032666,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "968":{
+        "index":1696032000000,
+        "company ID":"AMBO",
+        "Rank Target":0.2941176471,
+        "prediction":0.4411970377,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "977":{
+        "index":1696032000000,
+        "company ID":"LGCY",
+        "Rank Target":0.1176470588,
+        "prediction":0.3042432368,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "974":{
+        "index":1696032000000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1176470588,
+        "prediction":0.2250587642,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "975":{
+        "index":1696032000000,
+        "company ID":"KLC",
+        "Rank Target":0.1176470588,
+        "prediction":0.1986958086,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "997":{
+        "index":1703980800000,
+        "company ID":"LRN",
+        "Rank Target":0.6666666667,
+        "prediction":0.7372351289,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "995":{
+        "index":1703980800000,
+        "company ID":"LINC",
+        "Rank Target":0.7222222222,
+        "prediction":0.7180263996,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "985":{
+        "index":1703980800000,
+        "company ID":"APEI",
+        "Rank Target":1.0,
+        "prediction":0.6879915595,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "986":{
+        "index":1703980800000,
+        "company ID":"ATGE",
+        "Rank Target":0.5,
+        "prediction":0.6738767028,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "996":{
+        "index":1703980800000,
+        "company ID":"LOPE",
+        "Rank Target":0.6111111111,
+        "prediction":0.6498502493,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "994":{
+        "index":1703980800000,
+        "company ID":"LGCY",
+        "Rank Target":0.1388888889,
+        "prediction":0.6440238357,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "990":{
+        "index":1703980800000,
+        "company ID":"GHC",
+        "Rank Target":0.7777777778,
+        "prediction":0.6409544945,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "1002":{
+        "index":1703980800000,
+        "company ID":"UTI",
+        "Rank Target":0.9444444444,
+        "prediction":0.6405209899,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "1000":{
+        "index":1703980800000,
+        "company ID":"STRA",
+        "Rank Target":0.8888888889,
+        "prediction":0.6368326545,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "987":{
+        "index":1703980800000,
+        "company ID":"CHGG",
+        "Rank Target":0.3333333333,
+        "prediction":0.6105471253,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "993":{
+        "index":1703980800000,
+        "company ID":"LAUR",
+        "Rank Target":0.8333333333,
+        "prediction":0.5983566046,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "999":{
+        "index":1703980800000,
+        "company ID":"PRDO",
+        "Rank Target":0.5555555556,
+        "prediction":0.5198446512,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "991":{
+        "index":1703980800000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1388888889,
+        "prediction":0.4633239806,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "1001":{
+        "index":1703980800000,
+        "company ID":"UDMY",
+        "Rank Target":0.4444444444,
+        "prediction":0.4333215654,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "988":{
+        "index":1703980800000,
+        "company ID":"COUR",
+        "Rank Target":0.3888888889,
+        "prediction":0.4015983045,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "992":{
+        "index":1703980800000,
+        "company ID":"KLC",
+        "Rank Target":0.1388888889,
+        "prediction":0.3623415828,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "998":{
+        "index":1703980800000,
+        "company ID":"MH",
+        "Rank Target":0.1388888889,
+        "prediction":0.1766175032,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "989":{
+        "index":1703980800000,
+        "company ID":"EEIQ",
+        "Rank Target":0.2777777778,
+        "prediction":0.1683408916,
+        "trueRank":14.0,
+        "predictionRank":18.0
+    },
+    "1004":{
+        "index":1711843200000,
+        "company ID":"APEI",
+        "Rank Target":0.9473684211,
+        "prediction":0.7711372972,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1016":{
+        "index":1711843200000,
+        "company ID":"LRN",
+        "Rank Target":0.7894736842,
+        "prediction":0.7632218599,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "1009":{
+        "index":1711843200000,
+        "company ID":"GHC",
+        "Rank Target":0.4736842105,
+        "prediction":0.7063987255,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1021":{
+        "index":1711843200000,
+        "company ID":"UTI",
+        "Rank Target":0.6315789474,
+        "prediction":0.6716976166,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "1015":{
+        "index":1711843200000,
+        "company ID":"LOPE",
+        "Rank Target":0.5789473684,
+        "prediction":0.6600054502,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "1019":{
+        "index":1711843200000,
+        "company ID":"STRA",
+        "Rank Target":0.7368421053,
+        "prediction":0.6464982629,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "1020":{
+        "index":1711843200000,
+        "company ID":"UDMY",
+        "Rank Target":0.4210526316,
+        "prediction":0.6420580745,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "1013":{
+        "index":1711843200000,
+        "company ID":"LGCY",
+        "Rank Target":0.1315789474,
+        "prediction":0.6397479177,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "1005":{
+        "index":1711843200000,
+        "company ID":"ATGE",
+        "Rank Target":1.0,
+        "prediction":0.6328305006,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "1018":{
+        "index":1711843200000,
+        "company ID":"PRDO",
+        "Rank Target":0.8947368421,
+        "prediction":0.6227264404,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "1014":{
+        "index":1711843200000,
+        "company ID":"LINC",
+        "Rank Target":0.8421052632,
+        "prediction":0.5968082547,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "1006":{
+        "index":1711843200000,
+        "company ID":"CHGG",
+        "Rank Target":0.2631578947,
+        "prediction":0.589556396,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "1007":{
+        "index":1711843200000,
+        "company ID":"COUR",
+        "Rank Target":0.3157894737,
+        "prediction":0.5624755025,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "1012":{
+        "index":1711843200000,
+        "company ID":"LAUR",
+        "Rank Target":0.5263157895,
+        "prediction":0.5027406216,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "1011":{
+        "index":1711843200000,
+        "company ID":"KLC",
+        "Rank Target":0.1315789474,
+        "prediction":0.4918379188,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1003":{
+        "index":1711843200000,
+        "company ID":"AMBO",
+        "Rank Target":0.3684210526,
+        "prediction":0.4039946795,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "1017":{
+        "index":1711843200000,
+        "company ID":"MH",
+        "Rank Target":0.1315789474,
+        "prediction":0.3651500344,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "1010":{
+        "index":1711843200000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1315789474,
+        "prediction":0.364243716,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "1008":{
+        "index":1711843200000,
+        "company ID":"EEIQ",
+        "Rank Target":0.6842105263,
+        "prediction":0.2905863523,
+        "trueRank":7.0,
+        "predictionRank":19.0
+    },
+    "1023":{
+        "index":1719705600000,
+        "company ID":"APEI",
+        "Rank Target":0.2777777778,
+        "prediction":0.730838418,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "1034":{
+        "index":1719705600000,
+        "company ID":"LRN",
+        "Rank Target":0.9444444444,
+        "prediction":0.7016835213,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1039":{
+        "index":1719705600000,
+        "company ID":"UTI",
+        "Rank Target":0.4444444444,
+        "prediction":0.6872159839,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1030":{
+        "index":1719705600000,
+        "company ID":"LAUR",
+        "Rank Target":0.7777777778,
+        "prediction":0.6146662831,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "1033":{
+        "index":1719705600000,
+        "company ID":"LOPE",
+        "Rank Target":0.5,
+        "prediction":0.6071403027,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "1032":{
+        "index":1719705600000,
+        "company ID":"LINC",
+        "Rank Target":0.5555555556,
+        "prediction":0.6043682694,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "1024":{
+        "index":1719705600000,
+        "company ID":"ATGE",
+        "Rank Target":0.7222222222,
+        "prediction":0.6020684242,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "1038":{
+        "index":1719705600000,
+        "company ID":"UDMY",
+        "Rank Target":0.3888888889,
+        "prediction":0.5921244025,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "1022":{
+        "index":1719705600000,
+        "company ID":"AMBO",
+        "Rank Target":1.0,
+        "prediction":0.5868797302,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "1027":{
+        "index":1719705600000,
+        "company ID":"GHC",
+        "Rank Target":0.8333333333,
+        "prediction":0.5649217963,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "1026":{
+        "index":1719705600000,
+        "company ID":"COUR",
+        "Rank Target":0.8888888889,
+        "prediction":0.5282549262,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "1037":{
+        "index":1719705600000,
+        "company ID":"STRA",
+        "Rank Target":0.3333333333,
+        "prediction":0.5085391402,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "1031":{
+        "index":1719705600000,
+        "company ID":"LGCY",
+        "Rank Target":0.6666666667,
+        "prediction":0.4782208502,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "1036":{
+        "index":1719705600000,
+        "company ID":"PRDO",
+        "Rank Target":0.6111111111,
+        "prediction":0.4636298716,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "1029":{
+        "index":1719705600000,
+        "company ID":"KLC",
+        "Rank Target":0.1111111111,
+        "prediction":0.4472492039,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1025":{
+        "index":1719705600000,
+        "company ID":"CHGG",
+        "Rank Target":0.2222222222,
+        "prediction":0.4236902297,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "1028":{
+        "index":1719705600000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1111111111,
+        "prediction":0.3243347704,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "1035":{
+        "index":1719705600000,
+        "company ID":"MH",
+        "Rank Target":0.1111111111,
+        "prediction":0.1445028335,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "1040":{
+        "index":1727654400000,
+        "company ID":"APEI",
+        "Rank Target":0.8823529412,
+        "prediction":0.7249712348,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "1056":{
+        "index":1727654400000,
+        "company ID":"UTI",
+        "Rank Target":0.9411764706,
+        "prediction":0.7178817391,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1044":{
+        "index":1727654400000,
+        "company ID":"GHC",
+        "Rank Target":0.4117647059,
+        "prediction":0.6766660213,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1041":{
+        "index":1727654400000,
+        "company ID":"ATGE",
+        "Rank Target":0.6470588235,
+        "prediction":0.6378858685,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1047":{
+        "index":1727654400000,
+        "company ID":"LAUR",
+        "Rank Target":0.5294117647,
+        "prediction":0.6221875548,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "1051":{
+        "index":1727654400000,
+        "company ID":"LRN",
+        "Rank Target":0.7647058824,
+        "prediction":0.6187334061,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1048":{
+        "index":1727654400000,
+        "company ID":"LGCY",
+        "Rank Target":1.0,
+        "prediction":0.612656951,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "1054":{
+        "index":1727654400000,
+        "company ID":"STRA",
+        "Rank Target":0.2941176471,
+        "prediction":0.5986512899,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "1049":{
+        "index":1727654400000,
+        "company ID":"LINC",
+        "Rank Target":0.8235294118,
+        "prediction":0.598508358,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1053":{
+        "index":1727654400000,
+        "company ID":"PRDO",
+        "Rank Target":0.7058823529,
+        "prediction":0.5935078859,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "1050":{
+        "index":1727654400000,
+        "company ID":"LOPE",
+        "Rank Target":0.5882352941,
+        "prediction":0.5394304991,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "1046":{
+        "index":1727654400000,
+        "company ID":"KLC",
+        "Rank Target":0.1764705882,
+        "prediction":0.521073103,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "1055":{
+        "index":1727654400000,
+        "company ID":"UDMY",
+        "Rank Target":0.4705882353,
+        "prediction":0.4891678393,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1043":{
+        "index":1727654400000,
+        "company ID":"COUR",
+        "Rank Target":0.3529411765,
+        "prediction":0.4803386927,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "1042":{
+        "index":1727654400000,
+        "company ID":"CHGG",
+        "Rank Target":0.2352941176,
+        "prediction":0.4414087534,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "1045":{
+        "index":1727654400000,
+        "company ID":"KIDZ",
+        "Rank Target":0.0882352941,
+        "prediction":0.2798031569,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "1052":{
+        "index":1727654400000,
+        "company ID":"MH",
+        "Rank Target":0.0882352941,
+        "prediction":0.2012638003,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "1073":{
+        "index":1735603200000,
+        "company ID":"UTI",
+        "Rank Target":0.5294117647,
+        "prediction":0.7246088386,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "1068":{
+        "index":1735603200000,
+        "company ID":"LRN",
+        "Rank Target":1.0,
+        "prediction":0.6976361275,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "1066":{
+        "index":1735603200000,
+        "company ID":"LINC",
+        "Rank Target":0.6470588235,
+        "prediction":0.6967477798,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "1057":{
+        "index":1735603200000,
+        "company ID":"APEI",
+        "Rank Target":0.7058823529,
+        "prediction":0.6916800141,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1064":{
+        "index":1735603200000,
+        "company ID":"LAUR",
+        "Rank Target":0.9411764706,
+        "prediction":0.6859907508,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1058":{
+        "index":1735603200000,
+        "company ID":"ATGE",
+        "Rank Target":0.8823529412,
+        "prediction":0.6846219897,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "1062":{
+        "index":1735603200000,
+        "company ID":"GHC",
+        "Rank Target":0.7647058824,
+        "prediction":0.6569868922,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "1070":{
+        "index":1735603200000,
+        "company ID":"PRDO",
+        "Rank Target":0.5882352941,
+        "prediction":0.6247727275,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1067":{
+        "index":1735603200000,
+        "company ID":"LOPE",
+        "Rank Target":0.8235294118,
+        "prediction":0.6228407621,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "1065":{
+        "index":1735603200000,
+        "company ID":"LGCY",
+        "Rank Target":0.3529411765,
+        "prediction":0.5909872055,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "1071":{
+        "index":1735603200000,
+        "company ID":"STRA",
+        "Rank Target":0.4117647059,
+        "prediction":0.568718791,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "1072":{
+        "index":1735603200000,
+        "company ID":"UDMY",
+        "Rank Target":0.4705882353,
+        "prediction":0.5426350832,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "1060":{
+        "index":1735603200000,
+        "company ID":"COUR",
+        "Rank Target":0.2941176471,
+        "prediction":0.4970172346,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "1059":{
+        "index":1735603200000,
+        "company ID":"CHGG",
+        "Rank Target":0.1176470588,
+        "prediction":0.4923828244,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "1069":{
+        "index":1735603200000,
+        "company ID":"MH",
+        "Rank Target":0.0588235294,
+        "prediction":0.4624783099,
+        "trueRank":17.0,
+        "predictionRank":15.0
+    },
+    "1063":{
+        "index":1735603200000,
+        "company ID":"KLC",
+        "Rank Target":0.2352941176,
+        "prediction":0.4204559922,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "1061":{
+        "index":1735603200000,
+        "company ID":"EEIQ",
+        "Rank Target":0.1764705882,
+        "prediction":0.3049750626,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "1074":{
+        "index":1743379200000,
+        "company ID":"APEI",
+        "Rank Target":0.7647058824,
+        "prediction":0.7647769451,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1090":{
+        "index":1743379200000,
+        "company ID":"UTI",
+        "Rank Target":0.7058823529,
+        "prediction":0.7065954208,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "1085":{
+        "index":1743379200000,
+        "company ID":"LRN",
+        "Rank Target":0.4705882353,
+        "prediction":0.7034849524,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1087":{
+        "index":1743379200000,
+        "company ID":"PRDO",
+        "Rank Target":0.6470588235,
+        "prediction":0.6562935114,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1075":{
+        "index":1743379200000,
+        "company ID":"ATGE",
+        "Rank Target":0.5882352941,
+        "prediction":0.6523130536,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "1089":{
+        "index":1743379200000,
+        "company ID":"UDMY",
+        "Rank Target":0.2352941176,
+        "prediction":0.6341264248,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "1082":{
+        "index":1743379200000,
+        "company ID":"LGCY",
+        "Rank Target":0.9411764706,
+        "prediction":0.6333944201,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "1084":{
+        "index":1743379200000,
+        "company ID":"LOPE",
+        "Rank Target":0.4117647059,
+        "prediction":0.6258924603,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "1078":{
+        "index":1743379200000,
+        "company ID":"GHC",
+        "Rank Target":0.2941176471,
+        "prediction":0.5958009362,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1080":{
+        "index":1743379200000,
+        "company ID":"KLC",
+        "Rank Target":0.1764705882,
+        "prediction":0.5756352544,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "1077":{
+        "index":1743379200000,
+        "company ID":"COUR",
+        "Rank Target":0.8235294118,
+        "prediction":0.5389550328,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "1083":{
+        "index":1743379200000,
+        "company ID":"LINC",
+        "Rank Target":0.8823529412,
+        "prediction":0.5219862461,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "1088":{
+        "index":1743379200000,
+        "company ID":"STRA",
+        "Rank Target":0.3529411765,
+        "prediction":0.4838522673,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "1076":{
+        "index":1743379200000,
+        "company ID":"CHGG",
+        "Rank Target":1.0,
+        "prediction":0.4766694903,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "1081":{
+        "index":1743379200000,
+        "company ID":"LAUR",
+        "Rank Target":0.5294117647,
+        "prediction":0.4745273292,
+        "trueRank":9.0,
+        "predictionRank":15.0
+    },
+    "1086":{
+        "index":1743379200000,
+        "company ID":"MH",
+        "Rank Target":0.0588235294,
+        "prediction":0.3533037901,
+        "trueRank":17.0,
+        "predictionRank":16.0
+    },
+    "1079":{
+        "index":1743379200000,
+        "company ID":"KIDZ",
+        "Rank Target":0.1176470588,
+        "prediction":0.2720773518,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "938":{
+        "company ID":"CHRW",
+        "score":0.647082746,
+        "Rank":1.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":35.1756290819
+    },
+    "949":{
+        "company ID":"PBI",
+        "score":0.6380710602,
+        "Rank":2.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":-1.5604120819
+    },
+    "941":{
+        "company ID":"CYRX",
+        "score":0.6334096789,
+        "Rank":3.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":22.8459534577
+    },
+    "942":{
+        "company ID":"EXPD",
+        "score":0.6323557496,
+        "Rank":4.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":3.6999548817
+    },
+    "939":{
+        "company ID":"CJMB",
+        "score":0.6192501187,
+        "Rank":5.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":1.8518451302
+    },
+    "946":{
+        "company ID":"JBHT",
+        "score":0.5659753084,
+        "Rank":6.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":-11.5489377849
+    },
+    "948":{
+        "company ID":"PAL",
+        "score":0.5448301435,
+        "Rank":7.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-3.3660623289
+    },
+    "947":{
+        "company ID":"LSTR",
+        "score":0.5424989462,
+        "Rank":8.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-16.4528059017
+    },
+    "940":{
+        "company ID":"CTNT",
+        "score":0.5292646289,
+        "Rank":9.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":35.4477620866
+    },
+    "944":{
+        "company ID":"GXO",
+        "score":0.5283683538,
+        "Rank":10.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":3.6826662021
+    },
+    "943":{
+        "company ID":"FWRD",
+        "score":0.5271770358,
+        "Rank":11.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":-0.9433962264
+    },
+    "945":{
+        "company ID":"HUBG",
+        "score":0.5154947639,
+        "Rank":12.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":-3.0326459753
+    },
+    "950":{
+        "company ID":"RLGT",
+        "score":0.4972932339,
+        "Rank":13.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-4.0192927401
+    },
+    "937":{
+        "company ID":"BTOC",
+        "score":0.4968184531,
+        "Rank":14.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-42.8571417551
+    },
+    "951":{
+        "company ID":"UPS",
+        "score":0.3845605254,
+        "Rank":15.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-17.3189176299
+    }
+}

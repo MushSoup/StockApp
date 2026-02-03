@@ -1,0 +1,79 @@
+{
+    "238":{
+        "company ID":"RBLX",
+        "score":0.6531198025,
+        "Rank":1.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":36.654119667
+    },
+    "241":{
+        "company ID":"TBH",
+        "score":0.6439906955,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":132.7964814032
+    },
+    "232":{
+        "company ID":"EA",
+        "score":0.6396024823,
+        "Rank":3.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":30.1880306689
+    },
+    "234":{
+        "company ID":"GDC",
+        "score":0.63476336,
+        "Rank":4.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":64.1025710681
+    },
+    "242":{
+        "company ID":"TTWO",
+        "score":0.6285453439,
+        "Rank":5.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":8.2670404374
+    },
+    "239":{
+        "company ID":"SKLZ",
+        "score":0.6076759696,
+        "Rank":6.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":11.580373435
+    },
+    "236":{
+        "company ID":"MSGM",
+        "score":0.5705260038,
+        "Rank":7.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-5.5555542159
+    },
+    "237":{
+        "company ID":"MYPS",
+        "score":0.5075443983,
+        "Rank":8.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-25.6923033889
+    },
+    "235":{
+        "company ID":"GXAI",
+        "score":0.4851381481,
+        "Rank":9.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":7.6433121457
+    },
+    "240":{
+        "company ID":"SNAL",
+        "score":0.4589918554,
+        "Rank":10.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-27.3885383708
+    },
+    "233":{
+        "company ID":"GAME",
+        "score":0.4335234761,
+        "Rank":11.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-23.825503465
+    }
+}

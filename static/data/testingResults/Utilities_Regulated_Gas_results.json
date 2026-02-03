@@ -1,0 +1,1634 @@
+{
+    "854":{
+        "index":1648684800000,
+        "company ID":"BKH",
+        "Rank Target":0.4666666667,
+        "prediction":0.6532193422,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "865":{
+        "index":1648684800000,
+        "company ID":"SWX",
+        "Rank Target":0.9333333333,
+        "prediction":0.6432299614,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "857":{
+        "index":1648684800000,
+        "company ID":"NI",
+        "Rank Target":0.3333333333,
+        "prediction":0.6227397323,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "863":{
+        "index":1648684800000,
+        "company ID":"SPH",
+        "Rank Target":0.5333333333,
+        "prediction":0.6208397746,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "866":{
+        "index":1648684800000,
+        "company ID":"UGI",
+        "Rank Target":1.0,
+        "prediction":0.6042001247,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "855":{
+        "index":1648684800000,
+        "company ID":"CPK",
+        "Rank Target":0.2,
+        "prediction":0.6002554893,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "860":{
+        "index":1648684800000,
+        "company ID":"OGS",
+        "Rank Target":0.2666666667,
+        "prediction":0.5836981535,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "861":{
+        "index":1648684800000,
+        "company ID":"OPAL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5789527893,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "858":{
+        "index":1648684800000,
+        "company ID":"NJR",
+        "Rank Target":0.6,
+        "prediction":0.5641940832,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "859":{
+        "index":1648684800000,
+        "company ID":"NWN",
+        "Rank Target":0.8,
+        "prediction":0.5458794832,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "852":{
+        "index":1648684800000,
+        "company ID":"ATO",
+        "Rank Target":0.4,
+        "prediction":0.5228111744,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "853":{
+        "index":1648684800000,
+        "company ID":"BIPC",
+        "Rank Target":0.0666666667,
+        "prediction":0.5208510756,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "862":{
+        "index":1648684800000,
+        "company ID":"RGCO",
+        "Rank Target":0.1333333333,
+        "prediction":0.5059133768,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "864":{
+        "index":1648684800000,
+        "company ID":"SR",
+        "Rank Target":0.8666666667,
+        "prediction":0.4339742064,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "856":{
+        "index":1648684800000,
+        "company ID":"MDU",
+        "Rank Target":0.7333333333,
+        "prediction":0.4153058529,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "878":{
+        "index":1656547200000,
+        "company ID":"SPH",
+        "Rank Target":0.8666666667,
+        "prediction":0.6667696238,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "875":{
+        "index":1656547200000,
+        "company ID":"OGS",
+        "Rank Target":0.4666666667,
+        "prediction":0.6496870518,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "877":{
+        "index":1656547200000,
+        "company ID":"RGCO",
+        "Rank Target":1.0,
+        "prediction":0.600969553,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "870":{
+        "index":1656547200000,
+        "company ID":"CPK",
+        "Rank Target":0.6,
+        "prediction":0.5964004397,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "874":{
+        "index":1656547200000,
+        "company ID":"NWN",
+        "Rank Target":0.2666666667,
+        "prediction":0.5929668546,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "869":{
+        "index":1656547200000,
+        "company ID":"BKH",
+        "Rank Target":0.7333333333,
+        "prediction":0.5779907107,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "880":{
+        "index":1656547200000,
+        "company ID":"SWX",
+        "Rank Target":0.1333333333,
+        "prediction":0.5531787276,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "873":{
+        "index":1656547200000,
+        "company ID":"NJR",
+        "Rank Target":0.5333333333,
+        "prediction":0.5452718735,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "876":{
+        "index":1656547200000,
+        "company ID":"OPAL",
+        "Rank Target":0.0666666667,
+        "prediction":0.5451331735,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "867":{
+        "index":1656547200000,
+        "company ID":"ATO",
+        "Rank Target":0.6666666667,
+        "prediction":0.535715878,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "868":{
+        "index":1656547200000,
+        "company ID":"BIPC",
+        "Rank Target":0.8,
+        "prediction":0.5198402405,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "872":{
+        "index":1656547200000,
+        "company ID":"NI",
+        "Rank Target":0.4,
+        "prediction":0.4900323451,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "879":{
+        "index":1656547200000,
+        "company ID":"SR",
+        "Rank Target":0.3333333333,
+        "prediction":0.483409673,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "881":{
+        "index":1656547200000,
+        "company ID":"UGI",
+        "Rank Target":0.2,
+        "prediction":0.4688898027,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "871":{
+        "index":1656547200000,
+        "company ID":"MDU",
+        "Rank Target":0.9333333333,
+        "prediction":0.3539765775,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "895":{
+        "index":1664496000000,
+        "company ID":"SWX",
+        "Rank Target":0.0666666667,
+        "prediction":0.6723174453,
+        "trueRank":15.0,
+        "predictionRank":1.0
+    },
+    "888":{
+        "index":1664496000000,
+        "company ID":"NJR",
+        "Rank Target":1.0,
+        "prediction":0.6316762567,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "890":{
+        "index":1664496000000,
+        "company ID":"OGS",
+        "Rank Target":0.4666666667,
+        "prediction":0.623434782,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "885":{
+        "index":1664496000000,
+        "company ID":"CPK",
+        "Rank Target":0.2666666667,
+        "prediction":0.5809361339,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "884":{
+        "index":1664496000000,
+        "company ID":"BKH",
+        "Rank Target":0.4,
+        "prediction":0.5614316463,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "882":{
+        "index":1664496000000,
+        "company ID":"ATO",
+        "Rank Target":0.6666666667,
+        "prediction":0.5614005327,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "887":{
+        "index":1664496000000,
+        "company ID":"NI",
+        "Rank Target":0.6,
+        "prediction":0.5389791131,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "886":{
+        "index":1664496000000,
+        "company ID":"MDU",
+        "Rank Target":0.7333333333,
+        "prediction":0.5386886001,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "894":{
+        "index":1664496000000,
+        "company ID":"SR",
+        "Rank Target":0.8666666667,
+        "prediction":0.5184038877,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "883":{
+        "index":1664496000000,
+        "company ID":"BIPC",
+        "Rank Target":0.2,
+        "prediction":0.5046647787,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "891":{
+        "index":1664496000000,
+        "company ID":"OPAL",
+        "Rank Target":0.1333333333,
+        "prediction":0.4864880145,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "896":{
+        "index":1664496000000,
+        "company ID":"UGI",
+        "Rank Target":0.9333333333,
+        "prediction":0.4609407783,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "893":{
+        "index":1664496000000,
+        "company ID":"SPH",
+        "Rank Target":0.3333333333,
+        "prediction":0.4504240751,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "892":{
+        "index":1664496000000,
+        "company ID":"RGCO",
+        "Rank Target":0.5333333333,
+        "prediction":0.4336434901,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "889":{
+        "index":1664496000000,
+        "company ID":"NWN",
+        "Rank Target":0.8,
+        "prediction":0.4315850139,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "902":{
+        "index":1672444800000,
+        "company ID":"NI",
+        "Rank Target":0.6,
+        "prediction":0.7501656413,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "899":{
+        "index":1672444800000,
+        "company ID":"BKH",
+        "Rank Target":0.0666666667,
+        "prediction":0.6241558194,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "901":{
+        "index":1672444800000,
+        "company ID":"MDU",
+        "Rank Target":0.3333333333,
+        "prediction":0.6234560609,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "908":{
+        "index":1672444800000,
+        "company ID":"SPH",
+        "Rank Target":0.4666666667,
+        "prediction":0.618530333,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "897":{
+        "index":1672444800000,
+        "company ID":"ATO",
+        "Rank Target":0.4,
+        "prediction":0.6176665425,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "898":{
+        "index":1672444800000,
+        "company ID":"BIPC",
+        "Rank Target":1.0,
+        "prediction":0.611749649,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "907":{
+        "index":1672444800000,
+        "company ID":"RGCO",
+        "Rank Target":0.8,
+        "prediction":0.6108314991,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "900":{
+        "index":1672444800000,
+        "company ID":"CPK",
+        "Rank Target":0.9333333333,
+        "prediction":0.6073052883,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "905":{
+        "index":1672444800000,
+        "company ID":"OGS",
+        "Rank Target":0.7333333333,
+        "prediction":0.5933605433,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "904":{
+        "index":1672444800000,
+        "company ID":"NWN",
+        "Rank Target":0.2666666667,
+        "prediction":0.5833192468,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "906":{
+        "index":1672444800000,
+        "company ID":"OPAL",
+        "Rank Target":0.2,
+        "prediction":0.5658476949,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "910":{
+        "index":1672444800000,
+        "company ID":"SWX",
+        "Rank Target":0.5333333333,
+        "prediction":0.5305662751,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "909":{
+        "index":1672444800000,
+        "company ID":"SR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5303730965,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "903":{
+        "index":1672444800000,
+        "company ID":"NJR",
+        "Rank Target":0.8666666667,
+        "prediction":0.5149811506,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "911":{
+        "index":1672444800000,
+        "company ID":"UGI",
+        "Rank Target":0.1333333333,
+        "prediction":0.4659714401,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "923":{
+        "index":1680220800000,
+        "company ID":"RGCO",
+        "Rank Target":0.1875,
+        "prediction":0.6468155384,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "920":{
+        "index":1680220800000,
+        "company ID":"NWN",
+        "Rank Target":0.375,
+        "prediction":0.6436569691,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "926":{
+        "index":1680220800000,
+        "company ID":"SWX",
+        "Rank Target":1.0,
+        "prediction":0.6094679236,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "921":{
+        "index":1680220800000,
+        "company ID":"OGS",
+        "Rank Target":0.8125,
+        "prediction":0.5893304348,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "925":{
+        "index":1680220800000,
+        "company ID":"SR",
+        "Rank Target":0.3125,
+        "prediction":0.5694360137,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "914":{
+        "index":1680220800000,
+        "company ID":"BKH",
+        "Rank Target":0.5625,
+        "prediction":0.5656087399,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "915":{
+        "index":1680220800000,
+        "company ID":"CPK",
+        "Rank Target":0.4375,
+        "prediction":0.5645468235,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "919":{
+        "index":1680220800000,
+        "company ID":"NJR",
+        "Rank Target":0.25,
+        "prediction":0.5390835404,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "927":{
+        "index":1680220800000,
+        "company ID":"UGI",
+        "Rank Target":0.125,
+        "prediction":0.5350206494,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "912":{
+        "index":1680220800000,
+        "company ID":"ATO",
+        "Rank Target":0.9375,
+        "prediction":0.5159758925,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "924":{
+        "index":1680220800000,
+        "company ID":"SPH",
+        "Rank Target":0.6875,
+        "prediction":0.5143988729,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "918":{
+        "index":1680220800000,
+        "company ID":"NI",
+        "Rank Target":0.75,
+        "prediction":0.4920096993,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "922":{
+        "index":1680220800000,
+        "company ID":"OPAL",
+        "Rank Target":0.5,
+        "prediction":0.4593532085,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "913":{
+        "index":1680220800000,
+        "company ID":"BIPC",
+        "Rank Target":0.625,
+        "prediction":0.4570929408,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "917":{
+        "index":1680220800000,
+        "company ID":"MDU",
+        "Rank Target":0.875,
+        "prediction":0.4250395596,
+        "trueRank":3.0,
+        "predictionRank":15.0
+    },
+    "916":{
+        "index":1680220800000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.3349898756,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "937":{
+        "index":1688083200000,
+        "company ID":"OGS",
+        "Rank Target":0.5625,
+        "prediction":0.6674975157,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "933":{
+        "index":1688083200000,
+        "company ID":"MDU",
+        "Rank Target":0.8125,
+        "prediction":0.6360564232,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "940":{
+        "index":1688083200000,
+        "company ID":"SPH",
+        "Rank Target":1.0,
+        "prediction":0.5857551098,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "942":{
+        "index":1688083200000,
+        "company ID":"SWX",
+        "Rank Target":0.875,
+        "prediction":0.5835646391,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "939":{
+        "index":1688083200000,
+        "company ID":"RGCO",
+        "Rank Target":0.4375,
+        "prediction":0.5746476054,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "931":{
+        "index":1688083200000,
+        "company ID":"CPK",
+        "Rank Target":0.1875,
+        "prediction":0.5552581549,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "938":{
+        "index":1688083200000,
+        "company ID":"OPAL",
+        "Rank Target":0.9375,
+        "prediction":0.5502460599,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "934":{
+        "index":1688083200000,
+        "company ID":"NI",
+        "Rank Target":0.6875,
+        "prediction":0.5425739288,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "941":{
+        "index":1688083200000,
+        "company ID":"SR",
+        "Rank Target":0.625,
+        "prediction":0.5411134958,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "929":{
+        "index":1688083200000,
+        "company ID":"BIPC",
+        "Rank Target":0.125,
+        "prediction":0.5231559873,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "936":{
+        "index":1688083200000,
+        "company ID":"NWN",
+        "Rank Target":0.5,
+        "prediction":0.5217417479,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "930":{
+        "index":1688083200000,
+        "company ID":"BKH",
+        "Rank Target":0.25,
+        "prediction":0.5001123548,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "943":{
+        "index":1688083200000,
+        "company ID":"UGI",
+        "Rank Target":0.3125,
+        "prediction":0.4786030054,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "928":{
+        "index":1688083200000,
+        "company ID":"ATO",
+        "Rank Target":0.75,
+        "prediction":0.4591134489,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "935":{
+        "index":1688083200000,
+        "company ID":"NJR",
+        "Rank Target":0.375,
+        "prediction":0.4406472743,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "932":{
+        "index":1688083200000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.3187420368,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "958":{
+        "index":1696032000000,
+        "company ID":"SWX",
+        "Rank Target":0.375,
+        "prediction":0.6406112313,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "945":{
+        "index":1696032000000,
+        "company ID":"BIPC",
+        "Rank Target":0.4375,
+        "prediction":0.6130441427,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "956":{
+        "index":1696032000000,
+        "company ID":"SPH",
+        "Rank Target":0.875,
+        "prediction":0.5916181803,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "953":{
+        "index":1696032000000,
+        "company ID":"OGS",
+        "Rank Target":0.1875,
+        "prediction":0.5685200095,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "954":{
+        "index":1696032000000,
+        "company ID":"OPAL",
+        "Rank Target":0.125,
+        "prediction":0.5661944151,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "955":{
+        "index":1696032000000,
+        "company ID":"RGCO",
+        "Rank Target":1.0,
+        "prediction":0.5633059144,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "950":{
+        "index":1696032000000,
+        "company ID":"NI",
+        "Rank Target":0.5625,
+        "prediction":0.5600332022,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "947":{
+        "index":1696032000000,
+        "company ID":"CPK",
+        "Rank Target":0.6875,
+        "prediction":0.5597628355,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "957":{
+        "index":1696032000000,
+        "company ID":"SR",
+        "Rank Target":0.8125,
+        "prediction":0.5577895641,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "944":{
+        "index":1696032000000,
+        "company ID":"ATO",
+        "Rank Target":0.5,
+        "prediction":0.5394876599,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "949":{
+        "index":1696032000000,
+        "company ID":"MDU",
+        "Rank Target":0.3125,
+        "prediction":0.5356271267,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "951":{
+        "index":1696032000000,
+        "company ID":"NJR",
+        "Rank Target":0.625,
+        "prediction":0.5304452181,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "959":{
+        "index":1696032000000,
+        "company ID":"UGI",
+        "Rank Target":0.9375,
+        "prediction":0.4902055562,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "946":{
+        "index":1696032000000,
+        "company ID":"BKH",
+        "Rank Target":0.75,
+        "prediction":0.4804431498,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "952":{
+        "index":1696032000000,
+        "company ID":"NWN",
+        "Rank Target":0.25,
+        "prediction":0.4198394418,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "948":{
+        "index":1696032000000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.3198626339,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "974":{
+        "index":1703980800000,
+        "company ID":"SWX",
+        "Rank Target":0.875,
+        "prediction":0.6765922904,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "966":{
+        "index":1703980800000,
+        "company ID":"NI",
+        "Rank Target":0.6875,
+        "prediction":0.6548305154,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "975":{
+        "index":1703980800000,
+        "company ID":"UGI",
+        "Rank Target":0.5,
+        "prediction":0.6520580053,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "969":{
+        "index":1703980800000,
+        "company ID":"OGS",
+        "Rank Target":0.4375,
+        "prediction":0.6257742643,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "970":{
+        "index":1703980800000,
+        "company ID":"OPAL",
+        "Rank Target":0.125,
+        "prediction":0.5978214145,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "971":{
+        "index":1703980800000,
+        "company ID":"RGCO",
+        "Rank Target":0.8125,
+        "prediction":0.5927087069,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "962":{
+        "index":1703980800000,
+        "company ID":"BKH",
+        "Rank Target":0.375,
+        "prediction":0.5818623304,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "973":{
+        "index":1703980800000,
+        "company ID":"SR",
+        "Rank Target":0.3125,
+        "prediction":0.5710921288,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "960":{
+        "index":1703980800000,
+        "company ID":"ATO",
+        "Rank Target":0.5625,
+        "prediction":0.5597444773,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "965":{
+        "index":1703980800000,
+        "company ID":"MDU",
+        "Rank Target":1.0,
+        "prediction":0.5389357209,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "961":{
+        "index":1703980800000,
+        "company ID":"BIPC",
+        "Rank Target":0.75,
+        "prediction":0.5334210396,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "967":{
+        "index":1703980800000,
+        "company ID":"NJR",
+        "Rank Target":0.25,
+        "prediction":0.531683743,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "972":{
+        "index":1703980800000,
+        "company ID":"SPH",
+        "Rank Target":0.9375,
+        "prediction":0.5172977448,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "968":{
+        "index":1703980800000,
+        "company ID":"NWN",
+        "Rank Target":0.1875,
+        "prediction":0.4684823155,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "963":{
+        "index":1703980800000,
+        "company ID":"CPK",
+        "Rank Target":0.625,
+        "prediction":0.4599209428,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "964":{
+        "index":1703980800000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.4419627488,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "988":{
+        "index":1711843200000,
+        "company ID":"SPH",
+        "Rank Target":0.1875,
+        "prediction":0.6574050784,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "983":{
+        "index":1711843200000,
+        "company ID":"NJR",
+        "Rank Target":0.625,
+        "prediction":0.6471666098,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "979":{
+        "index":1711843200000,
+        "company ID":"CPK",
+        "Rank Target":0.9375,
+        "prediction":0.6270073056,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "991":{
+        "index":1711843200000,
+        "company ID":"UGI",
+        "Rank Target":0.3125,
+        "prediction":0.6220884323,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "989":{
+        "index":1711843200000,
+        "company ID":"SR",
+        "Rank Target":0.875,
+        "prediction":0.5791859627,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "990":{
+        "index":1711843200000,
+        "company ID":"SWX",
+        "Rank Target":0.25,
+        "prediction":0.5783866048,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "976":{
+        "index":1711843200000,
+        "company ID":"ATO",
+        "Rank Target":0.5625,
+        "prediction":0.5700832009,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "982":{
+        "index":1711843200000,
+        "company ID":"NI",
+        "Rank Target":1.0,
+        "prediction":0.563972652,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "987":{
+        "index":1711843200000,
+        "company ID":"RGCO",
+        "Rank Target":0.4375,
+        "prediction":0.5610073209,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "981":{
+        "index":1711843200000,
+        "company ID":"MDU",
+        "Rank Target":0.375,
+        "prediction":0.5429230332,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "977":{
+        "index":1711843200000,
+        "company ID":"BIPC",
+        "Rank Target":0.75,
+        "prediction":0.5421509743,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "986":{
+        "index":1711843200000,
+        "company ID":"OPAL",
+        "Rank Target":0.125,
+        "prediction":0.5283177495,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "978":{
+        "index":1711843200000,
+        "company ID":"BKH",
+        "Rank Target":0.8125,
+        "prediction":0.4983824193,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "984":{
+        "index":1711843200000,
+        "company ID":"NWN",
+        "Rank Target":0.5,
+        "prediction":0.4966050982,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "980":{
+        "index":1711843200000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.4935222864,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "985":{
+        "index":1711843200000,
+        "company ID":"OGS",
+        "Rank Target":0.6875,
+        "prediction":0.4247381985,
+        "trueRank":6.0,
+        "predictionRank":16.0
+    },
+    "1007":{
+        "index":1719705600000,
+        "company ID":"UGI",
+        "Rank Target":0.4375,
+        "prediction":0.6454498768,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "998":{
+        "index":1719705600000,
+        "company ID":"NI",
+        "Rank Target":0.9375,
+        "prediction":0.6162660122,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1005":{
+        "index":1719705600000,
+        "company ID":"SR",
+        "Rank Target":0.5,
+        "prediction":0.5966724157,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "1004":{
+        "index":1719705600000,
+        "company ID":"SPH",
+        "Rank Target":0.1875,
+        "prediction":0.5795118213,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "996":{
+        "index":1719705600000,
+        "company ID":"CTRI",
+        "Rank Target":0.0625,
+        "prediction":0.5649518371,
+        "trueRank":16.0,
+        "predictionRank":5.0
+    },
+    "1001":{
+        "index":1719705600000,
+        "company ID":"OGS",
+        "Rank Target":0.8125,
+        "prediction":0.553657949,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "992":{
+        "index":1719705600000,
+        "company ID":"ATO",
+        "Rank Target":0.875,
+        "prediction":0.5509019494,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "994":{
+        "index":1719705600000,
+        "company ID":"BKH",
+        "Rank Target":0.5625,
+        "prediction":0.5450494289,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1002":{
+        "index":1719705600000,
+        "company ID":"OPAL",
+        "Rank Target":0.125,
+        "prediction":0.5443310738,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "995":{
+        "index":1719705600000,
+        "company ID":"CPK",
+        "Rank Target":0.6875,
+        "prediction":0.5311330557,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "1003":{
+        "index":1719705600000,
+        "company ID":"RGCO",
+        "Rank Target":0.75,
+        "prediction":0.516935885,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "1000":{
+        "index":1719705600000,
+        "company ID":"NWN",
+        "Rank Target":0.625,
+        "prediction":0.5160909891,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "993":{
+        "index":1719705600000,
+        "company ID":"BIPC",
+        "Rank Target":1.0,
+        "prediction":0.4952454865,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "1006":{
+        "index":1719705600000,
+        "company ID":"SWX",
+        "Rank Target":0.25,
+        "prediction":0.4854879677,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "999":{
+        "index":1719705600000,
+        "company ID":"NJR",
+        "Rank Target":0.375,
+        "prediction":0.4779749811,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "997":{
+        "index":1719705600000,
+        "company ID":"MDU",
+        "Rank Target":0.3125,
+        "prediction":0.4627969265,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "1015":{
+        "index":1727654400000,
+        "company ID":"NJR",
+        "Rank Target":0.6875,
+        "prediction":0.6640310287,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "1009":{
+        "index":1727654400000,
+        "company ID":"BIPC",
+        "Rank Target":0.25,
+        "prediction":0.6619307995,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "1014":{
+        "index":1727654400000,
+        "company ID":"NI",
+        "Rank Target":0.8125,
+        "prediction":0.6231607795,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "1018":{
+        "index":1727654400000,
+        "company ID":"OPAL",
+        "Rank Target":0.0625,
+        "prediction":0.6108526587,
+        "trueRank":16.0,
+        "predictionRank":4.0
+    },
+    "1012":{
+        "index":1727654400000,
+        "company ID":"CTRI",
+        "Rank Target":1.0,
+        "prediction":0.6016776562,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "1011":{
+        "index":1727654400000,
+        "company ID":"CPK",
+        "Rank Target":0.5,
+        "prediction":0.5974172354,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "1008":{
+        "index":1727654400000,
+        "company ID":"ATO",
+        "Rank Target":0.5625,
+        "prediction":0.5651506782,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "1021":{
+        "index":1727654400000,
+        "company ID":"SR",
+        "Rank Target":0.75,
+        "prediction":0.5369998217,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1022":{
+        "index":1727654400000,
+        "company ID":"SWX",
+        "Rank Target":0.3125,
+        "prediction":0.5352087617,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "1017":{
+        "index":1727654400000,
+        "company ID":"OGS",
+        "Rank Target":0.1875,
+        "prediction":0.5309401155,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "1010":{
+        "index":1727654400000,
+        "company ID":"BKH",
+        "Rank Target":0.375,
+        "prediction":0.5296267867,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "1013":{
+        "index":1727654400000,
+        "company ID":"MDU",
+        "Rank Target":0.9375,
+        "prediction":0.5090364218,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "1019":{
+        "index":1727654400000,
+        "company ID":"RGCO",
+        "Rank Target":0.4375,
+        "prediction":0.4803016186,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1016":{
+        "index":1727654400000,
+        "company ID":"NWN",
+        "Rank Target":0.625,
+        "prediction":0.4738455415,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "1023":{
+        "index":1727654400000,
+        "company ID":"UGI",
+        "Rank Target":0.875,
+        "prediction":0.4375907183,
+        "trueRank":3.0,
+        "predictionRank":15.0
+    },
+    "1020":{
+        "index":1727654400000,
+        "company ID":"SPH",
+        "Rank Target":0.125,
+        "prediction":0.419056654,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "1039":{
+        "index":1735603200000,
+        "company ID":"UGI",
+        "Rank Target":0.9375,
+        "prediction":0.7028356194,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1030":{
+        "index":1735603200000,
+        "company ID":"NI",
+        "Rank Target":0.75,
+        "prediction":0.6250520945,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "1026":{
+        "index":1735603200000,
+        "company ID":"BKH",
+        "Rank Target":0.4375,
+        "prediction":0.6193153858,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1033":{
+        "index":1735603200000,
+        "company ID":"OGS",
+        "Rank Target":0.8125,
+        "prediction":0.614531219,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "1028":{
+        "index":1735603200000,
+        "company ID":"CTRI",
+        "Rank Target":0.125,
+        "prediction":0.6142110825,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "1027":{
+        "index":1735603200000,
+        "company ID":"CPK",
+        "Rank Target":0.5,
+        "prediction":0.6011996865,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "1035":{
+        "index":1735603200000,
+        "company ID":"RGCO",
+        "Rank Target":0.375,
+        "prediction":0.5972220898,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "1031":{
+        "index":1735603200000,
+        "company ID":"NJR",
+        "Rank Target":0.5625,
+        "prediction":0.5789401531,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "1032":{
+        "index":1735603200000,
+        "company ID":"NWN",
+        "Rank Target":0.625,
+        "prediction":0.5588953495,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "1036":{
+        "index":1735603200000,
+        "company ID":"SPH",
+        "Rank Target":1.0,
+        "prediction":0.5234075189,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "1037":{
+        "index":1735603200000,
+        "company ID":"SR",
+        "Rank Target":0.875,
+        "prediction":0.5016650558,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "1038":{
+        "index":1735603200000,
+        "company ID":"SWX",
+        "Rank Target":0.3125,
+        "prediction":0.5004411936,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1024":{
+        "index":1735603200000,
+        "company ID":"ATO",
+        "Rank Target":0.6875,
+        "prediction":0.4960251153,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "1025":{
+        "index":1735603200000,
+        "company ID":"BIPC",
+        "Rank Target":0.25,
+        "prediction":0.4721149504,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "1034":{
+        "index":1735603200000,
+        "company ID":"OPAL",
+        "Rank Target":0.0625,
+        "prediction":0.4420666993,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1029":{
+        "index":1735603200000,
+        "company ID":"MDU",
+        "Rank Target":0.1875,
+        "prediction":0.4393331707,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "1051":{
+        "index":1743379200000,
+        "company ID":"RGCO",
+        "Rank Target":0.75,
+        "prediction":0.6960328221,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1047":{
+        "index":1743379200000,
+        "company ID":"NJR",
+        "Rank Target":0.125,
+        "prediction":0.6819295883,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "1052":{
+        "index":1743379200000,
+        "company ID":"SPH",
+        "Rank Target":0.0625,
+        "prediction":0.6342986226,
+        "trueRank":16.0,
+        "predictionRank":3.0
+    },
+    "1049":{
+        "index":1743379200000,
+        "company ID":"OGS",
+        "Rank Target":0.4375,
+        "prediction":0.6224462986,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "1046":{
+        "index":1743379200000,
+        "company ID":"NI",
+        "Rank Target":0.625,
+        "prediction":0.6119325757,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "1048":{
+        "index":1743379200000,
+        "company ID":"NWN",
+        "Rank Target":0.25,
+        "prediction":0.5965431333,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "1040":{
+        "index":1743379200000,
+        "company ID":"ATO",
+        "Rank Target":0.5,
+        "prediction":0.5793409348,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "1041":{
+        "index":1743379200000,
+        "company ID":"BIPC",
+        "Rank Target":0.875,
+        "prediction":0.5681273341,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "1042":{
+        "index":1743379200000,
+        "company ID":"BKH",
+        "Rank Target":0.3125,
+        "prediction":0.5582369566,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "1055":{
+        "index":1743379200000,
+        "company ID":"UGI",
+        "Rank Target":0.8125,
+        "prediction":0.5527021289,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "1043":{
+        "index":1743379200000,
+        "company ID":"CPK",
+        "Rank Target":0.1875,
+        "prediction":0.5369112492,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "1045":{
+        "index":1743379200000,
+        "company ID":"MDU",
+        "Rank Target":0.5625,
+        "prediction":0.5120441318,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "1044":{
+        "index":1743379200000,
+        "company ID":"CTRI",
+        "Rank Target":0.9375,
+        "prediction":0.4960407615,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "1053":{
+        "index":1743379200000,
+        "company ID":"SR",
+        "Rank Target":0.375,
+        "prediction":0.4943562448,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "1054":{
+        "index":1743379200000,
+        "company ID":"SWX",
+        "Rank Target":0.6875,
+        "prediction":0.4716888666,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "1050":{
+        "index":1743379200000,
+        "company ID":"OPAL",
+        "Rank Target":1.0,
+        "prediction":0.4634247422,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    }
+}

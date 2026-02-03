@@ -1,0 +1,1354 @@
+{
+    "659":{
+        "index":1648684800000,
+        "company ID":"ABAT",
+        "Rank Target":0.0769230769,
+        "prediction":0.7081425786,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "670":{
+        "index":1648684800000,
+        "company ID":"RSG",
+        "Rank Target":0.9230769231,
+        "prediction":0.6591714025,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "671":{
+        "index":1648684800000,
+        "company ID":"WM",
+        "Rank Target":0.8461538462,
+        "prediction":0.6236997843,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "668":{
+        "index":1648684800000,
+        "company ID":"PESI",
+        "Rank Target":0.6923076923,
+        "prediction":0.5988522768,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "663":{
+        "index":1648684800000,
+        "company ID":"CWST",
+        "Rank Target":0.6153846154,
+        "prediction":0.580162406,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "669":{
+        "index":1648684800000,
+        "company ID":"QRHC",
+        "Rank Target":0.3846153846,
+        "prediction":0.5538092256,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "666":{
+        "index":1648684800000,
+        "company ID":"MEG",
+        "Rank Target":0.3076923077,
+        "prediction":0.518388629,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "667":{
+        "index":1648684800000,
+        "company ID":"NVRI",
+        "Rank Target":0.2307692308,
+        "prediction":0.5157879591,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "660":{
+        "index":1648684800000,
+        "company ID":"AQMS",
+        "Rank Target":0.1538461538,
+        "prediction":0.4864036739,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "662":{
+        "index":1648684800000,
+        "company ID":"CLH",
+        "Rank Target":0.4615384615,
+        "prediction":0.4713722467,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "664":{
+        "index":1648684800000,
+        "company ID":"GWAV",
+        "Rank Target":0.7692307692,
+        "prediction":0.4192556143,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "661":{
+        "index":1648684800000,
+        "company ID":"AWX",
+        "Rank Target":0.5384615385,
+        "prediction":0.357367903,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "665":{
+        "index":1648684800000,
+        "company ID":"LNZA",
+        "Rank Target":1.0,
+        "prediction":0.278319478,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "676":{
+        "index":1656547200000,
+        "company ID":"CWST",
+        "Rank Target":0.8461538462,
+        "prediction":0.7282685637,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "674":{
+        "index":1656547200000,
+        "company ID":"AWX",
+        "Rank Target":0.4615384615,
+        "prediction":0.6974675059,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "675":{
+        "index":1656547200000,
+        "company ID":"CLH",
+        "Rank Target":0.9230769231,
+        "prediction":0.685233891,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "672":{
+        "index":1656547200000,
+        "company ID":"ABAT",
+        "Rank Target":0.2307692308,
+        "prediction":0.6817632914,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "679":{
+        "index":1656547200000,
+        "company ID":"MEG",
+        "Rank Target":0.6153846154,
+        "prediction":0.6758703589,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "682":{
+        "index":1656547200000,
+        "company ID":"QRHC",
+        "Rank Target":1.0,
+        "prediction":0.6599065065,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "683":{
+        "index":1656547200000,
+        "company ID":"RSG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6414245963,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "684":{
+        "index":1656547200000,
+        "company ID":"WM",
+        "Rank Target":0.7692307692,
+        "prediction":0.6146404743,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "673":{
+        "index":1656547200000,
+        "company ID":"AQMS",
+        "Rank Target":0.3846153846,
+        "prediction":0.597702384,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "681":{
+        "index":1656547200000,
+        "company ID":"PESI",
+        "Rank Target":0.3076923077,
+        "prediction":0.5262745619,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "677":{
+        "index":1656547200000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.4903048277,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "680":{
+        "index":1656547200000,
+        "company ID":"NVRI",
+        "Rank Target":0.1538461538,
+        "prediction":0.4624939561,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "678":{
+        "index":1656547200000,
+        "company ID":"LNZA",
+        "Rank Target":0.5384615385,
+        "prediction":0.4429085553,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "689":{
+        "index":1664496000000,
+        "company ID":"CWST",
+        "Rank Target":0.6923076923,
+        "prediction":0.6839473844,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "694":{
+        "index":1664496000000,
+        "company ID":"PESI",
+        "Rank Target":0.3076923077,
+        "prediction":0.6293145418,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "697":{
+        "index":1664496000000,
+        "company ID":"WM",
+        "Rank Target":0.4615384615,
+        "prediction":0.6197881103,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "688":{
+        "index":1664496000000,
+        "company ID":"CLH",
+        "Rank Target":0.5384615385,
+        "prediction":0.5992208123,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "696":{
+        "index":1664496000000,
+        "company ID":"RSG",
+        "Rank Target":0.3846153846,
+        "prediction":0.5818639398,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "693":{
+        "index":1664496000000,
+        "company ID":"NVRI",
+        "Rank Target":0.9230769231,
+        "prediction":0.5773869157,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "685":{
+        "index":1664496000000,
+        "company ID":"ABAT",
+        "Rank Target":0.2307692308,
+        "prediction":0.5751769543,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "692":{
+        "index":1664496000000,
+        "company ID":"MEG",
+        "Rank Target":0.8461538462,
+        "prediction":0.5178982615,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "687":{
+        "index":1664496000000,
+        "company ID":"AWX",
+        "Rank Target":0.7692307692,
+        "prediction":0.5089758039,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "695":{
+        "index":1664496000000,
+        "company ID":"QRHC",
+        "Rank Target":0.1538461538,
+        "prediction":0.4737390578,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "691":{
+        "index":1664496000000,
+        "company ID":"LNZA",
+        "Rank Target":0.6153846154,
+        "prediction":0.4464689195,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "690":{
+        "index":1664496000000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.3913167715,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "686":{
+        "index":1664496000000,
+        "company ID":"AQMS",
+        "Rank Target":1.0,
+        "prediction":0.3747716844,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "702":{
+        "index":1672444800000,
+        "company ID":"CWST",
+        "Rank Target":0.3846153846,
+        "prediction":0.6183901429,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "698":{
+        "index":1672444800000,
+        "company ID":"ABAT",
+        "Rank Target":0.9230769231,
+        "prediction":0.5896264315,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "701":{
+        "index":1672444800000,
+        "company ID":"CLH",
+        "Rank Target":0.8461538462,
+        "prediction":0.5850825906,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "709":{
+        "index":1672444800000,
+        "company ID":"RSG",
+        "Rank Target":0.6153846154,
+        "prediction":0.5805524588,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "699":{
+        "index":1672444800000,
+        "company ID":"AQMS",
+        "Rank Target":0.2307692308,
+        "prediction":0.5765972733,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "710":{
+        "index":1672444800000,
+        "company ID":"WM",
+        "Rank Target":0.4615384615,
+        "prediction":0.5759941339,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "705":{
+        "index":1672444800000,
+        "company ID":"MEG",
+        "Rank Target":0.1538461538,
+        "prediction":0.5659800768,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "706":{
+        "index":1672444800000,
+        "company ID":"NVRI",
+        "Rank Target":0.6923076923,
+        "prediction":0.5432013273,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "708":{
+        "index":1672444800000,
+        "company ID":"QRHC",
+        "Rank Target":0.5384615385,
+        "prediction":0.5290120244,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "700":{
+        "index":1672444800000,
+        "company ID":"AWX",
+        "Rank Target":0.3076923077,
+        "prediction":0.5244809389,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "707":{
+        "index":1672444800000,
+        "company ID":"PESI",
+        "Rank Target":1.0,
+        "prediction":0.5075583458,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "704":{
+        "index":1672444800000,
+        "company ID":"LNZA",
+        "Rank Target":0.0769230769,
+        "prediction":0.4644356668,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "703":{
+        "index":1672444800000,
+        "company ID":"GWAV",
+        "Rank Target":0.7692307692,
+        "prediction":0.4177863896,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "720":{
+        "index":1680220800000,
+        "company ID":"PESI",
+        "Rank Target":0.3076923077,
+        "prediction":0.7714755535,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "719":{
+        "index":1680220800000,
+        "company ID":"NVRI",
+        "Rank Target":0.9230769231,
+        "prediction":0.6921540499,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "721":{
+        "index":1680220800000,
+        "company ID":"QRHC",
+        "Rank Target":0.3846153846,
+        "prediction":0.6821162105,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "722":{
+        "index":1680220800000,
+        "company ID":"RSG",
+        "Rank Target":0.6153846154,
+        "prediction":0.5896308422,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "723":{
+        "index":1680220800000,
+        "company ID":"WM",
+        "Rank Target":0.4615384615,
+        "prediction":0.5548146367,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "711":{
+        "index":1680220800000,
+        "company ID":"ABAT",
+        "Rank Target":0.1538461538,
+        "prediction":0.5491902828,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "715":{
+        "index":1680220800000,
+        "company ID":"CWST",
+        "Rank Target":0.5384615385,
+        "prediction":0.5375874639,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "712":{
+        "index":1680220800000,
+        "company ID":"AQMS",
+        "Rank Target":0.7692307692,
+        "prediction":0.5268736482,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "718":{
+        "index":1680220800000,
+        "company ID":"MEG",
+        "Rank Target":0.8461538462,
+        "prediction":0.5225672722,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "716":{
+        "index":1680220800000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.4926190376,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "714":{
+        "index":1680220800000,
+        "company ID":"CLH",
+        "Rank Target":0.6923076923,
+        "prediction":0.4893802106,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "717":{
+        "index":1680220800000,
+        "company ID":"LNZA",
+        "Rank Target":1.0,
+        "prediction":0.4211645126,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "713":{
+        "index":1680220800000,
+        "company ID":"AWX",
+        "Rank Target":0.2307692308,
+        "prediction":0.3606499434,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "733":{
+        "index":1688083200000,
+        "company ID":"PESI",
+        "Rank Target":0.8461538462,
+        "prediction":0.7027371526,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "726":{
+        "index":1688083200000,
+        "company ID":"AWX",
+        "Rank Target":0.3846153846,
+        "prediction":0.6758774519,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "728":{
+        "index":1688083200000,
+        "company ID":"CWST",
+        "Rank Target":0.4615384615,
+        "prediction":0.6346157789,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "727":{
+        "index":1688083200000,
+        "company ID":"CLH",
+        "Rank Target":0.9230769231,
+        "prediction":0.6335416436,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "731":{
+        "index":1688083200000,
+        "company ID":"MEG",
+        "Rank Target":0.1538461538,
+        "prediction":0.6288293004,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "735":{
+        "index":1688083200000,
+        "company ID":"RSG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6138521433,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "736":{
+        "index":1688083200000,
+        "company ID":"WM",
+        "Rank Target":0.6153846154,
+        "prediction":0.6084481478,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "729":{
+        "index":1688083200000,
+        "company ID":"GWAV",
+        "Rank Target":0.5384615385,
+        "prediction":0.5806681514,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "724":{
+        "index":1688083200000,
+        "company ID":"ABAT",
+        "Rank Target":0.3076923077,
+        "prediction":0.5766218901,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "732":{
+        "index":1688083200000,
+        "company ID":"NVRI",
+        "Rank Target":0.2307692308,
+        "prediction":0.5462629199,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "725":{
+        "index":1688083200000,
+        "company ID":"AQMS",
+        "Rank Target":0.7692307692,
+        "prediction":0.5456179976,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "734":{
+        "index":1688083200000,
+        "company ID":"QRHC",
+        "Rank Target":1.0,
+        "prediction":0.5436774492,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "730":{
+        "index":1688083200000,
+        "company ID":"LNZA",
+        "Rank Target":0.0769230769,
+        "prediction":0.390473485,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "744":{
+        "index":1696032000000,
+        "company ID":"MEG",
+        "Rank Target":0.7692307692,
+        "prediction":0.7055386305,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "737":{
+        "index":1696032000000,
+        "company ID":"ABAT",
+        "Rank Target":0.0769230769,
+        "prediction":0.6694194078,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "741":{
+        "index":1696032000000,
+        "company ID":"CWST",
+        "Rank Target":0.5384615385,
+        "prediction":0.6534943581,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "748":{
+        "index":1696032000000,
+        "company ID":"RSG",
+        "Rank Target":0.6153846154,
+        "prediction":0.6327718496,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "749":{
+        "index":1696032000000,
+        "company ID":"WM",
+        "Rank Target":0.6923076923,
+        "prediction":0.6322958469,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "740":{
+        "index":1696032000000,
+        "company ID":"CLH",
+        "Rank Target":0.4615384615,
+        "prediction":0.6040199995,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "739":{
+        "index":1696032000000,
+        "company ID":"AWX",
+        "Rank Target":0.8461538462,
+        "prediction":0.5997953415,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "746":{
+        "index":1696032000000,
+        "company ID":"PESI",
+        "Rank Target":0.2307692308,
+        "prediction":0.5975609422,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "747":{
+        "index":1696032000000,
+        "company ID":"QRHC",
+        "Rank Target":0.3846153846,
+        "prediction":0.5729672313,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "745":{
+        "index":1696032000000,
+        "company ID":"NVRI",
+        "Rank Target":1.0,
+        "prediction":0.5174973011,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "738":{
+        "index":1696032000000,
+        "company ID":"AQMS",
+        "Rank Target":0.1538461538,
+        "prediction":0.4853030741,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "743":{
+        "index":1696032000000,
+        "company ID":"LNZA",
+        "Rank Target":0.9230769231,
+        "prediction":0.3991145194,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "742":{
+        "index":1696032000000,
+        "company ID":"GWAV",
+        "Rank Target":0.3076923077,
+        "prediction":0.380043149,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "750":{
+        "index":1703980800000,
+        "company ID":"ABAT",
+        "Rank Target":0.1538461538,
+        "prediction":0.6601551771,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "759":{
+        "index":1703980800000,
+        "company ID":"PESI",
+        "Rank Target":1.0,
+        "prediction":0.6543214321,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "753":{
+        "index":1703980800000,
+        "company ID":"CLH",
+        "Rank Target":0.8461538462,
+        "prediction":0.6180695891,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "761":{
+        "index":1703980800000,
+        "company ID":"RSG",
+        "Rank Target":0.5384615385,
+        "prediction":0.6013998389,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "760":{
+        "index":1703980800000,
+        "company ID":"QRHC",
+        "Rank Target":0.6153846154,
+        "prediction":0.5829228759,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "757":{
+        "index":1703980800000,
+        "company ID":"MEG",
+        "Rank Target":0.9230769231,
+        "prediction":0.5705292821,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "762":{
+        "index":1703980800000,
+        "company ID":"WM",
+        "Rank Target":0.6923076923,
+        "prediction":0.5644726753,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "755":{
+        "index":1703980800000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.5523784161,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "758":{
+        "index":1703980800000,
+        "company ID":"NVRI",
+        "Rank Target":0.4615384615,
+        "prediction":0.548920691,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "754":{
+        "index":1703980800000,
+        "company ID":"CWST",
+        "Rank Target":0.7692307692,
+        "prediction":0.524009645,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "752":{
+        "index":1703980800000,
+        "company ID":"AWX",
+        "Rank Target":0.3846153846,
+        "prediction":0.4892792106,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "751":{
+        "index":1703980800000,
+        "company ID":"AQMS",
+        "Rank Target":0.3076923077,
+        "prediction":0.4619981349,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "756":{
+        "index":1703980800000,
+        "company ID":"LNZA",
+        "Rank Target":0.2307692308,
+        "prediction":0.3996523917,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "763":{
+        "index":1711843200000,
+        "company ID":"ABAT",
+        "Rank Target":0.3076923077,
+        "prediction":0.6733711362,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "774":{
+        "index":1711843200000,
+        "company ID":"RSG",
+        "Rank Target":0.8461538462,
+        "prediction":0.6450056434,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "773":{
+        "index":1711843200000,
+        "company ID":"QRHC",
+        "Rank Target":0.5384615385,
+        "prediction":0.6383926868,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "765":{
+        "index":1711843200000,
+        "company ID":"AWX",
+        "Rank Target":0.4615384615,
+        "prediction":0.618437171,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "775":{
+        "index":1711843200000,
+        "company ID":"WM",
+        "Rank Target":0.7692307692,
+        "prediction":0.5930128694,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "771":{
+        "index":1711843200000,
+        "company ID":"NVRI",
+        "Rank Target":0.6153846154,
+        "prediction":0.5905297995,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "766":{
+        "index":1711843200000,
+        "company ID":"CLH",
+        "Rank Target":1.0,
+        "prediction":0.5129085779,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "770":{
+        "index":1711843200000,
+        "company ID":"MEG",
+        "Rank Target":0.6923076923,
+        "prediction":0.4825432897,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "767":{
+        "index":1711843200000,
+        "company ID":"CWST",
+        "Rank Target":0.9230769231,
+        "prediction":0.4760075212,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "764":{
+        "index":1711843200000,
+        "company ID":"AQMS",
+        "Rank Target":0.1538461538,
+        "prediction":0.4553542733,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "772":{
+        "index":1711843200000,
+        "company ID":"PESI",
+        "Rank Target":0.3846153846,
+        "prediction":0.4261627197,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "769":{
+        "index":1711843200000,
+        "company ID":"LNZA",
+        "Rank Target":0.2307692308,
+        "prediction":0.3741476238,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "768":{
+        "index":1711843200000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.3136541843,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "778":{
+        "index":1719705600000,
+        "company ID":"AWX",
+        "Rank Target":0.9230769231,
+        "prediction":0.7555006146,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "780":{
+        "index":1719705600000,
+        "company ID":"CWST",
+        "Rank Target":0.6153846154,
+        "prediction":0.6886224747,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "779":{
+        "index":1719705600000,
+        "company ID":"CLH",
+        "Rank Target":0.7692307692,
+        "prediction":0.6791729927,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "777":{
+        "index":1719705600000,
+        "company ID":"AQMS",
+        "Rank Target":0.1538461538,
+        "prediction":0.639128089,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "783":{
+        "index":1719705600000,
+        "company ID":"MEG",
+        "Rank Target":0.2307692308,
+        "prediction":0.6344899535,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "787":{
+        "index":1719705600000,
+        "company ID":"RSG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6202530861,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "788":{
+        "index":1719705600000,
+        "company ID":"WM",
+        "Rank Target":0.5384615385,
+        "prediction":0.5940354466,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "776":{
+        "index":1719705600000,
+        "company ID":"ABAT",
+        "Rank Target":0.3846153846,
+        "prediction":0.5538454056,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "784":{
+        "index":1719705600000,
+        "company ID":"NVRI",
+        "Rank Target":0.8461538462,
+        "prediction":0.5345548987,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "786":{
+        "index":1719705600000,
+        "company ID":"QRHC",
+        "Rank Target":0.4615384615,
+        "prediction":0.5286684632,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "781":{
+        "index":1719705600000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.4800186455,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "785":{
+        "index":1719705600000,
+        "company ID":"PESI",
+        "Rank Target":1.0,
+        "prediction":0.463884443,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "782":{
+        "index":1719705600000,
+        "company ID":"LNZA",
+        "Rank Target":0.3076923077,
+        "prediction":0.363047868,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "796":{
+        "index":1727654400000,
+        "company ID":"MEG",
+        "Rank Target":0.3846153846,
+        "prediction":0.6686258912,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "800":{
+        "index":1727654400000,
+        "company ID":"RSG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6458559036,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "790":{
+        "index":1727654400000,
+        "company ID":"AQMS",
+        "Rank Target":0.0769230769,
+        "prediction":0.6287449598,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "791":{
+        "index":1727654400000,
+        "company ID":"AWX",
+        "Rank Target":0.8461538462,
+        "prediction":0.6267415285,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "801":{
+        "index":1727654400000,
+        "company ID":"WM",
+        "Rank Target":0.6153846154,
+        "prediction":0.6202520728,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "792":{
+        "index":1727654400000,
+        "company ID":"CLH",
+        "Rank Target":0.5384615385,
+        "prediction":0.6186767817,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "793":{
+        "index":1727654400000,
+        "company ID":"CWST",
+        "Rank Target":0.7692307692,
+        "prediction":0.6179673672,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "797":{
+        "index":1727654400000,
+        "company ID":"NVRI",
+        "Rank Target":0.1538461538,
+        "prediction":0.5787898302,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "789":{
+        "index":1727654400000,
+        "company ID":"ABAT",
+        "Rank Target":1.0,
+        "prediction":0.5260533094,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "794":{
+        "index":1727654400000,
+        "company ID":"GWAV",
+        "Rank Target":0.9230769231,
+        "prediction":0.5258290768,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "799":{
+        "index":1727654400000,
+        "company ID":"QRHC",
+        "Rank Target":0.2307692308,
+        "prediction":0.5076572895,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "798":{
+        "index":1727654400000,
+        "company ID":"PESI",
+        "Rank Target":0.4615384615,
+        "prediction":0.4894063175,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "795":{
+        "index":1727654400000,
+        "company ID":"LNZA",
+        "Rank Target":0.3076923077,
+        "prediction":0.2909433544,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "805":{
+        "index":1735603200000,
+        "company ID":"CLH",
+        "Rank Target":0.7692307692,
+        "prediction":0.6060212851,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "803":{
+        "index":1735603200000,
+        "company ID":"AQMS",
+        "Rank Target":0.4615384615,
+        "prediction":0.5994856358,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "802":{
+        "index":1735603200000,
+        "company ID":"ABAT",
+        "Rank Target":0.2307692308,
+        "prediction":0.5891337395,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "813":{
+        "index":1735603200000,
+        "company ID":"RSG",
+        "Rank Target":1.0,
+        "prediction":0.5875659585,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "806":{
+        "index":1735603200000,
+        "company ID":"CWST",
+        "Rank Target":0.8461538462,
+        "prediction":0.5793361664,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "814":{
+        "index":1735603200000,
+        "company ID":"WM",
+        "Rank Target":0.9230769231,
+        "prediction":0.5731832981,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "812":{
+        "index":1735603200000,
+        "company ID":"QRHC",
+        "Rank Target":0.3076923077,
+        "prediction":0.5354226232,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "804":{
+        "index":1735603200000,
+        "company ID":"AWX",
+        "Rank Target":0.6153846154,
+        "prediction":0.525244534,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "811":{
+        "index":1735603200000,
+        "company ID":"PESI",
+        "Rank Target":0.3846153846,
+        "prediction":0.4782018065,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "809":{
+        "index":1735603200000,
+        "company ID":"MEG",
+        "Rank Target":0.5384615385,
+        "prediction":0.4695589542,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "810":{
+        "index":1735603200000,
+        "company ID":"NVRI",
+        "Rank Target":0.6923076923,
+        "prediction":0.4363640845,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "808":{
+        "index":1735603200000,
+        "company ID":"LNZA",
+        "Rank Target":0.0769230769,
+        "prediction":0.3282454014,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "807":{
+        "index":1735603200000,
+        "company ID":"GWAV",
+        "Rank Target":0.1538461538,
+        "prediction":0.2964216769,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "823":{
+        "index":1743379200000,
+        "company ID":"NVRI",
+        "Rank Target":0.7692307692,
+        "prediction":0.7102516294,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "822":{
+        "index":1743379200000,
+        "company ID":"MEG",
+        "Rank Target":1.0,
+        "prediction":0.6413188577,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "815":{
+        "index":1743379200000,
+        "company ID":"ABAT",
+        "Rank Target":0.8461538462,
+        "prediction":0.5999311805,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "826":{
+        "index":1743379200000,
+        "company ID":"RSG",
+        "Rank Target":0.4615384615,
+        "prediction":0.5819076896,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "827":{
+        "index":1743379200000,
+        "company ID":"WM",
+        "Rank Target":0.3846153846,
+        "prediction":0.5808582306,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "819":{
+        "index":1743379200000,
+        "company ID":"CWST",
+        "Rank Target":0.5384615385,
+        "prediction":0.5368587375,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "824":{
+        "index":1743379200000,
+        "company ID":"PESI",
+        "Rank Target":0.9230769231,
+        "prediction":0.5208434463,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "816":{
+        "index":1743379200000,
+        "company ID":"AQMS",
+        "Rank Target":0.1538461538,
+        "prediction":0.5127913356,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "818":{
+        "index":1743379200000,
+        "company ID":"CLH",
+        "Rank Target":0.6923076923,
+        "prediction":0.4973707497,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "825":{
+        "index":1743379200000,
+        "company ID":"QRHC",
+        "Rank Target":0.2307692308,
+        "prediction":0.4418678284,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "820":{
+        "index":1743379200000,
+        "company ID":"GWAV",
+        "Rank Target":0.0769230769,
+        "prediction":0.3812603056,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "817":{
+        "index":1743379200000,
+        "company ID":"AWX",
+        "Rank Target":0.3076923077,
+        "prediction":0.3619319201,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "821":{
+        "index":1743379200000,
+        "company ID":"LNZA",
+        "Rank Target":0.6153846154,
+        "prediction":0.2989003658,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    }
+}

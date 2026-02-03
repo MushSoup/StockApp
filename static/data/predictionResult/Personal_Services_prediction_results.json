@@ -1,0 +1,79 @@
+{
+    "686":{
+        "company ID":"FTDR",
+        "score":0.7959738374,
+        "Rank":1.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":11.263140273
+    },
+    "690":{
+        "company ID":"RGS",
+        "score":0.749550581,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":23.0802429291
+    },
+    "691":{
+        "company ID":"ROL",
+        "score":0.7202922106,
+        "Rank":3.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":3.9779000265
+    },
+    "692":{
+        "company ID":"SCI",
+        "score":0.6288164854,
+        "Rank":4.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":2.2058677581
+    },
+    "684":{
+        "company ID":"BFAM",
+        "score":0.6236010194,
+        "Rank":5.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-9.951899003
+    },
+    "685":{
+        "company ID":"CSV",
+        "score":0.5962460637,
+        "Rank":6.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":-3.5748620994
+    },
+    "687":{
+        "company ID":"HRB",
+        "score":0.5840895176,
+        "Rank":7.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":-9.0873808236
+    },
+    "694":{
+        "company ID":"WW",
+        "score":0.4995980263,
+        "Rank":8.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-22.6666660173
+    },
+    "689":{
+        "company ID":"MED",
+        "score":0.4618394971,
+        "Rank":9.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":-5.0754442728
+    },
+    "693":{
+        "company ID":"TRNR",
+        "score":0.3629456162,
+        "Rank":10.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-37.4538734838
+    },
+    "688":{
+        "company ID":"IVP",
+        "score":0.3282764256,
+        "Rank":11.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-30.555558314
+    }
+}

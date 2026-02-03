@@ -1,0 +1,156 @@
+{
+    "1497":{
+        "company ID":"ASYS",
+        "score":0.6983435154,
+        "Rank":1.0,
+        "Rank Target":0.9545454545,
+        "stockDifferencePercentage":106.2499940113
+    },
+    "1509":{
+        "company ID":"LRCX",
+        "score":0.6573050022,
+        "Rank":2.0,
+        "Rank Target":0.7727272727,
+        "stockDifferencePercentage":32.9307436849
+    },
+    "1507":{
+        "company ID":"KLAC",
+        "score":0.6435455084,
+        "Rank":3.0,
+        "Rank Target":0.5909090909,
+        "stockDifferencePercentage":15.3438097349
+    },
+    "1499":{
+        "company ID":"AXTI",
+        "score":0.6060724854,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":128.5046554579
+    },
+    "1512":{
+        "company ID":"TER",
+        "score":0.5860453248,
+        "Rank":5.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":44.4929730362
+    },
+    "1494":{
+        "company ID":"ACLS",
+        "score":0.577902317,
+        "Rank":6.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":32.3932033627
+    },
+    "1505":{
+        "company ID":"INTT",
+        "score":0.5621259809,
+        "Rank":7.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":14.7058786209
+    },
+    "1515":{
+        "company ID":"VECO",
+        "score":0.5616717339,
+        "Rank":8.0,
+        "Rank Target":0.8636363636,
+        "stockDifferencePercentage":41.864798242
+    },
+    "1495":{
+        "company ID":"ACMR",
+        "score":0.5452051759,
+        "Rank":9.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":38.942826795
+    },
+    "1513":{
+        "company ID":"TRT",
+        "score":0.5409190655,
+        "Rank":10.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":10.3646824921
+    },
+    "1496":{
+        "company ID":"AMKR",
+        "score":0.5383552313,
+        "Rank":11.0,
+        "Rank Target":0.6818181818,
+        "stockDifferencePercentage":28.7421985316
+    },
+    "1501":{
+        "company ID":"ENTG",
+        "score":0.5336886644,
+        "Rank":12.0,
+        "Rank Target":0.4090909091,
+        "stockDifferencePercentage":8.0457288978
+    },
+    "1510":{
+        "company ID":"ONTO",
+        "score":0.5261364579,
+        "Rank":13.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":25.336402104
+    },
+    "1502":{
+        "company ID":"FORM",
+        "score":0.5122673512,
+        "Rank":14.0,
+        "Rank Target":0.2272727273,
+        "stockDifferencePercentage":0.193476214
+    },
+    "1508":{
+        "company ID":"KLIC",
+        "score":0.511752367,
+        "Rank":15.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":10.8877417664
+    },
+    "1511":{
+        "company ID":"Q",
+        "score":0.4894958436,
+        "Rank":16.0,
+        "Rank Target":0.0454545455,
+        "stockDifferencePercentage":-100.0
+    },
+    "1514":{
+        "company ID":"UCTT",
+        "score":0.4781880379,
+        "Rank":17.0,
+        "Rank Target":0.3181818182,
+        "stockDifferencePercentage":6.1757698011
+    },
+    "1506":{
+        "company ID":"IPGP",
+        "score":0.4462463856,
+        "Rank":18.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":7.1166721291
+    },
+    "1503":{
+        "company ID":"ICHR",
+        "score":0.4268203378,
+        "Rank":19.0,
+        "Rank Target":0.1363636364,
+        "stockDifferencePercentage":-24.3837991885
+    },
+    "1498":{
+        "company ID":"ATOM",
+        "score":0.424418807,
+        "Rank":20.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-24.4575977516
+    },
+    "1504":{
+        "company ID":"INDI",
+        "score":0.3956753612,
+        "Rank":21.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":5.3475948447
+    },
+    "1500":{
+        "company ID":"COHU",
+        "score":0.3684385717,
+        "Rank":22.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-2.1929861255
+    }
+}

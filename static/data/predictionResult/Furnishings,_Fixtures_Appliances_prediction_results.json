@@ -1,0 +1,156 @@
+{
+    "1679":{
+        "company ID":"TILE",
+        "score":0.7546573281,
+        "Rank":1.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":29.9209459145
+    },
+    "1666":{
+        "company ID":"FLXS",
+        "score":0.7504477501,
+        "Rank":2.0,
+        "Rank Target":0.7727272727,
+        "stockDifferencePercentage":22.4732627693
+    },
+    "1672":{
+        "company ID":"MHK",
+        "score":0.6655173302,
+        "Rank":3.0,
+        "Rank Target":0.6818181818,
+        "stockDifferencePercentage":15.5810220526
+    },
+    "1668":{
+        "company ID":"HNI",
+        "score":0.6620454192,
+        "Rank":4.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-10.0449739063
+    },
+    "1681":{
+        "company ID":"XWIN",
+        "score":0.6531837583,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":303.6764495128
+    },
+    "1662":{
+        "company ID":"CRWS",
+        "score":0.633045733,
+        "Rank":6.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-0.4127835795
+    },
+    "1670":{
+        "company ID":"LEG",
+        "score":0.6106923223,
+        "Rank":7.0,
+        "Rank Target":0.3181818182,
+        "stockDifferencePercentage":-10.9624312029
+    },
+    "1677":{
+        "company ID":"SN",
+        "score":0.5988061428,
+        "Rank":8.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":-0.9511345239
+    },
+    "1674":{
+        "company ID":"PATK",
+        "score":0.588062048,
+        "Rank":9.0,
+        "Rank Target":0.5909090909,
+        "stockDifferencePercentage":5.4218130283
+    },
+    "1664":{
+        "company ID":"ETD",
+        "score":0.5839337111,
+        "Rank":10.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":-0.1555911076
+    },
+    "1665":{
+        "company ID":"FGI",
+        "score":0.5819861889,
+        "Rank":11.0,
+        "Rank Target":0.9545454545,
+        "stockDifferencePercentage":74.6988044397
+    },
+    "1663":{
+        "company ID":"EFOI",
+        "score":0.576109767,
+        "Rank":12.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":23.9130419003
+    },
+    "1671":{
+        "company ID":"MBC",
+        "score":0.5537242293,
+        "Rank":13.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":15.9482704048
+    },
+    "1669":{
+        "company ID":"LCUT",
+        "score":0.5377501249,
+        "Rank":14.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-25.0502127066
+    },
+    "1676":{
+        "company ID":"SGI",
+        "score":0.5108051896,
+        "Rank":15.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":15.0174999198
+    },
+    "1675":{
+        "company ID":"PRPL",
+        "score":0.4972864687,
+        "Rank":16.0,
+        "Rank Target":0.8636363636,
+        "stockDifferencePercentage":28.272254044
+    },
+    "1680":{
+        "company ID":"WHR",
+        "score":0.4198864996,
+        "Rank":17.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-28.0233916401
+    },
+    "1667":{
+        "company ID":"HBB",
+        "score":0.4159783423,
+        "Rank":18.0,
+        "Rank Target":0.2272727273,
+        "stockDifferencePercentage":-25.5361860326
+    },
+    "1661":{
+        "company ID":"COOK",
+        "score":0.3795835674,
+        "Rank":19.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-33.8709672235
+    },
+    "1678":{
+        "company ID":"SNBR",
+        "score":0.3771447241,
+        "Rank":20.0,
+        "Rank Target":0.4090909091,
+        "stockDifferencePercentage":-6.315789803
+    },
+    "1660":{
+        "company ID":"ATER",
+        "score":0.31955567,
+        "Rank":21.0,
+        "Rank Target":0.0454545455,
+        "stockDifferencePercentage":-34.1935475942
+    },
+    "1673":{
+        "company ID":"NCL",
+        "score":0.2608499229,
+        "Rank":22.0,
+        "Rank Target":0.1363636364,
+        "stockDifferencePercentage":-28.0487820387
+    }
+}

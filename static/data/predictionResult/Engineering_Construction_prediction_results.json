@@ -1,0 +1,233 @@
+{
+    "2101":{
+        "company ID":"WLDN",
+        "score":0.7385565042,
+        "Rank":1.0,
+        "Rank Target":0.7878787879,
+        "stockDifferencePercentage":33.0843667486
+    },
+    "2092":{
+        "company ID":"PRIM",
+        "score":0.6966828704,
+        "Rank":2.0,
+        "Rank Target":0.9393939394,
+        "stockDifferencePercentage":59.0131093953
+    },
+    "2080":{
+        "company ID":"FIX",
+        "score":0.6945460439,
+        "Rank":3.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":48.3181370961
+    },
+    "2099":{
+        "company ID":"TTEK",
+        "score":0.6922243237,
+        "Rank":4.0,
+        "Rank Target":0.1515151515,
+        "stockDifferencePercentage":-7.9478950034
+    },
+    "2098":{
+        "company ID":"TPC",
+        "score":0.6714302301,
+        "Rank":5.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":35.8032390866
+    },
+    "2094":{
+        "company ID":"ROAD",
+        "score":0.6524664164,
+        "Rank":6.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":17.309469101
+    },
+    "2097":{
+        "company ID":"STRL",
+        "score":0.6341478229,
+        "Rank":7.0,
+        "Rank Target":0.8787878788,
+        "stockDifferencePercentage":44.1247343316
+    },
+    "2083":{
+        "company ID":"GVA",
+        "score":0.6304363012,
+        "Rank":8.0,
+        "Rank Target":0.5757575758,
+        "stockDifferencePercentage":16.1448319872
+    },
+    "2084":{
+        "company ID":"IESC",
+        "score":0.6217592955,
+        "Rank":9.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":27.5709049889
+    },
+    "2075":{
+        "company ID":"BWMN",
+        "score":0.607034266,
+        "Rank":10.0,
+        "Rank Target":0.8484848485,
+        "stockDifferencePercentage":40.2824530659
+    },
+    "2076":{
+        "company ID":"ECG",
+        "score":0.6037323475,
+        "Rank":11.0,
+        "Rank Target":0.696969697,
+        "stockDifferencePercentage":27.3634027005
+    },
+    "2089":{
+        "company ID":"MTZ",
+        "score":0.5940313935,
+        "Rank":12.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":21.909362846
+    },
+    "2069":{
+        "company ID":"ACA",
+        "score":0.5849781632,
+        "Rank":13.0,
+        "Rank Target":0.3939393939,
+        "stockDifferencePercentage":2.5346173028
+    },
+    "2085":{
+        "company ID":"J",
+        "score":0.5721746683,
+        "Rank":14.0,
+        "Rank Target":0.4848484848,
+        "stockDifferencePercentage":12.1960424748
+    },
+    "2078":{
+        "company ID":"ESOA",
+        "score":0.5693944097,
+        "Rank":15.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":1.7224861482
+    },
+    "2077":{
+        "company ID":"EME",
+        "score":0.5569959283,
+        "Rank":16.0,
+        "Rank Target":0.6060606061,
+        "stockDifferencePercentage":17.1225063497
+    },
+    "2070":{
+        "company ID":"ACM",
+        "score":0.5418056846,
+        "Rank":17.0,
+        "Rank Target":0.5151515152,
+        "stockDifferencePercentage":12.1986907175
+    },
+    "2093":{
+        "company ID":"PWR",
+        "score":0.5326679945,
+        "Rank":18.0,
+        "Rank Target":0.4242424242,
+        "stockDifferencePercentage":5.8471874594
+    },
+    "2072":{
+        "company ID":"APG",
+        "score":0.5321778655,
+        "Rank":19.0,
+        "Rank Target":0.303030303,
+        "stockDifferencePercentage":-0.1165188275
+    },
+    "2090":{
+        "company ID":"MYRG",
+        "score":0.5124735236,
+        "Rank":20.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":9.5563253528
+    },
+    "2095":{
+        "company ID":"SHIM",
+        "score":0.4936366379,
+        "Rank":21.0,
+        "Rank Target":0.7575757576,
+        "stockDifferencePercentage":32.8358253194
+    },
+    "2071":{
+        "company ID":"AMRC",
+        "score":0.4887692332,
+        "Rank":22.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":103.212379136
+    },
+    "2073":{
+        "company ID":"BLD",
+        "score":0.4886978269,
+        "Rank":23.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":12.9505475308
+    },
+    "2082":{
+        "company ID":"GLDD",
+        "score":0.485016346,
+        "Rank":24.0,
+        "Rank Target":0.2424242424,
+        "stockDifferencePercentage":-1.1608651611
+    },
+    "2086":{
+        "company ID":"KBR",
+        "score":0.4771246612,
+        "Rank":25.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-1.097562048
+    },
+    "2096":{
+        "company ID":"SLND",
+        "score":0.4088768959,
+        "Rank":26.0,
+        "Rank Target":0.2121212121,
+        "stockDifferencePercentage":-6.0133629101
+    },
+    "2087":{
+        "company ID":"LGN",
+        "score":0.3954169452,
+        "Rank":27.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":2.0327896367
+    },
+    "2091":{
+        "company ID":"ORN",
+        "score":0.3914631903,
+        "Rank":28.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-12.0833411979
+    },
+    "2088":{
+        "company ID":"MTRX",
+        "score":0.3890054822,
+        "Rank":29.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-7.7144895726
+    },
+    "2100":{
+        "company ID":"VATE",
+        "score":0.3561843634,
+        "Rank":30.0,
+        "Rank Target":0.0606060606,
+        "stockDifferencePercentage":-15.7798107668
+    },
+    "2079":{
+        "company ID":"EXPO",
+        "score":0.3439887762,
+        "Rank":31.0,
+        "Rank Target":0.1212121212,
+        "stockDifferencePercentage":-9.641543473
+    },
+    "2074":{
+        "company ID":"BLNK",
+        "score":0.3409459889,
+        "Rank":32.0,
+        "Rank Target":0.9696969697,
+        "stockDifferencePercentage":81.535272233
+    },
+    "2081":{
+        "company ID":"FLR",
+        "score":0.3255006671,
+        "Rank":33.0,
+        "Rank Target":0.0303030303,
+        "stockDifferencePercentage":-19.181196463
+    }
+}

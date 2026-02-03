@@ -1,0 +1,850 @@
+{
+    "505":{
+        "index":1648684800000,
+        "company ID":"RS",
+        "Rank Target":0.75,
+        "prediction":0.7238932252,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "506":{
+        "index":1648684800000,
+        "company ID":"STLD",
+        "Rank Target":0.5,
+        "prediction":0.6591699719,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "501":{
+        "index":1648684800000,
+        "company ID":"FRD",
+        "Rank Target":0.875,
+        "prediction":0.6410048008,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "507":{
+        "index":1648684800000,
+        "company ID":"ZEUS",
+        "Rank Target":0.25,
+        "prediction":0.5865157843,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "503":{
+        "index":1648684800000,
+        "company ID":"NUE",
+        "Rank Target":0.375,
+        "prediction":0.5719391704,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "500":{
+        "index":1648684800000,
+        "company ID":"CLF",
+        "Rank Target":0.125,
+        "prediction":0.5419642925,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "504":{
+        "index":1648684800000,
+        "company ID":"NWPX",
+        "Rank Target":1.0,
+        "prediction":0.509311974,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "502":{
+        "index":1648684800000,
+        "company ID":"MTUS",
+        "Rank Target":0.625,
+        "prediction":0.4568021894,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "512":{
+        "index":1656547200000,
+        "company ID":"NWPX",
+        "Rank Target":0.5,
+        "prediction":0.6803660989,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "511":{
+        "index":1656547200000,
+        "company ID":"NUE",
+        "Rank Target":0.75,
+        "prediction":0.6633732319,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "510":{
+        "index":1656547200000,
+        "company ID":"MTUS",
+        "Rank Target":0.125,
+        "prediction":0.6468664408,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "514":{
+        "index":1656547200000,
+        "company ID":"STLD",
+        "Rank Target":1.0,
+        "prediction":0.6244802475,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "513":{
+        "index":1656547200000,
+        "company ID":"RS",
+        "Rank Target":0.875,
+        "prediction":0.5851152539,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "509":{
+        "index":1656547200000,
+        "company ID":"FRD",
+        "Rank Target":0.625,
+        "prediction":0.5540155768,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "515":{
+        "index":1656547200000,
+        "company ID":"ZEUS",
+        "Rank Target":0.375,
+        "prediction":0.5408267975,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "508":{
+        "index":1656547200000,
+        "company ID":"CLF",
+        "Rank Target":0.25,
+        "prediction":0.4733248651,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "517":{
+        "index":1664496000000,
+        "company ID":"FRD",
+        "Rank Target":0.875,
+        "prediction":0.6654807329,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "520":{
+        "index":1664496000000,
+        "company ID":"NWPX",
+        "Rank Target":0.5,
+        "prediction":0.6481446028,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "521":{
+        "index":1664496000000,
+        "company ID":"RS",
+        "Rank Target":0.375,
+        "prediction":0.5894352794,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "519":{
+        "index":1664496000000,
+        "company ID":"NUE",
+        "Rank Target":0.625,
+        "prediction":0.5297873616,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "523":{
+        "index":1664496000000,
+        "company ID":"ZEUS",
+        "Rank Target":1.0,
+        "prediction":0.5225902796,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "516":{
+        "index":1664496000000,
+        "company ID":"CLF",
+        "Rank Target":0.125,
+        "prediction":0.4964354038,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "522":{
+        "index":1664496000000,
+        "company ID":"STLD",
+        "Rank Target":0.75,
+        "prediction":0.4897220731,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "518":{
+        "index":1664496000000,
+        "company ID":"MTUS",
+        "Rank Target":0.25,
+        "prediction":0.399537921,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "531":{
+        "index":1672444800000,
+        "company ID":"ZEUS",
+        "Rank Target":1.0,
+        "prediction":0.6130791306,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "529":{
+        "index":1672444800000,
+        "company ID":"RS",
+        "Rank Target":0.875,
+        "prediction":0.6117677689,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "524":{
+        "index":1672444800000,
+        "company ID":"CLF",
+        "Rank Target":0.375,
+        "prediction":0.5439787507,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "530":{
+        "index":1672444800000,
+        "company ID":"STLD",
+        "Rank Target":0.625,
+        "prediction":0.5327074528,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "528":{
+        "index":1672444800000,
+        "company ID":"NWPX",
+        "Rank Target":0.125,
+        "prediction":0.5195611119,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "525":{
+        "index":1672444800000,
+        "company ID":"FRD",
+        "Rank Target":0.75,
+        "prediction":0.509519577,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "527":{
+        "index":1672444800000,
+        "company ID":"NUE",
+        "Rank Target":0.5,
+        "prediction":0.4870158434,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "526":{
+        "index":1672444800000,
+        "company ID":"MTUS",
+        "Rank Target":0.25,
+        "prediction":0.395252645,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "537":{
+        "index":1680220800000,
+        "company ID":"RS",
+        "Rank Target":0.75,
+        "prediction":0.6287581325,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "534":{
+        "index":1680220800000,
+        "company ID":"MTUS",
+        "Rank Target":1.0,
+        "prediction":0.5748643875,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "538":{
+        "index":1680220800000,
+        "company ID":"STLD",
+        "Rank Target":0.625,
+        "prediction":0.5625157952,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "539":{
+        "index":1680220800000,
+        "company ID":"ZEUS",
+        "Rank Target":0.375,
+        "prediction":0.5593121648,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "533":{
+        "index":1680220800000,
+        "company ID":"FRD",
+        "Rank Target":0.125,
+        "prediction":0.5590539575,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "536":{
+        "index":1680220800000,
+        "company ID":"NWPX",
+        "Rank Target":0.5,
+        "prediction":0.5079780221,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "535":{
+        "index":1680220800000,
+        "company ID":"NUE",
+        "Rank Target":0.875,
+        "prediction":0.4963760972,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "532":{
+        "index":1680220800000,
+        "company ID":"CLF",
+        "Rank Target":0.25,
+        "prediction":0.4475509822,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "540":{
+        "index":1688083200000,
+        "company ID":"CLF",
+        "Rank Target":0.125,
+        "prediction":0.6764631271,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "541":{
+        "index":1688083200000,
+        "company ID":"FRD",
+        "Rank Target":0.875,
+        "prediction":0.6548525691,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "543":{
+        "index":1688083200000,
+        "company ID":"NUE",
+        "Rank Target":0.25,
+        "prediction":0.5926423073,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "546":{
+        "index":1688083200000,
+        "company ID":"STLD",
+        "Rank Target":0.5,
+        "prediction":0.5714387894,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "547":{
+        "index":1688083200000,
+        "company ID":"ZEUS",
+        "Rank Target":1.0,
+        "prediction":0.5305029154,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "545":{
+        "index":1688083200000,
+        "company ID":"RS",
+        "Rank Target":0.375,
+        "prediction":0.5109726191,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "544":{
+        "index":1688083200000,
+        "company ID":"NWPX",
+        "Rank Target":0.75,
+        "prediction":0.4816773832,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "542":{
+        "index":1688083200000,
+        "company ID":"MTUS",
+        "Rank Target":0.625,
+        "prediction":0.4786901176,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "548":{
+        "index":1696032000000,
+        "company ID":"CLF",
+        "Rank Target":1.0,
+        "prediction":0.6837641001,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "550":{
+        "index":1696032000000,
+        "company ID":"MTUS",
+        "Rank Target":0.25,
+        "prediction":0.6025666595,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "555":{
+        "index":1696032000000,
+        "company ID":"ZEUS",
+        "Rank Target":0.875,
+        "prediction":0.5796778202,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "553":{
+        "index":1696032000000,
+        "company ID":"RS",
+        "Rank Target":0.375,
+        "prediction":0.5473941565,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "551":{
+        "index":1696032000000,
+        "company ID":"NUE",
+        "Rank Target":0.625,
+        "prediction":0.5319854021,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "552":{
+        "index":1696032000000,
+        "company ID":"NWPX",
+        "Rank Target":0.125,
+        "prediction":0.5155511498,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "549":{
+        "index":1696032000000,
+        "company ID":"FRD",
+        "Rank Target":0.75,
+        "prediction":0.5081573725,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "554":{
+        "index":1696032000000,
+        "company ID":"STLD",
+        "Rank Target":0.5,
+        "prediction":0.4902988672,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "557":{
+        "index":1703980800000,
+        "company ID":"FRD",
+        "Rank Target":0.7777777778,
+        "prediction":0.6917398572,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "564":{
+        "index":1703980800000,
+        "company ID":"ZEUS",
+        "Rank Target":0.3333333333,
+        "prediction":0.6542218328,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "559":{
+        "index":1703980800000,
+        "company ID":"MTUS",
+        "Rank Target":0.2222222222,
+        "prediction":0.626744926,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "562":{
+        "index":1703980800000,
+        "company ID":"RS",
+        "Rank Target":0.8888888889,
+        "prediction":0.5584360361,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "560":{
+        "index":1703980800000,
+        "company ID":"NUE",
+        "Rank Target":0.4444444444,
+        "prediction":0.5241646171,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "561":{
+        "index":1703980800000,
+        "company ID":"NWPX",
+        "Rank Target":0.6666666667,
+        "prediction":0.5202777982,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "563":{
+        "index":1703980800000,
+        "company ID":"STLD",
+        "Rank Target":1.0,
+        "prediction":0.464508146,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "556":{
+        "index":1703980800000,
+        "company ID":"CLF",
+        "Rank Target":0.5555555556,
+        "prediction":0.4242657721,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "558":{
+        "index":1703980800000,
+        "company ID":"LUD",
+        "Rank Target":0.1111111111,
+        "prediction":0.3838915527,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "567":{
+        "index":1711843200000,
+        "company ID":"MTUS",
+        "Rank Target":0.875,
+        "prediction":0.6382030249,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "566":{
+        "index":1711843200000,
+        "company ID":"FRD",
+        "Rank Target":0.5,
+        "prediction":0.6165459752,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "571":{
+        "index":1711843200000,
+        "company ID":"STLD",
+        "Rank Target":0.75,
+        "prediction":0.5996382236,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "565":{
+        "index":1711843200000,
+        "company ID":"CLF",
+        "Rank Target":0.25,
+        "prediction":0.5968491435,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "570":{
+        "index":1711843200000,
+        "company ID":"RS",
+        "Rank Target":0.625,
+        "prediction":0.5783315897,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "569":{
+        "index":1711843200000,
+        "company ID":"NWPX",
+        "Rank Target":1.0,
+        "prediction":0.5430564284,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "572":{
+        "index":1711843200000,
+        "company ID":"ZEUS",
+        "Rank Target":0.125,
+        "prediction":0.4941118062,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "568":{
+        "index":1711843200000,
+        "company ID":"NUE",
+        "Rank Target":0.375,
+        "prediction":0.4590224624,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "578":{
+        "index":1719705600000,
+        "company ID":"NWPX",
+        "Rank Target":1.0,
+        "prediction":0.7278692126,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "579":{
+        "index":1719705600000,
+        "company ID":"RS",
+        "Rank Target":0.7777777778,
+        "prediction":0.622373879,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "577":{
+        "index":1719705600000,
+        "company ID":"NUE",
+        "Rank Target":0.5555555556,
+        "prediction":0.5592932701,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "573":{
+        "index":1719705600000,
+        "company ID":"CLF",
+        "Rank Target":0.3333333333,
+        "prediction":0.5573733449,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "581":{
+        "index":1719705600000,
+        "company ID":"ZEUS",
+        "Rank Target":0.4444444444,
+        "prediction":0.4903545678,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "580":{
+        "index":1719705600000,
+        "company ID":"STLD",
+        "Rank Target":0.6666666667,
+        "prediction":0.470500797,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "575":{
+        "index":1719705600000,
+        "company ID":"LUD",
+        "Rank Target":0.1111111111,
+        "prediction":0.4661531448,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "576":{
+        "index":1719705600000,
+        "company ID":"MTUS",
+        "Rank Target":0.2222222222,
+        "prediction":0.3946494758,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "574":{
+        "index":1719705600000,
+        "company ID":"FRD",
+        "Rank Target":0.8888888889,
+        "prediction":0.3912793696,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "587":{
+        "index":1727654400000,
+        "company ID":"RS",
+        "Rank Target":0.75,
+        "prediction":0.6680321693,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "586":{
+        "index":1727654400000,
+        "company ID":"NWPX",
+        "Rank Target":1.0,
+        "prediction":0.6318665147,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "589":{
+        "index":1727654400000,
+        "company ID":"ZEUS",
+        "Rank Target":0.375,
+        "prediction":0.6282583475,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "583":{
+        "index":1727654400000,
+        "company ID":"FRD",
+        "Rank Target":0.625,
+        "prediction":0.6023072004,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "585":{
+        "index":1727654400000,
+        "company ID":"NUE",
+        "Rank Target":0.25,
+        "prediction":0.5709398389,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "588":{
+        "index":1727654400000,
+        "company ID":"STLD",
+        "Rank Target":0.5,
+        "prediction":0.519705236,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "584":{
+        "index":1727654400000,
+        "company ID":"MTUS",
+        "Rank Target":0.875,
+        "prediction":0.4312317967,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "582":{
+        "index":1727654400000,
+        "company ID":"CLF",
+        "Rank Target":0.125,
+        "prediction":0.3952272236,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "594":{
+        "index":1735603200000,
+        "company ID":"NWPX",
+        "Rank Target":0.125,
+        "prediction":0.6405308843,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "597":{
+        "index":1735603200000,
+        "company ID":"ZEUS",
+        "Rank Target":0.375,
+        "prediction":0.5971500278,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "595":{
+        "index":1735603200000,
+        "company ID":"RS",
+        "Rank Target":0.875,
+        "prediction":0.5842276812,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "593":{
+        "index":1735603200000,
+        "company ID":"NUE",
+        "Rank Target":0.75,
+        "prediction":0.5223853588,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "591":{
+        "index":1735603200000,
+        "company ID":"FRD",
+        "Rank Target":0.625,
+        "prediction":0.4756121933,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "590":{
+        "index":1735603200000,
+        "company ID":"CLF",
+        "Rank Target":0.25,
+        "prediction":0.4636659622,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "596":{
+        "index":1735603200000,
+        "company ID":"STLD",
+        "Rank Target":1.0,
+        "prediction":0.4469616413,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "592":{
+        "index":1735603200000,
+        "company ID":"MTUS",
+        "Rank Target":0.5,
+        "prediction":0.4427588582,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "605":{
+        "index":1743379200000,
+        "company ID":"ZEUS",
+        "Rank Target":0.625,
+        "prediction":0.6712977886,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "603":{
+        "index":1743379200000,
+        "company ID":"RS",
+        "Rank Target":0.75,
+        "prediction":0.6057753563,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "599":{
+        "index":1743379200000,
+        "company ID":"FRD",
+        "Rank Target":0.375,
+        "prediction":0.5738028288,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "604":{
+        "index":1743379200000,
+        "company ID":"STLD",
+        "Rank Target":0.5,
+        "prediction":0.5505899787,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "600":{
+        "index":1743379200000,
+        "company ID":"MTUS",
+        "Rank Target":1.0,
+        "prediction":0.492520988,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "601":{
+        "index":1743379200000,
+        "company ID":"NUE",
+        "Rank Target":0.875,
+        "prediction":0.4893907309,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "602":{
+        "index":1743379200000,
+        "company ID":"NWPX",
+        "Rank Target":0.25,
+        "prediction":0.4813627899,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "598":{
+        "index":1743379200000,
+        "company ID":"CLF",
+        "Rank Target":0.125,
+        "prediction":0.4650999308,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    }
+}

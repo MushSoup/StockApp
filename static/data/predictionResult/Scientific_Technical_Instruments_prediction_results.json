@@ -1,0 +1,177 @@
+{
+    "1691":{
+        "company ID":"ELSE",
+        "score":0.6793361306,
+        "Rank":1.0,
+        "Rank Target":0.48,
+        "stockDifferencePercentage":1.5021496565
+    },
+    "1708":{
+        "company ID":"VPG",
+        "score":0.6710463166,
+        "Rank":2.0,
+        "Rank Target":0.64,
+        "stockDifferencePercentage":7.2684233402
+    },
+    "1689":{
+        "company ID":"CGNX",
+        "score":0.6522441506,
+        "Rank":3.0,
+        "Rank Target":0.96,
+        "stockDifferencePercentage":40.3217533486
+    },
+    "1707":{
+        "company ID":"VNT",
+        "score":0.6510112286,
+        "Rank":4.0,
+        "Rank Target":0.72,
+        "stockDifferencePercentage":8.7006853697
+    },
+    "1698":{
+        "company ID":"MKSI",
+        "score":0.6473045945,
+        "Rank":5.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":17.0579920086
+    },
+    "1704":{
+        "company ID":"TDY",
+        "score":0.6413764954,
+        "Rank":6.0,
+        "Rank Target":0.76,
+        "stockDifferencePercentage":11.8522571258
+    },
+    "1710":{
+        "company ID":"WRAP",
+        "score":0.5974286199,
+        "Rank":7.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":48.0519498576
+    },
+    "1696":{
+        "company ID":"ITRI",
+        "score":0.5873150229,
+        "Rank":8.0,
+        "Rank Target":0.24,
+        "stockDifferencePercentage":-8.4973089924
+    },
+    "1690":{
+        "company ID":"COHR",
+        "score":0.5742185116,
+        "Rank":9.0,
+        "Rank Target":0.88,
+        "stockDifferencePercentage":18.7788772368
+    },
+    "1692":{
+        "company ID":"ESE",
+        "score":0.5659621358,
+        "Rank":10.0,
+        "Rank Target":0.56,
+        "stockDifferencePercentage":5.5377120133
+    },
+    "1695":{
+        "company ID":"GNSS",
+        "score":0.5337495804,
+        "Rank":11.0,
+        "Rank Target":0.92,
+        "stockDifferencePercentage":26.5536742187
+    },
+    "1705":{
+        "company ID":"TRMB",
+        "score":0.514539659,
+        "Rank":12.0,
+        "Rank Target":0.52,
+        "stockDifferencePercentage":3.8919875782
+    },
+    "1701":{
+        "company ID":"NOVT",
+        "score":0.5143740773,
+        "Rank":13.0,
+        "Rank Target":0.16,
+        "stockDifferencePercentage":-24.9606227573
+    },
+    "1697":{
+        "company ID":"LGL",
+        "score":0.5138121247,
+        "Rank":14.0,
+        "Rank Target":0.44,
+        "stockDifferencePercentage":-5.028734234
+    },
+    "1709":{
+        "company ID":"WATT",
+        "score":0.5033982992,
+        "Rank":15.0,
+        "Rank Target":0.36,
+        "stockDifferencePercentage":-5.776178961
+    },
+    "1688":{
+        "company ID":"BMI",
+        "score":0.4977429509,
+        "Rank":16.0,
+        "Rank Target":0.12,
+        "stockDifferencePercentage":-26.8745939932
+    },
+    "1700":{
+        "company ID":"MVIS",
+        "score":0.4826205075,
+        "Rank":17.0,
+        "Rank Target":0.68,
+        "stockDifferencePercentage":7.894739871
+    },
+    "1703":{
+        "company ID":"ST",
+        "score":0.462611407,
+        "Rank":18.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-5.2845008058
+    },
+    "1699":{
+        "company ID":"MLAB",
+        "score":0.4535970688,
+        "Rank":19.0,
+        "Rank Target":0.08,
+        "stockDifferencePercentage":-37.8893065127
+    },
+    "1694":{
+        "company ID":"FTV",
+        "score":0.4474262893,
+        "Rank":20.0,
+        "Rank Target":0.28,
+        "stockDifferencePercentage":-7.6922284088
+    },
+    "1702":{
+        "company ID":"SOBR",
+        "score":0.4437930584,
+        "Rank":21.0,
+        "Rank Target":0.84,
+        "stockDifferencePercentage":17.8451167103
+    },
+    "1686":{
+        "company ID":"AIMD",
+        "score":0.4088852108,
+        "Rank":22.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":5.7750777933
+    },
+    "1687":{
+        "company ID":"ASTC",
+        "score":0.3912795782,
+        "Rank":23.0,
+        "Rank Target":0.32,
+        "stockDifferencePercentage":-7.6106247423
+    },
+    "1706":{
+        "company ID":"USBC",
+        "score":0.352127254,
+        "Rank":24.0,
+        "Rank Target":0.04,
+        "stockDifferencePercentage":-44.897959285
+    },
+    "1693":{
+        "company ID":"FCUV",
+        "score":0.301325649,
+        "Rank":25.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-22.0048914871
+    }
+}

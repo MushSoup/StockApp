@@ -1,0 +1,86 @@
+{
+    "754":{
+        "company ID":"GILD",
+        "score":0.6606758833,
+        "Rank":1.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":1.4783782391
+    },
+    "755":{
+        "company ID":"JNJ",
+        "score":0.6554822922,
+        "Rank":2.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":17.2701047569
+    },
+    "750":{
+        "company ID":"ABBV",
+        "score":0.6160161495,
+        "Rank":3.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":18.9177083874
+    },
+    "760":{
+        "company ID":"PFE",
+        "score":0.5899174213,
+        "Rank":4.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-4.4068663954
+    },
+    "753":{
+        "company ID":"BMY",
+        "score":0.5759932995,
+        "Rank":5.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-5.9036580434
+    },
+    "761":{
+        "company ID":"SCLX",
+        "score":0.5716995597,
+        "Rank":6.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":318.5534635288
+    },
+    "752":{
+        "company ID":"BIIB",
+        "score":0.5341399312,
+        "Rank":7.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":4.2522837081
+    },
+    "758":{
+        "company ID":"MRK",
+        "score":0.5339834094,
+        "Rank":8.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-1.9446115664
+    },
+    "756":{
+        "company ID":"LLY",
+        "score":0.5306194425,
+        "Rank":9.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-6.7332148491
+    },
+    "751":{
+        "company ID":"AMGN",
+        "score":0.5285507441,
+        "Rank":10.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-7.3925186127
+    },
+    "759":{
+        "company ID":"OGN",
+        "score":0.4820251763,
+        "Rank":11.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":4.1374712029
+    },
+    "757":{
+        "company ID":"MIRA",
+        "score":0.4382098019,
+        "Rank":12.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":10.8333325027
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "947":{
+        "company ID":"XPO",
+        "score":0.7141239047,
+        "Rank":1.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":-3.6176540014
+    },
+    "946":{
+        "company ID":"WERN",
+        "score":0.6986413002,
+        "Rank":2.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":-9.2983106561
+    },
+    "936":{
+        "company ID":"HTLD",
+        "score":0.6408391595,
+        "Rank":3.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":-6.8982487176
+    },
+    "942":{
+        "company ID":"SAIA",
+        "score":0.6371691227,
+        "Rank":4.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":-0.0474964023
+    },
+    "937":{
+        "company ID":"KNX",
+        "score":0.6289130449,
+        "Rank":5.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":-14.9303301871
+    },
+    "935":{
+        "company ID":"CVLG",
+        "score":0.6151870489,
+        "Rank":6.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-16.0404141512
+    },
+    "934":{
+        "company ID":"ARCB",
+        "score":0.6086099744,
+        "Rank":7.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-16.2634608887
+    },
+    "943":{
+        "company ID":"SNDR",
+        "score":0.604308486,
+        "Rank":8.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-17.4905421292
+    },
+    "939":{
+        "company ID":"ODFL",
+        "score":0.5809169412,
+        "Rank":9.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-17.3806177417
+    },
+    "940":{
+        "company ID":"PAMT",
+        "score":0.558095336,
+        "Rank":10.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-16.3150534806
+    },
+    "941":{
+        "company ID":"RXO",
+        "score":0.5233784318,
+        "Rank":11.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-10.344826413
+    },
+    "945":{
+        "company ID":"ULH",
+        "score":0.5128725171,
+        "Rank":12.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-18.1596890264
+    },
+    "938":{
+        "company ID":"MRTN",
+        "score":0.4660301507,
+        "Rank":13.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-21.5737643314
+    },
+    "944":{
+        "company ID":"TOPP",
+        "score":0.281440109,
+        "Rank":14.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-19.2982476928
+    }
+}

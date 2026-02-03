@@ -1,0 +1,1146 @@
+{
+    "573":{
+        "index":1648684800000,
+        "company ID":"ICE",
+        "Rank Target":0.2727272727,
+        "prediction":0.6825475097,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "578":{
+        "index":1648684800000,
+        "company ID":"NDAQ",
+        "Rank Target":0.7272727273,
+        "prediction":0.6415883899,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "577":{
+        "index":1648684800000,
+        "company ID":"MSCI",
+        "Rank Target":0.5454545455,
+        "prediction":0.5995234847,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "580":{
+        "index":1648684800000,
+        "company ID":"TRU",
+        "Rank Target":0.3636363636,
+        "prediction":0.5958935022,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "579":{
+        "index":1648684800000,
+        "company ID":"SPGI",
+        "Rank Target":0.6363636364,
+        "prediction":0.5827349424,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "576":{
+        "index":1648684800000,
+        "company ID":"MORN",
+        "Rank Target":0.8181818182,
+        "prediction":0.581146121,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "574":{
+        "index":1648684800000,
+        "company ID":"MCO",
+        "Rank Target":0.4545454545,
+        "prediction":0.5728048682,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "570":{
+        "index":1648684800000,
+        "company ID":"CBOE",
+        "Rank Target":1.0,
+        "prediction":0.5684424043,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "571":{
+        "index":1648684800000,
+        "company ID":"CME",
+        "Rank Target":0.9090909091,
+        "prediction":0.5623058081,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "572":{
+        "index":1648684800000,
+        "company ID":"COIN",
+        "Rank Target":0.0909090909,
+        "prediction":0.5005981922,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "575":{
+        "index":1648684800000,
+        "company ID":"MKTW",
+        "Rank Target":0.1818181818,
+        "prediction":0.458447814,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "585":{
+        "index":1656547200000,
+        "company ID":"MCO",
+        "Rank Target":0.4545454545,
+        "prediction":0.6654824615,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "587":{
+        "index":1656547200000,
+        "company ID":"MORN",
+        "Rank Target":0.2727272727,
+        "prediction":0.6279687881,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "584":{
+        "index":1656547200000,
+        "company ID":"ICE",
+        "Rank Target":0.6363636364,
+        "prediction":0.6218551397,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "589":{
+        "index":1656547200000,
+        "company ID":"NDAQ",
+        "Rank Target":0.9090909091,
+        "prediction":0.6136382818,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "591":{
+        "index":1656547200000,
+        "company ID":"TRU",
+        "Rank Target":0.1818181818,
+        "prediction":0.5969418883,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "588":{
+        "index":1656547200000,
+        "company ID":"MSCI",
+        "Rank Target":0.7272727273,
+        "prediction":0.5858323574,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "590":{
+        "index":1656547200000,
+        "company ID":"SPGI",
+        "Rank Target":0.5454545455,
+        "prediction":0.5798742175,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "582":{
+        "index":1656547200000,
+        "company ID":"CME",
+        "Rank Target":0.3636363636,
+        "prediction":0.5241133571,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "581":{
+        "index":1656547200000,
+        "company ID":"CBOE",
+        "Rank Target":0.8181818182,
+        "prediction":0.4961288273,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "586":{
+        "index":1656547200000,
+        "company ID":"MKTW",
+        "Rank Target":0.0909090909,
+        "prediction":0.4533274472,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "583":{
+        "index":1656547200000,
+        "company ID":"COIN",
+        "Rank Target":1.0,
+        "prediction":0.4316176474,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "596":{
+        "index":1664496000000,
+        "company ID":"MCO",
+        "Rank Target":1.0,
+        "prediction":0.6663166285,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "595":{
+        "index":1664496000000,
+        "company ID":"ICE",
+        "Rank Target":0.9090909091,
+        "prediction":0.6237935424,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "600":{
+        "index":1664496000000,
+        "company ID":"NDAQ",
+        "Rank Target":0.5454545455,
+        "prediction":0.6166103482,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "593":{
+        "index":1664496000000,
+        "company ID":"CME",
+        "Rank Target":0.3636363636,
+        "prediction":0.582537055,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "598":{
+        "index":1664496000000,
+        "company ID":"MORN",
+        "Rank Target":0.4545454545,
+        "prediction":0.5607447028,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "599":{
+        "index":1664496000000,
+        "company ID":"MSCI",
+        "Rank Target":0.8181818182,
+        "prediction":0.5307978392,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "602":{
+        "index":1664496000000,
+        "company ID":"TRU",
+        "Rank Target":0.2727272727,
+        "prediction":0.5232790709,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "601":{
+        "index":1664496000000,
+        "company ID":"SPGI",
+        "Rank Target":0.7272727273,
+        "prediction":0.5142114758,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "597":{
+        "index":1664496000000,
+        "company ID":"MKTW",
+        "Rank Target":0.1818181818,
+        "prediction":0.4667762816,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "594":{
+        "index":1664496000000,
+        "company ID":"COIN",
+        "Rank Target":0.0909090909,
+        "prediction":0.4502901137,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "592":{
+        "index":1664496000000,
+        "company ID":"CBOE",
+        "Rank Target":0.6363636364,
+        "prediction":0.4277891219,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "607":{
+        "index":1672444800000,
+        "company ID":"MCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.7133944631,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "611":{
+        "index":1672444800000,
+        "company ID":"NDAQ",
+        "Rank Target":0.0909090909,
+        "prediction":0.6119510531,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "604":{
+        "index":1672444800000,
+        "company ID":"CME",
+        "Rank Target":0.8181818182,
+        "prediction":0.5834655762,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "610":{
+        "index":1672444800000,
+        "company ID":"MSCI",
+        "Rank Target":0.9090909091,
+        "prediction":0.5794379711,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "606":{
+        "index":1672444800000,
+        "company ID":"ICE",
+        "Rank Target":0.2727272727,
+        "prediction":0.5628967881,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "613":{
+        "index":1672444800000,
+        "company ID":"TRU",
+        "Rank Target":0.4545454545,
+        "prediction":0.5534511805,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "612":{
+        "index":1672444800000,
+        "company ID":"SPGI",
+        "Rank Target":0.3636363636,
+        "prediction":0.5345641375,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "603":{
+        "index":1672444800000,
+        "company ID":"CBOE",
+        "Rank Target":0.5454545455,
+        "prediction":0.5288807154,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "605":{
+        "index":1672444800000,
+        "company ID":"COIN",
+        "Rank Target":1.0,
+        "prediction":0.4852421284,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "608":{
+        "index":1672444800000,
+        "company ID":"MKTW",
+        "Rank Target":0.7272727273,
+        "prediction":0.4712197781,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "609":{
+        "index":1672444800000,
+        "company ID":"MORN",
+        "Rank Target":0.1818181818,
+        "prediction":0.4382971525,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "618":{
+        "index":1680220800000,
+        "company ID":"MCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.6388834715,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "617":{
+        "index":1680220800000,
+        "company ID":"ICE",
+        "Rank Target":0.5454545455,
+        "prediction":0.6332044005,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "622":{
+        "index":1680220800000,
+        "company ID":"NDAQ",
+        "Rank Target":0.1818181818,
+        "prediction":0.6226032376,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "615":{
+        "index":1680220800000,
+        "company ID":"CME",
+        "Rank Target":0.3636363636,
+        "prediction":0.6138786674,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "621":{
+        "index":1680220800000,
+        "company ID":"MSCI",
+        "Rank Target":0.0909090909,
+        "prediction":0.5908146501,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "624":{
+        "index":1680220800000,
+        "company ID":"TRU",
+        "Rank Target":1.0,
+        "prediction":0.5888229012,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "623":{
+        "index":1680220800000,
+        "company ID":"SPGI",
+        "Rank Target":0.8181818182,
+        "prediction":0.5507638454,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "616":{
+        "index":1680220800000,
+        "company ID":"COIN",
+        "Rank Target":0.7272727273,
+        "prediction":0.5498276353,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "614":{
+        "index":1680220800000,
+        "company ID":"CBOE",
+        "Rank Target":0.4545454545,
+        "prediction":0.5298948288,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "619":{
+        "index":1680220800000,
+        "company ID":"MKTW",
+        "Rank Target":0.9090909091,
+        "prediction":0.5104028583,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "620":{
+        "index":1680220800000,
+        "company ID":"MORN",
+        "Rank Target":0.2727272727,
+        "prediction":0.5039455295,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "629":{
+        "index":1688083200000,
+        "company ID":"MCO",
+        "Rank Target":0.1818181818,
+        "prediction":0.6658554673,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "633":{
+        "index":1688083200000,
+        "company ID":"NDAQ",
+        "Rank Target":0.6363636364,
+        "prediction":0.6453859806,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "628":{
+        "index":1688083200000,
+        "company ID":"ICE",
+        "Rank Target":0.5454545455,
+        "prediction":0.6229252815,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "625":{
+        "index":1688083200000,
+        "company ID":"CBOE",
+        "Rank Target":0.9090909091,
+        "prediction":0.5746943951,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "626":{
+        "index":1688083200000,
+        "company ID":"CME",
+        "Rank Target":0.7272727273,
+        "prediction":0.5745674372,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "634":{
+        "index":1688083200000,
+        "company ID":"SPGI",
+        "Rank Target":0.2727272727,
+        "prediction":0.5451994538,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "631":{
+        "index":1688083200000,
+        "company ID":"MORN",
+        "Rank Target":1.0,
+        "prediction":0.4994386733,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "630":{
+        "index":1688083200000,
+        "company ID":"MKTW",
+        "Rank Target":0.0909090909,
+        "prediction":0.4873357117,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "635":{
+        "index":1688083200000,
+        "company ID":"TRU",
+        "Rank Target":0.3636363636,
+        "prediction":0.4713365138,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "632":{
+        "index":1688083200000,
+        "company ID":"MSCI",
+        "Rank Target":0.8181818182,
+        "prediction":0.462202549,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "627":{
+        "index":1688083200000,
+        "company ID":"COIN",
+        "Rank Target":0.4545454545,
+        "prediction":0.4328021109,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "644":{
+        "index":1696032000000,
+        "company ID":"NDAQ",
+        "Rank Target":0.5454545455,
+        "prediction":0.6845629215,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "640":{
+        "index":1696032000000,
+        "company ID":"MCO",
+        "Rank Target":0.8181818182,
+        "prediction":0.6753789186,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "639":{
+        "index":1696032000000,
+        "company ID":"ICE",
+        "Rank Target":0.4545454545,
+        "prediction":0.6368413568,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "643":{
+        "index":1696032000000,
+        "company ID":"MSCI",
+        "Rank Target":0.3636363636,
+        "prediction":0.632638514,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "645":{
+        "index":1696032000000,
+        "company ID":"SPGI",
+        "Rank Target":0.6363636364,
+        "prediction":0.5832710862,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "637":{
+        "index":1696032000000,
+        "company ID":"CME",
+        "Rank Target":0.1818181818,
+        "prediction":0.552170217,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "636":{
+        "index":1696032000000,
+        "company ID":"CBOE",
+        "Rank Target":0.2727272727,
+        "prediction":0.5431472063,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "641":{
+        "index":1696032000000,
+        "company ID":"MKTW",
+        "Rank Target":0.9090909091,
+        "prediction":0.5300029516,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "642":{
+        "index":1696032000000,
+        "company ID":"MORN",
+        "Rank Target":0.7272727273,
+        "prediction":0.4938120842,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "638":{
+        "index":1696032000000,
+        "company ID":"COIN",
+        "Rank Target":1.0,
+        "prediction":0.436047405,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "646":{
+        "index":1696032000000,
+        "company ID":"TRU",
+        "Rank Target":0.0909090909,
+        "prediction":0.3936505318,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "653":{
+        "index":1703980800000,
+        "company ID":"MORN",
+        "Rank Target":0.8181818182,
+        "prediction":0.6882318258,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "650":{
+        "index":1703980800000,
+        "company ID":"ICE",
+        "Rank Target":0.6363636364,
+        "prediction":0.638749063,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "655":{
+        "index":1703980800000,
+        "company ID":"NDAQ",
+        "Rank Target":0.7272727273,
+        "prediction":0.6140583158,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "647":{
+        "index":1703980800000,
+        "company ID":"CBOE",
+        "Rank Target":0.4545454545,
+        "prediction":0.5676531196,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "656":{
+        "index":1703980800000,
+        "company ID":"SPGI",
+        "Rank Target":0.1818181818,
+        "prediction":0.5673804283,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "648":{
+        "index":1703980800000,
+        "company ID":"CME",
+        "Rank Target":0.5454545455,
+        "prediction":0.5657526851,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "651":{
+        "index":1703980800000,
+        "company ID":"MCO",
+        "Rank Target":0.3636363636,
+        "prediction":0.5616028905,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "652":{
+        "index":1703980800000,
+        "company ID":"MKTW",
+        "Rank Target":0.0909090909,
+        "prediction":0.4734371603,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "649":{
+        "index":1703980800000,
+        "company ID":"COIN",
+        "Rank Target":1.0,
+        "prediction":0.4604614675,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "657":{
+        "index":1703980800000,
+        "company ID":"TRU",
+        "Rank Target":0.9090909091,
+        "prediction":0.4533661306,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "654":{
+        "index":1703980800000,
+        "company ID":"MSCI",
+        "Rank Target":0.2727272727,
+        "prediction":0.4092177153,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "661":{
+        "index":1711843200000,
+        "company ID":"ICE",
+        "Rank Target":0.8181818182,
+        "prediction":0.6598970294,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "662":{
+        "index":1711843200000,
+        "company ID":"MCO",
+        "Rank Target":1.0,
+        "prediction":0.6295543909,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "658":{
+        "index":1711843200000,
+        "company ID":"CBOE",
+        "Rank Target":0.4545454545,
+        "prediction":0.6270935535,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "665":{
+        "index":1711843200000,
+        "company ID":"MSCI",
+        "Rank Target":0.2727272727,
+        "prediction":0.6053439379,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "659":{
+        "index":1711843200000,
+        "company ID":"CME",
+        "Rank Target":0.3636363636,
+        "prediction":0.6008667946,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "664":{
+        "index":1711843200000,
+        "company ID":"MORN",
+        "Rank Target":0.6363636364,
+        "prediction":0.5966205001,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "666":{
+        "index":1711843200000,
+        "company ID":"NDAQ",
+        "Rank Target":0.7272727273,
+        "prediction":0.5804721117,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "668":{
+        "index":1711843200000,
+        "company ID":"TRU",
+        "Rank Target":0.5454545455,
+        "prediction":0.5143048167,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "667":{
+        "index":1711843200000,
+        "company ID":"SPGI",
+        "Rank Target":0.9090909091,
+        "prediction":0.4840297699,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "660":{
+        "index":1711843200000,
+        "company ID":"COIN",
+        "Rank Target":0.1818181818,
+        "prediction":0.4543775022,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "663":{
+        "index":1711843200000,
+        "company ID":"MKTW",
+        "Rank Target":0.0909090909,
+        "prediction":0.4486157894,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "675":{
+        "index":1719705600000,
+        "company ID":"MORN",
+        "Rank Target":0.2727272727,
+        "prediction":0.6488592029,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "678":{
+        "index":1719705600000,
+        "company ID":"SPGI",
+        "Rank Target":0.6363636364,
+        "prediction":0.6027382016,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "677":{
+        "index":1719705600000,
+        "company ID":"NDAQ",
+        "Rank Target":0.9090909091,
+        "prediction":0.588076055,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "670":{
+        "index":1719705600000,
+        "company ID":"CME",
+        "Rank Target":0.4545454545,
+        "prediction":0.5861930847,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "673":{
+        "index":1719705600000,
+        "company ID":"MCO",
+        "Rank Target":0.3636363636,
+        "prediction":0.5769773126,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "669":{
+        "index":1719705600000,
+        "company ID":"CBOE",
+        "Rank Target":0.8181818182,
+        "prediction":0.5670057535,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "676":{
+        "index":1719705600000,
+        "company ID":"MSCI",
+        "Rank Target":0.7272727273,
+        "prediction":0.5495547652,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "672":{
+        "index":1719705600000,
+        "company ID":"ICE",
+        "Rank Target":0.5454545455,
+        "prediction":0.532869637,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "671":{
+        "index":1719705600000,
+        "company ID":"COIN",
+        "Rank Target":0.1818181818,
+        "prediction":0.488930136,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "674":{
+        "index":1719705600000,
+        "company ID":"MKTW",
+        "Rank Target":0.0909090909,
+        "prediction":0.4485608935,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "679":{
+        "index":1719705600000,
+        "company ID":"TRU",
+        "Rank Target":1.0,
+        "prediction":0.4270920157,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "684":{
+        "index":1727654400000,
+        "company ID":"MCO",
+        "Rank Target":0.5454545455,
+        "prediction":0.650582552,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "687":{
+        "index":1727654400000,
+        "company ID":"MSCI",
+        "Rank Target":0.6363636364,
+        "prediction":0.6342142224,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "689":{
+        "index":1727654400000,
+        "company ID":"SPGI",
+        "Rank Target":0.3636363636,
+        "prediction":0.6294385791,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "683":{
+        "index":1727654400000,
+        "company ID":"ICE",
+        "Rank Target":0.1818181818,
+        "prediction":0.6241468787,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "681":{
+        "index":1727654400000,
+        "company ID":"CME",
+        "Rank Target":0.7272727273,
+        "prediction":0.6186538339,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "686":{
+        "index":1727654400000,
+        "company ID":"MORN",
+        "Rank Target":0.9090909091,
+        "prediction":0.6070592403,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "688":{
+        "index":1727654400000,
+        "company ID":"NDAQ",
+        "Rank Target":0.8181818182,
+        "prediction":0.5930179358,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "685":{
+        "index":1727654400000,
+        "company ID":"MKTW",
+        "Rank Target":0.4545454545,
+        "prediction":0.570628643,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "690":{
+        "index":1727654400000,
+        "company ID":"TRU",
+        "Rank Target":0.0909090909,
+        "prediction":0.5344357491,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "680":{
+        "index":1727654400000,
+        "company ID":"CBOE",
+        "Rank Target":0.2727272727,
+        "prediction":0.5222548842,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "682":{
+        "index":1727654400000,
+        "company ID":"COIN",
+        "Rank Target":1.0,
+        "prediction":0.4808963537,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "698":{
+        "index":1735603200000,
+        "company ID":"MSCI",
+        "Rank Target":0.3636363636,
+        "prediction":0.6633366942,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "697":{
+        "index":1735603200000,
+        "company ID":"MORN",
+        "Rank Target":0.1818181818,
+        "prediction":0.6391231418,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "700":{
+        "index":1735603200000,
+        "company ID":"SPGI",
+        "Rank Target":0.7272727273,
+        "prediction":0.6089690924,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "694":{
+        "index":1735603200000,
+        "company ID":"ICE",
+        "Rank Target":1.0,
+        "prediction":0.6078672409,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "695":{
+        "index":1735603200000,
+        "company ID":"MCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.5973982215,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "692":{
+        "index":1735603200000,
+        "company ID":"CME",
+        "Rank Target":0.8181818182,
+        "prediction":0.5935458541,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "699":{
+        "index":1735603200000,
+        "company ID":"NDAQ",
+        "Rank Target":0.5454545455,
+        "prediction":0.574297905,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "691":{
+        "index":1735603200000,
+        "company ID":"CBOE",
+        "Rank Target":0.9090909091,
+        "prediction":0.554880619,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "696":{
+        "index":1735603200000,
+        "company ID":"MKTW",
+        "Rank Target":0.4545454545,
+        "prediction":0.5409450531,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "701":{
+        "index":1735603200000,
+        "company ID":"TRU",
+        "Rank Target":0.2727272727,
+        "prediction":0.5158178806,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "693":{
+        "index":1735603200000,
+        "company ID":"COIN",
+        "Rank Target":0.0909090909,
+        "prediction":0.4931959808,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "709":{
+        "index":1743379200000,
+        "company ID":"MSCI",
+        "Rank Target":0.3636363636,
+        "prediction":0.670001924,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "711":{
+        "index":1743379200000,
+        "company ID":"SPGI",
+        "Rank Target":0.2727272727,
+        "prediction":0.6351057887,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "706":{
+        "index":1743379200000,
+        "company ID":"MCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.6240596175,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "712":{
+        "index":1743379200000,
+        "company ID":"TRU",
+        "Rank Target":0.7272727273,
+        "prediction":0.6135578752,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "703":{
+        "index":1743379200000,
+        "company ID":"CME",
+        "Rank Target":0.1818181818,
+        "prediction":0.5934547186,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "708":{
+        "index":1743379200000,
+        "company ID":"MORN",
+        "Rank Target":0.4545454545,
+        "prediction":0.579795599,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "705":{
+        "index":1743379200000,
+        "company ID":"ICE",
+        "Rank Target":0.5454545455,
+        "prediction":0.5705767274,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "704":{
+        "index":1743379200000,
+        "company ID":"COIN",
+        "Rank Target":0.9090909091,
+        "prediction":0.5691560507,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "702":{
+        "index":1743379200000,
+        "company ID":"CBOE",
+        "Rank Target":0.0909090909,
+        "prediction":0.5152884722,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "710":{
+        "index":1743379200000,
+        "company ID":"NDAQ",
+        "Rank Target":0.8181818182,
+        "prediction":0.5094770789,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "707":{
+        "index":1743379200000,
+        "company ID":"MKTW",
+        "Rank Target":1.0,
+        "prediction":0.4857040346,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    }
+}

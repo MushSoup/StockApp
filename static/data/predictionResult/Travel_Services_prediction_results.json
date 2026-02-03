@@ -1,0 +1,79 @@
+{
+    "698":{
+        "company ID":"RCL",
+        "score":0.6936603189,
+        "Rank":1.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":-2.0204094283
+    },
+    "699":{
+        "company ID":"TNL",
+        "score":0.6834233999,
+        "Rank":2.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":8.6950834981
+    },
+    "692":{
+        "company ID":"EXPE",
+        "score":0.6816522479,
+        "Rank":3.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":25.1849562416
+    },
+    "691":{
+        "company ID":"BKNG",
+        "score":0.6767341495,
+        "Rank":4.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-4.4185343787
+    },
+    "696":{
+        "company ID":"NCLH",
+        "score":0.6490382552,
+        "Rank":5.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":12.6023681324
+    },
+    "695":{
+        "company ID":"LIND",
+        "score":0.6070154309,
+        "Rank":6.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":-1.0946078485
+    },
+    "693":{
+        "company ID":"GBTG",
+        "score":0.5926005244,
+        "Rank":7.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":26.4296842419
+    },
+    "700":{
+        "company ID":"TRIP",
+        "score":0.5798393488,
+        "Rank":8.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":-2.5714329309
+    },
+    "697":{
+        "company ID":"NTRP",
+        "score":0.5220522881,
+        "Rank":9.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-5.2112660644
+    },
+    "690":{
+        "company ID":"ABNB",
+        "score":0.4889520407,
+        "Rank":10.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-9.9421252679
+    },
+    "694":{
+        "company ID":"ISPO",
+        "score":0.3782878816,
+        "Rank":11.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-15.7142843514
+    }
+}

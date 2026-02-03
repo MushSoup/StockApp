@@ -1,0 +1,938 @@
+{
+    "545":{
+        "index":1648684800000,
+        "company ID":"TKR",
+        "Rank Target":0.5555555556,
+        "prediction":0.6853369474,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "542":{
+        "index":1648684800000,
+        "company ID":"RBC",
+        "Rank Target":0.7777777778,
+        "prediction":0.622867465,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "539":{
+        "index":1648684800000,
+        "company ID":"HLMN",
+        "Rank Target":0.1111111111,
+        "prediction":0.6112079024,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "541":{
+        "index":1648684800000,
+        "company ID":"LECO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6008774042,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "543":{
+        "index":1648684800000,
+        "company ID":"SNA",
+        "Rank Target":0.8888888889,
+        "prediction":0.5926705599,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "544":{
+        "index":1648684800000,
+        "company ID":"SWK",
+        "Rank Target":0.2222222222,
+        "prediction":0.5364341736,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "540":{
+        "index":1648684800000,
+        "company ID":"KMT",
+        "Rank Target":0.3333333333,
+        "prediction":0.512235105,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "538":{
+        "index":1648684800000,
+        "company ID":"EML",
+        "Rank Target":0.4444444444,
+        "prediction":0.4657008946,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "537":{
+        "index":1648684800000,
+        "company ID":"CVR",
+        "Rank Target":1.0,
+        "prediction":0.4261356592,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "547":{
+        "index":1656547200000,
+        "company ID":"EML",
+        "Rank Target":0.2222222222,
+        "prediction":0.6462022066,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "548":{
+        "index":1656547200000,
+        "company ID":"HLMN",
+        "Rank Target":0.3333333333,
+        "prediction":0.6446783543,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "549":{
+        "index":1656547200000,
+        "company ID":"KMT",
+        "Rank Target":0.4444444444,
+        "prediction":0.616940558,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "551":{
+        "index":1656547200000,
+        "company ID":"RBC",
+        "Rank Target":1.0,
+        "prediction":0.6116261482,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "552":{
+        "index":1656547200000,
+        "company ID":"SNA",
+        "Rank Target":0.6666666667,
+        "prediction":0.5766912699,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "550":{
+        "index":1656547200000,
+        "company ID":"LECO",
+        "Rank Target":0.7777777778,
+        "prediction":0.5655208826,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "554":{
+        "index":1656547200000,
+        "company ID":"TKR",
+        "Rank Target":0.8888888889,
+        "prediction":0.5131969452,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "546":{
+        "index":1656547200000,
+        "company ID":"CVR",
+        "Rank Target":0.5555555556,
+        "prediction":0.4486237466,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "553":{
+        "index":1656547200000,
+        "company ID":"SWK",
+        "Rank Target":0.1111111111,
+        "prediction":0.4462014437,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "560":{
+        "index":1664496000000,
+        "company ID":"RBC",
+        "Rank Target":0.3333333333,
+        "prediction":0.6414247751,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "562":{
+        "index":1664496000000,
+        "company ID":"SWK",
+        "Rank Target":0.1111111111,
+        "prediction":0.579323113,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "556":{
+        "index":1664496000000,
+        "company ID":"EML",
+        "Rank Target":0.7777777778,
+        "prediction":0.5655701756,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "561":{
+        "index":1664496000000,
+        "company ID":"SNA",
+        "Rank Target":0.5555555556,
+        "prediction":0.5593944788,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "559":{
+        "index":1664496000000,
+        "company ID":"LECO",
+        "Rank Target":0.8888888889,
+        "prediction":0.5560619235,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "563":{
+        "index":1664496000000,
+        "company ID":"TKR",
+        "Rank Target":1.0,
+        "prediction":0.5476276278,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "558":{
+        "index":1664496000000,
+        "company ID":"KMT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5392978191,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "555":{
+        "index":1664496000000,
+        "company ID":"CVR",
+        "Rank Target":0.4444444444,
+        "prediction":0.5279396176,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "557":{
+        "index":1664496000000,
+        "company ID":"HLMN",
+        "Rank Target":0.2222222222,
+        "prediction":0.4749753475,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "572":{
+        "index":1672444800000,
+        "company ID":"TKR",
+        "Rank Target":1.0,
+        "prediction":0.6804888844,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "566":{
+        "index":1672444800000,
+        "company ID":"HLMN",
+        "Rank Target":0.5555555556,
+        "prediction":0.6097692251,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "568":{
+        "index":1672444800000,
+        "company ID":"LECO",
+        "Rank Target":0.8888888889,
+        "prediction":0.6001380086,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "569":{
+        "index":1672444800000,
+        "company ID":"RBC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5977726579,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "570":{
+        "index":1672444800000,
+        "company ID":"SNA",
+        "Rank Target":0.4444444444,
+        "prediction":0.5403978229,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "567":{
+        "index":1672444800000,
+        "company ID":"KMT",
+        "Rank Target":0.7777777778,
+        "prediction":0.5319181681,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "571":{
+        "index":1672444800000,
+        "company ID":"SWK",
+        "Rank Target":0.2222222222,
+        "prediction":0.5176633,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "564":{
+        "index":1672444800000,
+        "company ID":"CVR",
+        "Rank Target":0.3333333333,
+        "prediction":0.4941532016,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "565":{
+        "index":1672444800000,
+        "company ID":"EML",
+        "Rank Target":0.1111111111,
+        "prediction":0.4867123067,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "581":{
+        "index":1680220800000,
+        "company ID":"TKR",
+        "Rank Target":0.6666666667,
+        "prediction":0.6220225692,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "578":{
+        "index":1680220800000,
+        "company ID":"RBC",
+        "Rank Target":0.2222222222,
+        "prediction":0.6216666102,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "576":{
+        "index":1680220800000,
+        "company ID":"KMT",
+        "Rank Target":0.4444444444,
+        "prediction":0.6171594858,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "579":{
+        "index":1680220800000,
+        "company ID":"SNA",
+        "Rank Target":0.8888888889,
+        "prediction":0.6057549119,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "580":{
+        "index":1680220800000,
+        "company ID":"SWK",
+        "Rank Target":1.0,
+        "prediction":0.5902457237,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "574":{
+        "index":1680220800000,
+        "company ID":"EML",
+        "Rank Target":0.3333333333,
+        "prediction":0.566650033,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "577":{
+        "index":1680220800000,
+        "company ID":"LECO",
+        "Rank Target":0.7777777778,
+        "prediction":0.5172991157,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "575":{
+        "index":1680220800000,
+        "company ID":"HLMN",
+        "Rank Target":0.5555555556,
+        "prediction":0.4526829123,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "573":{
+        "index":1680220800000,
+        "company ID":"CVR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4435846508,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "586":{
+        "index":1688083200000,
+        "company ID":"LECO",
+        "Rank Target":0.7777777778,
+        "prediction":0.6431427598,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "585":{
+        "index":1688083200000,
+        "company ID":"KMT",
+        "Rank Target":0.3333333333,
+        "prediction":0.6421594024,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "587":{
+        "index":1688083200000,
+        "company ID":"RBC",
+        "Rank Target":1.0,
+        "prediction":0.6398007274,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "588":{
+        "index":1688083200000,
+        "company ID":"SNA",
+        "Rank Target":0.4444444444,
+        "prediction":0.6304789782,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "583":{
+        "index":1688083200000,
+        "company ID":"EML",
+        "Rank Target":0.8888888889,
+        "prediction":0.5947879553,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "584":{
+        "index":1688083200000,
+        "company ID":"HLMN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5573772192,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "589":{
+        "index":1688083200000,
+        "company ID":"SWK",
+        "Rank Target":0.5555555556,
+        "prediction":0.5535353422,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "590":{
+        "index":1688083200000,
+        "company ID":"TKR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5311274529,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "582":{
+        "index":1688083200000,
+        "company ID":"CVR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4681530595,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "595":{
+        "index":1696032000000,
+        "company ID":"LECO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6573194265,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "593":{
+        "index":1696032000000,
+        "company ID":"HLMN",
+        "Rank Target":0.5555555556,
+        "prediction":0.6549764872,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "594":{
+        "index":1696032000000,
+        "company ID":"KMT",
+        "Rank Target":0.2222222222,
+        "prediction":0.6384543777,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "596":{
+        "index":1696032000000,
+        "company ID":"RBC",
+        "Rank Target":0.8888888889,
+        "prediction":0.6104117632,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "598":{
+        "index":1696032000000,
+        "company ID":"SWK",
+        "Rank Target":1.0,
+        "prediction":0.5910204649,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "599":{
+        "index":1696032000000,
+        "company ID":"TKR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5169400573,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "597":{
+        "index":1696032000000,
+        "company ID":"SNA",
+        "Rank Target":0.4444444444,
+        "prediction":0.5058032274,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "592":{
+        "index":1696032000000,
+        "company ID":"EML",
+        "Rank Target":0.7777777778,
+        "prediction":0.4839335084,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "591":{
+        "index":1696032000000,
+        "company ID":"CVR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4081710279,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "605":{
+        "index":1703980800000,
+        "company ID":"RBC",
+        "Rank Target":0.1111111111,
+        "prediction":0.6871286631,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "607":{
+        "index":1703980800000,
+        "company ID":"SWK",
+        "Rank Target":0.4444444444,
+        "prediction":0.6731266975,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "602":{
+        "index":1703980800000,
+        "company ID":"HLMN",
+        "Rank Target":0.7777777778,
+        "prediction":0.6177881956,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "601":{
+        "index":1703980800000,
+        "company ID":"EML",
+        "Rank Target":1.0,
+        "prediction":0.5984862447,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "608":{
+        "index":1703980800000,
+        "company ID":"TKR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5795064569,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "604":{
+        "index":1703980800000,
+        "company ID":"LECO",
+        "Rank Target":0.8888888889,
+        "prediction":0.5650720596,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "606":{
+        "index":1703980800000,
+        "company ID":"SNA",
+        "Rank Target":0.5555555556,
+        "prediction":0.5195785761,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "600":{
+        "index":1703980800000,
+        "company ID":"CVR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5060734749,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "603":{
+        "index":1703980800000,
+        "company ID":"KMT",
+        "Rank Target":0.2222222222,
+        "prediction":0.4853440523,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "614":{
+        "index":1711843200000,
+        "company ID":"RBC",
+        "Rank Target":1.0,
+        "prediction":0.6920486093,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "613":{
+        "index":1711843200000,
+        "company ID":"LECO",
+        "Rank Target":0.1111111111,
+        "prediction":0.6490364671,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "617":{
+        "index":1711843200000,
+        "company ID":"TKR",
+        "Rank Target":0.6666666667,
+        "prediction":0.6287494302,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "612":{
+        "index":1711843200000,
+        "company ID":"KMT",
+        "Rank Target":0.8888888889,
+        "prediction":0.6077716351,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "615":{
+        "index":1711843200000,
+        "company ID":"SNA",
+        "Rank Target":0.5555555556,
+        "prediction":0.5927592516,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "611":{
+        "index":1711843200000,
+        "company ID":"HLMN",
+        "Rank Target":0.4444444444,
+        "prediction":0.5914530754,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "610":{
+        "index":1711843200000,
+        "company ID":"EML",
+        "Rank Target":0.2222222222,
+        "prediction":0.526168108,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "616":{
+        "index":1711843200000,
+        "company ID":"SWK",
+        "Rank Target":0.3333333333,
+        "prediction":0.486782372,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "609":{
+        "index":1711843200000,
+        "company ID":"CVR",
+        "Rank Target":0.7777777778,
+        "prediction":0.4790026248,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "621":{
+        "index":1719705600000,
+        "company ID":"KMT",
+        "Rank Target":0.5555555556,
+        "prediction":0.6500865817,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "620":{
+        "index":1719705600000,
+        "company ID":"HLMN",
+        "Rank Target":0.6666666667,
+        "prediction":0.6205377579,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "623":{
+        "index":1719705600000,
+        "company ID":"RBC",
+        "Rank Target":0.3333333333,
+        "prediction":0.620349586,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "625":{
+        "index":1719705600000,
+        "company ID":"SWK",
+        "Rank Target":1.0,
+        "prediction":0.60674721,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "618":{
+        "index":1719705600000,
+        "company ID":"CVR",
+        "Rank Target":0.8888888889,
+        "prediction":0.5846282244,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "624":{
+        "index":1719705600000,
+        "company ID":"SNA",
+        "Rank Target":0.4444444444,
+        "prediction":0.5704745054,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "626":{
+        "index":1719705600000,
+        "company ID":"TKR",
+        "Rank Target":0.2222222222,
+        "prediction":0.5643988848,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "619":{
+        "index":1719705600000,
+        "company ID":"EML",
+        "Rank Target":0.7777777778,
+        "prediction":0.5598163009,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "622":{
+        "index":1719705600000,
+        "company ID":"LECO",
+        "Rank Target":0.1111111111,
+        "prediction":0.5059101582,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "634":{
+        "index":1727654400000,
+        "company ID":"SWK",
+        "Rank Target":0.1111111111,
+        "prediction":0.7023937106,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "628":{
+        "index":1727654400000,
+        "company ID":"EML",
+        "Rank Target":0.2222222222,
+        "prediction":0.6282753944,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "632":{
+        "index":1727654400000,
+        "company ID":"RBC",
+        "Rank Target":0.8888888889,
+        "prediction":0.6141830683,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "635":{
+        "index":1727654400000,
+        "company ID":"TKR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5908336639,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "629":{
+        "index":1727654400000,
+        "company ID":"HLMN",
+        "Rank Target":0.5555555556,
+        "prediction":0.5902528763,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "630":{
+        "index":1727654400000,
+        "company ID":"KMT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5835162997,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "633":{
+        "index":1727654400000,
+        "company ID":"SNA",
+        "Rank Target":1.0,
+        "prediction":0.580750227,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "631":{
+        "index":1727654400000,
+        "company ID":"LECO",
+        "Rank Target":0.7777777778,
+        "prediction":0.5571503043,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "627":{
+        "index":1727654400000,
+        "company ID":"CVR",
+        "Rank Target":0.4444444444,
+        "prediction":0.4253651798,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "643":{
+        "index":1735603200000,
+        "company ID":"SWK",
+        "Rank Target":0.4444444444,
+        "prediction":0.656679213,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "644":{
+        "index":1735603200000,
+        "company ID":"TKR",
+        "Rank Target":0.7777777778,
+        "prediction":0.6444376111,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "642":{
+        "index":1735603200000,
+        "company ID":"SNA",
+        "Rank Target":0.6666666667,
+        "prediction":0.5749660134,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "641":{
+        "index":1735603200000,
+        "company ID":"RBC",
+        "Rank Target":1.0,
+        "prediction":0.5744767189,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "640":{
+        "index":1735603200000,
+        "company ID":"LECO",
+        "Rank Target":0.8888888889,
+        "prediction":0.5429831147,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "639":{
+        "index":1735603200000,
+        "company ID":"KMT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5351038575,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "638":{
+        "index":1735603200000,
+        "company ID":"HLMN",
+        "Rank Target":0.2222222222,
+        "prediction":0.5306237936,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "637":{
+        "index":1735603200000,
+        "company ID":"EML",
+        "Rank Target":0.5555555556,
+        "prediction":0.4687491953,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "636":{
+        "index":1735603200000,
+        "company ID":"CVR",
+        "Rank Target":0.1111111111,
+        "prediction":0.4550186992,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "653":{
+        "index":1743379200000,
+        "company ID":"TKR",
+        "Rank Target":0.5555555556,
+        "prediction":0.6640074849,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "648":{
+        "index":1743379200000,
+        "company ID":"KMT",
+        "Rank Target":0.8888888889,
+        "prediction":0.6254816055,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "650":{
+        "index":1743379200000,
+        "company ID":"RBC",
+        "Rank Target":1.0,
+        "prediction":0.6124405861,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "645":{
+        "index":1743379200000,
+        "company ID":"CVR",
+        "Rank Target":0.7777777778,
+        "prediction":0.5409564376,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "651":{
+        "index":1743379200000,
+        "company ID":"SNA",
+        "Rank Target":0.2222222222,
+        "prediction":0.5178334713,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "647":{
+        "index":1743379200000,
+        "company ID":"HLMN",
+        "Rank Target":0.1111111111,
+        "prediction":0.5100411773,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "649":{
+        "index":1743379200000,
+        "company ID":"LECO",
+        "Rank Target":0.6666666667,
+        "prediction":0.499473393,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "652":{
+        "index":1743379200000,
+        "company ID":"SWK",
+        "Rank Target":0.4444444444,
+        "prediction":0.4529630542,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "646":{
+        "index":1743379200000,
+        "company ID":"EML",
+        "Rank Target":0.3333333333,
+        "prediction":0.4456951618,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    }
+}

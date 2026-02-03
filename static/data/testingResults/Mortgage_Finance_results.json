@@ -1,0 +1,962 @@
+{
+    "404":{
+        "index":1648684800000,
+        "company ID":"GHI",
+        "Rank Target":0.9166666667,
+        "prediction":0.7142305374,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "408":{
+        "index":1648684800000,
+        "company ID":"PFSI",
+        "Rank Target":0.5,
+        "prediction":0.6705908775,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "411":{
+        "index":1648684800000,
+        "company ID":"UWMC",
+        "Rank Target":0.4166666667,
+        "prediction":0.6611922979,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "410":{
+        "index":1648684800000,
+        "company ID":"SNFCA",
+        "Rank Target":0.5833333333,
+        "prediction":0.6355472803,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "413":{
+        "index":1648684800000,
+        "company ID":"WD",
+        "Rank Target":0.3333333333,
+        "prediction":0.634954989,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "412":{
+        "index":1648684800000,
+        "company ID":"VEL",
+        "Rank Target":0.8333333333,
+        "prediction":0.5978462696,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "407":{
+        "index":1648684800000,
+        "company ID":"ONIT",
+        "Rank Target":1.0,
+        "prediction":0.5949069262,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "405":{
+        "index":1648684800000,
+        "company ID":"IOR",
+        "Rank Target":0.6666666667,
+        "prediction":0.5756271482,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "409":{
+        "index":1648684800000,
+        "company ID":"RKT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5304048657,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "403":{
+        "index":1648684800000,
+        "company ID":"BLNE",
+        "Rank Target":0.25,
+        "prediction":0.5020340085,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "406":{
+        "index":1648684800000,
+        "company ID":"LDI",
+        "Rank Target":0.0833333333,
+        "prediction":0.4469366372,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "402":{
+        "index":1648684800000,
+        "company ID":"BETR",
+        "Rank Target":0.75,
+        "prediction":0.3962755799,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "419":{
+        "index":1656547200000,
+        "company ID":"ONIT",
+        "Rank Target":0.5,
+        "prediction":0.7287945747,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "420":{
+        "index":1656547200000,
+        "company ID":"PFSI",
+        "Rank Target":0.5833333333,
+        "prediction":0.7069096565,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "416":{
+        "index":1656547200000,
+        "company ID":"GHI",
+        "Rank Target":0.75,
+        "prediction":0.6939328313,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "422":{
+        "index":1656547200000,
+        "company ID":"SNFCA",
+        "Rank Target":0.25,
+        "prediction":0.67735219,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "424":{
+        "index":1656547200000,
+        "company ID":"VEL",
+        "Rank Target":0.8333333333,
+        "prediction":0.6671079397,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "425":{
+        "index":1656547200000,
+        "company ID":"WD",
+        "Rank Target":0.4166666667,
+        "prediction":0.6531713009,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "417":{
+        "index":1656547200000,
+        "company ID":"IOR",
+        "Rank Target":1.0,
+        "prediction":0.6394551992,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "415":{
+        "index":1656547200000,
+        "company ID":"BLNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.6361911893,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "423":{
+        "index":1656547200000,
+        "company ID":"UWMC",
+        "Rank Target":0.1666666667,
+        "prediction":0.5392071605,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "418":{
+        "index":1656547200000,
+        "company ID":"LDI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5366363525,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "414":{
+        "index":1656547200000,
+        "company ID":"BETR",
+        "Rank Target":0.9166666667,
+        "prediction":0.5019269586,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "421":{
+        "index":1656547200000,
+        "company ID":"RKT",
+        "Rank Target":0.3333333333,
+        "prediction":0.4303027689,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "428":{
+        "index":1664496000000,
+        "company ID":"GHI",
+        "Rank Target":0.5,
+        "prediction":0.7192246914,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "433":{
+        "index":1664496000000,
+        "company ID":"RKT",
+        "Rank Target":0.5833333333,
+        "prediction":0.6865772605,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "429":{
+        "index":1664496000000,
+        "company ID":"IOR",
+        "Rank Target":0.3333333333,
+        "prediction":0.6627757549,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "434":{
+        "index":1664496000000,
+        "company ID":"SNFCA",
+        "Rank Target":0.75,
+        "prediction":0.6469501853,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "432":{
+        "index":1664496000000,
+        "company ID":"PFSI",
+        "Rank Target":0.9166666667,
+        "prediction":0.6176634431,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "431":{
+        "index":1664496000000,
+        "company ID":"ONIT",
+        "Rank Target":1.0,
+        "prediction":0.6159242988,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "436":{
+        "index":1664496000000,
+        "company ID":"VEL",
+        "Rank Target":0.1666666667,
+        "prediction":0.6094648838,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "435":{
+        "index":1664496000000,
+        "company ID":"UWMC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6026328206,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "430":{
+        "index":1664496000000,
+        "company ID":"LDI",
+        "Rank Target":0.8333333333,
+        "prediction":0.5891517401,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "437":{
+        "index":1664496000000,
+        "company ID":"WD",
+        "Rank Target":0.25,
+        "prediction":0.5420370102,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "427":{
+        "index":1664496000000,
+        "company ID":"BLNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.4966449738,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "426":{
+        "index":1664496000000,
+        "company ID":"BETR",
+        "Rank Target":0.4166666667,
+        "prediction":0.3339419961,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "448":{
+        "index":1672444800000,
+        "company ID":"VEL",
+        "Rank Target":0.3333333333,
+        "prediction":0.7040590048,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "446":{
+        "index":1672444800000,
+        "company ID":"SNFCA",
+        "Rank Target":0.1666666667,
+        "prediction":0.7018213868,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "449":{
+        "index":1672444800000,
+        "company ID":"WD",
+        "Rank Target":0.25,
+        "prediction":0.6921370029,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "444":{
+        "index":1672444800000,
+        "company ID":"PFSI",
+        "Rank Target":0.8333333333,
+        "prediction":0.6917569041,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "441":{
+        "index":1672444800000,
+        "company ID":"IOR",
+        "Rank Target":0.4166666667,
+        "prediction":0.62426579,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "443":{
+        "index":1672444800000,
+        "company ID":"ONIT",
+        "Rank Target":0.0833333333,
+        "prediction":0.5966036916,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "440":{
+        "index":1672444800000,
+        "company ID":"GHI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5905141234,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "445":{
+        "index":1672444800000,
+        "company ID":"RKT",
+        "Rank Target":0.9166666667,
+        "prediction":0.5421575904,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "447":{
+        "index":1672444800000,
+        "company ID":"UWMC",
+        "Rank Target":1.0,
+        "prediction":0.5213271379,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "442":{
+        "index":1672444800000,
+        "company ID":"LDI",
+        "Rank Target":0.5,
+        "prediction":0.4904949069,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "439":{
+        "index":1672444800000,
+        "company ID":"BLNE",
+        "Rank Target":0.5833333333,
+        "prediction":0.4496638477,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "438":{
+        "index":1672444800000,
+        "company ID":"BETR",
+        "Rank Target":0.75,
+        "prediction":0.388068974,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "452":{
+        "index":1680220800000,
+        "company ID":"GHI",
+        "Rank Target":0.1666666667,
+        "prediction":0.6482480168,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "453":{
+        "index":1680220800000,
+        "company ID":"IOR",
+        "Rank Target":0.4166666667,
+        "prediction":0.6354758739,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "455":{
+        "index":1680220800000,
+        "company ID":"ONIT",
+        "Rank Target":0.5833333333,
+        "prediction":0.6328062415,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "456":{
+        "index":1680220800000,
+        "company ID":"PFSI",
+        "Rank Target":0.75,
+        "prediction":0.609672308,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "460":{
+        "index":1680220800000,
+        "company ID":"VEL",
+        "Rank Target":0.9166666667,
+        "prediction":0.6095363498,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "454":{
+        "index":1680220800000,
+        "company ID":"LDI",
+        "Rank Target":1.0,
+        "prediction":0.5752665401,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "459":{
+        "index":1680220800000,
+        "company ID":"UWMC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5690848827,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "458":{
+        "index":1680220800000,
+        "company ID":"SNFCA",
+        "Rank Target":0.8333333333,
+        "prediction":0.5515402555,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "457":{
+        "index":1680220800000,
+        "company ID":"RKT",
+        "Rank Target":0.25,
+        "prediction":0.5508605838,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "461":{
+        "index":1680220800000,
+        "company ID":"WD",
+        "Rank Target":0.5,
+        "prediction":0.5242406726,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "450":{
+        "index":1680220800000,
+        "company ID":"BETR",
+        "Rank Target":0.3333333333,
+        "prediction":0.4786781073,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "451":{
+        "index":1680220800000,
+        "company ID":"BLNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.4771537185,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "464":{
+        "index":1688083200000,
+        "company ID":"GHI",
+        "Rank Target":0.8333333333,
+        "prediction":0.7270262241,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "468":{
+        "index":1688083200000,
+        "company ID":"PFSI",
+        "Rank Target":0.75,
+        "prediction":0.6953303218,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "469":{
+        "index":1688083200000,
+        "company ID":"RKT",
+        "Rank Target":0.5,
+        "prediction":0.6878519654,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "472":{
+        "index":1688083200000,
+        "company ID":"VEL",
+        "Rank Target":0.9166666667,
+        "prediction":0.6787115335,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "465":{
+        "index":1688083200000,
+        "company ID":"IOR",
+        "Rank Target":1.0,
+        "prediction":0.6672301888,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "467":{
+        "index":1688083200000,
+        "company ID":"ONIT",
+        "Rank Target":0.3333333333,
+        "prediction":0.6665472984,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "471":{
+        "index":1688083200000,
+        "company ID":"UWMC",
+        "Rank Target":0.4166666667,
+        "prediction":0.6323664784,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "473":{
+        "index":1688083200000,
+        "company ID":"WD",
+        "Rank Target":0.6666666667,
+        "prediction":0.6007919908,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "466":{
+        "index":1688083200000,
+        "company ID":"LDI",
+        "Rank Target":0.25,
+        "prediction":0.5607612729,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "470":{
+        "index":1688083200000,
+        "company ID":"SNFCA",
+        "Rank Target":0.5833333333,
+        "prediction":0.5403786898,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "462":{
+        "index":1688083200000,
+        "company ID":"BETR",
+        "Rank Target":0.0833333333,
+        "prediction":0.5336017013,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "463":{
+        "index":1688083200000,
+        "company ID":"BLNE",
+        "Rank Target":0.1666666667,
+        "prediction":0.3744834065,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "485":{
+        "index":1696032000000,
+        "company ID":"WD",
+        "Rank Target":0.75,
+        "prediction":0.7261175513,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "479":{
+        "index":1696032000000,
+        "company ID":"ONIT",
+        "Rank Target":0.4166666667,
+        "prediction":0.7038521767,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "483":{
+        "index":1696032000000,
+        "company ID":"UWMC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6985966563,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "480":{
+        "index":1696032000000,
+        "company ID":"PFSI",
+        "Rank Target":0.5,
+        "prediction":0.669501245,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "478":{
+        "index":1696032000000,
+        "company ID":"LDI",
+        "Rank Target":1.0,
+        "prediction":0.657845974,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "476":{
+        "index":1696032000000,
+        "company ID":"GHI",
+        "Rank Target":0.1666666667,
+        "prediction":0.6261181235,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "477":{
+        "index":1696032000000,
+        "company ID":"IOR",
+        "Rank Target":0.3333333333,
+        "prediction":0.618712008,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "481":{
+        "index":1696032000000,
+        "company ID":"RKT",
+        "Rank Target":0.9166666667,
+        "prediction":0.618252933,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "482":{
+        "index":1696032000000,
+        "company ID":"SNFCA",
+        "Rank Target":0.25,
+        "prediction":0.5927357078,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "484":{
+        "index":1696032000000,
+        "company ID":"VEL",
+        "Rank Target":0.5833333333,
+        "prediction":0.548887372,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "474":{
+        "index":1696032000000,
+        "company ID":"BETR",
+        "Rank Target":0.8333333333,
+        "prediction":0.4855969846,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "475":{
+        "index":1696032000000,
+        "company ID":"BLNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.4254711866,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "491":{
+        "index":1703980800000,
+        "company ID":"ONIT",
+        "Rank Target":0.3333333333,
+        "prediction":0.747779429,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "488":{
+        "index":1703980800000,
+        "company ID":"GHI",
+        "Rank Target":0.5833333333,
+        "prediction":0.7156018019,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "492":{
+        "index":1703980800000,
+        "company ID":"PFSI",
+        "Rank Target":0.6666666667,
+        "prediction":0.7036697268,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "497":{
+        "index":1703980800000,
+        "company ID":"WD",
+        "Rank Target":0.5,
+        "prediction":0.7007777691,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "496":{
+        "index":1703980800000,
+        "company ID":"VEL",
+        "Rank Target":0.9166666667,
+        "prediction":0.6158735752,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "493":{
+        "index":1703980800000,
+        "company ID":"RKT",
+        "Rank Target":0.75,
+        "prediction":0.6101806164,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "489":{
+        "index":1703980800000,
+        "company ID":"IOR",
+        "Rank Target":1.0,
+        "prediction":0.5961076617,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "486":{
+        "index":1703980800000,
+        "company ID":"BETR",
+        "Rank Target":0.0833333333,
+        "prediction":0.5612507463,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "494":{
+        "index":1703980800000,
+        "company ID":"SNFCA",
+        "Rank Target":0.4166666667,
+        "prediction":0.5541077852,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "495":{
+        "index":1703980800000,
+        "company ID":"UWMC",
+        "Rank Target":0.8333333333,
+        "prediction":0.54751724,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "490":{
+        "index":1703980800000,
+        "company ID":"LDI",
+        "Rank Target":0.1666666667,
+        "prediction":0.5465545058,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "487":{
+        "index":1703980800000,
+        "company ID":"BLNE",
+        "Rank Target":0.25,
+        "prediction":0.4006527364,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "508":{
+        "index":1711843200000,
+        "company ID":"VEL",
+        "Rank Target":0.5833333333,
+        "prediction":0.6658762693,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "498":{
+        "index":1711843200000,
+        "company ID":"BETR",
+        "Rank Target":0.4166666667,
+        "prediction":0.6423882246,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "509":{
+        "index":1711843200000,
+        "company ID":"WD",
+        "Rank Target":0.6666666667,
+        "prediction":0.6418150067,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "501":{
+        "index":1711843200000,
+        "company ID":"IOR",
+        "Rank Target":0.3333333333,
+        "prediction":0.6306239367,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "500":{
+        "index":1711843200000,
+        "company ID":"GHI",
+        "Rank Target":0.1666666667,
+        "prediction":0.6218013167,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "504":{
+        "index":1711843200000,
+        "company ID":"PFSI",
+        "Rank Target":0.75,
+        "prediction":0.6035242081,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "503":{
+        "index":1711843200000,
+        "company ID":"ONIT",
+        "Rank Target":0.25,
+        "prediction":0.6019331813,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "507":{
+        "index":1711843200000,
+        "company ID":"UWMC",
+        "Rank Target":1.0,
+        "prediction":0.5907475352,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "506":{
+        "index":1711843200000,
+        "company ID":"SNFCA",
+        "Rank Target":0.8333333333,
+        "prediction":0.574729979,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "502":{
+        "index":1711843200000,
+        "company ID":"LDI",
+        "Rank Target":0.0833333333,
+        "prediction":0.543351531,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "505":{
+        "index":1711843200000,
+        "company ID":"RKT",
+        "Rank Target":0.5,
+        "prediction":0.5336934328,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "499":{
+        "index":1711843200000,
+        "company ID":"BLNE",
+        "Rank Target":0.9166666667,
+        "prediction":0.4339620769,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "516":{
+        "index":1719705600000,
+        "company ID":"PFSI",
+        "Rank Target":0.6666666667,
+        "prediction":0.7165893316,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "517":{
+        "index":1719705600000,
+        "company ID":"RKT",
+        "Rank Target":0.8333333333,
+        "prediction":0.6759058237,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "515":{
+        "index":1719705600000,
+        "company ID":"ONIT",
+        "Rank Target":0.9166666667,
+        "prediction":0.6639300585,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "520":{
+        "index":1719705600000,
+        "company ID":"VEL",
+        "Rank Target":0.3333333333,
+        "prediction":0.6637123227,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "521":{
+        "index":1719705600000,
+        "company ID":"WD",
+        "Rank Target":0.5,
+        "prediction":0.6612631083,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "512":{
+        "index":1719705600000,
+        "company ID":"GHI",
+        "Rank Target":0.25,
+        "prediction":0.6410751343,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "510":{
+        "index":1719705600000,
+        "company ID":"BETR",
+        "Rank Target":0.1666666667,
+        "prediction":0.5869897008,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "518":{
+        "index":1719705600000,
+        "company ID":"SNFCA",
+        "Rank Target":0.5833333333,
+        "prediction":0.5807114244,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "513":{
+        "index":1719705600000,
+        "company ID":"IOR",
+        "Rank Target":0.4166666667,
+        "prediction":0.5412977338,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "514":{
+        "index":1719705600000,
+        "company ID":"LDI",
+        "Rank Target":1.0,
+        "prediction":0.5369053483,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "519":{
+        "index":1719705600000,
+        "company ID":"UWMC",
+        "Rank Target":0.75,
+        "prediction":0.5148391128,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "511":{
+        "index":1719705600000,
+        "company ID":"BLNE",
+        "Rank Target":0.0833333333,
+        "prediction":0.5079495311,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    }
+}

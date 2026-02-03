@@ -1,0 +1,1738 @@
+{
+    "594":{
+        "index":1648684800000,
+        "company ID":"JAKK",
+        "Rank Target":0.625,
+        "prediction":0.6702700257,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "600":{
+        "index":1648684800000,
+        "company ID":"MSGE",
+        "Rank Target":0.09375,
+        "prediction":0.6393027902,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "591":{
+        "index":1648684800000,
+        "company ID":"FNKO",
+        "Rank Target":1.0,
+        "prediction":0.63041991,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "596":{
+        "index":1648684800000,
+        "company ID":"LTH",
+        "Rank Target":0.5625,
+        "prediction":0.6283856034,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "590":{
+        "index":1648684800000,
+        "company ID":"ESCA",
+        "Rank Target":0.75,
+        "prediction":0.6251785755,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "597":{
+        "index":1648684800000,
+        "company ID":"LUCK",
+        "Rank Target":0.6875,
+        "prediction":0.587667048,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "603":{
+        "index":1648684800000,
+        "company ID":"TRUG",
+        "Rank Target":0.9375,
+        "prediction":0.5729946494,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "598":{
+        "index":1648684800000,
+        "company ID":"MAT",
+        "Rank Target":0.875,
+        "prediction":0.5627298951,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "592":{
+        "index":1648684800000,
+        "company ID":"FUN",
+        "Rank Target":0.4375,
+        "prediction":0.5573972464,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "593":{
+        "index":1648684800000,
+        "company ID":"GOLF",
+        "Rank Target":0.8125,
+        "prediction":0.5569599271,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "589":{
+        "index":1648684800000,
+        "company ID":"CLAR",
+        "Rank Target":0.375,
+        "prediction":0.5362852812,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "599":{
+        "index":1648684800000,
+        "company ID":"MODG",
+        "Rank Target":0.5,
+        "prediction":0.5044195056,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "601":{
+        "index":1648684800000,
+        "company ID":"PTON",
+        "Rank Target":0.1875,
+        "prediction":0.4540620148,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "602":{
+        "index":1648684800000,
+        "company ID":"TRON",
+        "Rank Target":0.09375,
+        "prediction":0.4520971775,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "604":{
+        "index":1648684800000,
+        "company ID":"YETI",
+        "Rank Target":0.25,
+        "prediction":0.440775156,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "595":{
+        "index":1648684800000,
+        "company ID":"JOUT",
+        "Rank Target":0.3125,
+        "prediction":0.4089737535,
+        "trueRank":12.0,
+        "predictionRank":16.0
+    },
+    "610":{
+        "index":1656547200000,
+        "company ID":"JAKK",
+        "Rank Target":1.0,
+        "prediction":0.7299983501,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "614":{
+        "index":1656547200000,
+        "company ID":"MAT",
+        "Rank Target":0.625,
+        "prediction":0.661446929,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "605":{
+        "index":1656547200000,
+        "company ID":"CLAR",
+        "Rank Target":0.25,
+        "prediction":0.6432294846,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "615":{
+        "index":1656547200000,
+        "company ID":"MODG",
+        "Rank Target":0.75,
+        "prediction":0.6385699511,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "620":{
+        "index":1656547200000,
+        "company ID":"YETI",
+        "Rank Target":0.1875,
+        "prediction":0.6036738753,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "612":{
+        "index":1656547200000,
+        "company ID":"LTH",
+        "Rank Target":0.375,
+        "prediction":0.5883325934,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "608":{
+        "index":1656547200000,
+        "company ID":"FUN",
+        "Rank Target":0.6875,
+        "prediction":0.5745671391,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "609":{
+        "index":1656547200000,
+        "company ID":"GOLF",
+        "Rank Target":0.875,
+        "prediction":0.5612211227,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "611":{
+        "index":1656547200000,
+        "company ID":"JOUT",
+        "Rank Target":0.5625,
+        "prediction":0.5355612636,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "613":{
+        "index":1656547200000,
+        "company ID":"LUCK",
+        "Rank Target":0.9375,
+        "prediction":0.4981861115,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "616":{
+        "index":1656547200000,
+        "company ID":"MSGE",
+        "Rank Target":0.09375,
+        "prediction":0.4979121387,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "606":{
+        "index":1656547200000,
+        "company ID":"ESCA",
+        "Rank Target":0.5,
+        "prediction":0.475695014,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "618":{
+        "index":1656547200000,
+        "company ID":"TRON",
+        "Rank Target":0.09375,
+        "prediction":0.4686137736,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "607":{
+        "index":1656547200000,
+        "company ID":"FNKO",
+        "Rank Target":0.4375,
+        "prediction":0.443890661,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "617":{
+        "index":1656547200000,
+        "company ID":"PTON",
+        "Rank Target":0.3125,
+        "prediction":0.4071363807,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "619":{
+        "index":1656547200000,
+        "company ID":"TRUG",
+        "Rank Target":0.8125,
+        "prediction":0.377286166,
+        "trueRank":4.0,
+        "predictionRank":16.0
+    },
+    "625":{
+        "index":1664496000000,
+        "company ID":"GOLF",
+        "Rank Target":0.4375,
+        "prediction":0.6914202571,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "627":{
+        "index":1664496000000,
+        "company ID":"JOUT",
+        "Rank Target":0.9375,
+        "prediction":0.6502152681,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "624":{
+        "index":1664496000000,
+        "company ID":"FUN",
+        "Rank Target":0.5625,
+        "prediction":0.5968245864,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "631":{
+        "index":1664496000000,
+        "company ID":"MODG",
+        "Rank Target":0.625,
+        "prediction":0.5968080163,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "636":{
+        "index":1664496000000,
+        "company ID":"YETI",
+        "Rank Target":1.0,
+        "prediction":0.5926744938,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "623":{
+        "index":1664496000000,
+        "company ID":"FNKO",
+        "Rank Target":0.1875,
+        "prediction":0.5837316513,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "626":{
+        "index":1664496000000,
+        "company ID":"JAKK",
+        "Rank Target":0.3125,
+        "prediction":0.5787140131,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "628":{
+        "index":1664496000000,
+        "company ID":"LTH",
+        "Rank Target":0.875,
+        "prediction":0.5570937395,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "630":{
+        "index":1664496000000,
+        "company ID":"MAT",
+        "Rank Target":0.375,
+        "prediction":0.5542880893,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "621":{
+        "index":1664496000000,
+        "company ID":"CLAR",
+        "Rank Target":0.25,
+        "prediction":0.5131028295,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "622":{
+        "index":1664496000000,
+        "company ID":"ESCA",
+        "Rank Target":0.5,
+        "prediction":0.4871307909,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "632":{
+        "index":1664496000000,
+        "company ID":"MSGE",
+        "Rank Target":0.09375,
+        "prediction":0.4568472803,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "629":{
+        "index":1664496000000,
+        "company ID":"LUCK",
+        "Rank Target":0.8125,
+        "prediction":0.4179704785,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "633":{
+        "index":1664496000000,
+        "company ID":"PTON",
+        "Rank Target":0.75,
+        "prediction":0.4132383466,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "635":{
+        "index":1664496000000,
+        "company ID":"TRUG",
+        "Rank Target":0.6875,
+        "prediction":0.3546198905,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "634":{
+        "index":1664496000000,
+        "company ID":"TRON",
+        "Rank Target":0.09375,
+        "prediction":0.3259058297,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "638":{
+        "index":1672444800000,
+        "company ID":"ESCA",
+        "Rank Target":1.0,
+        "prediction":0.6770447493,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "641":{
+        "index":1672444800000,
+        "company ID":"GOLF",
+        "Rank Target":0.75,
+        "prediction":0.6519121528,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "645":{
+        "index":1672444800000,
+        "company ID":"LUCK",
+        "Rank Target":0.8125,
+        "prediction":0.6339848042,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "643":{
+        "index":1672444800000,
+        "company ID":"JOUT",
+        "Rank Target":0.25,
+        "prediction":0.6209394932,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "640":{
+        "index":1672444800000,
+        "company ID":"FUN",
+        "Rank Target":0.625,
+        "prediction":0.5998516679,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "644":{
+        "index":1672444800000,
+        "company ID":"LTH",
+        "Rank Target":0.9375,
+        "prediction":0.5736163855,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "647":{
+        "index":1672444800000,
+        "company ID":"MODG",
+        "Rank Target":0.5625,
+        "prediction":0.5419341326,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "648":{
+        "index":1672444800000,
+        "company ID":"MSGE",
+        "Rank Target":0.09375,
+        "prediction":0.5382911563,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "642":{
+        "index":1672444800000,
+        "company ID":"JAKK",
+        "Rank Target":0.375,
+        "prediction":0.5355423093,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "637":{
+        "index":1672444800000,
+        "company ID":"CLAR",
+        "Rank Target":0.6875,
+        "prediction":0.5009963512,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "639":{
+        "index":1672444800000,
+        "company ID":"FNKO",
+        "Rank Target":0.1875,
+        "prediction":0.4990694523,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "646":{
+        "index":1672444800000,
+        "company ID":"MAT",
+        "Rank Target":0.4375,
+        "prediction":0.4859164357,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "652":{
+        "index":1672444800000,
+        "company ID":"YETI",
+        "Rank Target":0.3125,
+        "prediction":0.4795289636,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "649":{
+        "index":1672444800000,
+        "company ID":"PTON",
+        "Rank Target":0.875,
+        "prediction":0.4779247344,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "651":{
+        "index":1672444800000,
+        "company ID":"TRUG",
+        "Rank Target":0.5,
+        "prediction":0.3595646024,
+        "trueRank":9.0,
+        "predictionRank":15.0
+    },
+    "650":{
+        "index":1672444800000,
+        "company ID":"TRON",
+        "Rank Target":0.09375,
+        "prediction":0.3239657283,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "659":{
+        "index":1680220800000,
+        "company ID":"JOUT",
+        "Rank Target":0.5625,
+        "prediction":0.7466992736,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "657":{
+        "index":1680220800000,
+        "company ID":"GOLF",
+        "Rank Target":0.75,
+        "prediction":0.7042186856,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "665":{
+        "index":1680220800000,
+        "company ID":"PTON",
+        "Rank Target":0.125,
+        "prediction":0.654879868,
+        "trueRank":15.0,
+        "predictionRank":3.0
+    },
+    "660":{
+        "index":1680220800000,
+        "company ID":"LTH",
+        "Rank Target":1.0,
+        "prediction":0.6381207108,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "664":{
+        "index":1680220800000,
+        "company ID":"MSGE",
+        "Rank Target":0.8125,
+        "prediction":0.6130785346,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "658":{
+        "index":1680220800000,
+        "company ID":"JAKK",
+        "Rank Target":0.875,
+        "prediction":0.5757736564,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "668":{
+        "index":1680220800000,
+        "company ID":"YETI",
+        "Rank Target":0.5,
+        "prediction":0.5463744402,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "666":{
+        "index":1680220800000,
+        "company ID":"TRON",
+        "Rank Target":0.0625,
+        "prediction":0.5308228135,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "663":{
+        "index":1680220800000,
+        "company ID":"MODG",
+        "Rank Target":0.3125,
+        "prediction":0.5300244689,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "653":{
+        "index":1680220800000,
+        "company ID":"CLAR",
+        "Rank Target":0.4375,
+        "prediction":0.5175710917,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "661":{
+        "index":1680220800000,
+        "company ID":"LUCK",
+        "Rank Target":0.1875,
+        "prediction":0.5113937259,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "654":{
+        "index":1680220800000,
+        "company ID":"ESCA",
+        "Rank Target":0.375,
+        "prediction":0.4983429015,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "662":{
+        "index":1680220800000,
+        "company ID":"MAT",
+        "Rank Target":0.625,
+        "prediction":0.4498328269,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "656":{
+        "index":1680220800000,
+        "company ID":"FUN",
+        "Rank Target":0.25,
+        "prediction":0.4322946072,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "655":{
+        "index":1680220800000,
+        "company ID":"FNKO",
+        "Rank Target":0.9375,
+        "prediction":0.4218866825,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "667":{
+        "index":1680220800000,
+        "company ID":"TRUG",
+        "Rank Target":0.6875,
+        "prediction":0.3663081527,
+        "trueRank":6.0,
+        "predictionRank":16.0
+    },
+    "674":{
+        "index":1688083200000,
+        "company ID":"GOLF",
+        "Rank Target":0.6875,
+        "prediction":0.7136415243,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "673":{
+        "index":1688083200000,
+        "company ID":"FUN",
+        "Rank Target":0.625,
+        "prediction":0.6766713858,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "680":{
+        "index":1688083200000,
+        "company ID":"MODG",
+        "Rank Target":0.25,
+        "prediction":0.6672378778,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "676":{
+        "index":1688083200000,
+        "company ID":"JOUT",
+        "Rank Target":0.5,
+        "prediction":0.6610941887,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "682":{
+        "index":1688083200000,
+        "company ID":"PTON",
+        "Rank Target":0.125,
+        "prediction":0.5973647237,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "684":{
+        "index":1688083200000,
+        "company ID":"YETI",
+        "Rank Target":1.0,
+        "prediction":0.5670631528,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "671":{
+        "index":1688083200000,
+        "company ID":"ESCA",
+        "Rank Target":0.9375,
+        "prediction":0.560195744,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "683":{
+        "index":1688083200000,
+        "company ID":"TRUG",
+        "Rank Target":0.8125,
+        "prediction":0.5427684784,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "678":{
+        "index":1688083200000,
+        "company ID":"LUCK",
+        "Rank Target":0.4375,
+        "prediction":0.5058309436,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "679":{
+        "index":1688083200000,
+        "company ID":"MAT",
+        "Rank Target":0.875,
+        "prediction":0.4995798171,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "681":{
+        "index":1688083200000,
+        "company ID":"MSGE",
+        "Rank Target":0.75,
+        "prediction":0.4865593016,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "677":{
+        "index":1688083200000,
+        "company ID":"LTH",
+        "Rank Target":0.3125,
+        "prediction":0.4833732545,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "675":{
+        "index":1688083200000,
+        "company ID":"JAKK",
+        "Rank Target":0.5625,
+        "prediction":0.4777992666,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "670":{
+        "index":1688083200000,
+        "company ID":"CLAR",
+        "Rank Target":0.375,
+        "prediction":0.4589578509,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "672":{
+        "index":1688083200000,
+        "company ID":"FNKO",
+        "Rank Target":0.1875,
+        "prediction":0.3800721765,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "669":{
+        "index":1688083200000,
+        "company ID":"AGH",
+        "Rank Target":0.0625,
+        "prediction":0.2140954137,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "687":{
+        "index":1696032000000,
+        "company ID":"ESCA",
+        "Rank Target":0.8823529412,
+        "prediction":0.7122160196,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "695":{
+        "index":1696032000000,
+        "company ID":"MAT",
+        "Rank Target":0.1764705882,
+        "prediction":0.6967852116,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "690":{
+        "index":1696032000000,
+        "company ID":"GOLF",
+        "Rank Target":0.8235294118,
+        "prediction":0.6736875176,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "698":{
+        "index":1696032000000,
+        "company ID":"PTON",
+        "Rank Target":0.7647058824,
+        "prediction":0.6687611938,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "691":{
+        "index":1696032000000,
+        "company ID":"JAKK",
+        "Rank Target":1.0,
+        "prediction":0.6551815867,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "696":{
+        "index":1696032000000,
+        "company ID":"MODG",
+        "Rank Target":0.5882352941,
+        "prediction":0.6342281699,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "694":{
+        "index":1696032000000,
+        "company ID":"LUCK",
+        "Rank Target":0.9411764706,
+        "prediction":0.5910886526,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "697":{
+        "index":1696032000000,
+        "company ID":"MSGE",
+        "Rank Target":0.2941176471,
+        "prediction":0.5816493034,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "689":{
+        "index":1696032000000,
+        "company ID":"FUN",
+        "Rank Target":0.6470588235,
+        "prediction":0.5805517435,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "701":{
+        "index":1696032000000,
+        "company ID":"YETI",
+        "Rank Target":0.7058823529,
+        "prediction":0.5739403963,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "688":{
+        "index":1696032000000,
+        "company ID":"FNKO",
+        "Rank Target":0.5294117647,
+        "prediction":0.5562810898,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "693":{
+        "index":1696032000000,
+        "company ID":"LTH",
+        "Rank Target":0.4705882353,
+        "prediction":0.5295876265,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "700":{
+        "index":1696032000000,
+        "company ID":"TRUG",
+        "Rank Target":0.3529411765,
+        "prediction":0.5198328495,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "686":{
+        "index":1696032000000,
+        "company ID":"CLAR",
+        "Rank Target":0.2352941176,
+        "prediction":0.506184876,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "692":{
+        "index":1696032000000,
+        "company ID":"JOUT",
+        "Rank Target":0.4117647059,
+        "prediction":0.3337772489,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "699":{
+        "index":1696032000000,
+        "company ID":"TRON",
+        "Rank Target":0.1176470588,
+        "prediction":0.3319452405,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "685":{
+        "index":1696032000000,
+        "company ID":"AGH",
+        "Rank Target":0.0588235294,
+        "prediction":0.1926183105,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "717":{
+        "index":1703980800000,
+        "company ID":"YETI",
+        "Rank Target":0.375,
+        "prediction":0.7836028337,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "712":{
+        "index":1703980800000,
+        "company ID":"MAT",
+        "Rank Target":0.6875,
+        "prediction":0.7270057797,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "714":{
+        "index":1703980800000,
+        "company ID":"MSGE",
+        "Rank Target":1.0,
+        "prediction":0.6843501329,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "713":{
+        "index":1703980800000,
+        "company ID":"MODG",
+        "Rank Target":0.9375,
+        "prediction":0.6022444963,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "704":{
+        "index":1703980800000,
+        "company ID":"ESCA",
+        "Rank Target":0.25,
+        "prediction":0.6021214724,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "710":{
+        "index":1703980800000,
+        "company ID":"LTH",
+        "Rank Target":0.875,
+        "prediction":0.5693962574,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "711":{
+        "index":1703980800000,
+        "company ID":"LUCK",
+        "Rank Target":0.5625,
+        "prediction":0.5637720823,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "715":{
+        "index":1703980800000,
+        "company ID":"PTON",
+        "Rank Target":0.3125,
+        "prediction":0.5503177643,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "705":{
+        "index":1703980800000,
+        "company ID":"FNKO",
+        "Rank Target":0.4375,
+        "prediction":0.5355857015,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "706":{
+        "index":1703980800000,
+        "company ID":"FUN",
+        "Rank Target":0.75,
+        "prediction":0.5159461498,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "703":{
+        "index":1703980800000,
+        "company ID":"CLAR",
+        "Rank Target":0.8125,
+        "prediction":0.5136135817,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "716":{
+        "index":1703980800000,
+        "company ID":"TRUG",
+        "Rank Target":0.125,
+        "prediction":0.5051797032,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "709":{
+        "index":1703980800000,
+        "company ID":"JOUT",
+        "Rank Target":0.5,
+        "prediction":0.4981205463,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "708":{
+        "index":1703980800000,
+        "company ID":"JAKK",
+        "Rank Target":0.1875,
+        "prediction":0.4961923361,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "707":{
+        "index":1703980800000,
+        "company ID":"GOLF",
+        "Rank Target":0.625,
+        "prediction":0.4839098454,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "702":{
+        "index":1703980800000,
+        "company ID":"AGH",
+        "Rank Target":0.0625,
+        "prediction":0.2695165575,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "720":{
+        "index":1711843200000,
+        "company ID":"ESCA",
+        "Rank Target":0.8235294118,
+        "prediction":0.6737876534,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "731":{
+        "index":1711843200000,
+        "company ID":"PTON",
+        "Rank Target":0.2941176471,
+        "prediction":0.6672539711,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "723":{
+        "index":1711843200000,
+        "company ID":"GOLF",
+        "Rank Target":0.5882352941,
+        "prediction":0.6408863664,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "727":{
+        "index":1711843200000,
+        "company ID":"LUCK",
+        "Rank Target":0.7647058824,
+        "prediction":0.6329166293,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "721":{
+        "index":1711843200000,
+        "company ID":"FNKO",
+        "Rank Target":1.0,
+        "prediction":0.6271224022,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "728":{
+        "index":1711843200000,
+        "company ID":"MAT",
+        "Rank Target":0.3529411765,
+        "prediction":0.6247422099,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "733":{
+        "index":1711843200000,
+        "company ID":"TRUG",
+        "Rank Target":0.4117647059,
+        "prediction":0.6097504497,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "730":{
+        "index":1711843200000,
+        "company ID":"MSGE",
+        "Rank Target":0.4705882353,
+        "prediction":0.582527101,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "718":{
+        "index":1711843200000,
+        "company ID":"AGH",
+        "Rank Target":0.0588235294,
+        "prediction":0.5756328702,
+        "trueRank":17.0,
+        "predictionRank":9.0
+    },
+    "722":{
+        "index":1711843200000,
+        "company ID":"FUN",
+        "Rank Target":0.9411764706,
+        "prediction":0.5743433833,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "729":{
+        "index":1711843200000,
+        "company ID":"MODG",
+        "Rank Target":0.5294117647,
+        "prediction":0.5602941513,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "719":{
+        "index":1711843200000,
+        "company ID":"CLAR",
+        "Rank Target":0.7058823529,
+        "prediction":0.5545781255,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "734":{
+        "index":1711843200000,
+        "company ID":"YETI",
+        "Rank Target":0.6470588235,
+        "prediction":0.5456535816,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "726":{
+        "index":1711843200000,
+        "company ID":"LTH",
+        "Rank Target":0.8823529412,
+        "prediction":0.5375902057,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "725":{
+        "index":1711843200000,
+        "company ID":"JOUT",
+        "Rank Target":0.1764705882,
+        "prediction":0.4339624047,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "732":{
+        "index":1711843200000,
+        "company ID":"TRON",
+        "Rank Target":0.2352941176,
+        "prediction":0.3775546551,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "724":{
+        "index":1711843200000,
+        "company ID":"JAKK",
+        "Rank Target":0.1176470588,
+        "prediction":0.3666161299,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "751":{
+        "index":1719705600000,
+        "company ID":"YETI",
+        "Rank Target":0.6470588235,
+        "prediction":0.7407884598,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "747":{
+        "index":1719705600000,
+        "company ID":"MSGE",
+        "Rank Target":0.7647058824,
+        "prediction":0.7072150707,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "748":{
+        "index":1719705600000,
+        "company ID":"PTON",
+        "Rank Target":0.9411764706,
+        "prediction":0.7012327909,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "739":{
+        "index":1719705600000,
+        "company ID":"FUN",
+        "Rank Target":0.1764705882,
+        "prediction":0.6815372705,
+        "trueRank":15.0,
+        "predictionRank":4.0
+    },
+    "743":{
+        "index":1719705600000,
+        "company ID":"LTH",
+        "Rank Target":0.8823529412,
+        "prediction":0.680095613,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "745":{
+        "index":1719705600000,
+        "company ID":"MAT",
+        "Rank Target":0.7058823529,
+        "prediction":0.6745321155,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "740":{
+        "index":1719705600000,
+        "company ID":"GOLF",
+        "Rank Target":0.4705882353,
+        "prediction":0.6713554859,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "738":{
+        "index":1719705600000,
+        "company ID":"FNKO",
+        "Rank Target":0.8235294118,
+        "prediction":0.6590946317,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "746":{
+        "index":1719705600000,
+        "company ID":"MODG",
+        "Rank Target":0.2352941176,
+        "prediction":0.5854417086,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "749":{
+        "index":1719705600000,
+        "company ID":"TRON",
+        "Rank Target":0.1176470588,
+        "prediction":0.580142796,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "737":{
+        "index":1719705600000,
+        "company ID":"ESCA",
+        "Rank Target":0.5294117647,
+        "prediction":0.5774624944,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "741":{
+        "index":1719705600000,
+        "company ID":"JAKK",
+        "Rank Target":1.0,
+        "prediction":0.5581703782,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "736":{
+        "index":1719705600000,
+        "company ID":"CLAR",
+        "Rank Target":0.2941176471,
+        "prediction":0.5326751471,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "744":{
+        "index":1719705600000,
+        "company ID":"LUCK",
+        "Rank Target":0.3529411765,
+        "prediction":0.5316269994,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "742":{
+        "index":1719705600000,
+        "company ID":"JOUT",
+        "Rank Target":0.5882352941,
+        "prediction":0.5051563382,
+        "trueRank":8.0,
+        "predictionRank":15.0
+    },
+    "750":{
+        "index":1719705600000,
+        "company ID":"TRUG",
+        "Rank Target":0.4117647059,
+        "prediction":0.4473855495,
+        "trueRank":11.0,
+        "predictionRank":16.0
+    },
+    "735":{
+        "index":1719705600000,
+        "company ID":"AGH",
+        "Rank Target":0.0588235294,
+        "prediction":0.4279527068,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "766":{
+        "index":1727654400000,
+        "company ID":"PTON",
+        "Rank Target":1.0,
+        "prediction":0.7439890504,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "758":{
+        "index":1727654400000,
+        "company ID":"JAKK",
+        "Rank Target":0.7777777778,
+        "prediction":0.7364647388,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "769":{
+        "index":1727654400000,
+        "company ID":"YETI",
+        "Rank Target":0.5555555556,
+        "prediction":0.6992583275,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "757":{
+        "index":1727654400000,
+        "company ID":"GOLF",
+        "Rank Target":0.8333333333,
+        "prediction":0.6974970102,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "760":{
+        "index":1727654400000,
+        "company ID":"LTH",
+        "Rank Target":0.3333333333,
+        "prediction":0.6615799069,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "762":{
+        "index":1727654400000,
+        "company ID":"MAT",
+        "Rank Target":0.4444444444,
+        "prediction":0.656052053,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "768":{
+        "index":1727654400000,
+        "company ID":"TRUG",
+        "Rank Target":0.1666666667,
+        "prediction":0.6529143453,
+        "trueRank":16.0,
+        "predictionRank":7.0
+    },
+    "754":{
+        "index":1727654400000,
+        "company ID":"ESCA",
+        "Rank Target":0.6666666667,
+        "prediction":0.6459547877,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "761":{
+        "index":1727654400000,
+        "company ID":"LUCK",
+        "Rank Target":0.3888888889,
+        "prediction":0.63888973,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "755":{
+        "index":1727654400000,
+        "company ID":"FNKO",
+        "Rank Target":0.8888888889,
+        "prediction":0.6009709835,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "763":{
+        "index":1727654400000,
+        "company ID":"MODG",
+        "Rank Target":0.2222222222,
+        "prediction":0.5811162591,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "756":{
+        "index":1727654400000,
+        "company ID":"FUN",
+        "Rank Target":0.9444444444,
+        "prediction":0.572063446,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "752":{
+        "index":1727654400000,
+        "company ID":"AGH",
+        "Rank Target":0.0833333333,
+        "prediction":0.5698772073,
+        "trueRank":17.0,
+        "predictionRank":13.0
+    },
+    "759":{
+        "index":1727654400000,
+        "company ID":"JOUT",
+        "Rank Target":0.6111111111,
+        "prediction":0.5541372895,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "764":{
+        "index":1727654400000,
+        "company ID":"MSGE",
+        "Rank Target":0.2777777778,
+        "prediction":0.5242387652,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "753":{
+        "index":1727654400000,
+        "company ID":"CLAR",
+        "Rank Target":0.7222222222,
+        "prediction":0.476906836,
+        "trueRank":6.0,
+        "predictionRank":16.0
+    },
+    "765":{
+        "index":1727654400000,
+        "company ID":"NOMA",
+        "Rank Target":0.0833333333,
+        "prediction":0.4616556466,
+        "trueRank":17.0,
+        "predictionRank":17.0
+    },
+    "767":{
+        "index":1727654400000,
+        "company ID":"TRON",
+        "Rank Target":0.5,
+        "prediction":0.4605065882,
+        "trueRank":10.0,
+        "predictionRank":18.0
+    },
+    "773":{
+        "index":1735603200000,
+        "company ID":"FNKO",
+        "Rank Target":0.1666666667,
+        "prediction":0.6716935635,
+        "trueRank":16.0,
+        "predictionRank":1.0
+    },
+    "776":{
+        "index":1735603200000,
+        "company ID":"JAKK",
+        "Rank Target":0.6666666667,
+        "prediction":0.6215949655,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "771":{
+        "index":1735603200000,
+        "company ID":"CLAR",
+        "Rank Target":0.5555555556,
+        "prediction":0.6212617159,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "778":{
+        "index":1735603200000,
+        "company ID":"LTH",
+        "Rank Target":1.0,
+        "prediction":0.6210284233,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "775":{
+        "index":1735603200000,
+        "company ID":"GOLF",
+        "Rank Target":0.7777777778,
+        "prediction":0.6113249063,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "784":{
+        "index":1735603200000,
+        "company ID":"PTON",
+        "Rank Target":0.3333333333,
+        "prediction":0.6056602597,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "772":{
+        "index":1735603200000,
+        "company ID":"ESCA",
+        "Rank Target":0.8888888889,
+        "prediction":0.5918725729,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "780":{
+        "index":1735603200000,
+        "company ID":"MAT",
+        "Rank Target":0.9444444444,
+        "prediction":0.5873084664,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "770":{
+        "index":1735603200000,
+        "company ID":"AGH",
+        "Rank Target":0.1111111111,
+        "prediction":0.5680590868,
+        "trueRank":17.0,
+        "predictionRank":9.0
+    },
+    "782":{
+        "index":1735603200000,
+        "company ID":"MSGE",
+        "Rank Target":0.7222222222,
+        "prediction":0.5574890375,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "774":{
+        "index":1735603200000,
+        "company ID":"FUN",
+        "Rank Target":0.5,
+        "prediction":0.5367801189,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "787":{
+        "index":1735603200000,
+        "company ID":"YETI",
+        "Rank Target":0.6111111111,
+        "prediction":0.5361523032,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "779":{
+        "index":1735603200000,
+        "company ID":"LUCK",
+        "Rank Target":0.8333333333,
+        "prediction":0.5139155984,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "783":{
+        "index":1735603200000,
+        "company ID":"NOMA",
+        "Rank Target":0.0555555556,
+        "prediction":0.5097184777,
+        "trueRank":18.0,
+        "predictionRank":14.0
+    },
+    "781":{
+        "index":1735603200000,
+        "company ID":"MODG",
+        "Rank Target":0.3888888889,
+        "prediction":0.5017821193,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "785":{
+        "index":1735603200000,
+        "company ID":"TRON",
+        "Rank Target":0.2777777778,
+        "prediction":0.4624110162,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "786":{
+        "index":1735603200000,
+        "company ID":"TRUG",
+        "Rank Target":0.2222222222,
+        "prediction":0.4204970002,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "777":{
+        "index":1735603200000,
+        "company ID":"JOUT",
+        "Rank Target":0.4444444444,
+        "prediction":0.3509259522,
+        "trueRank":11.0,
+        "predictionRank":18.0
+    },
+    "794":{
+        "index":1743379200000,
+        "company ID":"JAKK",
+        "Rank Target":0.3333333333,
+        "prediction":0.7078654766,
+        "trueRank":13.0,
+        "predictionRank":1.0
+    },
+    "793":{
+        "index":1743379200000,
+        "company ID":"GOLF",
+        "Rank Target":0.7222222222,
+        "prediction":0.6512187123,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "797":{
+        "index":1743379200000,
+        "company ID":"LUCK",
+        "Rank Target":0.6111111111,
+        "prediction":0.6291233897,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "796":{
+        "index":1743379200000,
+        "company ID":"LTH",
+        "Rank Target":0.5,
+        "prediction":0.6254400611,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "803":{
+        "index":1743379200000,
+        "company ID":"TRON",
+        "Rank Target":1.0,
+        "prediction":0.6243134141,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "800":{
+        "index":1743379200000,
+        "company ID":"MSGE",
+        "Rank Target":0.8888888889,
+        "prediction":0.6233541369,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "790":{
+        "index":1743379200000,
+        "company ID":"ESCA",
+        "Rank Target":0.2222222222,
+        "prediction":0.6157616973,
+        "trueRank":15.0,
+        "predictionRank":7.0
+    },
+    "802":{
+        "index":1743379200000,
+        "company ID":"PTON",
+        "Rank Target":0.7777777778,
+        "prediction":0.5914623737,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "804":{
+        "index":1743379200000,
+        "company ID":"TRUG",
+        "Rank Target":0.1111111111,
+        "prediction":0.589481771,
+        "trueRank":17.0,
+        "predictionRank":9.0
+    },
+    "795":{
+        "index":1743379200000,
+        "company ID":"JOUT",
+        "Rank Target":0.8333333333,
+        "prediction":0.5746592283,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "798":{
+        "index":1743379200000,
+        "company ID":"MAT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5454320312,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "801":{
+        "index":1743379200000,
+        "company ID":"NOMA",
+        "Rank Target":0.0555555556,
+        "prediction":0.5388578176,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "792":{
+        "index":1743379200000,
+        "company ID":"FUN",
+        "Rank Target":0.2777777778,
+        "prediction":0.5200307965,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "805":{
+        "index":1743379200000,
+        "company ID":"YETI",
+        "Rank Target":0.5555555556,
+        "prediction":0.5088733435,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "788":{
+        "index":1743379200000,
+        "company ID":"AGH",
+        "Rank Target":0.4444444444,
+        "prediction":0.4556329548,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "799":{
+        "index":1743379200000,
+        "company ID":"MODG",
+        "Rank Target":0.9444444444,
+        "prediction":0.4430597126,
+        "trueRank":2.0,
+        "predictionRank":16.0
+    },
+    "791":{
+        "index":1743379200000,
+        "company ID":"FNKO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4183889031,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "789":{
+        "index":1743379200000,
+        "company ID":"CLAR",
+        "Rank Target":0.3888888889,
+        "prediction":0.3930729628,
+        "trueRank":12.0,
+        "predictionRank":18.0
+    }
+}

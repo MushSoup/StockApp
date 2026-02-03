@@ -1,0 +1,1434 @@
+{
+    "612":{
+        "index":1648684800000,
+        "company ID":"CRVL",
+        "Rank Target":0.5384615385,
+        "prediction":0.7626475096,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "614":{
+        "index":1648684800000,
+        "company ID":"ERIE",
+        "Rank Target":1.0,
+        "prediction":0.728212893,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "607":{
+        "index":1648684800000,
+        "company ID":"AJG",
+        "Rank Target":0.8461538462,
+        "prediction":0.6259713769,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "608":{
+        "index":1648684800000,
+        "company ID":"BRO",
+        "Rank Target":0.3846153846,
+        "prediction":0.6100595593,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "617":{
+        "index":1648684800000,
+        "company ID":"MMC",
+        "Rank Target":0.6153846154,
+        "prediction":0.5826360583,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "618":{
+        "index":1648684800000,
+        "company ID":"RELI",
+        "Rank Target":0.1538461538,
+        "prediction":0.5671637058,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "610":{
+        "index":1648684800000,
+        "company ID":"CRD-A",
+        "Rank Target":0.9230769231,
+        "prediction":0.525195837,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "611":{
+        "index":1648684800000,
+        "company ID":"CRD-B",
+        "Rank Target":0.7692307692,
+        "prediction":0.525195837,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "616":{
+        "index":1648684800000,
+        "company ID":"GSHD",
+        "Rank Target":0.2307692308,
+        "prediction":0.486404568,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "615":{
+        "index":1648684800000,
+        "company ID":"GOCO",
+        "Rank Target":0.0769230769,
+        "prediction":0.4829773009,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "613":{
+        "index":1648684800000,
+        "company ID":"EHTH",
+        "Rank Target":0.3076923077,
+        "prediction":0.4801391065,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "619":{
+        "index":1648684800000,
+        "company ID":"SLQT",
+        "Rank Target":0.6923076923,
+        "prediction":0.4625340402,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "609":{
+        "index":1648684800000,
+        "company ID":"BWIN",
+        "Rank Target":0.4615384615,
+        "prediction":0.4591172338,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "627":{
+        "index":1656547200000,
+        "company ID":"ERIE",
+        "Rank Target":1.0,
+        "prediction":0.6520733237,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "629":{
+        "index":1656547200000,
+        "company ID":"GSHD",
+        "Rank Target":0.3846153846,
+        "prediction":0.6416922212,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "630":{
+        "index":1656547200000,
+        "company ID":"MMC",
+        "Rank Target":0.6923076923,
+        "prediction":0.598750174,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "621":{
+        "index":1656547200000,
+        "company ID":"BRO",
+        "Rank Target":0.7692307692,
+        "prediction":0.5814413428,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "625":{
+        "index":1656547200000,
+        "company ID":"CRVL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5532768369,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "623":{
+        "index":1656547200000,
+        "company ID":"CRD-A",
+        "Rank Target":0.4615384615,
+        "prediction":0.5433188081,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "624":{
+        "index":1656547200000,
+        "company ID":"CRD-B",
+        "Rank Target":0.5384615385,
+        "prediction":0.5433188081,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "622":{
+        "index":1656547200000,
+        "company ID":"BWIN",
+        "Rank Target":0.8461538462,
+        "prediction":0.5361812115,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "620":{
+        "index":1656547200000,
+        "company ID":"AJG",
+        "Rank Target":0.9230769231,
+        "prediction":0.5165486932,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "631":{
+        "index":1656547200000,
+        "company ID":"RELI",
+        "Rank Target":0.1538461538,
+        "prediction":0.4896138906,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "628":{
+        "index":1656547200000,
+        "company ID":"GOCO",
+        "Rank Target":0.3076923077,
+        "prediction":0.3160775304,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "632":{
+        "index":1656547200000,
+        "company ID":"SLQT",
+        "Rank Target":0.0769230769,
+        "prediction":0.280505389,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "626":{
+        "index":1656547200000,
+        "company ID":"EHTH",
+        "Rank Target":0.2307692308,
+        "prediction":0.2704723179,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "640":{
+        "index":1664496000000,
+        "company ID":"ERIE",
+        "Rank Target":0.8461538462,
+        "prediction":0.7123634815,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "633":{
+        "index":1664496000000,
+        "company ID":"AJG",
+        "Rank Target":0.6923076923,
+        "prediction":0.6562708616,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "634":{
+        "index":1664496000000,
+        "company ID":"BRO",
+        "Rank Target":0.2307692308,
+        "prediction":0.6549163461,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "643":{
+        "index":1664496000000,
+        "company ID":"MMC",
+        "Rank Target":0.7692307692,
+        "prediction":0.632614255,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "642":{
+        "index":1664496000000,
+        "company ID":"GSHD",
+        "Rank Target":0.3076923077,
+        "prediction":0.5938461423,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "639":{
+        "index":1664496000000,
+        "company ID":"EHTH",
+        "Rank Target":0.9230769231,
+        "prediction":0.5866381526,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "638":{
+        "index":1664496000000,
+        "company ID":"CRVL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5843478441,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "641":{
+        "index":1664496000000,
+        "company ID":"GOCO",
+        "Rank Target":1.0,
+        "prediction":0.5428538322,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "636":{
+        "index":1664496000000,
+        "company ID":"CRD-A",
+        "Rank Target":0.3846153846,
+        "prediction":0.4851858616,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "637":{
+        "index":1664496000000,
+        "company ID":"CRD-B",
+        "Rank Target":0.5384615385,
+        "prediction":0.4851858616,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "644":{
+        "index":1664496000000,
+        "company ID":"RELI",
+        "Rank Target":0.0769230769,
+        "prediction":0.4743506312,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "645":{
+        "index":1664496000000,
+        "company ID":"SLQT",
+        "Rank Target":0.1538461538,
+        "prediction":0.4681557417,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "635":{
+        "index":1664496000000,
+        "company ID":"BWIN",
+        "Rank Target":0.4615384615,
+        "prediction":0.4523439407,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "653":{
+        "index":1672444800000,
+        "company ID":"ERIE",
+        "Rank Target":0.1538461538,
+        "prediction":0.6684670448,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "647":{
+        "index":1672444800000,
+        "company ID":"BRO",
+        "Rank Target":0.3846153846,
+        "prediction":0.6464653015,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "646":{
+        "index":1672444800000,
+        "company ID":"AJG",
+        "Rank Target":0.4615384615,
+        "prediction":0.6149011254,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "651":{
+        "index":1672444800000,
+        "company ID":"CRVL",
+        "Rank Target":0.5384615385,
+        "prediction":0.6065585613,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "655":{
+        "index":1672444800000,
+        "company ID":"GSHD",
+        "Rank Target":0.6153846154,
+        "prediction":0.5966288447,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "658":{
+        "index":1672444800000,
+        "company ID":"SLQT",
+        "Rank Target":1.0,
+        "prediction":0.5780804157,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "657":{
+        "index":1672444800000,
+        "company ID":"RELI",
+        "Rank Target":0.0769230769,
+        "prediction":0.5627604723,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "656":{
+        "index":1672444800000,
+        "company ID":"MMC",
+        "Rank Target":0.2307692308,
+        "prediction":0.5609297752,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "652":{
+        "index":1672444800000,
+        "company ID":"EHTH",
+        "Rank Target":0.9230769231,
+        "prediction":0.5603129864,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "649":{
+        "index":1672444800000,
+        "company ID":"CRD-A",
+        "Rank Target":0.7692307692,
+        "prediction":0.5433883667,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "650":{
+        "index":1672444800000,
+        "company ID":"CRD-B",
+        "Rank Target":0.6923076923,
+        "prediction":0.5433883667,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "654":{
+        "index":1672444800000,
+        "company ID":"GOCO",
+        "Rank Target":0.8461538462,
+        "prediction":0.4130646884,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "648":{
+        "index":1672444800000,
+        "company ID":"BWIN",
+        "Rank Target":0.3076923077,
+        "prediction":0.3936720788,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "666":{
+        "index":1680220800000,
+        "company ID":"ERIE",
+        "Rank Target":0.2857142857,
+        "prediction":0.7251229286,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "659":{
+        "index":1680220800000,
+        "company ID":"AJG",
+        "Rank Target":0.6428571429,
+        "prediction":0.7089310288,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "662":{
+        "index":1680220800000,
+        "company ID":"CRD-A",
+        "Rank Target":0.8571428571,
+        "prediction":0.6921197772,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "663":{
+        "index":1680220800000,
+        "company ID":"CRD-B",
+        "Rank Target":0.5,
+        "prediction":0.6921197772,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "669":{
+        "index":1680220800000,
+        "company ID":"MMC",
+        "Rank Target":0.5714285714,
+        "prediction":0.6754337549,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "660":{
+        "index":1680220800000,
+        "company ID":"BRO",
+        "Rank Target":0.7142857143,
+        "prediction":0.6360875368,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "664":{
+        "index":1680220800000,
+        "company ID":"CRVL",
+        "Rank Target":0.4285714286,
+        "prediction":0.5908334255,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "668":{
+        "index":1680220800000,
+        "company ID":"GSHD",
+        "Rank Target":0.9285714286,
+        "prediction":0.5696772933,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "667":{
+        "index":1680220800000,
+        "company ID":"GOCO",
+        "Rank Target":0.7857142857,
+        "prediction":0.5629169941,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "671":{
+        "index":1680220800000,
+        "company ID":"SLQT",
+        "Rank Target":0.2142857143,
+        "prediction":0.5516739488,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "665":{
+        "index":1680220800000,
+        "company ID":"EHTH",
+        "Rank Target":0.1428571429,
+        "prediction":0.544463098,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "661":{
+        "index":1680220800000,
+        "company ID":"BWIN",
+        "Rank Target":0.3571428571,
+        "prediction":0.4650479257,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "670":{
+        "index":1680220800000,
+        "company ID":"RELI",
+        "Rank Target":1.0,
+        "prediction":0.3415288925,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "672":{
+        "index":1680220800000,
+        "company ID":"TWFG",
+        "Rank Target":0.0714285714,
+        "prediction":0.2948275208,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "680":{
+        "index":1688083200000,
+        "company ID":"ERIE",
+        "Rank Target":1.0,
+        "prediction":0.7335904241,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "678":{
+        "index":1688083200000,
+        "company ID":"CRVL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6647505164,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "682":{
+        "index":1688083200000,
+        "company ID":"GSHD",
+        "Rank Target":0.9285714286,
+        "prediction":0.6184356213,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "674":{
+        "index":1688083200000,
+        "company ID":"BRO",
+        "Rank Target":0.7857142857,
+        "prediction":0.6095861197,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "683":{
+        "index":1688083200000,
+        "company ID":"MMC",
+        "Rank Target":0.7142857143,
+        "prediction":0.6007752419,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "681":{
+        "index":1688083200000,
+        "company ID":"GOCO",
+        "Rank Target":0.2857142857,
+        "prediction":0.5961318612,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "673":{
+        "index":1688083200000,
+        "company ID":"AJG",
+        "Rank Target":0.8571428571,
+        "prediction":0.5847561359,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "676":{
+        "index":1688083200000,
+        "company ID":"CRD-A",
+        "Rank Target":0.3571428571,
+        "prediction":0.5828322768,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "677":{
+        "index":1688083200000,
+        "company ID":"CRD-B",
+        "Rank Target":0.5,
+        "prediction":0.5828322768,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "679":{
+        "index":1688083200000,
+        "company ID":"EHTH",
+        "Rank Target":0.4285714286,
+        "prediction":0.5522345901,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "685":{
+        "index":1688083200000,
+        "company ID":"SLQT",
+        "Rank Target":0.2142857143,
+        "prediction":0.4974081516,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "675":{
+        "index":1688083200000,
+        "company ID":"BWIN",
+        "Rank Target":0.5714285714,
+        "prediction":0.4477099776,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "684":{
+        "index":1688083200000,
+        "company ID":"RELI",
+        "Rank Target":0.1428571429,
+        "prediction":0.3707715273,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "686":{
+        "index":1688083200000,
+        "company ID":"TWFG",
+        "Rank Target":0.0714285714,
+        "prediction":0.2105546147,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "690":{
+        "index":1696032000000,
+        "company ID":"CRD-A",
+        "Rank Target":0.9285714286,
+        "prediction":0.7477674484,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "691":{
+        "index":1696032000000,
+        "company ID":"CRD-B",
+        "Rank Target":1.0,
+        "prediction":0.7477674484,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "687":{
+        "index":1696032000000,
+        "company ID":"AJG",
+        "Rank Target":0.2857142857,
+        "prediction":0.7313600779,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "694":{
+        "index":1696032000000,
+        "company ID":"ERIE",
+        "Rank Target":0.7142857143,
+        "prediction":0.7196428776,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "697":{
+        "index":1696032000000,
+        "company ID":"MMC",
+        "Rank Target":0.3571428571,
+        "prediction":0.6798727512,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "696":{
+        "index":1696032000000,
+        "company ID":"GSHD",
+        "Rank Target":0.5,
+        "prediction":0.6438835263,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "692":{
+        "index":1696032000000,
+        "company ID":"CRVL",
+        "Rank Target":0.8571428571,
+        "prediction":0.6164453626,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "688":{
+        "index":1696032000000,
+        "company ID":"BRO",
+        "Rank Target":0.4285714286,
+        "prediction":0.612627387,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "695":{
+        "index":1696032000000,
+        "company ID":"GOCO",
+        "Rank Target":0.2142857143,
+        "prediction":0.5859888196,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "698":{
+        "index":1696032000000,
+        "company ID":"RELI",
+        "Rank Target":0.1428571429,
+        "prediction":0.5413969159,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "699":{
+        "index":1696032000000,
+        "company ID":"SLQT",
+        "Rank Target":0.7857142857,
+        "prediction":0.5312796831,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "693":{
+        "index":1696032000000,
+        "company ID":"EHTH",
+        "Rank Target":0.6428571429,
+        "prediction":0.4786907434,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "689":{
+        "index":1696032000000,
+        "company ID":"BWIN",
+        "Rank Target":0.5714285714,
+        "prediction":0.477634728,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "700":{
+        "index":1696032000000,
+        "company ID":"TWFG",
+        "Rank Target":0.0714285714,
+        "prediction":0.304022938,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "711":{
+        "index":1703980800000,
+        "company ID":"MMC",
+        "Rank Target":0.5714285714,
+        "prediction":0.7114275694,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "708":{
+        "index":1703980800000,
+        "company ID":"ERIE",
+        "Rank Target":0.7857142857,
+        "prediction":0.6555856466,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "707":{
+        "index":1703980800000,
+        "company ID":"EHTH",
+        "Rank Target":0.3571428571,
+        "prediction":0.6528194547,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "706":{
+        "index":1703980800000,
+        "company ID":"CRVL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6411783695,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "709":{
+        "index":1703980800000,
+        "company ID":"GOCO",
+        "Rank Target":0.4285714286,
+        "prediction":0.6177812219,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "701":{
+        "index":1703980800000,
+        "company ID":"AJG",
+        "Rank Target":0.7142857143,
+        "prediction":0.6117272377,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "702":{
+        "index":1703980800000,
+        "company ID":"BRO",
+        "Rank Target":0.9285714286,
+        "prediction":0.5922130346,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "704":{
+        "index":1703980800000,
+        "company ID":"CRD-A",
+        "Rank Target":0.2857142857,
+        "prediction":0.5452578664,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "705":{
+        "index":1703980800000,
+        "company ID":"CRD-B",
+        "Rank Target":0.2142857143,
+        "prediction":0.5452578664,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "710":{
+        "index":1703980800000,
+        "company ID":"GSHD",
+        "Rank Target":0.5,
+        "prediction":0.5412197113,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "703":{
+        "index":1703980800000,
+        "company ID":"BWIN",
+        "Rank Target":0.8571428571,
+        "prediction":0.4896854162,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "713":{
+        "index":1703980800000,
+        "company ID":"SLQT",
+        "Rank Target":1.0,
+        "prediction":0.4565971792,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "712":{
+        "index":1703980800000,
+        "company ID":"RELI",
+        "Rank Target":0.1428571429,
+        "prediction":0.3479248285,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "714":{
+        "index":1703980800000,
+        "company ID":"TWFG",
+        "Rank Target":0.0714285714,
+        "prediction":0.2842100561,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "722":{
+        "index":1711843200000,
+        "company ID":"ERIE",
+        "Rank Target":0.2857142857,
+        "prediction":0.7292050719,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "715":{
+        "index":1711843200000,
+        "company ID":"AJG",
+        "Rank Target":0.8571428571,
+        "prediction":0.7173879743,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "720":{
+        "index":1711843200000,
+        "company ID":"CRVL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6745045185,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "717":{
+        "index":1711843200000,
+        "company ID":"BWIN",
+        "Rank Target":0.9285714286,
+        "prediction":0.6306010485,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "721":{
+        "index":1711843200000,
+        "company ID":"EHTH",
+        "Rank Target":0.2142857143,
+        "prediction":0.6133512259,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "716":{
+        "index":1711843200000,
+        "company ID":"BRO",
+        "Rank Target":0.7857142857,
+        "prediction":0.6051210165,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "725":{
+        "index":1711843200000,
+        "company ID":"MMC",
+        "Rank Target":0.7142857143,
+        "prediction":0.6015973091,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "723":{
+        "index":1711843200000,
+        "company ID":"GOCO",
+        "Rank Target":0.5,
+        "prediction":0.5863345265,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "724":{
+        "index":1711843200000,
+        "company ID":"GSHD",
+        "Rank Target":0.3571428571,
+        "prediction":0.57060498,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "727":{
+        "index":1711843200000,
+        "company ID":"SLQT",
+        "Rank Target":1.0,
+        "prediction":0.5359531045,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "718":{
+        "index":1711843200000,
+        "company ID":"CRD-A",
+        "Rank Target":0.5714285714,
+        "prediction":0.5217832923,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "719":{
+        "index":1711843200000,
+        "company ID":"CRD-B",
+        "Rank Target":0.4285714286,
+        "prediction":0.5217832923,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "728":{
+        "index":1711843200000,
+        "company ID":"TWFG",
+        "Rank Target":0.0714285714,
+        "prediction":0.4814394414,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "726":{
+        "index":1711843200000,
+        "company ID":"RELI",
+        "Rank Target":0.1428571429,
+        "prediction":0.4219209552,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "736":{
+        "index":1719705600000,
+        "company ID":"ERIE",
+        "Rank Target":0.9285714286,
+        "prediction":0.7068883181,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "734":{
+        "index":1719705600000,
+        "company ID":"CRVL",
+        "Rank Target":0.5714285714,
+        "prediction":0.6749085188,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "738":{
+        "index":1719705600000,
+        "company ID":"GSHD",
+        "Rank Target":1.0,
+        "prediction":0.67266047,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "730":{
+        "index":1719705600000,
+        "company ID":"BRO",
+        "Rank Target":0.5,
+        "prediction":0.6132506132,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "732":{
+        "index":1719705600000,
+        "company ID":"CRD-A",
+        "Rank Target":0.7142857143,
+        "prediction":0.6132025719,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "733":{
+        "index":1719705600000,
+        "company ID":"CRD-B",
+        "Rank Target":0.7857142857,
+        "prediction":0.6132025719,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "739":{
+        "index":1719705600000,
+        "company ID":"MMC",
+        "Rank Target":0.3571428571,
+        "prediction":0.5782727003,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "742":{
+        "index":1719705600000,
+        "company ID":"TWFG",
+        "Rank Target":0.6428571429,
+        "prediction":0.5763809085,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "729":{
+        "index":1719705600000,
+        "company ID":"AJG",
+        "Rank Target":0.4285714286,
+        "prediction":0.534431994,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "731":{
+        "index":1719705600000,
+        "company ID":"BWIN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5187752247,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "741":{
+        "index":1719705600000,
+        "company ID":"SLQT",
+        "Rank Target":0.1428571429,
+        "prediction":0.479457736,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "737":{
+        "index":1719705600000,
+        "company ID":"GOCO",
+        "Rank Target":0.2857142857,
+        "prediction":0.4162842035,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "735":{
+        "index":1719705600000,
+        "company ID":"EHTH",
+        "Rank Target":0.2142857143,
+        "prediction":0.3648426831,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "740":{
+        "index":1719705600000,
+        "company ID":"RELI",
+        "Rank Target":0.0714285714,
+        "prediction":0.3185892701,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "748":{
+        "index":1727654400000,
+        "company ID":"CRVL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6858364344,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "743":{
+        "index":1727654400000,
+        "company ID":"AJG",
+        "Rank Target":0.3571428571,
+        "prediction":0.6729440689,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "744":{
+        "index":1727654400000,
+        "company ID":"BRO",
+        "Rank Target":0.2857142857,
+        "prediction":0.6715039015,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "752":{
+        "index":1727654400000,
+        "company ID":"GSHD",
+        "Rank Target":0.7857142857,
+        "prediction":0.6358898282,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "746":{
+        "index":1727654400000,
+        "company ID":"CRD-A",
+        "Rank Target":0.5714285714,
+        "prediction":0.6228684187,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "747":{
+        "index":1727654400000,
+        "company ID":"CRD-B",
+        "Rank Target":0.4285714286,
+        "prediction":0.6228684187,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "753":{
+        "index":1727654400000,
+        "company ID":"MMC",
+        "Rank Target":0.2142857143,
+        "prediction":0.6021388769,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "750":{
+        "index":1727654400000,
+        "company ID":"ERIE",
+        "Rank Target":0.1428571429,
+        "prediction":0.5886461139,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "756":{
+        "index":1727654400000,
+        "company ID":"TWFG",
+        "Rank Target":0.5,
+        "prediction":0.5827961564,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "751":{
+        "index":1727654400000,
+        "company ID":"GOCO",
+        "Rank Target":0.8571428571,
+        "prediction":0.54219836,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "745":{
+        "index":1727654400000,
+        "company ID":"BWIN",
+        "Rank Target":0.0714285714,
+        "prediction":0.535012126,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "755":{
+        "index":1727654400000,
+        "company ID":"SLQT",
+        "Rank Target":0.9285714286,
+        "prediction":0.4005792439,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "754":{
+        "index":1727654400000,
+        "company ID":"RELI",
+        "Rank Target":0.7142857143,
+        "prediction":0.3971768916,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "749":{
+        "index":1727654400000,
+        "company ID":"EHTH",
+        "Rank Target":1.0,
+        "prediction":0.3583348095,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "760":{
+        "index":1735603200000,
+        "company ID":"CRD-A",
+        "Rank Target":0.6,
+        "prediction":0.7521183491,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "761":{
+        "index":1735603200000,
+        "company ID":"CRD-B",
+        "Rank Target":0.5333333333,
+        "prediction":0.7521183491,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "762":{
+        "index":1735603200000,
+        "company ID":"CRVL",
+        "Rank Target":0.4666666667,
+        "prediction":0.6911987066,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "766":{
+        "index":1735603200000,
+        "company ID":"GSHD",
+        "Rank Target":0.8,
+        "prediction":0.6806069613,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "765":{
+        "index":1735603200000,
+        "company ID":"GOCO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6772251129,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "764":{
+        "index":1735603200000,
+        "company ID":"ERIE",
+        "Rank Target":0.4,
+        "prediction":0.6506086588,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "763":{
+        "index":1735603200000,
+        "company ID":"EHTH",
+        "Rank Target":0.2,
+        "prediction":0.6461701393,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "767":{
+        "index":1735603200000,
+        "company ID":"MMC",
+        "Rank Target":0.7333333333,
+        "prediction":0.6010613441,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "771":{
+        "index":1735603200000,
+        "company ID":"TWFG",
+        "Rank Target":0.6666666667,
+        "prediction":0.5907956362,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "758":{
+        "index":1735603200000,
+        "company ID":"BRO",
+        "Rank Target":0.9333333333,
+        "prediction":0.583391428,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "757":{
+        "index":1735603200000,
+        "company ID":"AJG",
+        "Rank Target":1.0,
+        "prediction":0.5620703101,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "768":{
+        "index":1735603200000,
+        "company ID":"NP",
+        "Rank Target":0.0666666667,
+        "prediction":0.5548192859,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "759":{
+        "index":1735603200000,
+        "company ID":"BWIN",
+        "Rank Target":0.8666666667,
+        "prediction":0.4951561987,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "770":{
+        "index":1735603200000,
+        "company ID":"SLQT",
+        "Rank Target":0.2666666667,
+        "prediction":0.4738107026,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "769":{
+        "index":1735603200000,
+        "company ID":"RELI",
+        "Rank Target":0.1333333333,
+        "prediction":0.2995722294,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "777":{
+        "index":1743379200000,
+        "company ID":"CRVL",
+        "Rank Target":0.6428571429,
+        "prediction":0.7091985345,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "772":{
+        "index":1743379200000,
+        "company ID":"AJG",
+        "Rank Target":0.5714285714,
+        "prediction":0.6674354672,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "773":{
+        "index":1743379200000,
+        "company ID":"BRO",
+        "Rank Target":0.4285714286,
+        "prediction":0.649687767,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "785":{
+        "index":1743379200000,
+        "company ID":"TWFG",
+        "Rank Target":0.9285714286,
+        "prediction":0.6318033934,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "779":{
+        "index":1743379200000,
+        "company ID":"ERIE",
+        "Rank Target":0.2857142857,
+        "prediction":0.6288725138,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "782":{
+        "index":1743379200000,
+        "company ID":"MMC",
+        "Rank Target":0.5,
+        "prediction":0.6098792553,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "781":{
+        "index":1743379200000,
+        "company ID":"GSHD",
+        "Rank Target":0.3571428571,
+        "prediction":0.5955600142,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "775":{
+        "index":1743379200000,
+        "company ID":"CRD-A",
+        "Rank Target":0.8571428571,
+        "prediction":0.5541930199,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "776":{
+        "index":1743379200000,
+        "company ID":"CRD-B",
+        "Rank Target":0.7857142857,
+        "prediction":0.5541930199,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "774":{
+        "index":1743379200000,
+        "company ID":"BWIN",
+        "Rank Target":0.7142857143,
+        "prediction":0.5358602405,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "778":{
+        "index":1743379200000,
+        "company ID":"EHTH",
+        "Rank Target":0.1428571429,
+        "prediction":0.5325137377,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "784":{
+        "index":1743379200000,
+        "company ID":"SLQT",
+        "Rank Target":0.2142857143,
+        "prediction":0.506947875,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "783":{
+        "index":1743379200000,
+        "company ID":"RELI",
+        "Rank Target":1.0,
+        "prediction":0.5029289722,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "780":{
+        "index":1743379200000,
+        "company ID":"GOCO",
+        "Rank Target":0.0714285714,
+        "prediction":0.4584334791,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    }
+}

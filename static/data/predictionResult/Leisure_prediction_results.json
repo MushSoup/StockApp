@@ -1,0 +1,128 @@
+{
+    "813":{
+        "company ID":"JOUT",
+        "score":0.7778581977,
+        "Rank":1.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":27.722271625
+    },
+    "820":{
+        "company ID":"PTON",
+        "score":0.7557775378,
+        "Rank":2.0,
+        "Rank Target":0.9444444444,
+        "stockDifferencePercentage":30.5722929309
+    },
+    "823":{
+        "company ID":"YETI",
+        "score":0.6582892537,
+        "Rank":3.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":4.1832028455
+    },
+    "815":{
+        "company ID":"LUCK",
+        "score":0.657338798,
+        "Rank":4.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":6.6807165664
+    },
+    "811":{
+        "company ID":"GOLF",
+        "score":0.6564847231,
+        "Rank":5.0,
+        "Rank Target":0.6111111111,
+        "stockDifferencePercentage":1.9988120691
+    },
+    "817":{
+        "company ID":"MODG",
+        "score":0.655287385,
+        "Rank":6.0,
+        "Rank Target":0.7222222222,
+        "stockDifferencePercentage":4.4052821791
+    },
+    "814":{
+        "company ID":"LTH",
+        "score":0.6357038617,
+        "Rank":7.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-4.0711551329
+    },
+    "816":{
+        "company ID":"MAT",
+        "score":0.5738497972,
+        "Rank":8.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-16.9441771737
+    },
+    "807":{
+        "company ID":"CLAR",
+        "score":0.5541897416,
+        "Rank":9.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":-2.0298031473
+    },
+    "808":{
+        "company ID":"ESCA",
+        "score":0.5371855497,
+        "Rank":10.0,
+        "Rank Target":0.3888888889,
+        "stockDifferencePercentage":-14.9696623539
+    },
+    "806":{
+        "company ID":"AGH",
+        "score":0.5349801183,
+        "Rank":11.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":449.3934065828
+    },
+    "818":{
+        "company ID":"MSGE",
+        "score":0.4937442243,
+        "Rank":12.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":12.9717637069
+    },
+    "810":{
+        "company ID":"FUN",
+        "score":0.4512300491,
+        "Rank":13.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-30.3265985837
+    },
+    "822":{
+        "company ID":"TRUG",
+        "score":0.4368790388,
+        "Rank":14.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-55.9865097695
+    },
+    "812":{
+        "company ID":"JAKK",
+        "score":0.422001034,
+        "Rank":15.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":-7.5851080275
+    },
+    "821":{
+        "company ID":"TRON",
+        "score":0.411455363,
+        "Rank":16.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-74.634146682
+    },
+    "819":{
+        "company ID":"NOMA",
+        "score":0.3299939632,
+        "Rank":17.0,
+        "Rank Target":0.0555555556,
+        "stockDifferencePercentage":-100.0
+    },
+    "809":{
+        "company ID":"FNKO",
+        "score":0.3080815673,
+        "Rank":18.0,
+        "Rank Target":0.2777777778,
+        "stockDifferencePercentage":-25.7201688079
+    }
+}

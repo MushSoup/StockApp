@@ -1,0 +1,226 @@
+{
+    "1972":{
+        "company ID":"KVHI",
+        "score":0.62566787,
+        "Rank":1.0,
+        "Rank Target":0.5625,
+        "stockDifferencePercentage":4.4362339144
+    },
+    "1962":{
+        "company ID":"CXDO",
+        "score":0.6091807485,
+        "Rank":2.0,
+        "Rank Target":0.59375,
+        "stockDifferencePercentage":4.8211500945
+    },
+    "1970":{
+        "company ID":"IRDM",
+        "score":0.6083030105,
+        "Rank":3.0,
+        "Rank Target":0.0625,
+        "stockDifferencePercentage":-45.1983052781
+    },
+    "1966":{
+        "company ID":"GLIBK",
+        "score":0.596173048,
+        "Rank":4.0,
+        "Rank Target":0.78125,
+        "stockDifferencePercentage":15.8199357426
+    },
+    "1965":{
+        "company ID":"GLIBA",
+        "score":0.596173048,
+        "Rank":4.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":11.9384648249
+    },
+    "1985":{
+        "company ID":"VZ",
+        "score":0.5920299888,
+        "Rank":6.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":0.9169063937
+    },
+    "1982":{
+        "company ID":"T",
+        "score":0.5890043974,
+        "Rank":7.0,
+        "Rank Target":0.46875,
+        "stockDifferencePercentage":-0.0335738636
+    },
+    "1967":{
+        "company ID":"GOGO",
+        "score":0.5852689743,
+        "Rank":8.0,
+        "Rank Target":0.09375,
+        "stockDifferencePercentage":-45.0194050514
+    },
+    "1984":{
+        "company ID":"TMUS",
+        "score":0.5785931945,
+        "Rank":9.0,
+        "Rank Target":0.4375,
+        "stockDifferencePercentage":-0.8105085962
+    },
+    "1955":{
+        "company ID":"AD",
+        "score":0.5777519345,
+        "Rank":10.0,
+        "Rank Target":0.71875,
+        "stockDifferencePercentage":10.3409764259
+    },
+    "1968":{
+        "company ID":"GSAT",
+        "score":0.5769497156,
+        "Rank":11.0,
+        "Rank Target":0.96875,
+        "stockDifferencePercentage":41.9341846854
+    },
+    "1980":{
+        "company ID":"SHEN",
+        "score":0.5689057708,
+        "Rank":12.0,
+        "Rank Target":0.40625,
+        "stockDifferencePercentage":-7.8363411189
+    },
+    "1983":{
+        "company ID":"TDS",
+        "score":0.5576965213,
+        "Rank":13.0,
+        "Rank Target":0.6875,
+        "stockDifferencePercentage":8.7087860215
+    },
+    "1957":{
+        "company ID":"ATNI",
+        "score":0.5383529663,
+        "Rank":14.0,
+        "Rank Target":0.3125,
+        "stockDifferencePercentage":-12.6430168002
+    },
+    "1979":{
+        "company ID":"SATS",
+        "score":0.5364667773,
+        "Rank":15.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":134.853316621
+    },
+    "1956":{
+        "company ID":"ATEX",
+        "score":0.5218505263,
+        "Rank":16.0,
+        "Rank Target":0.28125,
+        "stockDifferencePercentage":-13.1193005389
+    },
+    "1976":{
+        "company ID":"LILAK",
+        "score":0.5166920424,
+        "Rank":17.0,
+        "Rank Target":0.90625,
+        "stockDifferencePercentage":27.2727233321
+    },
+    "1975":{
+        "company ID":"LILA",
+        "score":0.5166920424,
+        "Rank":17.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":26.9645618139
+    },
+    "1964":{
+        "company ID":"FYBR",
+        "score":0.5146919489,
+        "Rank":19.0,
+        "Rank Target":0.53125,
+        "stockDifferencePercentage":2.3013702811
+    },
+    "1960":{
+        "company ID":"CHTR",
+        "score":0.5120394826,
+        "Rank":20.0,
+        "Rank Target":0.15625,
+        "stockDifferencePercentage":-33.7794099554
+    },
+    "1961":{
+        "company ID":"CMCSA",
+        "score":0.5095307231,
+        "Rank":21.0,
+        "Rank Target":0.34375,
+        "stockDifferencePercentage":-12.503470289
+    },
+    "1973":{
+        "company ID":"LBRDA",
+        "score":0.4995375574,
+        "Rank":22.0,
+        "Rank Target":0.21875,
+        "stockDifferencePercentage":-32.3642086472
+    },
+    "1974":{
+        "company ID":"LBRDK",
+        "score":0.4995375574,
+        "Rank":22.0,
+        "Rank Target":0.1875,
+        "stockDifferencePercentage":-32.5490467602
+    },
+    "1959":{
+        "company ID":"CCOI",
+        "score":0.4968799353,
+        "Rank":24.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-21.9894507591
+    },
+    "1986":{
+        "company ID":"WOW",
+        "score":0.4835808277,
+        "Rank":25.0,
+        "Rank Target":0.84375,
+        "stockDifferencePercentage":23.5011990688
+    },
+    "1958":{
+        "company ID":"CABO",
+        "score":0.4833903909,
+        "Rank":26.0,
+        "Rank Target":0.8125,
+        "stockDifferencePercentage":22.9251640603
+    },
+    "1977":{
+        "company ID":"LUMN",
+        "score":0.4779966176,
+        "Rank":27.0,
+        "Rank Target":0.9375,
+        "stockDifferencePercentage":28.0434780142
+    },
+    "1971":{
+        "company ID":"KORE",
+        "score":0.4729512632,
+        "Rank":28.0,
+        "Rank Target":0.65625,
+        "stockDifferencePercentage":7.8260900232
+    },
+    "1969":{
+        "company ID":"IQST",
+        "score":0.4158354402,
+        "Rank":29.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-37.7832439685
+    },
+    "1978":{
+        "company ID":"OPTU",
+        "score":0.3864347041,
+        "Rank":30.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":6.3063002115
+    },
+    "1981":{
+        "company ID":"SURG",
+        "score":0.370385021,
+        "Rank":31.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-11.7283985582
+    },
+    "1963":{
+        "company ID":"ELWT",
+        "score":0.3169280589,
+        "Rank":32.0,
+        "Rank Target":0.03125,
+        "stockDifferencePercentage":-100.0
+    }
+}

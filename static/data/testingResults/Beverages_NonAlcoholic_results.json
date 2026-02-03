@@ -1,0 +1,1146 @@
+{
+    "585":{
+        "index":1648684800000,
+        "company ID":"CELH",
+        "Rank Target":0.7272727273,
+        "prediction":0.7432846427,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "587":{
+        "index":1648684800000,
+        "company ID":"COKE",
+        "Rank Target":0.8181818182,
+        "prediction":0.6991333365,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "588":{
+        "index":1648684800000,
+        "company ID":"KDP",
+        "Rank Target":0.2727272727,
+        "prediction":0.6181070209,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "593":{
+        "index":1648684800000,
+        "company ID":"STKL",
+        "Rank Target":1.0,
+        "prediction":0.5782387853,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "589":{
+        "index":1648684800000,
+        "company ID":"KO",
+        "Rank Target":0.5454545455,
+        "prediction":0.5777319074,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "591":{
+        "index":1648684800000,
+        "company ID":"PEP",
+        "Rank Target":0.4545454545,
+        "prediction":0.5336328745,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "590":{
+        "index":1648684800000,
+        "company ID":"MNST",
+        "Rank Target":0.9090909091,
+        "prediction":0.5307212472,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "592":{
+        "index":1648684800000,
+        "company ID":"PRMB",
+        "Rank Target":0.3636363636,
+        "prediction":0.5050883889,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "586":{
+        "index":1648684800000,
+        "company ID":"COCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.4886635542,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "584":{
+        "index":1648684800000,
+        "company ID":"BRFH",
+        "Rank Target":0.1818181818,
+        "prediction":0.4442659914,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "594":{
+        "index":1648684800000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.3648908436,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "596":{
+        "index":1656547200000,
+        "company ID":"CELH",
+        "Rank Target":0.9090909091,
+        "prediction":0.7274371982,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "598":{
+        "index":1656547200000,
+        "company ID":"COKE",
+        "Rank Target":0.1818181818,
+        "prediction":0.6330040097,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "602":{
+        "index":1656547200000,
+        "company ID":"PEP",
+        "Rank Target":0.5454545455,
+        "prediction":0.6245892644,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "599":{
+        "index":1656547200000,
+        "company ID":"KDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.6237620711,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "601":{
+        "index":1656547200000,
+        "company ID":"MNST",
+        "Rank Target":0.3636363636,
+        "prediction":0.5966714621,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "604":{
+        "index":1656547200000,
+        "company ID":"STKL",
+        "Rank Target":0.7272727273,
+        "prediction":0.5859051347,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "600":{
+        "index":1656547200000,
+        "company ID":"KO",
+        "Rank Target":0.2727272727,
+        "prediction":0.5780876279,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "597":{
+        "index":1656547200000,
+        "company ID":"COCO",
+        "Rank Target":0.8181818182,
+        "prediction":0.5528870225,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "595":{
+        "index":1656547200000,
+        "company ID":"BRFH",
+        "Rank Target":0.0909090909,
+        "prediction":0.5235853791,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "605":{
+        "index":1656547200000,
+        "company ID":"ZVIA",
+        "Rank Target":1.0,
+        "prediction":0.5013210773,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "603":{
+        "index":1656547200000,
+        "company ID":"PRMB",
+        "Rank Target":0.4545454545,
+        "prediction":0.4798827767,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "612":{
+        "index":1664496000000,
+        "company ID":"MNST",
+        "Rank Target":0.6363636364,
+        "prediction":0.6558642387,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "608":{
+        "index":1664496000000,
+        "company ID":"COCO",
+        "Rank Target":0.8181818182,
+        "prediction":0.6493188143,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "610":{
+        "index":1664496000000,
+        "company ID":"KDP",
+        "Rank Target":0.3636363636,
+        "prediction":0.6327367425,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "613":{
+        "index":1664496000000,
+        "company ID":"PEP",
+        "Rank Target":0.4545454545,
+        "prediction":0.6211140156,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "609":{
+        "index":1664496000000,
+        "company ID":"COKE",
+        "Rank Target":0.9090909091,
+        "prediction":0.6210747361,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "611":{
+        "index":1664496000000,
+        "company ID":"KO",
+        "Rank Target":0.5454545455,
+        "prediction":0.6123883724,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "615":{
+        "index":1664496000000,
+        "company ID":"STKL",
+        "Rank Target":0.1818181818,
+        "prediction":0.60734725,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "614":{
+        "index":1664496000000,
+        "company ID":"PRMB",
+        "Rank Target":1.0,
+        "prediction":0.5558400154,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "607":{
+        "index":1664496000000,
+        "company ID":"CELH",
+        "Rank Target":0.7272727273,
+        "prediction":0.5388441086,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "606":{
+        "index":1664496000000,
+        "company ID":"BRFH",
+        "Rank Target":0.0909090909,
+        "prediction":0.5011600852,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "616":{
+        "index":1664496000000,
+        "company ID":"ZVIA",
+        "Rank Target":0.2727272727,
+        "prediction":0.491268307,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "620":{
+        "index":1672444800000,
+        "company ID":"COKE",
+        "Rank Target":0.9090909091,
+        "prediction":0.6434575915,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "621":{
+        "index":1672444800000,
+        "company ID":"KDP",
+        "Rank Target":0.5454545455,
+        "prediction":0.6399530768,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "625":{
+        "index":1672444800000,
+        "company ID":"PRMB",
+        "Rank Target":0.3636363636,
+        "prediction":0.5952091217,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "626":{
+        "index":1672444800000,
+        "company ID":"STKL",
+        "Rank Target":0.2727272727,
+        "prediction":0.5865741968,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "624":{
+        "index":1672444800000,
+        "company ID":"PEP",
+        "Rank Target":0.6363636364,
+        "prediction":0.5767465234,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "622":{
+        "index":1672444800000,
+        "company ID":"KO",
+        "Rank Target":0.4545454545,
+        "prediction":0.5682916045,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "623":{
+        "index":1672444800000,
+        "company ID":"MNST",
+        "Rank Target":0.7272727273,
+        "prediction":0.5501667857,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "619":{
+        "index":1672444800000,
+        "company ID":"COCO",
+        "Rank Target":1.0,
+        "prediction":0.5481039286,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "617":{
+        "index":1672444800000,
+        "company ID":"BRFH",
+        "Rank Target":0.8181818182,
+        "prediction":0.4784347415,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "618":{
+        "index":1672444800000,
+        "company ID":"CELH",
+        "Rank Target":0.1818181818,
+        "prediction":0.471750468,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "627":{
+        "index":1672444800000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.4087359309,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "630":{
+        "index":1680220800000,
+        "company ID":"COCO",
+        "Rank Target":0.9090909091,
+        "prediction":0.6972130537,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "631":{
+        "index":1680220800000,
+        "company ID":"COKE",
+        "Rank Target":0.8181818182,
+        "prediction":0.696646452,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "629":{
+        "index":1680220800000,
+        "company ID":"CELH",
+        "Rank Target":1.0,
+        "prediction":0.6832973957,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "634":{
+        "index":1680220800000,
+        "company ID":"MNST",
+        "Rank Target":0.6363636364,
+        "prediction":0.6672820449,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "637":{
+        "index":1680220800000,
+        "company ID":"STKL",
+        "Rank Target":0.0909090909,
+        "prediction":0.5921519995,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "632":{
+        "index":1680220800000,
+        "company ID":"KDP",
+        "Rank Target":0.2727272727,
+        "prediction":0.5858689547,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "638":{
+        "index":1680220800000,
+        "company ID":"ZVIA",
+        "Rank Target":0.5454545455,
+        "prediction":0.5810947418,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "633":{
+        "index":1680220800000,
+        "company ID":"KO",
+        "Rank Target":0.3636363636,
+        "prediction":0.5047672391,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "636":{
+        "index":1680220800000,
+        "company ID":"PRMB",
+        "Rank Target":0.1818181818,
+        "prediction":0.4954482019,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "635":{
+        "index":1680220800000,
+        "company ID":"PEP",
+        "Rank Target":0.4545454545,
+        "prediction":0.4924083352,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "628":{
+        "index":1680220800000,
+        "company ID":"BRFH",
+        "Rank Target":0.7272727273,
+        "prediction":0.39234519,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "640":{
+        "index":1688083200000,
+        "company ID":"CELH",
+        "Rank Target":0.9090909091,
+        "prediction":0.7390919924,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "642":{
+        "index":1688083200000,
+        "company ID":"COKE",
+        "Rank Target":0.6363636364,
+        "prediction":0.6558970213,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "641":{
+        "index":1688083200000,
+        "company ID":"COCO",
+        "Rank Target":0.5454545455,
+        "prediction":0.63873142,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "644":{
+        "index":1688083200000,
+        "company ID":"KO",
+        "Rank Target":0.4545454545,
+        "prediction":0.6308866739,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "643":{
+        "index":1688083200000,
+        "company ID":"KDP",
+        "Rank Target":0.7272727273,
+        "prediction":0.6132924557,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "646":{
+        "index":1688083200000,
+        "company ID":"PEP",
+        "Rank Target":0.2727272727,
+        "prediction":0.6050034165,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "645":{
+        "index":1688083200000,
+        "company ID":"MNST",
+        "Rank Target":0.3636363636,
+        "prediction":0.5923460126,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "647":{
+        "index":1688083200000,
+        "company ID":"PRMB",
+        "Rank Target":0.8181818182,
+        "prediction":0.564930439,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "648":{
+        "index":1688083200000,
+        "company ID":"STKL",
+        "Rank Target":0.1818181818,
+        "prediction":0.5626834631,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "639":{
+        "index":1688083200000,
+        "company ID":"BRFH",
+        "Rank Target":1.0,
+        "prediction":0.4201370776,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "649":{
+        "index":1688083200000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.3686613739,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "656":{
+        "index":1696032000000,
+        "company ID":"MNST",
+        "Rank Target":0.8181818182,
+        "prediction":0.6738184094,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "652":{
+        "index":1696032000000,
+        "company ID":"COCO",
+        "Rank Target":0.1818181818,
+        "prediction":0.6704106927,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "657":{
+        "index":1696032000000,
+        "company ID":"PEP",
+        "Rank Target":0.4545454545,
+        "prediction":0.6700026393,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "654":{
+        "index":1696032000000,
+        "company ID":"KDP",
+        "Rank Target":0.5454545455,
+        "prediction":0.625957489,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "655":{
+        "index":1696032000000,
+        "company ID":"KO",
+        "Rank Target":0.6363636364,
+        "prediction":0.6136627197,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "651":{
+        "index":1696032000000,
+        "company ID":"CELH",
+        "Rank Target":0.3636363636,
+        "prediction":0.5919812918,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "653":{
+        "index":1696032000000,
+        "company ID":"COKE",
+        "Rank Target":0.9090909091,
+        "prediction":0.5725653768,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "658":{
+        "index":1696032000000,
+        "company ID":"PRMB",
+        "Rank Target":0.7272727273,
+        "prediction":0.5722263455,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "650":{
+        "index":1696032000000,
+        "company ID":"BRFH",
+        "Rank Target":0.0909090909,
+        "prediction":0.5198377967,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "659":{
+        "index":1696032000000,
+        "company ID":"STKL",
+        "Rank Target":1.0,
+        "prediction":0.4774270058,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "660":{
+        "index":1696032000000,
+        "company ID":"ZVIA",
+        "Rank Target":0.2727272727,
+        "prediction":0.3827008605,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "663":{
+        "index":1703980800000,
+        "company ID":"COCO",
+        "Rank Target":0.4545454545,
+        "prediction":0.6505113244,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "667":{
+        "index":1703980800000,
+        "company ID":"MNST",
+        "Rank Target":0.7272727273,
+        "prediction":0.6097157001,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "668":{
+        "index":1703980800000,
+        "company ID":"PEP",
+        "Rank Target":0.5454545455,
+        "prediction":0.5986948609,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "665":{
+        "index":1703980800000,
+        "company ID":"KDP",
+        "Rank Target":0.3636363636,
+        "prediction":0.550304234,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "666":{
+        "index":1703980800000,
+        "company ID":"KO",
+        "Rank Target":0.6363636364,
+        "prediction":0.5457398891,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "670":{
+        "index":1703980800000,
+        "company ID":"STKL",
+        "Rank Target":0.9090909091,
+        "prediction":0.542701304,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "662":{
+        "index":1703980800000,
+        "company ID":"CELH",
+        "Rank Target":1.0,
+        "prediction":0.5344660878,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "664":{
+        "index":1703980800000,
+        "company ID":"COKE",
+        "Rank Target":0.2727272727,
+        "prediction":0.531050086,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "669":{
+        "index":1703980800000,
+        "company ID":"PRMB",
+        "Rank Target":0.8181818182,
+        "prediction":0.5138720274,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "661":{
+        "index":1703980800000,
+        "company ID":"BRFH",
+        "Rank Target":0.1818181818,
+        "prediction":0.4094358087,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "671":{
+        "index":1703980800000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.395575583,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "675":{
+        "index":1711843200000,
+        "company ID":"COKE",
+        "Rank Target":0.9090909091,
+        "prediction":0.7137773633,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "681":{
+        "index":1711843200000,
+        "company ID":"STKL",
+        "Rank Target":0.2727272727,
+        "prediction":0.6620026231,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "673":{
+        "index":1711843200000,
+        "company ID":"CELH",
+        "Rank Target":0.1818181818,
+        "prediction":0.6547746658,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "678":{
+        "index":1711843200000,
+        "company ID":"MNST",
+        "Rank Target":0.3636363636,
+        "prediction":0.6532889009,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "672":{
+        "index":1711843200000,
+        "company ID":"BRFH",
+        "Rank Target":1.0,
+        "prediction":0.583802104,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "680":{
+        "index":1711843200000,
+        "company ID":"PRMB",
+        "Rank Target":0.8181818182,
+        "prediction":0.5527787805,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "677":{
+        "index":1711843200000,
+        "company ID":"KO",
+        "Rank Target":0.5454545455,
+        "prediction":0.5439073443,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "679":{
+        "index":1711843200000,
+        "company ID":"PEP",
+        "Rank Target":0.4545454545,
+        "prediction":0.5167219639,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "676":{
+        "index":1711843200000,
+        "company ID":"KDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.4797224104,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "682":{
+        "index":1711843200000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.4592145085,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "674":{
+        "index":1711843200000,
+        "company ID":"COCO",
+        "Rank Target":0.7272727273,
+        "prediction":0.4509840906,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "691":{
+        "index":1719705600000,
+        "company ID":"PRMB",
+        "Rank Target":0.8181818182,
+        "prediction":0.6047108769,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "690":{
+        "index":1719705600000,
+        "company ID":"PEP",
+        "Rank Target":0.2727272727,
+        "prediction":0.5979592204,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "687":{
+        "index":1719705600000,
+        "company ID":"KDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.5737532377,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "686":{
+        "index":1719705600000,
+        "company ID":"COKE",
+        "Rank Target":0.7272727273,
+        "prediction":0.5603742003,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "689":{
+        "index":1719705600000,
+        "company ID":"MNST",
+        "Rank Target":0.4545454545,
+        "prediction":0.5543674231,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "692":{
+        "index":1719705600000,
+        "company ID":"STKL",
+        "Rank Target":0.9090909091,
+        "prediction":0.5390722752,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "688":{
+        "index":1719705600000,
+        "company ID":"KO",
+        "Rank Target":0.5454545455,
+        "prediction":0.5255860686,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "684":{
+        "index":1719705600000,
+        "company ID":"CELH",
+        "Rank Target":0.0909090909,
+        "prediction":0.5004066229,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "685":{
+        "index":1719705600000,
+        "company ID":"COCO",
+        "Rank Target":0.3636363636,
+        "prediction":0.4982901514,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "683":{
+        "index":1719705600000,
+        "company ID":"BRFH",
+        "Rank Target":0.1818181818,
+        "prediction":0.4871193767,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "693":{
+        "index":1719705600000,
+        "company ID":"ZVIA",
+        "Rank Target":1.0,
+        "prediction":0.4116258025,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "703":{
+        "index":1727654400000,
+        "company ID":"STKL",
+        "Rank Target":0.7272727273,
+        "prediction":0.6486592293,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "698":{
+        "index":1727654400000,
+        "company ID":"KDP",
+        "Rank Target":0.1818181818,
+        "prediction":0.6427676678,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "697":{
+        "index":1727654400000,
+        "company ID":"COKE",
+        "Rank Target":0.4545454545,
+        "prediction":0.63093853,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "702":{
+        "index":1727654400000,
+        "company ID":"PRMB",
+        "Rank Target":0.8181818182,
+        "prediction":0.6145858765,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "700":{
+        "index":1727654400000,
+        "company ID":"MNST",
+        "Rank Target":0.6363636364,
+        "prediction":0.5913383961,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "701":{
+        "index":1727654400000,
+        "company ID":"PEP",
+        "Rank Target":0.3636363636,
+        "prediction":0.5736275315,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "694":{
+        "index":1727654400000,
+        "company ID":"BRFH",
+        "Rank Target":0.5454545455,
+        "prediction":0.5601947308,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "704":{
+        "index":1727654400000,
+        "company ID":"ZVIA",
+        "Rank Target":1.0,
+        "prediction":0.5103043914,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "699":{
+        "index":1727654400000,
+        "company ID":"KO",
+        "Rank Target":0.2727272727,
+        "prediction":0.4654105008,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "695":{
+        "index":1727654400000,
+        "company ID":"CELH",
+        "Rank Target":0.0909090909,
+        "prediction":0.4224320948,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "696":{
+        "index":1727654400000,
+        "company ID":"COCO",
+        "Rank Target":0.9090909091,
+        "prediction":0.3671649098,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "708":{
+        "index":1735603200000,
+        "company ID":"COKE",
+        "Rank Target":0.4545454545,
+        "prediction":0.6168379784,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "706":{
+        "index":1735603200000,
+        "company ID":"CELH",
+        "Rank Target":0.9090909091,
+        "prediction":0.5902565122,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "712":{
+        "index":1735603200000,
+        "company ID":"PEP",
+        "Rank Target":0.3636363636,
+        "prediction":0.5715785623,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "713":{
+        "index":1735603200000,
+        "company ID":"PRMB",
+        "Rank Target":0.7272727273,
+        "prediction":0.5594417453,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "714":{
+        "index":1735603200000,
+        "company ID":"STKL",
+        "Rank Target":0.1818181818,
+        "prediction":0.5569761992,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "709":{
+        "index":1735603200000,
+        "company ID":"KDP",
+        "Rank Target":0.5454545455,
+        "prediction":0.547336638,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "710":{
+        "index":1735603200000,
+        "company ID":"KO",
+        "Rank Target":0.8181818182,
+        "prediction":0.5469604731,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "711":{
+        "index":1735603200000,
+        "company ID":"MNST",
+        "Rank Target":0.6363636364,
+        "prediction":0.5437976122,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "707":{
+        "index":1735603200000,
+        "company ID":"COCO",
+        "Rank Target":0.2727272727,
+        "prediction":0.4323988557,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "715":{
+        "index":1735603200000,
+        "company ID":"ZVIA",
+        "Rank Target":0.0909090909,
+        "prediction":0.3545864224,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "705":{
+        "index":1735603200000,
+        "company ID":"BRFH",
+        "Rank Target":1.0,
+        "prediction":0.3497601449,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "725":{
+        "index":1743379200000,
+        "company ID":"STKL",
+        "Rank Target":0.8181818182,
+        "prediction":0.6614670157,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "719":{
+        "index":1743379200000,
+        "company ID":"COKE",
+        "Rank Target":0.0909090909,
+        "prediction":0.6511665583,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "722":{
+        "index":1743379200000,
+        "company ID":"MNST",
+        "Rank Target":0.5454545455,
+        "prediction":0.6371337771,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "717":{
+        "index":1743379200000,
+        "company ID":"CELH",
+        "Rank Target":0.6363636364,
+        "prediction":0.6095071435,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "723":{
+        "index":1743379200000,
+        "company ID":"PEP",
+        "Rank Target":0.2727272727,
+        "prediction":0.5854036808,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "720":{
+        "index":1743379200000,
+        "company ID":"KDP",
+        "Rank Target":0.3636363636,
+        "prediction":0.579093039,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "724":{
+        "index":1743379200000,
+        "company ID":"PRMB",
+        "Rank Target":0.1818181818,
+        "prediction":0.5527604222,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "721":{
+        "index":1743379200000,
+        "company ID":"KO",
+        "Rank Target":0.4545454545,
+        "prediction":0.4729826152,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "716":{
+        "index":1743379200000,
+        "company ID":"BRFH",
+        "Rank Target":0.9090909091,
+        "prediction":0.4576398432,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "718":{
+        "index":1743379200000,
+        "company ID":"COCO",
+        "Rank Target":0.7272727273,
+        "prediction":0.4457104206,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "726":{
+        "index":1743379200000,
+        "company ID":"ZVIA",
+        "Rank Target":1.0,
+        "prediction":0.4263282716,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    }
+}

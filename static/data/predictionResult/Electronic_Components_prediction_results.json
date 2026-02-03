@@ -1,0 +1,191 @@
+{
+    "1958":{
+        "company ID":"APH",
+        "score":0.6566574574,
+        "Rank":1.0,
+        "Rank Target":0.5925925926,
+        "stockDifferencePercentage":21.8356023701
+    },
+    "1973":{
+        "company ID":"LYTS",
+        "score":0.656198144,
+        "Rank":2.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":31.7719270945
+    },
+    "1971":{
+        "company ID":"LINK",
+        "score":0.6550305486,
+        "Rank":3.0,
+        "Rank Target":0.962962963,
+        "stockDifferencePercentage":75.4285760976
+    },
+    "1960":{
+        "company ID":"BELFB",
+        "score":0.6508119106,
+        "Rank":4.0,
+        "Rank Target":0.8518518519,
+        "stockDifferencePercentage":40.3263860036
+    },
+    "1959":{
+        "company ID":"BELFA",
+        "score":0.6508119106,
+        "Rank":4.0,
+        "Rank Target":0.6296296296,
+        "stockDifferencePercentage":24.3108499603
+    },
+    "1967":{
+        "company ID":"KN",
+        "score":0.6378965378,
+        "Rank":6.0,
+        "Rank Target":0.7037037037,
+        "stockDifferencePercentage":27.5918859738
+    },
+    "1982":{
+        "company ID":"TTMI",
+        "score":0.6375461817,
+        "Rank":7.0,
+        "Rank Target":0.7407407407,
+        "stockDifferencePercentage":31.1903666502
+    },
+    "1966":{
+        "company ID":"GLW",
+        "score":0.6333051324,
+        "Rank":8.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":51.9369358924
+    },
+    "1962":{
+        "company ID":"CPSH",
+        "score":0.6253611445,
+        "Rank":9.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":25.2595070658
+    },
+    "1983":{
+        "company ID":"VICR",
+        "score":0.6122924685,
+        "Rank":10.0,
+        "Rank Target":0.2962962963,
+        "stockDifferencePercentage":4.7330853794
+    },
+    "1963":{
+        "company ID":"CTS",
+        "score":0.5872679353,
+        "Rank":11.0,
+        "Rank Target":0.0740740741,
+        "stockDifferencePercentage":-13.0006254634
+    },
+    "1970":{
+        "company ID":"LFUS",
+        "score":0.57720083,
+        "Rank":12.0,
+        "Rank Target":0.4074074074,
+        "stockDifferencePercentage":9.3442147228
+    },
+    "1957":{
+        "company ID":"ALNT",
+        "score":0.5689541698,
+        "Rank":13.0,
+        "Rank Target":0.5185185185,
+        "stockDifferencePercentage":11.7650316621
+    },
+    "1981":{
+        "company ID":"SANM",
+        "score":0.5656919479,
+        "Rank":14.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":10.9927695941
+    },
+    "1977":{
+        "company ID":"OUST",
+        "score":0.5432563424,
+        "Rank":15.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":21.5134245292
+    },
+    "1976":{
+        "company ID":"OSIS",
+        "score":0.5268657207,
+        "Rank":16.0,
+        "Rank Target":0.2592592593,
+        "stockDifferencePercentage":2.3568926566
+    },
+    "1975":{
+        "company ID":"OLED",
+        "score":0.5219891071,
+        "Rank":17.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-9.3392835271
+    },
+    "1965":{
+        "company ID":"FLEX",
+        "score":0.5061456561,
+        "Rank":18.0,
+        "Rank Target":0.4814814815,
+        "stockDifferencePercentage":11.3368171137
+    },
+    "1978":{
+        "company ID":"PLXS",
+        "score":0.4997028112,
+        "Rank":19.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":2.3357173375
+    },
+    "1964":{
+        "company ID":"DAIO",
+        "score":0.4781846404,
+        "Rank":20.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":5.6961969466
+    },
+    "1974":{
+        "company ID":"MPTI",
+        "score":0.4775733948,
+        "Rank":21.0,
+        "Rank Target":0.8148148148,
+        "stockDifferencePercentage":31.8926991752
+    },
+    "1972":{
+        "company ID":"LPTH",
+        "score":0.4708537161,
+        "Rank":22.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":167.2131064249
+    },
+    "1980":{
+        "company ID":"ROG",
+        "score":0.4677220583,
+        "Rank":23.0,
+        "Rank Target":0.3703703704,
+        "stockDifferencePercentage":9.2728721844
+    },
+    "1968":{
+        "company ID":"KOPN",
+        "score":0.4528902471,
+        "Rank":24.0,
+        "Rank Target":0.9259259259,
+        "stockDifferencePercentage":55.063289948
+    },
+    "1969":{
+        "company ID":"KULR",
+        "score":0.4445444345,
+        "Rank":25.0,
+        "Rank Target":0.037037037,
+        "stockDifferencePercentage":-37.849781828
+    },
+    "1979":{
+        "company ID":"REFR",
+        "score":0.4361891448,
+        "Rank":26.0,
+        "Rank Target":0.1481481481,
+        "stockDifferencePercentage":-7.9268290447
+    },
+    "1961":{
+        "company ID":"BHE",
+        "score":0.3992835879,
+        "Rank":27.0,
+        "Rank Target":0.1851851852,
+        "stockDifferencePercentage":-5.6547490704
+    }
+}

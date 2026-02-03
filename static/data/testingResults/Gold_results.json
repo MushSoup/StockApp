@@ -1,0 +1,1250 @@
+{
+    "628":{
+        "index":1648684800000,
+        "company ID":"RGLD",
+        "Rank Target":0.75,
+        "prediction":0.7085058689,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "622":{
+        "index":1648684800000,
+        "company ID":"GORO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6723677516,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "626":{
+        "index":1648684800000,
+        "company ID":"NEM",
+        "Rank Target":0.8333333333,
+        "prediction":0.6361315846,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "625":{
+        "index":1648684800000,
+        "company ID":"IDR",
+        "Rank Target":0.5833333333,
+        "prediction":0.6287606955,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "629":{
+        "index":1648684800000,
+        "company ID":"SSRM",
+        "Rank Target":0.9166666667,
+        "prediction":0.6217358708,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "627":{
+        "index":1648684800000,
+        "company ID":"PZG",
+        "Rank Target":0.5,
+        "prediction":0.5991045833,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "630":{
+        "index":1648684800000,
+        "company ID":"VGZ",
+        "Rank Target":0.25,
+        "prediction":0.5809701085,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "621":{
+        "index":1648684800000,
+        "company ID":"DC",
+        "Rank Target":0.1666666667,
+        "prediction":0.5690076351,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "620":{
+        "index":1648684800000,
+        "company ID":"CTGO",
+        "Rank Target":1.0,
+        "prediction":0.5591826439,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "619":{
+        "index":1648684800000,
+        "company ID":"CDE",
+        "Rank Target":0.3333333333,
+        "prediction":0.5465368629,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "623":{
+        "index":1648684800000,
+        "company ID":"HYMC",
+        "Rank Target":0.0833333333,
+        "prediction":0.5335232019,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "624":{
+        "index":1648684800000,
+        "company ID":"IAUX",
+        "Rank Target":0.4166666667,
+        "prediction":0.4699898064,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "640":{
+        "index":1656547200000,
+        "company ID":"RGLD",
+        "Rank Target":0.5,
+        "prediction":0.7496267557,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "638":{
+        "index":1656547200000,
+        "company ID":"NEM",
+        "Rank Target":0.3333333333,
+        "prediction":0.708907485,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "642":{
+        "index":1656547200000,
+        "company ID":"VGZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.6878005862,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "641":{
+        "index":1656547200000,
+        "company ID":"SSRM",
+        "Rank Target":0.5833333333,
+        "prediction":0.6807477474,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "634":{
+        "index":1656547200000,
+        "company ID":"GORO",
+        "Rank Target":0.8333333333,
+        "prediction":0.6447179914,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "637":{
+        "index":1656547200000,
+        "company ID":"IDR",
+        "Rank Target":0.1666666667,
+        "prediction":0.6322911978,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "632":{
+        "index":1656547200000,
+        "company ID":"CTGO",
+        "Rank Target":1.0,
+        "prediction":0.624669373,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "633":{
+        "index":1656547200000,
+        "company ID":"DC",
+        "Rank Target":0.75,
+        "prediction":0.6169028282,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "631":{
+        "index":1656547200000,
+        "company ID":"CDE",
+        "Rank Target":0.9166666667,
+        "prediction":0.586359024,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "635":{
+        "index":1656547200000,
+        "company ID":"HYMC",
+        "Rank Target":0.0833333333,
+        "prediction":0.5099390149,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "639":{
+        "index":1656547200000,
+        "company ID":"PZG",
+        "Rank Target":0.25,
+        "prediction":0.4784599841,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "636":{
+        "index":1656547200000,
+        "company ID":"IAUX",
+        "Rank Target":0.6666666667,
+        "prediction":0.4751312435,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "654":{
+        "index":1664496000000,
+        "company ID":"VGZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.6652192473,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "650":{
+        "index":1664496000000,
+        "company ID":"NEM",
+        "Rank Target":0.75,
+        "prediction":0.6594845057,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "647":{
+        "index":1664496000000,
+        "company ID":"HYMC",
+        "Rank Target":0.1666666667,
+        "prediction":0.6321749687,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "651":{
+        "index":1664496000000,
+        "company ID":"PZG",
+        "Rank Target":0.5833333333,
+        "prediction":0.6292126179,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "644":{
+        "index":1664496000000,
+        "company ID":"CTGO",
+        "Rank Target":0.0833333333,
+        "prediction":0.5795817375,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "645":{
+        "index":1664496000000,
+        "company ID":"DC",
+        "Rank Target":0.5,
+        "prediction":0.5158875585,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "648":{
+        "index":1664496000000,
+        "company ID":"IAUX",
+        "Rank Target":1.0,
+        "prediction":0.5084702969,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "643":{
+        "index":1664496000000,
+        "company ID":"CDE",
+        "Rank Target":0.25,
+        "prediction":0.5053596497,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "652":{
+        "index":1664496000000,
+        "company ID":"RGLD",
+        "Rank Target":0.9166666667,
+        "prediction":0.4790588319,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "653":{
+        "index":1664496000000,
+        "company ID":"SSRM",
+        "Rank Target":0.6666666667,
+        "prediction":0.4763619602,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "649":{
+        "index":1664496000000,
+        "company ID":"IDR",
+        "Rank Target":0.8333333333,
+        "prediction":0.4668576419,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "646":{
+        "index":1664496000000,
+        "company ID":"GORO",
+        "Rank Target":0.3333333333,
+        "prediction":0.4372167289,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "661":{
+        "index":1672444800000,
+        "company ID":"IDR",
+        "Rank Target":0.3333333333,
+        "prediction":0.743287921,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "665":{
+        "index":1672444800000,
+        "company ID":"SSRM",
+        "Rank Target":0.4166666667,
+        "prediction":0.7401432991,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "664":{
+        "index":1672444800000,
+        "company ID":"RGLD",
+        "Rank Target":0.6666666667,
+        "prediction":0.677249074,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "666":{
+        "index":1672444800000,
+        "company ID":"VGZ",
+        "Rank Target":0.75,
+        "prediction":0.6421345472,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "655":{
+        "index":1672444800000,
+        "company ID":"CDE",
+        "Rank Target":0.9166666667,
+        "prediction":0.6300318837,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "659":{
+        "index":1672444800000,
+        "company ID":"HYMC",
+        "Rank Target":0.1666666667,
+        "prediction":0.6031525731,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "656":{
+        "index":1672444800000,
+        "company ID":"CTGO",
+        "Rank Target":1.0,
+        "prediction":0.5873807073,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "662":{
+        "index":1672444800000,
+        "company ID":"NEM",
+        "Rank Target":0.5,
+        "prediction":0.5324226618,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "658":{
+        "index":1672444800000,
+        "company ID":"GORO",
+        "Rank Target":0.0833333333,
+        "prediction":0.5046455264,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "657":{
+        "index":1672444800000,
+        "company ID":"DC",
+        "Rank Target":0.8333333333,
+        "prediction":0.5018768311,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "660":{
+        "index":1672444800000,
+        "company ID":"IAUX",
+        "Rank Target":0.25,
+        "prediction":0.4581947327,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "663":{
+        "index":1672444800000,
+        "company ID":"PZG",
+        "Rank Target":0.5833333333,
+        "prediction":0.4577591419,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "676":{
+        "index":1680220800000,
+        "company ID":"RGLD",
+        "Rank Target":0.75,
+        "prediction":0.7083103657,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "674":{
+        "index":1680220800000,
+        "company ID":"NEM",
+        "Rank Target":0.6666666667,
+        "prediction":0.6633012295,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "678":{
+        "index":1680220800000,
+        "company ID":"VGZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.651237607,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "668":{
+        "index":1680220800000,
+        "company ID":"CTGO",
+        "Rank Target":0.8333333333,
+        "prediction":0.647957623,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "673":{
+        "index":1680220800000,
+        "company ID":"IDR",
+        "Rank Target":1.0,
+        "prediction":0.631203711,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "671":{
+        "index":1680220800000,
+        "company ID":"HYMC",
+        "Rank Target":0.25,
+        "prediction":0.6018100381,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "677":{
+        "index":1680220800000,
+        "company ID":"SSRM",
+        "Rank Target":0.9166666667,
+        "prediction":0.5859152079,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "667":{
+        "index":1680220800000,
+        "company ID":"CDE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5799620152,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "675":{
+        "index":1680220800000,
+        "company ID":"PZG",
+        "Rank Target":0.5833333333,
+        "prediction":0.5294014215,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "672":{
+        "index":1680220800000,
+        "company ID":"IAUX",
+        "Rank Target":0.5,
+        "prediction":0.5125598311,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "669":{
+        "index":1680220800000,
+        "company ID":"DC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5035359263,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "670":{
+        "index":1680220800000,
+        "company ID":"GORO",
+        "Rank Target":0.0833333333,
+        "prediction":0.5023854971,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "689":{
+        "index":1688083200000,
+        "company ID":"SSRM",
+        "Rank Target":0.8333333333,
+        "prediction":0.6801715493,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "688":{
+        "index":1688083200000,
+        "company ID":"RGLD",
+        "Rank Target":0.75,
+        "prediction":0.6723814607,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "685":{
+        "index":1688083200000,
+        "company ID":"IDR",
+        "Rank Target":0.9166666667,
+        "prediction":0.6318895221,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "690":{
+        "index":1688083200000,
+        "company ID":"VGZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.6295404434,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "683":{
+        "index":1688083200000,
+        "company ID":"HYMC",
+        "Rank Target":1.0,
+        "prediction":0.6144910455,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "687":{
+        "index":1688083200000,
+        "company ID":"PZG",
+        "Rank Target":0.5833333333,
+        "prediction":0.5704881549,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "680":{
+        "index":1688083200000,
+        "company ID":"CTGO",
+        "Rank Target":0.25,
+        "prediction":0.5693933368,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "684":{
+        "index":1688083200000,
+        "company ID":"IAUX",
+        "Rank Target":0.0833333333,
+        "prediction":0.5560242534,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "686":{
+        "index":1688083200000,
+        "company ID":"NEM",
+        "Rank Target":0.5,
+        "prediction":0.5429867506,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "681":{
+        "index":1688083200000,
+        "company ID":"DC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5172582269,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "679":{
+        "index":1688083200000,
+        "company ID":"CDE",
+        "Rank Target":0.3333333333,
+        "prediction":0.5155081153,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "682":{
+        "index":1688083200000,
+        "company ID":"GORO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4121979177,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "697":{
+        "index":1696032000000,
+        "company ID":"IDR",
+        "Rank Target":0.8333333333,
+        "prediction":0.6704553366,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "701":{
+        "index":1696032000000,
+        "company ID":"SSRM",
+        "Rank Target":0.1666666667,
+        "prediction":0.6532766819,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "702":{
+        "index":1696032000000,
+        "company ID":"VGZ",
+        "Rank Target":0.5,
+        "prediction":0.6518142819,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "700":{
+        "index":1696032000000,
+        "company ID":"RGLD",
+        "Rank Target":0.5833333333,
+        "prediction":0.6382010579,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "698":{
+        "index":1696032000000,
+        "company ID":"NEM",
+        "Rank Target":0.6666666667,
+        "prediction":0.6356463432,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "694":{
+        "index":1696032000000,
+        "company ID":"GORO",
+        "Rank Target":0.25,
+        "prediction":0.6005387902,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "695":{
+        "index":1696032000000,
+        "company ID":"HYMC",
+        "Rank Target":0.0833333333,
+        "prediction":0.5950667858,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "693":{
+        "index":1696032000000,
+        "company ID":"DC",
+        "Rank Target":0.4166666667,
+        "prediction":0.592556417,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "692":{
+        "index":1696032000000,
+        "company ID":"CTGO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5845078826,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "691":{
+        "index":1696032000000,
+        "company ID":"CDE",
+        "Rank Target":1.0,
+        "prediction":0.5486335158,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "696":{
+        "index":1696032000000,
+        "company ID":"IAUX",
+        "Rank Target":0.75,
+        "prediction":0.4925766289,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "699":{
+        "index":1696032000000,
+        "company ID":"PZG",
+        "Rank Target":0.9166666667,
+        "prediction":0.4880931973,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "712":{
+        "index":1703980800000,
+        "company ID":"RGLD",
+        "Rank Target":0.5,
+        "prediction":0.693145752,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "706":{
+        "index":1703980800000,
+        "company ID":"GORO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6436302662,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "714":{
+        "index":1703980800000,
+        "company ID":"VGZ",
+        "Rank Target":0.8333333333,
+        "prediction":0.5997987986,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "713":{
+        "index":1703980800000,
+        "company ID":"SSRM",
+        "Rank Target":0.0833333333,
+        "prediction":0.5887160301,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "711":{
+        "index":1703980800000,
+        "company ID":"PZG",
+        "Rank Target":0.5833333333,
+        "prediction":0.5632843375,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "708":{
+        "index":1703980800000,
+        "company ID":"IAUX",
+        "Rank Target":0.1666666667,
+        "prediction":0.5627630353,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "705":{
+        "index":1703980800000,
+        "company ID":"DC",
+        "Rank Target":0.4166666667,
+        "prediction":0.537017107,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "707":{
+        "index":1703980800000,
+        "company ID":"HYMC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5253790617,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "710":{
+        "index":1703980800000,
+        "company ID":"NEM",
+        "Rank Target":0.25,
+        "prediction":0.5080536008,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "703":{
+        "index":1703980800000,
+        "company ID":"CDE",
+        "Rank Target":0.9166666667,
+        "prediction":0.5022181869,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "709":{
+        "index":1703980800000,
+        "company ID":"IDR",
+        "Rank Target":1.0,
+        "prediction":0.4819396436,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "704":{
+        "index":1703980800000,
+        "company ID":"CTGO",
+        "Rank Target":0.75,
+        "prediction":0.4324990511,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "721":{
+        "index":1711843200000,
+        "company ID":"IDR",
+        "Rank Target":0.75,
+        "prediction":0.7477055788,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "724":{
+        "index":1711843200000,
+        "company ID":"RGLD",
+        "Rank Target":0.6666666667,
+        "prediction":0.6968268752,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "726":{
+        "index":1711843200000,
+        "company ID":"VGZ",
+        "Rank Target":0.3333333333,
+        "prediction":0.6920750737,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "722":{
+        "index":1711843200000,
+        "company ID":"NEM",
+        "Rank Target":0.9166666667,
+        "prediction":0.6826238036,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "718":{
+        "index":1711843200000,
+        "company ID":"GORO",
+        "Rank Target":0.0833333333,
+        "prediction":0.6684649587,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "719":{
+        "index":1711843200000,
+        "company ID":"HYMC",
+        "Rank Target":0.1666666667,
+        "prediction":0.6131049991,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "723":{
+        "index":1711843200000,
+        "company ID":"PZG",
+        "Rank Target":0.4166666667,
+        "prediction":0.6127693057,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "715":{
+        "index":1711843200000,
+        "company ID":"CDE",
+        "Rank Target":1.0,
+        "prediction":0.6055706143,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "717":{
+        "index":1711843200000,
+        "company ID":"DC",
+        "Rank Target":0.8333333333,
+        "prediction":0.5931114554,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "716":{
+        "index":1711843200000,
+        "company ID":"CTGO",
+        "Rank Target":0.5833333333,
+        "prediction":0.4703290761,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "720":{
+        "index":1711843200000,
+        "company ID":"IAUX",
+        "Rank Target":0.25,
+        "prediction":0.4625872076,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "725":{
+        "index":1711843200000,
+        "company ID":"SSRM",
+        "Rank Target":0.5,
+        "prediction":0.4563014209,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "734":{
+        "index":1719705600000,
+        "company ID":"NEM",
+        "Rank Target":0.75,
+        "prediction":0.7167682648,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "733":{
+        "index":1719705600000,
+        "company ID":"IDR",
+        "Rank Target":0.9166666667,
+        "prediction":0.7024121284,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "727":{
+        "index":1719705600000,
+        "company ID":"CDE",
+        "Rank Target":0.6666666667,
+        "prediction":0.6918798685,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "735":{
+        "index":1719705600000,
+        "company ID":"PZG",
+        "Rank Target":0.25,
+        "prediction":0.6851457953,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "736":{
+        "index":1719705600000,
+        "company ID":"RGLD",
+        "Rank Target":0.5,
+        "prediction":0.6609752178,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "738":{
+        "index":1719705600000,
+        "company ID":"VGZ",
+        "Rank Target":1.0,
+        "prediction":0.6453396082,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "730":{
+        "index":1719705600000,
+        "company ID":"GORO",
+        "Rank Target":0.0833333333,
+        "prediction":0.6223798394,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "737":{
+        "index":1719705600000,
+        "company ID":"SSRM",
+        "Rank Target":0.8333333333,
+        "prediction":0.5789234638,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "729":{
+        "index":1719705600000,
+        "company ID":"DC",
+        "Rank Target":0.1666666667,
+        "prediction":0.5641471148,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "731":{
+        "index":1719705600000,
+        "company ID":"HYMC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5608167648,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "728":{
+        "index":1719705600000,
+        "company ID":"CTGO",
+        "Rank Target":0.4166666667,
+        "prediction":0.5236026049,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "732":{
+        "index":1719705600000,
+        "company ID":"IAUX",
+        "Rank Target":0.5833333333,
+        "prediction":0.4484464824,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "748":{
+        "index":1727654400000,
+        "company ID":"RGLD",
+        "Rank Target":0.8333333333,
+        "prediction":0.6696507931,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "750":{
+        "index":1727654400000,
+        "company ID":"VGZ",
+        "Rank Target":0.3333333333,
+        "prediction":0.6264100075,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "747":{
+        "index":1727654400000,
+        "company ID":"PZG",
+        "Rank Target":0.6666666667,
+        "prediction":0.6094619632,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "743":{
+        "index":1727654400000,
+        "company ID":"HYMC",
+        "Rank Target":0.75,
+        "prediction":0.6052822471,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "739":{
+        "index":1727654400000,
+        "company ID":"CDE",
+        "Rank Target":0.5833333333,
+        "prediction":0.6025796533,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "746":{
+        "index":1727654400000,
+        "company ID":"NEM",
+        "Rank Target":0.5,
+        "prediction":0.5876904726,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "744":{
+        "index":1727654400000,
+        "company ID":"IAUX",
+        "Rank Target":0.0833333333,
+        "prediction":0.5748628378,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "745":{
+        "index":1727654400000,
+        "company ID":"IDR",
+        "Rank Target":0.25,
+        "prediction":0.556876123,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "749":{
+        "index":1727654400000,
+        "company ID":"SSRM",
+        "Rank Target":1.0,
+        "prediction":0.5387550592,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "742":{
+        "index":1727654400000,
+        "company ID":"GORO",
+        "Rank Target":0.4166666667,
+        "prediction":0.5168025494,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "741":{
+        "index":1727654400000,
+        "company ID":"DC",
+        "Rank Target":0.9166666667,
+        "prediction":0.4869879782,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "740":{
+        "index":1727654400000,
+        "company ID":"CTGO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4544798136,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "758":{
+        "index":1735603200000,
+        "company ID":"NEM",
+        "Rank Target":0.5833333333,
+        "prediction":0.6913802028,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "760":{
+        "index":1735603200000,
+        "company ID":"RGLD",
+        "Rank Target":0.5,
+        "prediction":0.6576800942,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "761":{
+        "index":1735603200000,
+        "company ID":"SSRM",
+        "Rank Target":0.9166666667,
+        "prediction":0.6266232729,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "751":{
+        "index":1735603200000,
+        "company ID":"CDE",
+        "Rank Target":0.1666666667,
+        "prediction":0.6146358252,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "757":{
+        "index":1735603200000,
+        "company ID":"IDR",
+        "Rank Target":0.6666666667,
+        "prediction":0.6094571948,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "762":{
+        "index":1735603200000,
+        "company ID":"VGZ",
+        "Rank Target":0.75,
+        "prediction":0.5653645396,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "756":{
+        "index":1735603200000,
+        "company ID":"IAUX",
+        "Rank Target":0.25,
+        "prediction":0.5590976477,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "755":{
+        "index":1735603200000,
+        "company ID":"HYMC",
+        "Rank Target":0.8333333333,
+        "prediction":0.5550585985,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "759":{
+        "index":1735603200000,
+        "company ID":"PZG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5377858281,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "753":{
+        "index":1735603200000,
+        "company ID":"DC",
+        "Rank Target":0.4166666667,
+        "prediction":0.5346192122,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "754":{
+        "index":1735603200000,
+        "company ID":"GORO",
+        "Rank Target":1.0,
+        "prediction":0.5290349722,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "752":{
+        "index":1735603200000,
+        "company ID":"CTGO",
+        "Rank Target":0.0833333333,
+        "prediction":0.3927406669,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "765":{
+        "index":1743379200000,
+        "company ID":"DC",
+        "Rank Target":0.75,
+        "prediction":0.6582176089,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "773":{
+        "index":1743379200000,
+        "company ID":"SSRM",
+        "Rank Target":0.5833333333,
+        "prediction":0.6453831196,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "772":{
+        "index":1743379200000,
+        "company ID":"RGLD",
+        "Rank Target":0.1666666667,
+        "prediction":0.6237640977,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "774":{
+        "index":1743379200000,
+        "company ID":"VGZ",
+        "Rank Target":0.6666666667,
+        "prediction":0.6170854568,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "763":{
+        "index":1743379200000,
+        "company ID":"CDE",
+        "Rank Target":0.8333333333,
+        "prediction":0.5934785604,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "771":{
+        "index":1743379200000,
+        "company ID":"PZG",
+        "Rank Target":0.9166666667,
+        "prediction":0.5740323663,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "770":{
+        "index":1743379200000,
+        "company ID":"NEM",
+        "Rank Target":0.5,
+        "prediction":0.5691544414,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "768":{
+        "index":1743379200000,
+        "company ID":"IAUX",
+        "Rank Target":0.25,
+        "prediction":0.5653750896,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "767":{
+        "index":1743379200000,
+        "company ID":"HYMC",
+        "Rank Target":0.4166666667,
+        "prediction":0.5622473955,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "766":{
+        "index":1743379200000,
+        "company ID":"GORO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5041548014,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "764":{
+        "index":1743379200000,
+        "company ID":"CTGO",
+        "Rank Target":1.0,
+        "prediction":0.4846919477,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "769":{
+        "index":1743379200000,
+        "company ID":"IDR",
+        "Rank Target":0.0833333333,
+        "prediction":0.473292768,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    }
+}

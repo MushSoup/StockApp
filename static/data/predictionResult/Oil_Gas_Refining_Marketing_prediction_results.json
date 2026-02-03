@@ -1,0 +1,107 @@
+{
+    "1056":{
+        "company ID":"CVI",
+        "score":0.6778213382,
+        "Rank":1.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":23.3087707372
+    },
+    "1061":{
+        "company ID":"MPC",
+        "score":0.6524671912,
+        "Rank":2.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":12.2202279906
+    },
+    "1062":{
+        "company ID":"PARR",
+        "score":0.6486151814,
+        "Rank":3.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":13.7996821854
+    },
+    "1067":{
+        "company ID":"VLO",
+        "score":0.6183968186,
+        "Rank":4.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":20.0353488706
+    },
+    "1063":{
+        "company ID":"PBF",
+        "score":0.6155346632,
+        "Rank":5.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":29.9718656581
+    },
+    "1057":{
+        "company ID":"DINO",
+        "score":0.5723446012,
+        "Rank":6.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":20.1298036504
+    },
+    "1054":{
+        "company ID":"CAPL",
+        "score":0.5493378043,
+        "Rank":7.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":4.8197631886
+    },
+    "1064":{
+        "company ID":"PSX",
+        "score":0.4927782118,
+        "Rank":8.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":9.1422407821
+    },
+    "1058":{
+        "company ID":"DK",
+        "score":0.4909105003,
+        "Rank":9.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":41.6541309422
+    },
+    "1066":{
+        "company ID":"SUN",
+        "score":0.4837554991,
+        "Rank":10.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-8.1624349654
+    },
+    "1055":{
+        "company ID":"CLNE",
+        "score":0.4572187662,
+        "Rank":11.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":25.5813919951
+    },
+    "1065":{
+        "company ID":"SGU",
+        "score":0.4512345791,
+        "Rank":12.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":1.0520141943
+    },
+    "1068":{
+        "company ID":"WKC",
+        "score":0.4472979009,
+        "Rank":13.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-11.8460993453
+    },
+    "1060":{
+        "company ID":"IEP",
+        "score":0.4382709861,
+        "Rank":14.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":4.5074954572
+    },
+    "1059":{
+        "company ID":"DKL",
+        "score":0.4269106686,
+        "Rank":15.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":5.5408734672
+    }
+}

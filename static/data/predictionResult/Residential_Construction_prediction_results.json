@@ -1,0 +1,114 @@
+{
+    "988":{
+        "company ID":"CVCO",
+        "score":0.7126839757,
+        "Rank":1.0,
+        "Rank Target":0.8125,
+        "stockDifferencePercentage":28.0289422613
+    },
+    "992":{
+        "company ID":"IBP",
+        "score":0.709892571,
+        "Rank":2.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":28.376459276
+    },
+    "999":{
+        "company ID":"SKY",
+        "score":0.6918841004,
+        "Rank":3.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":11.6424941858
+    },
+    "990":{
+        "company ID":"DHI",
+        "score":0.6627921462,
+        "Rank":4.0,
+        "Rank Target":0.9375,
+        "stockDifferencePercentage":29.0918079027
+    },
+    "991":{
+        "company ID":"GRBK",
+        "score":0.6331321001,
+        "Rank":5.0,
+        "Rank Target":0.5625,
+        "stockDifferencePercentage":13.1842764117
+    },
+    "993":{
+        "company ID":"LEGH",
+        "score":0.5902860761,
+        "Rank":6.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":14.1009643926
+    },
+    "998":{
+        "company ID":"PHM",
+        "score":0.5840986967,
+        "Rank":7.0,
+        "Rank Target":0.6875,
+        "stockDifferencePercentage":21.9436608988
+    },
+    "995":{
+        "company ID":"MHO",
+        "score":0.5804829001,
+        "Rank":8.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":25.84892213
+    },
+    "1002":{
+        "company ID":"UHG",
+        "score":0.5543578863,
+        "Rank":9.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":37.5438669304
+    },
+    "997":{
+        "company ID":"NVR",
+        "score":0.5370733142,
+        "Rank":10.0,
+        "Rank Target":0.4375,
+        "stockDifferencePercentage":6.1902798264
+    },
+    "1000":{
+        "company ID":"TMHC",
+        "score":0.4680114985,
+        "Rank":11.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":4.7123745351
+    },
+    "996":{
+        "company ID":"MTH",
+        "score":0.4300480187,
+        "Rank":12.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":3.5644011072
+    },
+    "994":{
+        "company ID":"LGIH",
+        "score":0.3888989687,
+        "Rank":13.0,
+        "Rank Target":0.0625,
+        "stockDifferencePercentage":-3.9316541938
+    },
+    "989":{
+        "company ID":"DFH",
+        "score":0.3681185544,
+        "Rank":14.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":0.4976996808
+    },
+    "987":{
+        "company ID":"BZH",
+        "score":0.3474136591,
+        "Rank":15.0,
+        "Rank Target":0.3125,
+        "stockDifferencePercentage":4.7073817387
+    },
+    "1001":{
+        "company ID":"TPH",
+        "score":0.2858565748,
+        "Rank":16.0,
+        "Rank Target":0.1875,
+        "stockDifferencePercentage":3.0624686183
+    }
+}

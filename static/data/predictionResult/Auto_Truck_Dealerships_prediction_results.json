@@ -1,0 +1,100 @@
+{
+    "729":{
+        "company ID":"CVNA",
+        "score":0.7000567913,
+        "Rank":1.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":12.7264429704
+    },
+    "736":{
+        "company ID":"RUSHA",
+        "score":0.6592406631,
+        "Rank":2.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-0.8304276327
+    },
+    "735":{
+        "company ID":"RDNW",
+        "score":0.6495987773,
+        "Rank":3.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":82.399997712
+    },
+    "725":{
+        "company ID":"ABG",
+        "score":0.6458967924,
+        "Rank":4.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-6.9782737169
+    },
+    "730":{
+        "company ID":"CWH",
+        "score":0.6357033849,
+        "Rank":5.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-9.9658885373
+    },
+    "728":{
+        "company ID":"CARG",
+        "score":0.6292178631,
+        "Rank":6.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":11.1275961873
+    },
+    "734":{
+        "company ID":"PAG",
+        "score":0.6018046141,
+        "Rank":7.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":-4.741465075
+    },
+    "727":{
+        "company ID":"AN",
+        "score":0.5044699311,
+        "Rank":8.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":2.3199965533
+    },
+    "731":{
+        "company ID":"LAD",
+        "score":0.4708351195,
+        "Rank":9.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-8.729108199
+    },
+    "738":{
+        "company ID":"VVV",
+        "score":0.467923224,
+        "Rank":10.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-9.5921481778
+    },
+    "737":{
+        "company ID":"SAH",
+        "score":0.4387902617,
+        "Rank":11.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-13.0612081013
+    },
+    "733":{
+        "company ID":"OTH",
+        "score":0.3990274072,
+        "Rank":12.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-100.0
+    },
+    "726":{
+        "company ID":"ACVA",
+        "score":0.3795450032,
+        "Rank":13.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-40.5208990996
+    },
+    "732":{
+        "company ID":"MCW",
+        "score":0.3651050925,
+        "Rank":14.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-17.2092975119
+    }
+}

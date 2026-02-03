@@ -1,0 +1,1450 @@
+{
+    "778":{
+        "index":1648684800000,
+        "company ID":"GL",
+        "Rank Target":0.9285714286,
+        "prediction":0.6452453136,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "775":{
+        "index":1648684800000,
+        "company ID":"CIA",
+        "Rank Target":0.8571428571,
+        "prediction":0.6266463399,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "779":{
+        "index":1648684800000,
+        "company ID":"GNW",
+        "Rank Target":0.7857142857,
+        "prediction":0.5819787979,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "783":{
+        "index":1648684800000,
+        "company ID":"PRI",
+        "Rank Target":0.6428571429,
+        "prediction":0.5787085891,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "774":{
+        "index":1648684800000,
+        "company ID":"BHF",
+        "Rank Target":0.3571428571,
+        "prediction":0.5739726424,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "781":{
+        "index":1648684800000,
+        "company ID":"LNC",
+        "Rank Target":0.2142857143,
+        "prediction":0.5502210259,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "776":{
+        "index":1648684800000,
+        "company ID":"CNO",
+        "Rank Target":0.2857142857,
+        "prediction":0.5366138816,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "772":{
+        "index":1648684800000,
+        "company ID":"AAME",
+        "Rank Target":0.4285714286,
+        "prediction":0.5348559618,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "785":{
+        "index":1648684800000,
+        "company ID":"UNM",
+        "Rank Target":1.0,
+        "prediction":0.5235893726,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "773":{
+        "index":1648684800000,
+        "company ID":"AFL",
+        "Rank Target":0.5714285714,
+        "prediction":0.5097098947,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "782":{
+        "index":1648684800000,
+        "company ID":"MET",
+        "Rank Target":0.7142857143,
+        "prediction":0.5078153014,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "784":{
+        "index":1648684800000,
+        "company ID":"PRU",
+        "Rank Target":0.5,
+        "prediction":0.5028746724,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "777":{
+        "index":1648684800000,
+        "company ID":"FG",
+        "Rank Target":0.0714285714,
+        "prediction":0.4868391752,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "780":{
+        "index":1648684800000,
+        "company ID":"JXN",
+        "Rank Target":0.1428571429,
+        "prediction":0.4782712758,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "795":{
+        "index":1656547200000,
+        "company ID":"LNC",
+        "Rank Target":0.2857142857,
+        "prediction":0.6549168229,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "792":{
+        "index":1656547200000,
+        "company ID":"GL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6182963252,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "790":{
+        "index":1656547200000,
+        "company ID":"CNO",
+        "Rank Target":0.5,
+        "prediction":0.6134541035,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "794":{
+        "index":1656547200000,
+        "company ID":"JXN",
+        "Rank Target":0.7857142857,
+        "prediction":0.6115518212,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "799":{
+        "index":1656547200000,
+        "company ID":"UNM",
+        "Rank Target":1.0,
+        "prediction":0.6115390658,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "787":{
+        "index":1656547200000,
+        "company ID":"AFL",
+        "Rank Target":0.5714285714,
+        "prediction":0.5766918063,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "788":{
+        "index":1656547200000,
+        "company ID":"BHF",
+        "Rank Target":0.8571428571,
+        "prediction":0.5700573325,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "797":{
+        "index":1656547200000,
+        "company ID":"PRI",
+        "Rank Target":0.7142857143,
+        "prediction":0.5582734346,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "789":{
+        "index":1656547200000,
+        "company ID":"CIA",
+        "Rank Target":0.1428571429,
+        "prediction":0.5207762122,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "793":{
+        "index":1656547200000,
+        "company ID":"GNW",
+        "Rank Target":0.3571428571,
+        "prediction":0.5190548897,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "786":{
+        "index":1656547200000,
+        "company ID":"AAME",
+        "Rank Target":0.9285714286,
+        "prediction":0.5007023811,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "791":{
+        "index":1656547200000,
+        "company ID":"FG",
+        "Rank Target":0.0714285714,
+        "prediction":0.4784731865,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "798":{
+        "index":1656547200000,
+        "company ID":"PRU",
+        "Rank Target":0.2142857143,
+        "prediction":0.4024219513,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "796":{
+        "index":1656547200000,
+        "company ID":"MET",
+        "Rank Target":0.4285714286,
+        "prediction":0.3814260066,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "813":{
+        "index":1664496000000,
+        "company ID":"UNM",
+        "Rank Target":0.2857142857,
+        "prediction":0.6905053854,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "806":{
+        "index":1664496000000,
+        "company ID":"GL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6431716084,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "811":{
+        "index":1664496000000,
+        "company ID":"PRI",
+        "Rank Target":0.3571428571,
+        "prediction":0.5957309008,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "808":{
+        "index":1664496000000,
+        "company ID":"JXN",
+        "Rank Target":0.7857142857,
+        "prediction":0.5950318575,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "804":{
+        "index":1664496000000,
+        "company ID":"CNO",
+        "Rank Target":0.9285714286,
+        "prediction":0.5931000113,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "807":{
+        "index":1664496000000,
+        "company ID":"GNW",
+        "Rank Target":1.0,
+        "prediction":0.5872671604,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "801":{
+        "index":1664496000000,
+        "company ID":"AFL",
+        "Rank Target":0.8571428571,
+        "prediction":0.5441694856,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "810":{
+        "index":1664496000000,
+        "company ID":"MET",
+        "Rank Target":0.5714285714,
+        "prediction":0.5196723938,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "805":{
+        "index":1664496000000,
+        "company ID":"FG",
+        "Rank Target":0.7142857143,
+        "prediction":0.5193651319,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "802":{
+        "index":1664496000000,
+        "company ID":"BHF",
+        "Rank Target":0.5,
+        "prediction":0.4751035571,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "803":{
+        "index":1664496000000,
+        "company ID":"CIA",
+        "Rank Target":0.0714285714,
+        "prediction":0.4601719081,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "800":{
+        "index":1664496000000,
+        "company ID":"AAME",
+        "Rank Target":0.2142857143,
+        "prediction":0.4220171571,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "812":{
+        "index":1664496000000,
+        "company ID":"PRU",
+        "Rank Target":0.4285714286,
+        "prediction":0.3712538183,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "809":{
+        "index":1664496000000,
+        "company ID":"LNC",
+        "Rank Target":0.1428571429,
+        "prediction":0.2951951921,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "821":{
+        "index":1672444800000,
+        "company ID":"GNW",
+        "Rank Target":0.5714285714,
+        "prediction":0.7284306884,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "820":{
+        "index":1672444800000,
+        "company ID":"GL",
+        "Rank Target":0.5,
+        "prediction":0.7233834267,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "826":{
+        "index":1672444800000,
+        "company ID":"PRU",
+        "Rank Target":0.2142857143,
+        "prediction":0.6068844795,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "818":{
+        "index":1672444800000,
+        "company ID":"CNO",
+        "Rank Target":0.6428571429,
+        "prediction":0.6022664905,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "815":{
+        "index":1672444800000,
+        "company ID":"AFL",
+        "Rank Target":0.4285714286,
+        "prediction":0.5907570124,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "817":{
+        "index":1672444800000,
+        "company ID":"CIA",
+        "Rank Target":1.0,
+        "prediction":0.5738602877,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "827":{
+        "index":1672444800000,
+        "company ID":"UNM",
+        "Rank Target":0.7142857143,
+        "prediction":0.5670156479,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "825":{
+        "index":1672444800000,
+        "company ID":"PRI",
+        "Rank Target":0.9285714286,
+        "prediction":0.5645629168,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "823":{
+        "index":1672444800000,
+        "company ID":"LNC",
+        "Rank Target":0.0714285714,
+        "prediction":0.517791748,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "816":{
+        "index":1672444800000,
+        "company ID":"BHF",
+        "Rank Target":0.2857142857,
+        "prediction":0.5088328719,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "824":{
+        "index":1672444800000,
+        "company ID":"MET",
+        "Rank Target":0.1428571429,
+        "prediction":0.5058596134,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "814":{
+        "index":1672444800000,
+        "company ID":"AAME",
+        "Rank Target":0.7857142857,
+        "prediction":0.4513803124,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "819":{
+        "index":1672444800000,
+        "company ID":"FG",
+        "Rank Target":0.3571428571,
+        "prediction":0.4476879537,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "822":{
+        "index":1672444800000,
+        "company ID":"JXN",
+        "Rank Target":0.8571428571,
+        "prediction":0.3762761056,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "839":{
+        "index":1680220800000,
+        "company ID":"PRI",
+        "Rank Target":0.7857142857,
+        "prediction":0.6403551698,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "841":{
+        "index":1680220800000,
+        "company ID":"UNM",
+        "Rank Target":0.9285714286,
+        "prediction":0.630128324,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "840":{
+        "index":1680220800000,
+        "company ID":"PRU",
+        "Rank Target":0.7142857143,
+        "prediction":0.6223205328,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "831":{
+        "index":1680220800000,
+        "company ID":"CIA",
+        "Rank Target":0.0714285714,
+        "prediction":0.6118127108,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "829":{
+        "index":1680220800000,
+        "company ID":"AFL",
+        "Rank Target":0.6428571429,
+        "prediction":0.5937215686,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "834":{
+        "index":1680220800000,
+        "company ID":"GL",
+        "Rank Target":0.4285714286,
+        "prediction":0.5797653198,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "835":{
+        "index":1680220800000,
+        "company ID":"GNW",
+        "Rank Target":0.2857142857,
+        "prediction":0.577070117,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "832":{
+        "index":1680220800000,
+        "company ID":"CNO",
+        "Rank Target":0.5,
+        "prediction":0.5492439866,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "838":{
+        "index":1680220800000,
+        "company ID":"MET",
+        "Rank Target":0.3571428571,
+        "prediction":0.5283386707,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "828":{
+        "index":1680220800000,
+        "company ID":"AAME",
+        "Rank Target":0.1428571429,
+        "prediction":0.4947543442,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "830":{
+        "index":1680220800000,
+        "company ID":"BHF",
+        "Rank Target":0.5714285714,
+        "prediction":0.4890989065,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "836":{
+        "index":1680220800000,
+        "company ID":"JXN",
+        "Rank Target":0.2142857143,
+        "prediction":0.4349098206,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "833":{
+        "index":1680220800000,
+        "company ID":"FG",
+        "Rank Target":1.0,
+        "prediction":0.4333548844,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "837":{
+        "index":1680220800000,
+        "company ID":"LNC",
+        "Rank Target":0.8571428571,
+        "prediction":0.4251621366,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "842":{
+        "index":1688083200000,
+        "company ID":"AAME",
+        "Rank Target":0.3571428571,
+        "prediction":0.6913287044,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "849":{
+        "index":1688083200000,
+        "company ID":"GNW",
+        "Rank Target":0.7857142857,
+        "prediction":0.664616704,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "843":{
+        "index":1688083200000,
+        "company ID":"AFL",
+        "Rank Target":0.6428571429,
+        "prediction":0.6115609407,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "846":{
+        "index":1688083200000,
+        "company ID":"CNO",
+        "Rank Target":0.2857142857,
+        "prediction":0.607612133,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "855":{
+        "index":1688083200000,
+        "company ID":"UNM",
+        "Rank Target":0.5,
+        "prediction":0.6070961952,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "854":{
+        "index":1688083200000,
+        "company ID":"PRU",
+        "Rank Target":0.5714285714,
+        "prediction":0.5679107904,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "848":{
+        "index":1688083200000,
+        "company ID":"GL",
+        "Rank Target":0.2142857143,
+        "prediction":0.5542280078,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "852":{
+        "index":1688083200000,
+        "company ID":"MET",
+        "Rank Target":0.7142857143,
+        "prediction":0.552118957,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "850":{
+        "index":1688083200000,
+        "company ID":"JXN",
+        "Rank Target":1.0,
+        "prediction":0.5464070439,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "847":{
+        "index":1688083200000,
+        "company ID":"FG",
+        "Rank Target":0.8571428571,
+        "prediction":0.5344574451,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "853":{
+        "index":1688083200000,
+        "company ID":"PRI",
+        "Rank Target":0.1428571429,
+        "prediction":0.523657918,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "845":{
+        "index":1688083200000,
+        "company ID":"CIA",
+        "Rank Target":0.9285714286,
+        "prediction":0.435600549,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "851":{
+        "index":1688083200000,
+        "company ID":"LNC",
+        "Rank Target":0.0714285714,
+        "prediction":0.3755648136,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "844":{
+        "index":1688083200000,
+        "company ID":"BHF",
+        "Rank Target":0.4285714286,
+        "prediction":0.3370781541,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "862":{
+        "index":1696032000000,
+        "company ID":"GL",
+        "Rank Target":0.4285714286,
+        "prediction":0.7127316594,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "863":{
+        "index":1696032000000,
+        "company ID":"GNW",
+        "Rank Target":0.6428571429,
+        "prediction":0.6515755653,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "865":{
+        "index":1696032000000,
+        "company ID":"LNC",
+        "Rank Target":0.7142857143,
+        "prediction":0.6420416236,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "858":{
+        "index":1696032000000,
+        "company ID":"BHF",
+        "Rank Target":0.5,
+        "prediction":0.6301849484,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "867":{
+        "index":1696032000000,
+        "company ID":"PRI",
+        "Rank Target":0.2142857143,
+        "prediction":0.6159950495,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "857":{
+        "index":1696032000000,
+        "company ID":"AFL",
+        "Rank Target":0.2857142857,
+        "prediction":0.5661956072,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "856":{
+        "index":1696032000000,
+        "company ID":"AAME",
+        "Rank Target":0.9285714286,
+        "prediction":0.5651900768,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "860":{
+        "index":1696032000000,
+        "company ID":"CNO",
+        "Rank Target":0.7857142857,
+        "prediction":0.5648286343,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "869":{
+        "index":1696032000000,
+        "company ID":"UNM",
+        "Rank Target":0.1428571429,
+        "prediction":0.56471771,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "859":{
+        "index":1696032000000,
+        "company ID":"CIA",
+        "Rank Target":0.0714285714,
+        "prediction":0.5332273245,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "864":{
+        "index":1696032000000,
+        "company ID":"JXN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5219782591,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "861":{
+        "index":1696032000000,
+        "company ID":"FG",
+        "Rank Target":1.0,
+        "prediction":0.5178375244,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "866":{
+        "index":1696032000000,
+        "company ID":"MET",
+        "Rank Target":0.3571428571,
+        "prediction":0.4702324271,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "868":{
+        "index":1696032000000,
+        "company ID":"PRU",
+        "Rank Target":0.5714285714,
+        "prediction":0.3741440177,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "881":{
+        "index":1703980800000,
+        "company ID":"PRU",
+        "Rank Target":0.6923076923,
+        "prediction":0.6537844539,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "875":{
+        "index":1703980800000,
+        "company ID":"GL",
+        "Rank Target":0.2307692308,
+        "prediction":0.6356977224,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "882":{
+        "index":1703980800000,
+        "company ID":"UNM",
+        "Rank Target":0.7692307692,
+        "prediction":0.6223148704,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "880":{
+        "index":1703980800000,
+        "company ID":"PRI",
+        "Rank Target":0.9230769231,
+        "prediction":0.6180594563,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "873":{
+        "index":1703980800000,
+        "company ID":"CNO",
+        "Rank Target":0.4615384615,
+        "prediction":0.6134787798,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "870":{
+        "index":1703980800000,
+        "company ID":"AFL",
+        "Rank Target":0.5384615385,
+        "prediction":0.5979557633,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "879":{
+        "index":1703980800000,
+        "company ID":"MET",
+        "Rank Target":0.6153846154,
+        "prediction":0.5470895767,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "872":{
+        "index":1703980800000,
+        "company ID":"CIA",
+        "Rank Target":0.0769230769,
+        "prediction":0.506467104,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "876":{
+        "index":1703980800000,
+        "company ID":"GNW",
+        "Rank Target":0.3076923077,
+        "prediction":0.4510835409,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "874":{
+        "index":1703980800000,
+        "company ID":"FG",
+        "Rank Target":0.1538461538,
+        "prediction":0.413504988,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "878":{
+        "index":1703980800000,
+        "company ID":"LNC",
+        "Rank Target":0.8461538462,
+        "prediction":0.3930432796,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "877":{
+        "index":1703980800000,
+        "company ID":"JXN",
+        "Rank Target":1.0,
+        "prediction":0.3803418279,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "871":{
+        "index":1703980800000,
+        "company ID":"BHF",
+        "Rank Target":0.3846153846,
+        "prediction":0.333340764,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "890":{
+        "index":1711843200000,
+        "company ID":"GNW",
+        "Rank Target":0.3571428571,
+        "prediction":0.6704257727,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "889":{
+        "index":1711843200000,
+        "company ID":"GL",
+        "Rank Target":0.0714285714,
+        "prediction":0.6572609544,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "888":{
+        "index":1711843200000,
+        "company ID":"FG",
+        "Rank Target":0.2857142857,
+        "prediction":0.6452649832,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "892":{
+        "index":1711843200000,
+        "company ID":"LNC",
+        "Rank Target":0.6428571429,
+        "prediction":0.6281862855,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "887":{
+        "index":1711843200000,
+        "company ID":"CNO",
+        "Rank Target":0.7857142857,
+        "prediction":0.6157446504,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "893":{
+        "index":1711843200000,
+        "company ID":"MET",
+        "Rank Target":0.5714285714,
+        "prediction":0.5993307233,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "896":{
+        "index":1711843200000,
+        "company ID":"UNM",
+        "Rank Target":0.4285714286,
+        "prediction":0.5981792808,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "884":{
+        "index":1711843200000,
+        "company ID":"AFL",
+        "Rank Target":0.8571428571,
+        "prediction":0.5980419517,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "894":{
+        "index":1711843200000,
+        "company ID":"PRI",
+        "Rank Target":0.5,
+        "prediction":0.580162704,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "891":{
+        "index":1711843200000,
+        "company ID":"JXN",
+        "Rank Target":0.9285714286,
+        "prediction":0.5470824838,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "886":{
+        "index":1711843200000,
+        "company ID":"CIA",
+        "Rank Target":1.0,
+        "prediction":0.5368494391,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "885":{
+        "index":1711843200000,
+        "company ID":"BHF",
+        "Rank Target":0.2142857143,
+        "prediction":0.5266774297,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "895":{
+        "index":1711843200000,
+        "company ID":"PRU",
+        "Rank Target":0.7142857143,
+        "prediction":0.4408640862,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "883":{
+        "index":1711843200000,
+        "company ID":"AAME",
+        "Rank Target":0.1428571429,
+        "prediction":0.3771218061,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "906":{
+        "index":1719705600000,
+        "company ID":"LNC",
+        "Rank Target":0.0714285714,
+        "prediction":0.6804260015,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "908":{
+        "index":1719705600000,
+        "company ID":"PRI",
+        "Rank Target":0.3571428571,
+        "prediction":0.6757940054,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "898":{
+        "index":1719705600000,
+        "company ID":"AFL",
+        "Rank Target":0.8571428571,
+        "prediction":0.6485592127,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "905":{
+        "index":1719705600000,
+        "company ID":"JXN",
+        "Rank Target":0.7142857143,
+        "prediction":0.6320283413,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "904":{
+        "index":1719705600000,
+        "company ID":"GNW",
+        "Rank Target":0.4285714286,
+        "prediction":0.596540153,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "910":{
+        "index":1719705600000,
+        "company ID":"UNM",
+        "Rank Target":0.5714285714,
+        "prediction":0.5896473527,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "903":{
+        "index":1719705600000,
+        "company ID":"GL",
+        "Rank Target":0.9285714286,
+        "prediction":0.5725045204,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "909":{
+        "index":1719705600000,
+        "company ID":"PRU",
+        "Rank Target":0.2142857143,
+        "prediction":0.5237281322,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "902":{
+        "index":1719705600000,
+        "company ID":"FG",
+        "Rank Target":0.5,
+        "prediction":0.5200145841,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "907":{
+        "index":1719705600000,
+        "company ID":"MET",
+        "Rank Target":0.6428571429,
+        "prediction":0.5190067887,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "900":{
+        "index":1719705600000,
+        "company ID":"CIA",
+        "Rank Target":1.0,
+        "prediction":0.5143433809,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "901":{
+        "index":1719705600000,
+        "company ID":"CNO",
+        "Rank Target":0.7857142857,
+        "prediction":0.5138245821,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "897":{
+        "index":1719705600000,
+        "company ID":"AAME",
+        "Rank Target":0.2857142857,
+        "prediction":0.4841271043,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "899":{
+        "index":1719705600000,
+        "company ID":"BHF",
+        "Rank Target":0.1428571429,
+        "prediction":0.4813312292,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "924":{
+        "index":1727654400000,
+        "company ID":"UNM",
+        "Rank Target":1.0,
+        "prediction":0.6575679183,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "921":{
+        "index":1727654400000,
+        "company ID":"MET",
+        "Rank Target":0.5,
+        "prediction":0.6404232383,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "911":{
+        "index":1727654400000,
+        "company ID":"AAME",
+        "Rank Target":0.1428571429,
+        "prediction":0.6074370742,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "922":{
+        "index":1727654400000,
+        "company ID":"PRI",
+        "Rank Target":0.4285714286,
+        "prediction":0.589751482,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "915":{
+        "index":1727654400000,
+        "company ID":"CNO",
+        "Rank Target":0.8571428571,
+        "prediction":0.5678617358,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "913":{
+        "index":1727654400000,
+        "company ID":"BHF",
+        "Rank Target":0.9285714286,
+        "prediction":0.5425080657,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "923":{
+        "index":1727654400000,
+        "company ID":"PRU",
+        "Rank Target":0.3571428571,
+        "prediction":0.5356140137,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "912":{
+        "index":1727654400000,
+        "company ID":"AFL",
+        "Rank Target":0.0714285714,
+        "prediction":0.5332921743,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "918":{
+        "index":1727654400000,
+        "company ID":"GNW",
+        "Rank Target":0.5714285714,
+        "prediction":0.5006842613,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "917":{
+        "index":1727654400000,
+        "company ID":"GL",
+        "Rank Target":0.7142857143,
+        "prediction":0.4957891703,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "914":{
+        "index":1727654400000,
+        "company ID":"CIA",
+        "Rank Target":0.7857142857,
+        "prediction":0.4782604873,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "920":{
+        "index":1727654400000,
+        "company ID":"LNC",
+        "Rank Target":0.6428571429,
+        "prediction":0.4543303847,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "916":{
+        "index":1727654400000,
+        "company ID":"FG",
+        "Rank Target":0.2857142857,
+        "prediction":0.4297231138,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "919":{
+        "index":1727654400000,
+        "company ID":"JXN",
+        "Rank Target":0.2142857143,
+        "prediction":0.3536539972,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "936":{
+        "index":1735603200000,
+        "company ID":"PRI",
+        "Rank Target":0.4285714286,
+        "prediction":0.648270607,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "926":{
+        "index":1735603200000,
+        "company ID":"AFL",
+        "Rank Target":0.5714285714,
+        "prediction":0.6350060105,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "938":{
+        "index":1735603200000,
+        "company ID":"UNM",
+        "Rank Target":0.6428571429,
+        "prediction":0.5948408246,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "935":{
+        "index":1735603200000,
+        "company ID":"MET",
+        "Rank Target":0.2857142857,
+        "prediction":0.592572093,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "925":{
+        "index":1735603200000,
+        "company ID":"AAME",
+        "Rank Target":0.8571428571,
+        "prediction":0.5899941325,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "929":{
+        "index":1735603200000,
+        "company ID":"CNO",
+        "Rank Target":0.7142857143,
+        "prediction":0.5765467882,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "930":{
+        "index":1735603200000,
+        "company ID":"FG",
+        "Rank Target":0.0714285714,
+        "prediction":0.563839376,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "934":{
+        "index":1735603200000,
+        "company ID":"LNC",
+        "Rank Target":0.7857142857,
+        "prediction":0.5384345651,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "927":{
+        "index":1735603200000,
+        "company ID":"BHF",
+        "Rank Target":1.0,
+        "prediction":0.5346094966,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "932":{
+        "index":1735603200000,
+        "company ID":"GNW",
+        "Rank Target":0.3571428571,
+        "prediction":0.5270388722,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "931":{
+        "index":1735603200000,
+        "company ID":"GL",
+        "Rank Target":0.9285714286,
+        "prediction":0.4723355174,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "928":{
+        "index":1735603200000,
+        "company ID":"CIA",
+        "Rank Target":0.5,
+        "prediction":0.4366791844,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "933":{
+        "index":1735603200000,
+        "company ID":"JXN",
+        "Rank Target":0.2142857143,
+        "prediction":0.3904523253,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "937":{
+        "index":1735603200000,
+        "company ID":"PRU",
+        "Rank Target":0.1428571429,
+        "prediction":0.3460255861,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "950":{
+        "index":1743379200000,
+        "company ID":"PRI",
+        "Rank Target":0.4285714286,
+        "prediction":0.6491358876,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "946":{
+        "index":1743379200000,
+        "company ID":"GNW",
+        "Rank Target":0.8571428571,
+        "prediction":0.5747975111,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "939":{
+        "index":1743379200000,
+        "company ID":"AAME",
+        "Rank Target":1.0,
+        "prediction":0.5694395304,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "949":{
+        "index":1743379200000,
+        "company ID":"MET",
+        "Rank Target":0.7857142857,
+        "prediction":0.5521989465,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "943":{
+        "index":1743379200000,
+        "company ID":"CNO",
+        "Rank Target":0.3571428571,
+        "prediction":0.539008975,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "952":{
+        "index":1743379200000,
+        "company ID":"UNM",
+        "Rank Target":0.5714285714,
+        "prediction":0.5357188582,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "940":{
+        "index":1743379200000,
+        "company ID":"AFL",
+        "Rank Target":0.2142857143,
+        "prediction":0.5149079561,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "944":{
+        "index":1743379200000,
+        "company ID":"FG",
+        "Rank Target":0.1428571429,
+        "prediction":0.5005199909,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "948":{
+        "index":1743379200000,
+        "company ID":"LNC",
+        "Rank Target":0.7142857143,
+        "prediction":0.4903506339,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "941":{
+        "index":1743379200000,
+        "company ID":"BHF",
+        "Rank Target":0.5,
+        "prediction":0.4683752954,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "951":{
+        "index":1743379200000,
+        "company ID":"PRU",
+        "Rank Target":0.6428571429,
+        "prediction":0.4639906287,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "947":{
+        "index":1743379200000,
+        "company ID":"JXN",
+        "Rank Target":0.9285714286,
+        "prediction":0.4591863751,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "942":{
+        "index":1743379200000,
+        "company ID":"CIA",
+        "Rank Target":0.0714285714,
+        "prediction":0.4511784315,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "945":{
+        "index":1743379200000,
+        "company ID":"GL",
+        "Rank Target":0.2857142857,
+        "prediction":0.4288345277,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    }
+}

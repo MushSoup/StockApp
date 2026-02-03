@@ -1,0 +1,100 @@
+{
+    "789":{
+        "company ID":"CRD-A",
+        "score":0.7707144022,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":-0.4686359773
+    },
+    "790":{
+        "company ID":"CRD-B",
+        "score":0.7707144022,
+        "Rank":1.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":-3.36245472
+    },
+    "793":{
+        "company ID":"ERIE",
+        "score":0.6692945361,
+        "Rank":3.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":-9.3480639044
+    },
+    "796":{
+        "company ID":"MMC",
+        "score":0.6287748814,
+        "Rank":4.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-6.5033273422
+    },
+    "786":{
+        "company ID":"AJG",
+        "score":0.5946994424,
+        "Rank":5.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":-3.6864822813
+    },
+    "795":{
+        "company ID":"GSHD",
+        "score":0.5595813394,
+        "Rank":6.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-29.6617081505
+    },
+    "787":{
+        "company ID":"BRO",
+        "score":0.5559227467,
+        "Rank":7.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-14.2893482959
+    },
+    "791":{
+        "company ID":"CRVL",
+        "score":0.5545303226,
+        "Rank":8.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-24.9197837955
+    },
+    "799":{
+        "company ID":"TWFG",
+        "score":0.5273581743,
+        "Rank":9.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-23.8903000022
+    },
+    "788":{
+        "company ID":"BWIN",
+        "score":0.4895441234,
+        "Rank":10.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-30.9918392088
+    },
+    "798":{
+        "company ID":"SLQT",
+        "score":0.4681514204,
+        "Rank":11.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-16.9421517716
+    },
+    "792":{
+        "company ID":"EHTH",
+        "score":0.4673335254,
+        "Rank":12.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":-4.8076878999
+    },
+    "794":{
+        "company ID":"GOCO",
+        "score":0.2771210968,
+        "Rank":13.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-21.2478885073
+    },
+    "797":{
+        "company ID":"RELI",
+        "score":0.163510263,
+        "Rank":14.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-42.0987623971
+    }
+}

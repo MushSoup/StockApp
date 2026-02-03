@@ -1,0 +1,1314 @@
+{
+    "658":{
+        "index":1648684800000,
+        "company ID":"NXST",
+        "Rank Target":0.8333333333,
+        "prediction":0.6613198519,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "662":{
+        "index":1648684800000,
+        "company ID":"TGNA",
+        "Rank Target":0.9166666667,
+        "prediction":0.6402668953,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "663":{
+        "index":1648684800000,
+        "company ID":"UONE",
+        "Rank Target":0.75,
+        "prediction":0.5985689163,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "655":{
+        "index":1648684800000,
+        "company ID":"GTN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5926886201,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "661":{
+        "index":1648684800000,
+        "company ID":"SSP",
+        "Rank Target":0.4166666667,
+        "prediction":0.5750366449,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "652":{
+        "index":1648684800000,
+        "company ID":"BBGI",
+        "Rank Target":0.5,
+        "prediction":0.5276338458,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "656":{
+        "index":1648684800000,
+        "company ID":"IHRT",
+        "Rank Target":0.1666666667,
+        "prediction":0.5152814984,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "653":{
+        "index":1648684800000,
+        "company ID":"CURI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5024495721,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "659":{
+        "index":1648684800000,
+        "company ID":"SBGI",
+        "Rank Target":0.5833333333,
+        "prediction":0.4849532545,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "660":{
+        "index":1648684800000,
+        "company ID":"SGA",
+        "Rank Target":1.0,
+        "prediction":0.4758040309,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "654":{
+        "index":1648684800000,
+        "company ID":"FUBO",
+        "Rank Target":0.0833333333,
+        "prediction":0.4587213397,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "657":{
+        "index":1648684800000,
+        "company ID":"MDIA",
+        "Rank Target":0.25,
+        "prediction":0.3540349901,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "670":{
+        "index":1656547200000,
+        "company ID":"NXST",
+        "Rank Target":0.75,
+        "prediction":0.6544147134,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "675":{
+        "index":1656547200000,
+        "company ID":"UONE",
+        "Rank Target":0.5833333333,
+        "prediction":0.6497310996,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "674":{
+        "index":1656547200000,
+        "company ID":"TGNA",
+        "Rank Target":0.8333333333,
+        "prediction":0.6475042105,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "673":{
+        "index":1656547200000,
+        "company ID":"SSP",
+        "Rank Target":0.4166666667,
+        "prediction":0.6112329364,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "667":{
+        "index":1656547200000,
+        "company ID":"GTN",
+        "Rank Target":0.3333333333,
+        "prediction":0.5843018889,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "668":{
+        "index":1656547200000,
+        "company ID":"IHRT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5450303555,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "671":{
+        "index":1656547200000,
+        "company ID":"SBGI",
+        "Rank Target":0.25,
+        "prediction":0.5040816069,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "664":{
+        "index":1656547200000,
+        "company ID":"BBGI",
+        "Rank Target":0.1666666667,
+        "prediction":0.4974297285,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "666":{
+        "index":1656547200000,
+        "company ID":"FUBO",
+        "Rank Target":1.0,
+        "prediction":0.4747911394,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "665":{
+        "index":1656547200000,
+        "company ID":"CURI",
+        "Rank Target":0.0833333333,
+        "prediction":0.3919780552,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "672":{
+        "index":1656547200000,
+        "company ID":"SGA",
+        "Rank Target":0.9166666667,
+        "prediction":0.3649124801,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "669":{
+        "index":1656547200000,
+        "company ID":"MDIA",
+        "Rank Target":0.5,
+        "prediction":0.3265540302,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "682":{
+        "index":1664496000000,
+        "company ID":"NXST",
+        "Rank Target":0.8333333333,
+        "prediction":0.6746113896,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "686":{
+        "index":1664496000000,
+        "company ID":"TGNA",
+        "Rank Target":0.75,
+        "prediction":0.653732717,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "685":{
+        "index":1664496000000,
+        "company ID":"SSP",
+        "Rank Target":1.0,
+        "prediction":0.6124400496,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "680":{
+        "index":1664496000000,
+        "company ID":"IHRT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5663581491,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "683":{
+        "index":1664496000000,
+        "company ID":"SBGI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5526313186,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "687":{
+        "index":1664496000000,
+        "company ID":"UONE",
+        "Rank Target":0.4166666667,
+        "prediction":0.5142050982,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "678":{
+        "index":1664496000000,
+        "company ID":"FUBO",
+        "Rank Target":0.0833333333,
+        "prediction":0.5102458596,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "681":{
+        "index":1664496000000,
+        "company ID":"MDIA",
+        "Rank Target":0.1666666667,
+        "prediction":0.5102064013,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "679":{
+        "index":1664496000000,
+        "company ID":"GTN",
+        "Rank Target":0.25,
+        "prediction":0.4924742281,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "676":{
+        "index":1664496000000,
+        "company ID":"BBGI",
+        "Rank Target":0.5,
+        "prediction":0.4805501997,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "684":{
+        "index":1664496000000,
+        "company ID":"SGA",
+        "Rank Target":0.9166666667,
+        "prediction":0.4786317647,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "677":{
+        "index":1664496000000,
+        "company ID":"CURI",
+        "Rank Target":0.5833333333,
+        "prediction":0.4428319931,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "698":{
+        "index":1672444800000,
+        "company ID":"TGNA",
+        "Rank Target":0.5,
+        "prediction":0.6061246991,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "691":{
+        "index":1672444800000,
+        "company ID":"GTN",
+        "Rank Target":0.3333333333,
+        "prediction":0.6046075821,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "693":{
+        "index":1672444800000,
+        "company ID":"MDIA",
+        "Rank Target":0.4166666667,
+        "prediction":0.5845192075,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "697":{
+        "index":1672444800000,
+        "company ID":"SSP",
+        "Rank Target":0.25,
+        "prediction":0.5770178437,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "699":{
+        "index":1672444800000,
+        "company ID":"UONE",
+        "Rank Target":1.0,
+        "prediction":0.5529056191,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "694":{
+        "index":1672444800000,
+        "company ID":"NXST",
+        "Rank Target":0.75,
+        "prediction":0.5486308336,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "688":{
+        "index":1672444800000,
+        "company ID":"BBGI",
+        "Rank Target":0.5833333333,
+        "prediction":0.5379059315,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "695":{
+        "index":1672444800000,
+        "company ID":"SBGI",
+        "Rank Target":0.8333333333,
+        "prediction":0.5336838365,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "692":{
+        "index":1672444800000,
+        "company ID":"IHRT",
+        "Rank Target":0.0833333333,
+        "prediction":0.5258626342,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "690":{
+        "index":1672444800000,
+        "company ID":"FUBO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5223735571,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "689":{
+        "index":1672444800000,
+        "company ID":"CURI",
+        "Rank Target":0.9166666667,
+        "prediction":0.4075805247,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "696":{
+        "index":1672444800000,
+        "company ID":"SGA",
+        "Rank Target":0.6666666667,
+        "prediction":0.368082732,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "706":{
+        "index":1680220800000,
+        "company ID":"NXST",
+        "Rank Target":0.6666666667,
+        "prediction":0.6938081384,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "710":{
+        "index":1680220800000,
+        "company ID":"TGNA",
+        "Rank Target":0.5833333333,
+        "prediction":0.6828944683,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "711":{
+        "index":1680220800000,
+        "company ID":"UONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5839565396,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "709":{
+        "index":1680220800000,
+        "company ID":"SSP",
+        "Rank Target":0.8333333333,
+        "prediction":0.5373986363,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "705":{
+        "index":1680220800000,
+        "company ID":"MDIA",
+        "Rank Target":0.75,
+        "prediction":0.4745484591,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "707":{
+        "index":1680220800000,
+        "company ID":"SBGI",
+        "Rank Target":0.25,
+        "prediction":0.4660157561,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "700":{
+        "index":1680220800000,
+        "company ID":"BBGI",
+        "Rank Target":0.9166666667,
+        "prediction":0.4653202891,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "708":{
+        "index":1680220800000,
+        "company ID":"SGA",
+        "Rank Target":0.5,
+        "prediction":0.4645622969,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "702":{
+        "index":1680220800000,
+        "company ID":"FUBO",
+        "Rank Target":1.0,
+        "prediction":0.436011523,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "704":{
+        "index":1680220800000,
+        "company ID":"IHRT",
+        "Rank Target":0.4166666667,
+        "prediction":0.4245739877,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "703":{
+        "index":1680220800000,
+        "company ID":"GTN",
+        "Rank Target":0.3333333333,
+        "prediction":0.4098930061,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "701":{
+        "index":1680220800000,
+        "company ID":"CURI",
+        "Rank Target":0.0833333333,
+        "prediction":0.3680104911,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "723":{
+        "index":1688083200000,
+        "company ID":"TGNA",
+        "Rank Target":0.8461538462,
+        "prediction":0.6367946267,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "719":{
+        "index":1688083200000,
+        "company ID":"NXST",
+        "Rank Target":0.6153846154,
+        "prediction":0.6319636703,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "724":{
+        "index":1688083200000,
+        "company ID":"UONE",
+        "Rank Target":0.5384615385,
+        "prediction":0.5896360278,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "712":{
+        "index":1688083200000,
+        "company ID":"BBGI",
+        "Rank Target":0.6923076923,
+        "prediction":0.5883985162,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "717":{
+        "index":1688083200000,
+        "company ID":"MDIA",
+        "Rank Target":0.2307692308,
+        "prediction":0.5494452715,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "714":{
+        "index":1688083200000,
+        "company ID":"FUBO",
+        "Rank Target":1.0,
+        "prediction":0.5361168981,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "720":{
+        "index":1688083200000,
+        "company ID":"SBGI",
+        "Rank Target":0.4615384615,
+        "prediction":0.5342519283,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "715":{
+        "index":1688083200000,
+        "company ID":"GTN",
+        "Rank Target":0.7692307692,
+        "prediction":0.5327224731,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "722":{
+        "index":1688083200000,
+        "company ID":"SSP",
+        "Rank Target":0.1538461538,
+        "prediction":0.4945284128,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "721":{
+        "index":1688083200000,
+        "company ID":"SGA",
+        "Rank Target":0.9230769231,
+        "prediction":0.4688814282,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "716":{
+        "index":1688083200000,
+        "company ID":"IHRT",
+        "Rank Target":0.3846153846,
+        "prediction":0.4266515374,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "713":{
+        "index":1688083200000,
+        "company ID":"CURI",
+        "Rank Target":0.3076923077,
+        "prediction":0.4047044516,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "718":{
+        "index":1688083200000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2254916579,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "736":{
+        "index":1696032000000,
+        "company ID":"TGNA",
+        "Rank Target":0.5384615385,
+        "prediction":0.6082186103,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "728":{
+        "index":1696032000000,
+        "company ID":"GTN",
+        "Rank Target":0.9230769231,
+        "prediction":0.597137928,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "732":{
+        "index":1696032000000,
+        "company ID":"NXST",
+        "Rank Target":0.6153846154,
+        "prediction":0.5815204978,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "730":{
+        "index":1696032000000,
+        "company ID":"MDIA",
+        "Rank Target":0.1538461538,
+        "prediction":0.5624415874,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "737":{
+        "index":1696032000000,
+        "company ID":"UONE",
+        "Rank Target":0.3076923077,
+        "prediction":0.5452235937,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "727":{
+        "index":1696032000000,
+        "company ID":"FUBO",
+        "Rank Target":0.7692307692,
+        "prediction":0.5353857875,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "734":{
+        "index":1696032000000,
+        "company ID":"SGA",
+        "Rank Target":0.6923076923,
+        "prediction":0.5259518027,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "733":{
+        "index":1696032000000,
+        "company ID":"SBGI",
+        "Rank Target":0.8461538462,
+        "prediction":0.521089375,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "735":{
+        "index":1696032000000,
+        "company ID":"SSP",
+        "Rank Target":1.0,
+        "prediction":0.5198702812,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "725":{
+        "index":1696032000000,
+        "company ID":"BBGI",
+        "Rank Target":0.4615384615,
+        "prediction":0.4703305662,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "729":{
+        "index":1696032000000,
+        "company ID":"IHRT",
+        "Rank Target":0.3846153846,
+        "prediction":0.3852145076,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "726":{
+        "index":1696032000000,
+        "company ID":"CURI",
+        "Rank Target":0.2307692308,
+        "prediction":0.3740198016,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "731":{
+        "index":1696032000000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2310475558,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "745":{
+        "index":1703980800000,
+        "company ID":"NXST",
+        "Rank Target":0.9230769231,
+        "prediction":0.6406606436,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "750":{
+        "index":1703980800000,
+        "company ID":"UONE",
+        "Rank Target":0.3076923077,
+        "prediction":0.6327446699,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "749":{
+        "index":1703980800000,
+        "company ID":"TGNA",
+        "Rank Target":0.6923076923,
+        "prediction":0.6078924537,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "746":{
+        "index":1703980800000,
+        "company ID":"SBGI",
+        "Rank Target":0.8461538462,
+        "prediction":0.5960633755,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "740":{
+        "index":1703980800000,
+        "company ID":"FUBO",
+        "Rank Target":0.2307692308,
+        "prediction":0.5801220536,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "741":{
+        "index":1703980800000,
+        "company ID":"GTN",
+        "Rank Target":0.3846153846,
+        "prediction":0.5718660355,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "748":{
+        "index":1703980800000,
+        "company ID":"SSP",
+        "Rank Target":0.1538461538,
+        "prediction":0.5707846284,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "738":{
+        "index":1703980800000,
+        "company ID":"BBGI",
+        "Rank Target":0.4615384615,
+        "prediction":0.5672602654,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "742":{
+        "index":1703980800000,
+        "company ID":"IHRT",
+        "Rank Target":0.6153846154,
+        "prediction":0.5097401738,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "747":{
+        "index":1703980800000,
+        "company ID":"SGA",
+        "Rank Target":0.7692307692,
+        "prediction":0.458068639,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "739":{
+        "index":1703980800000,
+        "company ID":"CURI",
+        "Rank Target":1.0,
+        "prediction":0.3534683883,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "743":{
+        "index":1703980800000,
+        "company ID":"MDIA",
+        "Rank Target":0.5384615385,
+        "prediction":0.3221704662,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "744":{
+        "index":1703980800000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2222714275,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "754":{
+        "index":1711843200000,
+        "company ID":"GTN",
+        "Rank Target":0.4615384615,
+        "prediction":0.6683157086,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "758":{
+        "index":1711843200000,
+        "company ID":"NXST",
+        "Rank Target":0.7692307692,
+        "prediction":0.6315684319,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "762":{
+        "index":1711843200000,
+        "company ID":"TGNA",
+        "Rank Target":0.6923076923,
+        "prediction":0.6075575352,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "763":{
+        "index":1711843200000,
+        "company ID":"UONE",
+        "Rank Target":0.3846153846,
+        "prediction":0.5934351087,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "759":{
+        "index":1711843200000,
+        "company ID":"SBGI",
+        "Rank Target":0.8461538462,
+        "prediction":0.5754555464,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "753":{
+        "index":1711843200000,
+        "company ID":"FUBO",
+        "Rank Target":0.3076923077,
+        "prediction":0.5579257011,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "756":{
+        "index":1711843200000,
+        "company ID":"MDIA",
+        "Rank Target":1.0,
+        "prediction":0.5362241864,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "761":{
+        "index":1711843200000,
+        "company ID":"SSP",
+        "Rank Target":0.6153846154,
+        "prediction":0.5194682479,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "751":{
+        "index":1711843200000,
+        "company ID":"BBGI",
+        "Rank Target":0.5384615385,
+        "prediction":0.5189048052,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "752":{
+        "index":1711843200000,
+        "company ID":"CURI",
+        "Rank Target":0.9230769231,
+        "prediction":0.3848663568,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "760":{
+        "index":1711843200000,
+        "company ID":"SGA",
+        "Rank Target":0.2307692308,
+        "prediction":0.3764644265,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "755":{
+        "index":1711843200000,
+        "company ID":"IHRT",
+        "Rank Target":0.1538461538,
+        "prediction":0.3035669923,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "757":{
+        "index":1711843200000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2465892583,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "771":{
+        "index":1719705600000,
+        "company ID":"NXST",
+        "Rank Target":0.4615384615,
+        "prediction":0.6819473505,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "775":{
+        "index":1719705600000,
+        "company ID":"TGNA",
+        "Rank Target":0.7692307692,
+        "prediction":0.6680255532,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "766":{
+        "index":1719705600000,
+        "company ID":"FUBO",
+        "Rank Target":0.6923076923,
+        "prediction":0.605837822,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "767":{
+        "index":1719705600000,
+        "company ID":"GTN",
+        "Rank Target":0.6153846154,
+        "prediction":0.5954502225,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "764":{
+        "index":1719705600000,
+        "company ID":"BBGI",
+        "Rank Target":0.3076923077,
+        "prediction":0.5347403288,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "772":{
+        "index":1719705600000,
+        "company ID":"SBGI",
+        "Rank Target":0.8461538462,
+        "prediction":0.534520328,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "774":{
+        "index":1719705600000,
+        "company ID":"SSP",
+        "Rank Target":0.2307692308,
+        "prediction":0.5320261121,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "776":{
+        "index":1719705600000,
+        "company ID":"UONE",
+        "Rank Target":0.5384615385,
+        "prediction":0.5215855241,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "773":{
+        "index":1719705600000,
+        "company ID":"SGA",
+        "Rank Target":0.3846153846,
+        "prediction":0.4723161757,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "769":{
+        "index":1719705600000,
+        "company ID":"MDIA",
+        "Rank Target":0.1538461538,
+        "prediction":0.4663062096,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "768":{
+        "index":1719705600000,
+        "company ID":"IHRT",
+        "Rank Target":0.9230769231,
+        "prediction":0.3860865831,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "765":{
+        "index":1719705600000,
+        "company ID":"CURI",
+        "Rank Target":1.0,
+        "prediction":0.346306473,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "770":{
+        "index":1719705600000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2440906018,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "785":{
+        "index":1727654400000,
+        "company ID":"SBGI",
+        "Rank Target":0.9230769231,
+        "prediction":0.6507306695,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "788":{
+        "index":1727654400000,
+        "company ID":"TGNA",
+        "Rank Target":1.0,
+        "prediction":0.6417343616,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "784":{
+        "index":1727654400000,
+        "company ID":"NXST",
+        "Rank Target":0.8461538462,
+        "prediction":0.6307194829,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "787":{
+        "index":1727654400000,
+        "company ID":"SSP",
+        "Rank Target":0.4615384615,
+        "prediction":0.6173753142,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "779":{
+        "index":1727654400000,
+        "company ID":"FUBO",
+        "Rank Target":0.5384615385,
+        "prediction":0.5928633213,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "780":{
+        "index":1727654400000,
+        "company ID":"GTN",
+        "Rank Target":0.1538461538,
+        "prediction":0.5693456531,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "786":{
+        "index":1727654400000,
+        "company ID":"SGA",
+        "Rank Target":0.3846153846,
+        "prediction":0.5652495623,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "789":{
+        "index":1727654400000,
+        "company ID":"UONE",
+        "Rank Target":0.7692307692,
+        "prediction":0.5170422792,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "782":{
+        "index":1727654400000,
+        "company ID":"MDIA",
+        "Rank Target":0.6923076923,
+        "prediction":0.5096579194,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "777":{
+        "index":1727654400000,
+        "company ID":"BBGI",
+        "Rank Target":0.2307692308,
+        "prediction":0.4945714474,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "781":{
+        "index":1727654400000,
+        "company ID":"IHRT",
+        "Rank Target":0.6153846154,
+        "prediction":0.3362959027,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "778":{
+        "index":1727654400000,
+        "company ID":"CURI",
+        "Rank Target":0.3076923077,
+        "prediction":0.3211214244,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "783":{
+        "index":1727654400000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.2753152251,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "793":{
+        "index":1735603200000,
+        "company ID":"GTN",
+        "Rank Target":0.8461538462,
+        "prediction":0.6625050306,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "800":{
+        "index":1735603200000,
+        "company ID":"SSP",
+        "Rank Target":0.7692307692,
+        "prediction":0.6347393394,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "798":{
+        "index":1735603200000,
+        "company ID":"SBGI",
+        "Rank Target":0.3076923077,
+        "prediction":0.6332072616,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "797":{
+        "index":1735603200000,
+        "company ID":"NXST",
+        "Rank Target":0.6923076923,
+        "prediction":0.6141778827,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "801":{
+        "index":1735603200000,
+        "company ID":"TGNA",
+        "Rank Target":0.4615384615,
+        "prediction":0.6058231592,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "802":{
+        "index":1735603200000,
+        "company ID":"UONE",
+        "Rank Target":0.3846153846,
+        "prediction":0.5728977919,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "792":{
+        "index":1735603200000,
+        "company ID":"FUBO",
+        "Rank Target":1.0,
+        "prediction":0.5205125809,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "799":{
+        "index":1735603200000,
+        "company ID":"SGA",
+        "Rank Target":0.6153846154,
+        "prediction":0.4747161567,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "790":{
+        "index":1735603200000,
+        "company ID":"BBGI",
+        "Rank Target":0.1538461538,
+        "prediction":0.4515827298,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "795":{
+        "index":1735603200000,
+        "company ID":"MDIA",
+        "Rank Target":0.5384615385,
+        "prediction":0.4435129762,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "794":{
+        "index":1735603200000,
+        "company ID":"IHRT",
+        "Rank Target":0.2307692308,
+        "prediction":0.3162481487,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "796":{
+        "index":1735603200000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.3051046729,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "791":{
+        "index":1735603200000,
+        "company ID":"CURI",
+        "Rank Target":0.9230769231,
+        "prediction":0.2681133449,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "810":{
+        "index":1743379200000,
+        "company ID":"NXST",
+        "Rank Target":0.4615384615,
+        "prediction":0.6683796048,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "806":{
+        "index":1743379200000,
+        "company ID":"GTN",
+        "Rank Target":0.8461538462,
+        "prediction":0.6612393856,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "814":{
+        "index":1743379200000,
+        "company ID":"TGNA",
+        "Rank Target":0.3846153846,
+        "prediction":0.6507737041,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "805":{
+        "index":1743379200000,
+        "company ID":"FUBO",
+        "Rank Target":0.7692307692,
+        "prediction":0.601005137,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "815":{
+        "index":1743379200000,
+        "company ID":"UONE",
+        "Rank Target":0.6923076923,
+        "prediction":0.5625034571,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "813":{
+        "index":1743379200000,
+        "company ID":"SSP",
+        "Rank Target":0.6153846154,
+        "prediction":0.5439565778,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "811":{
+        "index":1743379200000,
+        "company ID":"SBGI",
+        "Rank Target":0.2307692308,
+        "prediction":0.5390006304,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "809":{
+        "index":1743379200000,
+        "company ID":"NMAX",
+        "Rank Target":0.0769230769,
+        "prediction":0.4665330946,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "803":{
+        "index":1743379200000,
+        "company ID":"BBGI",
+        "Rank Target":0.1538461538,
+        "prediction":0.4544750154,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "808":{
+        "index":1743379200000,
+        "company ID":"MDIA",
+        "Rank Target":0.3076923077,
+        "prediction":0.4365179241,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "812":{
+        "index":1743379200000,
+        "company ID":"SGA",
+        "Rank Target":0.5384615385,
+        "prediction":0.4332930148,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "807":{
+        "index":1743379200000,
+        "company ID":"IHRT",
+        "Rank Target":0.9230769231,
+        "prediction":0.298327297,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "804":{
+        "index":1743379200000,
+        "company ID":"CURI",
+        "Rank Target":1.0,
+        "prediction":0.2757213116,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    }
+}

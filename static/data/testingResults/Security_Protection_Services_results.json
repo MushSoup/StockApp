@@ -1,0 +1,1562 @@
+{
+    "751":{
+        "index":1648684800000,
+        "company ID":"ADT",
+        "Rank Target":0.3333333333,
+        "prediction":0.6889139414,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "762":{
+        "index":1648684800000,
+        "company ID":"MSA",
+        "Rank Target":0.4666666667,
+        "prediction":0.6884313822,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "755":{
+        "index":1648684800000,
+        "company ID":"CIX",
+        "Rank Target":0.8,
+        "prediction":0.6317034364,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "758":{
+        "index":1648684800000,
+        "company ID":"GEO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6133075953,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "763":{
+        "index":1648684800000,
+        "company ID":"NL",
+        "Rank Target":1.0,
+        "prediction":0.6059482098,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "756":{
+        "index":1648684800000,
+        "company ID":"CXW",
+        "Rank Target":0.6666666667,
+        "prediction":0.6052191854,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "753":{
+        "index":1648684800000,
+        "company ID":"BCO",
+        "Rank Target":0.4,
+        "prediction":0.5965102315,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "759":{
+        "index":1648684800000,
+        "company ID":"IVDA",
+        "Rank Target":0.0666666667,
+        "prediction":0.5851429105,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "764":{
+        "index":1648684800000,
+        "company ID":"NSSC",
+        "Rank Target":0.6,
+        "prediction":0.5547875166,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "761":{
+        "index":1648684800000,
+        "company ID":"MG",
+        "Rank Target":0.5333333333,
+        "prediction":0.5413654447,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "757":{
+        "index":1648684800000,
+        "company ID":"EVLV",
+        "Rank Target":0.9333333333,
+        "prediction":0.5402117372,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "765":{
+        "index":1648684800000,
+        "company ID":"VRME",
+        "Rank Target":0.2,
+        "prediction":0.530166626,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "752":{
+        "index":1648684800000,
+        "company ID":"BAER",
+        "Rank Target":0.8666666667,
+        "prediction":0.4912704229,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "760":{
+        "index":1648684800000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.4908204675,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "754":{
+        "index":1648684800000,
+        "company ID":"BKYI",
+        "Rank Target":0.2666666667,
+        "prediction":0.4042653441,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "779":{
+        "index":1656547200000,
+        "company ID":"NSSC",
+        "Rank Target":1.0,
+        "prediction":0.6990382075,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "770":{
+        "index":1656547200000,
+        "company ID":"CIX",
+        "Rank Target":0.4,
+        "prediction":0.6762195826,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "777":{
+        "index":1656547200000,
+        "company ID":"MSA",
+        "Rank Target":0.7333333333,
+        "prediction":0.6676361561,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "778":{
+        "index":1656547200000,
+        "company ID":"NL",
+        "Rank Target":0.5333333333,
+        "prediction":0.6661428809,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "776":{
+        "index":1656547200000,
+        "company ID":"MG",
+        "Rank Target":0.2666666667,
+        "prediction":0.6393917203,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "771":{
+        "index":1656547200000,
+        "company ID":"CXW",
+        "Rank Target":0.3333333333,
+        "prediction":0.6366243958,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "773":{
+        "index":1656547200000,
+        "company ID":"GEO",
+        "Rank Target":0.8666666667,
+        "prediction":0.6085297465,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "766":{
+        "index":1656547200000,
+        "company ID":"ADT",
+        "Rank Target":0.9333333333,
+        "prediction":0.598554492,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "768":{
+        "index":1656547200000,
+        "company ID":"BCO",
+        "Rank Target":0.4666666667,
+        "prediction":0.5878479481,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "769":{
+        "index":1656547200000,
+        "company ID":"BKYI",
+        "Rank Target":0.6666666667,
+        "prediction":0.546017468,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "780":{
+        "index":1656547200000,
+        "company ID":"VRME",
+        "Rank Target":0.1333333333,
+        "prediction":0.4933227599,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "775":{
+        "index":1656547200000,
+        "company ID":"KSCP",
+        "Rank Target":0.6,
+        "prediction":0.4244657457,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "772":{
+        "index":1656547200000,
+        "company ID":"EVLV",
+        "Rank Target":0.2,
+        "prediction":0.4171869159,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "767":{
+        "index":1656547200000,
+        "company ID":"BAER",
+        "Rank Target":0.8,
+        "prediction":0.4006071389,
+        "trueRank":4.0,
+        "predictionRank":14.0
+    },
+    "774":{
+        "index":1656547200000,
+        "company ID":"IVDA",
+        "Rank Target":0.0666666667,
+        "prediction":0.3875679076,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "792":{
+        "index":1664496000000,
+        "company ID":"MSA",
+        "Rank Target":0.9333333333,
+        "prediction":0.6825560927,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "786":{
+        "index":1664496000000,
+        "company ID":"CXW",
+        "Rank Target":0.8666666667,
+        "prediction":0.6728292108,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "788":{
+        "index":1664496000000,
+        "company ID":"GEO",
+        "Rank Target":1.0,
+        "prediction":0.6606959105,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "794":{
+        "index":1664496000000,
+        "company ID":"NSSC",
+        "Rank Target":0.3333333333,
+        "prediction":0.6374343634,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "785":{
+        "index":1664496000000,
+        "company ID":"CIX",
+        "Rank Target":0.6666666667,
+        "prediction":0.6363958716,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "783":{
+        "index":1664496000000,
+        "company ID":"BCO",
+        "Rank Target":0.5333333333,
+        "prediction":0.5903467536,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "781":{
+        "index":1664496000000,
+        "company ID":"ADT",
+        "Rank Target":0.7333333333,
+        "prediction":0.5585770011,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "793":{
+        "index":1664496000000,
+        "company ID":"NL",
+        "Rank Target":0.2,
+        "prediction":0.5550994873,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "789":{
+        "index":1664496000000,
+        "company ID":"IVDA",
+        "Rank Target":0.4666666667,
+        "prediction":0.5510662794,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "791":{
+        "index":1664496000000,
+        "company ID":"MG",
+        "Rank Target":0.6,
+        "prediction":0.5337505341,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "782":{
+        "index":1664496000000,
+        "company ID":"BAER",
+        "Rank Target":0.4,
+        "prediction":0.5273017287,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "790":{
+        "index":1664496000000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.5006424189,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "795":{
+        "index":1664496000000,
+        "company ID":"VRME",
+        "Rank Target":0.2666666667,
+        "prediction":0.492267102,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "784":{
+        "index":1664496000000,
+        "company ID":"BKYI",
+        "Rank Target":0.0666666667,
+        "prediction":0.4604320526,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "787":{
+        "index":1664496000000,
+        "company ID":"EVLV",
+        "Rank Target":0.8,
+        "prediction":0.3156890571,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "809":{
+        "index":1672444800000,
+        "company ID":"NSSC",
+        "Rank Target":0.8666666667,
+        "prediction":0.6703131795,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "806":{
+        "index":1672444800000,
+        "company ID":"MG",
+        "Rank Target":0.8,
+        "prediction":0.6654769182,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "807":{
+        "index":1672444800000,
+        "company ID":"MSA",
+        "Rank Target":0.4,
+        "prediction":0.6448410749,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "801":{
+        "index":1672444800000,
+        "company ID":"CXW",
+        "Rank Target":0.2666666667,
+        "prediction":0.639809072,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "798":{
+        "index":1672444800000,
+        "company ID":"BCO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6000057459,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "803":{
+        "index":1672444800000,
+        "company ID":"GEO",
+        "Rank Target":0.2,
+        "prediction":0.5984792709,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "796":{
+        "index":1672444800000,
+        "company ID":"ADT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5915977955,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "800":{
+        "index":1672444800000,
+        "company ID":"CIX",
+        "Rank Target":0.5333333333,
+        "prediction":0.5715211034,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "804":{
+        "index":1672444800000,
+        "company ID":"IVDA",
+        "Rank Target":1.0,
+        "prediction":0.5679014325,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "810":{
+        "index":1672444800000,
+        "company ID":"VRME",
+        "Rank Target":0.9333333333,
+        "prediction":0.5660348535,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "808":{
+        "index":1672444800000,
+        "company ID":"NL",
+        "Rank Target":0.4666666667,
+        "prediction":0.5333581567,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "799":{
+        "index":1672444800000,
+        "company ID":"BKYI",
+        "Rank Target":0.6,
+        "prediction":0.5222171545,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "805":{
+        "index":1672444800000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.4781704843,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "797":{
+        "index":1672444800000,
+        "company ID":"BAER",
+        "Rank Target":0.0666666667,
+        "prediction":0.4751024544,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "802":{
+        "index":1672444800000,
+        "company ID":"EVLV",
+        "Rank Target":0.6666666667,
+        "prediction":0.3091137409,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "816":{
+        "index":1680220800000,
+        "company ID":"CXW",
+        "Rank Target":0.5333333333,
+        "prediction":0.6645897627,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "815":{
+        "index":1680220800000,
+        "company ID":"CIX",
+        "Rank Target":0.8,
+        "prediction":0.6637379527,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "818":{
+        "index":1680220800000,
+        "company ID":"GEO",
+        "Rank Target":0.4,
+        "prediction":0.6592299938,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "824":{
+        "index":1680220800000,
+        "company ID":"NSSC",
+        "Rank Target":0.4666666667,
+        "prediction":0.6411446333,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "819":{
+        "index":1680220800000,
+        "company ID":"IVDA",
+        "Rank Target":0.2,
+        "prediction":0.6226941943,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "821":{
+        "index":1680220800000,
+        "company ID":"MG",
+        "Rank Target":0.6666666667,
+        "prediction":0.5832865238,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "823":{
+        "index":1680220800000,
+        "company ID":"NL",
+        "Rank Target":0.3333333333,
+        "prediction":0.56050843,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "814":{
+        "index":1680220800000,
+        "company ID":"BKYI",
+        "Rank Target":0.7333333333,
+        "prediction":0.5561291575,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "825":{
+        "index":1680220800000,
+        "company ID":"VRME",
+        "Rank Target":0.0666666667,
+        "prediction":0.546348393,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "813":{
+        "index":1680220800000,
+        "company ID":"BCO",
+        "Rank Target":0.6,
+        "prediction":0.5351307392,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "817":{
+        "index":1680220800000,
+        "company ID":"EVLV",
+        "Rank Target":1.0,
+        "prediction":0.5325645208,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "811":{
+        "index":1680220800000,
+        "company ID":"ADT",
+        "Rank Target":0.2666666667,
+        "prediction":0.5001792908,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "822":{
+        "index":1680220800000,
+        "company ID":"MSA",
+        "Rank Target":0.9333333333,
+        "prediction":0.4921713173,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "812":{
+        "index":1680220800000,
+        "company ID":"BAER",
+        "Rank Target":0.8666666667,
+        "prediction":0.4744258225,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "820":{
+        "index":1680220800000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.457878232,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "837":{
+        "index":1688083200000,
+        "company ID":"MSA",
+        "Rank Target":0.6,
+        "prediction":0.7493610382,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "830":{
+        "index":1688083200000,
+        "company ID":"CIX",
+        "Rank Target":0.4666666667,
+        "prediction":0.6507183313,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "828":{
+        "index":1688083200000,
+        "company ID":"BCO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6470754147,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "834":{
+        "index":1688083200000,
+        "company ID":"IVDA",
+        "Rank Target":0.2666666667,
+        "prediction":0.6349535584,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "831":{
+        "index":1688083200000,
+        "company ID":"CXW",
+        "Rank Target":0.8666666667,
+        "prediction":0.6327735186,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "836":{
+        "index":1688083200000,
+        "company ID":"MG",
+        "Rank Target":0.1333333333,
+        "prediction":0.6111808419,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "840":{
+        "index":1688083200000,
+        "company ID":"VRME",
+        "Rank Target":0.4,
+        "prediction":0.6109522581,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "833":{
+        "index":1688083200000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.6066362858,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "839":{
+        "index":1688083200000,
+        "company ID":"NSSC",
+        "Rank Target":0.0666666667,
+        "prediction":0.5866419077,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "826":{
+        "index":1688083200000,
+        "company ID":"ADT",
+        "Rank Target":0.6666666667,
+        "prediction":0.5707697868,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "838":{
+        "index":1688083200000,
+        "company ID":"NL",
+        "Rank Target":0.5333333333,
+        "prediction":0.5689069033,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "829":{
+        "index":1688083200000,
+        "company ID":"BKYI",
+        "Rank Target":0.2,
+        "prediction":0.4396728575,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "827":{
+        "index":1688083200000,
+        "company ID":"BAER",
+        "Rank Target":1.0,
+        "prediction":0.3538946509,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "835":{
+        "index":1688083200000,
+        "company ID":"KSCP",
+        "Rank Target":0.9333333333,
+        "prediction":0.3525353074,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "832":{
+        "index":1688083200000,
+        "company ID":"EVLV",
+        "Rank Target":0.3333333333,
+        "prediction":0.3154254258,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "852":{
+        "index":1696032000000,
+        "company ID":"MSA",
+        "Rank Target":0.4666666667,
+        "prediction":0.7172116637,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "854":{
+        "index":1696032000000,
+        "company ID":"NSSC",
+        "Rank Target":1.0,
+        "prediction":0.6808040142,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "848":{
+        "index":1696032000000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.6606442332,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "845":{
+        "index":1696032000000,
+        "company ID":"CIX",
+        "Rank Target":0.8666666667,
+        "prediction":0.6521420479,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "842":{
+        "index":1696032000000,
+        "company ID":"BAER",
+        "Rank Target":0.2666666667,
+        "prediction":0.6150551438,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "853":{
+        "index":1696032000000,
+        "company ID":"NL",
+        "Rank Target":0.6,
+        "prediction":0.6036337018,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "843":{
+        "index":1696032000000,
+        "company ID":"BCO",
+        "Rank Target":0.6666666667,
+        "prediction":0.5981733203,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "846":{
+        "index":1696032000000,
+        "company ID":"CXW",
+        "Rank Target":0.7333333333,
+        "prediction":0.5831241012,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "841":{
+        "index":1696032000000,
+        "company ID":"ADT",
+        "Rank Target":0.5333333333,
+        "prediction":0.5687526464,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "849":{
+        "index":1696032000000,
+        "company ID":"IVDA",
+        "Rank Target":0.1333333333,
+        "prediction":0.5297487974,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "855":{
+        "index":1696032000000,
+        "company ID":"VRME",
+        "Rank Target":0.3333333333,
+        "prediction":0.5203778148,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "850":{
+        "index":1696032000000,
+        "company ID":"KSCP",
+        "Rank Target":0.2,
+        "prediction":0.5001821518,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "844":{
+        "index":1696032000000,
+        "company ID":"BKYI",
+        "Rank Target":0.0666666667,
+        "prediction":0.4677729011,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "851":{
+        "index":1696032000000,
+        "company ID":"MG",
+        "Rank Target":0.9333333333,
+        "prediction":0.4527702332,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "847":{
+        "index":1696032000000,
+        "company ID":"EVLV",
+        "Rank Target":0.4,
+        "prediction":0.3382387459,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "860":{
+        "index":1703980800000,
+        "company ID":"CIX",
+        "Rank Target":0.9333333333,
+        "prediction":0.7013513446,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "867":{
+        "index":1703980800000,
+        "company ID":"MSA",
+        "Rank Target":0.5333333333,
+        "prediction":0.6937583089,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "869":{
+        "index":1703980800000,
+        "company ID":"NSSC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6672596931,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "868":{
+        "index":1703980800000,
+        "company ID":"NL",
+        "Rank Target":0.8666666667,
+        "prediction":0.6277533174,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "863":{
+        "index":1703980800000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.6241300702,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "861":{
+        "index":1703980800000,
+        "company ID":"CXW",
+        "Rank Target":0.4,
+        "prediction":0.6206845641,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "866":{
+        "index":1703980800000,
+        "company ID":"MG",
+        "Rank Target":0.7333333333,
+        "prediction":0.6010792255,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "858":{
+        "index":1703980800000,
+        "company ID":"BCO",
+        "Rank Target":0.4666666667,
+        "prediction":0.5637189746,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "870":{
+        "index":1703980800000,
+        "company ID":"VRME",
+        "Rank Target":0.6,
+        "prediction":0.551849544,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "856":{
+        "index":1703980800000,
+        "company ID":"ADT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5252600908,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "857":{
+        "index":1703980800000,
+        "company ID":"BAER",
+        "Rank Target":0.0666666667,
+        "prediction":0.4601725638,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "864":{
+        "index":1703980800000,
+        "company ID":"IVDA",
+        "Rank Target":1.0,
+        "prediction":0.4452825785,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "859":{
+        "index":1703980800000,
+        "company ID":"BKYI",
+        "Rank Target":0.1333333333,
+        "prediction":0.4183548093,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "862":{
+        "index":1703980800000,
+        "company ID":"EVLV",
+        "Rank Target":0.2666666667,
+        "prediction":0.3901987076,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "865":{
+        "index":1703980800000,
+        "company ID":"KSCP",
+        "Rank Target":0.2,
+        "prediction":0.2520182431,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "873":{
+        "index":1711843200000,
+        "company ID":"BCO",
+        "Rank Target":0.8666666667,
+        "prediction":0.6839504838,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "878":{
+        "index":1711843200000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.6478642821,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "884":{
+        "index":1711843200000,
+        "company ID":"NSSC",
+        "Rank Target":1.0,
+        "prediction":0.6431022882,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "876":{
+        "index":1711843200000,
+        "company ID":"CXW",
+        "Rank Target":0.4666666667,
+        "prediction":0.6382906437,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "882":{
+        "index":1711843200000,
+        "company ID":"MSA",
+        "Rank Target":0.7333333333,
+        "prediction":0.6375834346,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "881":{
+        "index":1711843200000,
+        "company ID":"MG",
+        "Rank Target":0.5333333333,
+        "prediction":0.5728378892,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "871":{
+        "index":1711843200000,
+        "company ID":"ADT",
+        "Rank Target":0.9333333333,
+        "prediction":0.5728291273,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "875":{
+        "index":1711843200000,
+        "company ID":"CIX",
+        "Rank Target":0.4,
+        "prediction":0.5532339811,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "885":{
+        "index":1711843200000,
+        "company ID":"VRME",
+        "Rank Target":0.6666666667,
+        "prediction":0.5413787365,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "883":{
+        "index":1711843200000,
+        "company ID":"NL",
+        "Rank Target":0.2666666667,
+        "prediction":0.5358456969,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "872":{
+        "index":1711843200000,
+        "company ID":"BAER",
+        "Rank Target":0.3333333333,
+        "prediction":0.4560908377,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "874":{
+        "index":1711843200000,
+        "company ID":"BKYI",
+        "Rank Target":0.6,
+        "prediction":0.4508844912,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "880":{
+        "index":1711843200000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.4242658317,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "877":{
+        "index":1711843200000,
+        "company ID":"EVLV",
+        "Rank Target":0.0666666667,
+        "prediction":0.4234379828,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "879":{
+        "index":1711843200000,
+        "company ID":"IVDA",
+        "Rank Target":0.2,
+        "prediction":0.3957455754,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "897":{
+        "index":1719705600000,
+        "company ID":"MSA",
+        "Rank Target":0.5333333333,
+        "prediction":0.7193397284,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "890":{
+        "index":1719705600000,
+        "company ID":"CIX",
+        "Rank Target":0.9333333333,
+        "prediction":0.7163888216,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "899":{
+        "index":1719705600000,
+        "company ID":"NSSC",
+        "Rank Target":0.3333333333,
+        "prediction":0.664626658,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "898":{
+        "index":1719705600000,
+        "company ID":"NL",
+        "Rank Target":0.8,
+        "prediction":0.6438025236,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "900":{
+        "index":1719705600000,
+        "company ID":"VRME",
+        "Rank Target":0.6666666667,
+        "prediction":0.6367179155,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "896":{
+        "index":1719705600000,
+        "company ID":"MG",
+        "Rank Target":0.8666666667,
+        "prediction":0.6193494797,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "891":{
+        "index":1719705600000,
+        "company ID":"CXW",
+        "Rank Target":0.4666666667,
+        "prediction":0.611625731,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "888":{
+        "index":1719705600000,
+        "company ID":"BCO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6008760333,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "886":{
+        "index":1719705600000,
+        "company ID":"ADT",
+        "Rank Target":0.6,
+        "prediction":0.5814008117,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "893":{
+        "index":1719705600000,
+        "company ID":"GEO",
+        "Rank Target":0.4,
+        "prediction":0.5728567243,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "889":{
+        "index":1719705600000,
+        "company ID":"BKYI",
+        "Rank Target":0.2,
+        "prediction":0.5532594323,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "887":{
+        "index":1719705600000,
+        "company ID":"BAER",
+        "Rank Target":0.2666666667,
+        "prediction":0.4954882264,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "894":{
+        "index":1719705600000,
+        "company ID":"IVDA",
+        "Rank Target":0.0666666667,
+        "prediction":0.445435226,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "895":{
+        "index":1719705600000,
+        "company ID":"KSCP",
+        "Rank Target":0.1333333333,
+        "prediction":0.4169568419,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "892":{
+        "index":1719705600000,
+        "company ID":"EVLV",
+        "Rank Target":1.0,
+        "prediction":0.4080233276,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "911":{
+        "index":1727654400000,
+        "company ID":"MG",
+        "Rank Target":0.1333333333,
+        "prediction":0.6643525362,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "902":{
+        "index":1727654400000,
+        "company ID":"BAER",
+        "Rank Target":0.5333333333,
+        "prediction":0.6592320204,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "908":{
+        "index":1727654400000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.648616612,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "912":{
+        "index":1727654400000,
+        "company ID":"MSA",
+        "Rank Target":0.4,
+        "prediction":0.6421076059,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "906":{
+        "index":1727654400000,
+        "company ID":"CXW",
+        "Rank Target":0.7333333333,
+        "prediction":0.6258794665,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "903":{
+        "index":1727654400000,
+        "company ID":"BCO",
+        "Rank Target":0.2,
+        "prediction":0.6053043008,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "909":{
+        "index":1727654400000,
+        "company ID":"IVDA",
+        "Rank Target":1.0,
+        "prediction":0.6039395332,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "914":{
+        "index":1727654400000,
+        "company ID":"NSSC",
+        "Rank Target":0.2666666667,
+        "prediction":0.6006792188,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "913":{
+        "index":1727654400000,
+        "company ID":"NL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5896579623,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "901":{
+        "index":1727654400000,
+        "company ID":"ADT",
+        "Rank Target":0.4666666667,
+        "prediction":0.5774568915,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "905":{
+        "index":1727654400000,
+        "company ID":"CIX",
+        "Rank Target":0.3333333333,
+        "prediction":0.5667895675,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "915":{
+        "index":1727654400000,
+        "company ID":"VRME",
+        "Rank Target":0.0666666667,
+        "prediction":0.5613338947,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "904":{
+        "index":1727654400000,
+        "company ID":"BKYI",
+        "Rank Target":0.9333333333,
+        "prediction":0.4964224398,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "907":{
+        "index":1727654400000,
+        "company ID":"EVLV",
+        "Rank Target":0.6,
+        "prediction":0.4537025094,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "910":{
+        "index":1727654400000,
+        "company ID":"KSCP",
+        "Rank Target":0.8666666667,
+        "prediction":0.4052216709,
+        "trueRank":3.0,
+        "predictionRank":15.0
+    },
+    "927":{
+        "index":1735603200000,
+        "company ID":"MSA",
+        "Rank Target":0.6,
+        "prediction":0.7018086314,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "928":{
+        "index":1735603200000,
+        "company ID":"NL",
+        "Rank Target":0.8666666667,
+        "prediction":0.660402894,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "918":{
+        "index":1735603200000,
+        "company ID":"BCO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6346466541,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "923":{
+        "index":1735603200000,
+        "company ID":"GEO",
+        "Rank Target":0.8,
+        "prediction":0.597140193,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "926":{
+        "index":1735603200000,
+        "company ID":"MG",
+        "Rank Target":1.0,
+        "prediction":0.5902025104,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "929":{
+        "index":1735603200000,
+        "company ID":"NSSC",
+        "Rank Target":0.4,
+        "prediction":0.5846793652,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "920":{
+        "index":1735603200000,
+        "company ID":"CIX",
+        "Rank Target":0.5333333333,
+        "prediction":0.5842874646,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "921":{
+        "index":1735603200000,
+        "company ID":"CXW",
+        "Rank Target":0.6666666667,
+        "prediction":0.5698457956,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "916":{
+        "index":1735603200000,
+        "company ID":"ADT",
+        "Rank Target":0.9333333333,
+        "prediction":0.5623852611,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "917":{
+        "index":1735603200000,
+        "company ID":"BAER",
+        "Rank Target":0.3333333333,
+        "prediction":0.5362468958,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "919":{
+        "index":1735603200000,
+        "company ID":"BKYI",
+        "Rank Target":0.2,
+        "prediction":0.5193795562,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "930":{
+        "index":1735603200000,
+        "company ID":"VRME",
+        "Rank Target":0.2666666667,
+        "prediction":0.5173831582,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "925":{
+        "index":1735603200000,
+        "company ID":"KSCP",
+        "Rank Target":0.0666666667,
+        "prediction":0.4434836507,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "922":{
+        "index":1735603200000,
+        "company ID":"EVLV",
+        "Rank Target":0.4666666667,
+        "prediction":0.4184346795,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "924":{
+        "index":1735603200000,
+        "company ID":"IVDA",
+        "Rank Target":0.1333333333,
+        "prediction":0.3797587752,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "936":{
+        "index":1743379200000,
+        "company ID":"CXW",
+        "Rank Target":0.3333333333,
+        "prediction":0.6856402159,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "938":{
+        "index":1743379200000,
+        "company ID":"GEO",
+        "Rank Target":0.2,
+        "prediction":0.6736481786,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "933":{
+        "index":1743379200000,
+        "company ID":"BCO",
+        "Rank Target":0.4,
+        "prediction":0.6491578221,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "935":{
+        "index":1743379200000,
+        "company ID":"CIX",
+        "Rank Target":0.7333333333,
+        "prediction":0.6212392449,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "945":{
+        "index":1743379200000,
+        "company ID":"VRME",
+        "Rank Target":0.6,
+        "prediction":0.6035962701,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "942":{
+        "index":1743379200000,
+        "company ID":"MSA",
+        "Rank Target":0.6666666667,
+        "prediction":0.5932404995,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "944":{
+        "index":1743379200000,
+        "company ID":"NSSC",
+        "Rank Target":0.8666666667,
+        "prediction":0.5895838141,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "931":{
+        "index":1743379200000,
+        "company ID":"ADT",
+        "Rank Target":0.4666666667,
+        "prediction":0.5828590989,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "932":{
+        "index":1743379200000,
+        "company ID":"BAER",
+        "Rank Target":0.8,
+        "prediction":0.5577466488,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "937":{
+        "index":1743379200000,
+        "company ID":"EVLV",
+        "Rank Target":1.0,
+        "prediction":0.5523381233,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "943":{
+        "index":1743379200000,
+        "company ID":"NL",
+        "Rank Target":0.2666666667,
+        "prediction":0.5190683603,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "941":{
+        "index":1743379200000,
+        "company ID":"MG",
+        "Rank Target":0.1333333333,
+        "prediction":0.5022422671,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "940":{
+        "index":1743379200000,
+        "company ID":"KSCP",
+        "Rank Target":0.9333333333,
+        "prediction":0.4928860068,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "934":{
+        "index":1743379200000,
+        "company ID":"BKYI",
+        "Rank Target":0.5333333333,
+        "prediction":0.4876449108,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "939":{
+        "index":1743379200000,
+        "company ID":"IVDA",
+        "Rank Target":0.0666666667,
+        "prediction":0.446305275,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    }
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Rankings</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/rankHome.css')}}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Stock Ranked Within Industry</h1>
+            <div class="industry-selector">
+                <label for="industry-select">Select Industry:</label>
+                <select id="industry-select">
+                    <option value="">-- Choose an industry --</option>
+                    {% for industry in industries %}
+                        <option value="{{ industry }}">{{ industry }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+
+        <div class="tab-container">
+            <button class="tab-button" onclick="setView('stockRank')" data-view="stockRank">Stock Ranking</button>
+            <button class="tab-button" onclick="setView('metrics')" data-view="metrics">Metrics</button>
+            <button class="tab-button" onclick="setView('model')" data-view="model">Model Testing Results</button>
+        </div>
+
+        <div class="content-panel">
+            <div id="content" class="empty-state">
+                Please select an industry to get started
+            </div>
+        </div>
+    </div>
+     <script src="{{ url_for('static', filename='js/rankJS.js') }}"></script>
+</body>
+</html>

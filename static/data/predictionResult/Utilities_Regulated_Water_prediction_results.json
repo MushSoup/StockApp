@@ -1,0 +1,72 @@
+{
+    "771":{
+        "company ID":"CDZI",
+        "score":0.666928947,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":49.8422676868
+    },
+    "769":{
+        "company ID":"AWK",
+        "score":0.6014792919,
+        "Rank":2.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":-1.5894131756
+    },
+    "776":{
+        "company ID":"WTRG",
+        "score":0.5828192234,
+        "Rank":3.0,
+        "Rank Target":0.9,
+        "stockDifferencePercentage":7.3054079178
+    },
+    "772":{
+        "company ID":"CWT",
+        "score":0.5820812583,
+        "Rank":4.0,
+        "Rank Target":0.7,
+        "stockDifferencePercentage":-0.3432220666
+    },
+    "768":{
+        "company ID":"ARTNA",
+        "score":0.5672062635,
+        "Rank":5.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-3.7623961169
+    },
+    "773":{
+        "company ID":"GWRS",
+        "score":0.5392448306,
+        "Rank":6.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":1.1453736512
+    },
+    "770":{
+        "company ID":"AWR",
+        "score":0.5012047291,
+        "Rank":7.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-6.2682273741
+    },
+    "775":{
+        "company ID":"MSEX",
+        "score":0.48592031,
+        "Rank":8.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-3.3754529576
+    },
+    "777":{
+        "company ID":"YORW",
+        "score":0.4750654697,
+        "Rank":9.0,
+        "Rank Target":0.3,
+        "stockDifferencePercentage":-5.9369183022
+    },
+    "774":{
+        "company ID":"HTO",
+        "score":0.4079121053,
+        "Rank":10.0,
+        "Rank Target":0.1,
+        "stockDifferencePercentage":-8.5671080848
+    }
+}

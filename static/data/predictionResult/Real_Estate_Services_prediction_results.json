@@ -1,0 +1,170 @@
+{
+    "1277":{
+        "company ID":"OPEN",
+        "score":0.6807434559,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":1244.2622323066
+    },
+    "1262":{
+        "company ID":"CHCI",
+        "score":0.6503321528,
+        "Rank":2.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":43.4501842417
+    },
+    "1279":{
+        "company ID":"RMAX",
+        "score":0.6503062248,
+        "Rank":3.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":16.1212111964
+    },
+    "1263":{
+        "company ID":"COMP",
+        "score":0.6273404956,
+        "Rank":4.0,
+        "Rank Target":0.7083333333,
+        "stockDifferencePercentage":28.0373858148
+    },
+    "1271":{
+        "company ID":"JLL",
+        "score":0.6244461536,
+        "Rank":5.0,
+        "Rank Target":0.5416666667,
+        "stockDifferencePercentage":15.247079497
+    },
+    "1280":{
+        "company ID":"RMR",
+        "score":0.6008167863,
+        "Rank":6.0,
+        "Rank Target":0.2083333333,
+        "stockDifferencePercentage":-9.4752185577
+    },
+    "1281":{
+        "company ID":"SRG",
+        "score":0.5920167565,
+        "Rank":7.0,
+        "Rank Target":0.7916666667,
+        "stockDifferencePercentage":39.1304292369
+    },
+    "1261":{
+        "company ID":"CBRE",
+        "score":0.5917383432,
+        "Rank":8.0,
+        "Rank Target":0.4583333333,
+        "stockDifferencePercentage":11.0211026996
+    },
+    "1270":{
+        "company ID":"HOUS",
+        "score":0.5850786567,
+        "Rank":9.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":187.8947294138
+    },
+    "1260":{
+        "company ID":"ARL",
+        "score":0.5748510361,
+        "Rank":10.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":10.7044281312
+    },
+    "1275":{
+        "company ID":"MLP",
+        "score":0.5701715946,
+        "Rank":11.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":3.2786907454
+    },
+    "1272":{
+        "company ID":"KW",
+        "score":0.5626822114,
+        "Rank":12.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":14.7180294697
+    },
+    "1264":{
+        "company ID":"CSGP",
+        "score":0.5547084212,
+        "Rank":13.0,
+        "Rank Target":0.2916666667,
+        "stockDifferencePercentage":2.5694112759
+    },
+    "1266":{
+        "company ID":"EXPI",
+        "score":0.549182415,
+        "Rank":14.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":17.4933269186
+    },
+    "1282":{
+        "company ID":"STHO",
+        "score":0.5002669692,
+        "Rank":15.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":5.2096550618
+    },
+    "1265":{
+        "company ID":"DOUG",
+        "score":0.4943546653,
+        "Rank":16.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":24.5762791475
+    },
+    "1273":{
+        "company ID":"LHAI",
+        "score":0.4792664051,
+        "Rank":17.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":64.8312530095
+    },
+    "1267":{
+        "company ID":"FRPH",
+        "score":0.4737668633,
+        "Rank":18.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-10.7929535929
+    },
+    "1269":{
+        "company ID":"GBR",
+        "score":0.4729828238,
+        "Rank":19.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-10.3448282892
+    },
+    "1268":{
+        "company ID":"FTHM",
+        "score":0.4685074985,
+        "Rank":20.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":33.3333361513
+    },
+    "1276":{
+        "company ID":"OPAD",
+        "score":0.4671856165,
+        "Rank":21.0,
+        "Rank Target":0.9583333333,
+        "stockDifferencePercentage":246.399993896
+    },
+    "1278":{
+        "company ID":"REAX",
+        "score":0.4360261261,
+        "Rank":22.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":2.0979056713
+    },
+    "1259":{
+        "company ID":"ALBT",
+        "score":0.2952014506,
+        "Rank":23.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-9.701491941
+    },
+    "1274":{
+        "company ID":"LRHC",
+        "score":0.2318558395,
+        "Rank":24.0,
+        "Rank Target":0.0416666667,
+        "stockDifferencePercentage":-40.916665395
+    }
+}

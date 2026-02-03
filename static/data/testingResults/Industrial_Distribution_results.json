@@ -1,0 +1,1666 @@
+{
+    "896":{
+        "index":1648684800000,
+        "company ID":"GWW",
+        "Rank Target":0.625,
+        "prediction":0.7126020789,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "889":{
+        "index":1648684800000,
+        "company ID":"BXC",
+        "Rank Target":0.8125,
+        "prediction":0.7016784549,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "894":{
+        "index":1648684800000,
+        "company ID":"FAST",
+        "Rank Target":0.5,
+        "prediction":0.6410238147,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "888":{
+        "index":1648684800000,
+        "company ID":"AIT",
+        "Rank Target":0.75,
+        "prediction":0.6373997331,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "892":{
+        "index":1648684800000,
+        "company ID":"DXPE",
+        "Rank Target":0.9375,
+        "prediction":0.6255022287,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "900":{
+        "index":1648684800000,
+        "company ID":"SITE",
+        "Rank Target":0.125,
+        "prediction":0.6049333215,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "901":{
+        "index":1648684800000,
+        "company ID":"WCC",
+        "Rank Target":0.4375,
+        "prediction":0.5974624753,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "891":{
+        "index":1648684800000,
+        "company ID":"DSGR",
+        "Rank Target":1.0,
+        "prediction":0.5688746572,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "902":{
+        "index":1648684800000,
+        "company ID":"WSO",
+        "Rank Target":0.1875,
+        "prediction":0.5679881573,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "897":{
+        "index":1648684800000,
+        "company ID":"POOL",
+        "Rank Target":0.3125,
+        "prediction":0.5524708033,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "895":{
+        "index":1648684800000,
+        "company ID":"GIC",
+        "Rank Target":0.875,
+        "prediction":0.5403074622,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "899":{
+        "index":1648684800000,
+        "company ID":"REZI",
+        "Rank Target":0.25,
+        "prediction":0.5294191837,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "898":{
+        "index":1648684800000,
+        "company ID":"QXO",
+        "Rank Target":0.5625,
+        "prediction":0.5276405811,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "890":{
+        "index":1648684800000,
+        "company ID":"DNOW",
+        "Rank Target":0.6875,
+        "prediction":0.5145812035,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "903":{
+        "index":1648684800000,
+        "company ID":"XMTR",
+        "Rank Target":0.375,
+        "prediction":0.4671710134,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "893":{
+        "index":1648684800000,
+        "company ID":"EVI",
+        "Rank Target":0.0625,
+        "prediction":0.424705714,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "918":{
+        "index":1656547200000,
+        "company ID":"WSO",
+        "Rank Target":0.625,
+        "prediction":0.6280361414,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "917":{
+        "index":1656547200000,
+        "company ID":"WCC",
+        "Rank Target":0.875,
+        "prediction":0.6267484426,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "912":{
+        "index":1656547200000,
+        "company ID":"GWW",
+        "Rank Target":0.75,
+        "prediction":0.623535037,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "911":{
+        "index":1656547200000,
+        "company ID":"GIC",
+        "Rank Target":0.1875,
+        "prediction":0.6129351258,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "904":{
+        "index":1656547200000,
+        "company ID":"AIT",
+        "Rank Target":0.8125,
+        "prediction":0.6082673073,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "916":{
+        "index":1656547200000,
+        "company ID":"SITE",
+        "Rank Target":0.25,
+        "prediction":0.5990401506,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "913":{
+        "index":1656547200000,
+        "company ID":"POOL",
+        "Rank Target":0.3125,
+        "prediction":0.5856862068,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "910":{
+        "index":1656547200000,
+        "company ID":"FAST",
+        "Rank Target":0.4375,
+        "prediction":0.5740464926,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "908":{
+        "index":1656547200000,
+        "company ID":"DXPE",
+        "Rank Target":0.125,
+        "prediction":0.5700595379,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "905":{
+        "index":1656547200000,
+        "company ID":"BXC",
+        "Rank Target":0.375,
+        "prediction":0.53379637,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "915":{
+        "index":1656547200000,
+        "company ID":"REZI",
+        "Rank Target":0.5625,
+        "prediction":0.5332871675,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "906":{
+        "index":1656547200000,
+        "company ID":"DNOW",
+        "Rank Target":0.6875,
+        "prediction":0.5197964311,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "909":{
+        "index":1656547200000,
+        "company ID":"EVI",
+        "Rank Target":0.9375,
+        "prediction":0.4873862267,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "914":{
+        "index":1656547200000,
+        "company ID":"QXO",
+        "Rank Target":0.5,
+        "prediction":0.4248907864,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "919":{
+        "index":1656547200000,
+        "company ID":"XMTR",
+        "Rank Target":1.0,
+        "prediction":0.4144223332,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "907":{
+        "index":1656547200000,
+        "company ID":"DSGR",
+        "Rank Target":0.0625,
+        "prediction":0.3910799026,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "928":{
+        "index":1664496000000,
+        "company ID":"GWW",
+        "Rank Target":0.625,
+        "prediction":0.7117560506,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "934":{
+        "index":1664496000000,
+        "company ID":"WSO",
+        "Rank Target":0.3125,
+        "prediction":0.7058089375,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "929":{
+        "index":1664496000000,
+        "company ID":"POOL",
+        "Rank Target":0.25,
+        "prediction":0.6146110296,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "922":{
+        "index":1664496000000,
+        "company ID":"DNOW",
+        "Rank Target":0.8125,
+        "prediction":0.6015985012,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "920":{
+        "index":1664496000000,
+        "company ID":"AIT",
+        "Rank Target":0.875,
+        "prediction":0.5946012139,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "926":{
+        "index":1664496000000,
+        "company ID":"FAST",
+        "Rank Target":0.375,
+        "prediction":0.5735323429,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "921":{
+        "index":1664496000000,
+        "company ID":"BXC",
+        "Rank Target":0.5625,
+        "prediction":0.568053484,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "932":{
+        "index":1664496000000,
+        "company ID":"SITE",
+        "Rank Target":0.5,
+        "prediction":0.5517479777,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "933":{
+        "index":1664496000000,
+        "company ID":"WCC",
+        "Rank Target":0.4375,
+        "prediction":0.550909698,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "927":{
+        "index":1664496000000,
+        "company ID":"GIC",
+        "Rank Target":0.1875,
+        "prediction":0.5117638111,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "925":{
+        "index":1664496000000,
+        "company ID":"EVI",
+        "Rank Target":0.9375,
+        "prediction":0.4963852763,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "930":{
+        "index":1664496000000,
+        "company ID":"QXO",
+        "Rank Target":0.75,
+        "prediction":0.4956054688,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "923":{
+        "index":1664496000000,
+        "company ID":"DSGR",
+        "Rank Target":1.0,
+        "prediction":0.4951035082,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "924":{
+        "index":1664496000000,
+        "company ID":"DXPE",
+        "Rank Target":0.6875,
+        "prediction":0.4855903983,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "931":{
+        "index":1664496000000,
+        "company ID":"REZI",
+        "Rank Target":0.125,
+        "prediction":0.3987092078,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "935":{
+        "index":1664496000000,
+        "company ID":"XMTR",
+        "Rank Target":0.0625,
+        "prediction":0.3216692805,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "944":{
+        "index":1672444800000,
+        "company ID":"GWW",
+        "Rank Target":0.875,
+        "prediction":0.6712342501,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "950":{
+        "index":1672444800000,
+        "company ID":"WSO",
+        "Rank Target":1.0,
+        "prediction":0.628442347,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "936":{
+        "index":1672444800000,
+        "company ID":"AIT",
+        "Rank Target":0.5625,
+        "prediction":0.6135975718,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "942":{
+        "index":1672444800000,
+        "company ID":"FAST",
+        "Rank Target":0.6875,
+        "prediction":0.599201262,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "949":{
+        "index":1672444800000,
+        "company ID":"WCC",
+        "Rank Target":0.9375,
+        "prediction":0.5956430435,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "945":{
+        "index":1672444800000,
+        "company ID":"POOL",
+        "Rank Target":0.625,
+        "prediction":0.5778099895,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "943":{
+        "index":1672444800000,
+        "company ID":"GIC",
+        "Rank Target":0.5,
+        "prediction":0.5701265335,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "948":{
+        "index":1672444800000,
+        "company ID":"SITE",
+        "Rank Target":0.8125,
+        "prediction":0.5206553936,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "938":{
+        "index":1672444800000,
+        "company ID":"DNOW",
+        "Rank Target":0.1875,
+        "prediction":0.5206210613,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "937":{
+        "index":1672444800000,
+        "company ID":"BXC",
+        "Rank Target":0.25,
+        "prediction":0.5204883218,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "939":{
+        "index":1672444800000,
+        "company ID":"DSGR",
+        "Rank Target":0.75,
+        "prediction":0.4853057563,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "947":{
+        "index":1672444800000,
+        "company ID":"REZI",
+        "Rank Target":0.4375,
+        "prediction":0.4805947542,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "941":{
+        "index":1672444800000,
+        "company ID":"EVI",
+        "Rank Target":0.125,
+        "prediction":0.471280098,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "946":{
+        "index":1672444800000,
+        "company ID":"QXO",
+        "Rank Target":0.375,
+        "prediction":0.4707011878,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "940":{
+        "index":1672444800000,
+        "company ID":"DXPE",
+        "Rank Target":0.3125,
+        "prediction":0.467032522,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "951":{
+        "index":1672444800000,
+        "company ID":"XMTR",
+        "Rank Target":0.0625,
+        "prediction":0.3405065536,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "960":{
+        "index":1680220800000,
+        "company ID":"GWW",
+        "Rank Target":0.5625,
+        "prediction":0.6633735299,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "958":{
+        "index":1680220800000,
+        "company ID":"FAST",
+        "Rank Target":0.4375,
+        "prediction":0.648717761,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "962":{
+        "index":1680220800000,
+        "company ID":"QXO",
+        "Rank Target":0.375,
+        "prediction":0.6417542696,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "959":{
+        "index":1680220800000,
+        "company ID":"GIC",
+        "Rank Target":0.25,
+        "prediction":0.6245746613,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "952":{
+        "index":1680220800000,
+        "company ID":"AIT",
+        "Rank Target":0.1875,
+        "prediction":0.6178675294,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "961":{
+        "index":1680220800000,
+        "company ID":"POOL",
+        "Rank Target":0.5,
+        "prediction":0.6104845405,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "966":{
+        "index":1680220800000,
+        "company ID":"WSO",
+        "Rank Target":0.75,
+        "prediction":0.571821928,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "954":{
+        "index":1680220800000,
+        "company ID":"DNOW",
+        "Rank Target":0.0625,
+        "prediction":0.5617772937,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "963":{
+        "index":1680220800000,
+        "company ID":"REZI",
+        "Rank Target":0.125,
+        "prediction":0.5517738461,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "957":{
+        "index":1680220800000,
+        "company ID":"EVI",
+        "Rank Target":0.3125,
+        "prediction":0.5372478366,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "965":{
+        "index":1680220800000,
+        "company ID":"WCC",
+        "Rank Target":0.625,
+        "prediction":0.5305528641,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "956":{
+        "index":1680220800000,
+        "company ID":"DXPE",
+        "Rank Target":0.875,
+        "prediction":0.5175086856,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "953":{
+        "index":1680220800000,
+        "company ID":"BXC",
+        "Rank Target":0.9375,
+        "prediction":0.4926301539,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "964":{
+        "index":1680220800000,
+        "company ID":"SITE",
+        "Rank Target":0.8125,
+        "prediction":0.4800906181,
+        "trueRank":4.0,
+        "predictionRank":14.0
+    },
+    "955":{
+        "index":1680220800000,
+        "company ID":"DSGR",
+        "Rank Target":0.6875,
+        "prediction":0.4753071368,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "967":{
+        "index":1680220800000,
+        "company ID":"XMTR",
+        "Rank Target":1.0,
+        "prediction":0.3872590661,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    },
+    "980":{
+        "index":1688083200000,
+        "company ID":"SITE",
+        "Rank Target":0.625,
+        "prediction":0.666164875,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "968":{
+        "index":1688083200000,
+        "company ID":"AIT",
+        "Rank Target":0.8125,
+        "prediction":0.6141599417,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "976":{
+        "index":1688083200000,
+        "company ID":"GWW",
+        "Rank Target":0.25,
+        "prediction":0.6104168296,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "977":{
+        "index":1688083200000,
+        "company ID":"POOL",
+        "Rank Target":0.5,
+        "prediction":0.5974705219,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "974":{
+        "index":1688083200000,
+        "company ID":"FAST",
+        "Rank Target":0.4375,
+        "prediction":0.5841863751,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "975":{
+        "index":1688083200000,
+        "company ID":"GIC",
+        "Rank Target":1.0,
+        "prediction":0.5801087022,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "970":{
+        "index":1688083200000,
+        "company ID":"DNOW",
+        "Rank Target":0.875,
+        "prediction":0.5758786201,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "972":{
+        "index":1688083200000,
+        "company ID":"DXPE",
+        "Rank Target":0.375,
+        "prediction":0.5422255993,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "978":{
+        "index":1688083200000,
+        "company ID":"QXO",
+        "Rank Target":0.75,
+        "prediction":0.5376394391,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "969":{
+        "index":1688083200000,
+        "company ID":"BXC",
+        "Rank Target":0.1875,
+        "prediction":0.510869801,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "981":{
+        "index":1688083200000,
+        "company ID":"WCC",
+        "Rank Target":0.0625,
+        "prediction":0.5080842972,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "982":{
+        "index":1688083200000,
+        "company ID":"WSO",
+        "Rank Target":0.6875,
+        "prediction":0.4973287582,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "971":{
+        "index":1688083200000,
+        "company ID":"DSGR",
+        "Rank Target":0.5625,
+        "prediction":0.4721911252,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "979":{
+        "index":1688083200000,
+        "company ID":"REZI",
+        "Rank Target":0.3125,
+        "prediction":0.413182795,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "973":{
+        "index":1688083200000,
+        "company ID":"EVI",
+        "Rank Target":0.9375,
+        "prediction":0.3949058652,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "983":{
+        "index":1688083200000,
+        "company ID":"XMTR",
+        "Rank Target":0.125,
+        "prediction":0.3319464326,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "998":{
+        "index":1696032000000,
+        "company ID":"WSO",
+        "Rank Target":0.375,
+        "prediction":0.6775553823,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "992":{
+        "index":1696032000000,
+        "company ID":"GWW",
+        "Rank Target":0.625,
+        "prediction":0.6258534193,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "990":{
+        "index":1696032000000,
+        "company ID":"FAST",
+        "Rank Target":0.6875,
+        "prediction":0.6220930219,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "993":{
+        "index":1696032000000,
+        "company ID":"POOL",
+        "Rank Target":0.5,
+        "prediction":0.6138506532,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "984":{
+        "index":1696032000000,
+        "company ID":"AIT",
+        "Rank Target":0.3125,
+        "prediction":0.5917041302,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "988":{
+        "index":1696032000000,
+        "company ID":"DXPE",
+        "Rank Target":0.0625,
+        "prediction":0.5823785067,
+        "trueRank":16.0,
+        "predictionRank":6.0
+    },
+    "991":{
+        "index":1696032000000,
+        "company ID":"GIC",
+        "Rank Target":0.4375,
+        "prediction":0.5620720983,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "997":{
+        "index":1696032000000,
+        "company ID":"WCC",
+        "Rank Target":0.8125,
+        "prediction":0.5569650531,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "985":{
+        "index":1696032000000,
+        "company ID":"BXC",
+        "Rank Target":0.875,
+        "prediction":0.5275275111,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "987":{
+        "index":1696032000000,
+        "company ID":"DSGR",
+        "Rank Target":0.5625,
+        "prediction":0.5169775486,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "994":{
+        "index":1696032000000,
+        "company ID":"QXO",
+        "Rank Target":1.0,
+        "prediction":0.500702858,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "986":{
+        "index":1696032000000,
+        "company ID":"DNOW",
+        "Rank Target":0.125,
+        "prediction":0.4787686169,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "996":{
+        "index":1696032000000,
+        "company ID":"SITE",
+        "Rank Target":0.1875,
+        "prediction":0.47270298,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "999":{
+        "index":1696032000000,
+        "company ID":"XMTR",
+        "Rank Target":0.9375,
+        "prediction":0.4304302633,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "995":{
+        "index":1696032000000,
+        "company ID":"REZI",
+        "Rank Target":0.75,
+        "prediction":0.3933251202,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "989":{
+        "index":1696032000000,
+        "company ID":"EVI",
+        "Rank Target":0.25,
+        "prediction":0.3875021636,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "1002":{
+        "index":1703980800000,
+        "company ID":"DNOW",
+        "Rank Target":0.9375,
+        "prediction":0.6885526776,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1007":{
+        "index":1703980800000,
+        "company ID":"GIC",
+        "Rank Target":0.625,
+        "prediction":0.6378254294,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1011":{
+        "index":1703980800000,
+        "company ID":"REZI",
+        "Rank Target":0.875,
+        "prediction":0.6294203401,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1014":{
+        "index":1703980800000,
+        "company ID":"WSO",
+        "Rank Target":0.25,
+        "prediction":0.6159180403,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "1006":{
+        "index":1703980800000,
+        "company ID":"FAST",
+        "Rank Target":0.75,
+        "prediction":0.6045465469,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "1008":{
+        "index":1703980800000,
+        "company ID":"GWW",
+        "Rank Target":0.8125,
+        "prediction":0.588748157,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "1009":{
+        "index":1703980800000,
+        "company ID":"POOL",
+        "Rank Target":0.3125,
+        "prediction":0.5735875368,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "1012":{
+        "index":1703980800000,
+        "company ID":"SITE",
+        "Rank Target":0.375,
+        "prediction":0.5735547543,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "1000":{
+        "index":1703980800000,
+        "company ID":"AIT",
+        "Rank Target":0.5625,
+        "prediction":0.571115911,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "1013":{
+        "index":1703980800000,
+        "company ID":"WCC",
+        "Rank Target":0.1875,
+        "prediction":0.5300604701,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "1003":{
+        "index":1703980800000,
+        "company ID":"DSGR",
+        "Rank Target":0.4375,
+        "prediction":0.5276635289,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "1010":{
+        "index":1703980800000,
+        "company ID":"QXO",
+        "Rank Target":0.125,
+        "prediction":0.5047621727,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "1004":{
+        "index":1703980800000,
+        "company ID":"DXPE",
+        "Rank Target":1.0,
+        "prediction":0.4871143401,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "1005":{
+        "index":1703980800000,
+        "company ID":"EVI",
+        "Rank Target":0.5,
+        "prediction":0.462705195,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "1001":{
+        "index":1703980800000,
+        "company ID":"BXC",
+        "Rank Target":0.6875,
+        "prediction":0.4471724033,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "1015":{
+        "index":1703980800000,
+        "company ID":"XMTR",
+        "Rank Target":0.0625,
+        "prediction":0.4110754728,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "1024":{
+        "index":1711843200000,
+        "company ID":"GWW",
+        "Rank Target":0.75,
+        "prediction":0.641114831,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1018":{
+        "index":1711843200000,
+        "company ID":"DNOW",
+        "Rank Target":0.8125,
+        "prediction":0.6304512024,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "1025":{
+        "index":1711843200000,
+        "company ID":"POOL",
+        "Rank Target":0.3125,
+        "prediction":0.5954529643,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "1030":{
+        "index":1711843200000,
+        "company ID":"WSO",
+        "Rank Target":1.0,
+        "prediction":0.5875631571,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "1022":{
+        "index":1711843200000,
+        "company ID":"FAST",
+        "Rank Target":0.4375,
+        "prediction":0.5699810982,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "1029":{
+        "index":1711843200000,
+        "company ID":"WCC",
+        "Rank Target":0.875,
+        "prediction":0.569693625,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "1016":{
+        "index":1711843200000,
+        "company ID":"AIT",
+        "Rank Target":0.9375,
+        "prediction":0.5653540492,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "1023":{
+        "index":1711843200000,
+        "company ID":"GIC",
+        "Rank Target":0.125,
+        "prediction":0.5471963882,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "1020":{
+        "index":1711843200000,
+        "company ID":"DXPE",
+        "Rank Target":0.5625,
+        "prediction":0.5310983062,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "1026":{
+        "index":1711843200000,
+        "company ID":"QXO",
+        "Rank Target":0.5,
+        "prediction":0.4921396077,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "1017":{
+        "index":1711843200000,
+        "company ID":"BXC",
+        "Rank Target":0.1875,
+        "prediction":0.4914006293,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "1019":{
+        "index":1711843200000,
+        "company ID":"DSGR",
+        "Rank Target":0.625,
+        "prediction":0.4828217626,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "1027":{
+        "index":1711843200000,
+        "company ID":"REZI",
+        "Rank Target":0.6875,
+        "prediction":0.4766998887,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "1028":{
+        "index":1711843200000,
+        "company ID":"SITE",
+        "Rank Target":0.25,
+        "prediction":0.4298095405,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "1021":{
+        "index":1711843200000,
+        "company ID":"EVI",
+        "Rank Target":0.375,
+        "prediction":0.4119282067,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "1031":{
+        "index":1711843200000,
+        "company ID":"XMTR",
+        "Rank Target":0.0625,
+        "prediction":0.3526118696,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "1039":{
+        "index":1719705600000,
+        "company ID":"GIC",
+        "Rank Target":0.4375,
+        "prediction":0.7094578147,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "1038":{
+        "index":1719705600000,
+        "company ID":"FAST",
+        "Rank Target":0.5625,
+        "prediction":0.6502310634,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "1040":{
+        "index":1719705600000,
+        "company ID":"GWW",
+        "Rank Target":0.5,
+        "prediction":0.6315521002,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "1046":{
+        "index":1719705600000,
+        "company ID":"WSO",
+        "Rank Target":0.25,
+        "prediction":0.6180814505,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "1044":{
+        "index":1719705600000,
+        "company ID":"SITE",
+        "Rank Target":0.875,
+        "prediction":0.5814574957,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "1045":{
+        "index":1719705600000,
+        "company ID":"WCC",
+        "Rank Target":0.375,
+        "prediction":0.557508707,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "1032":{
+        "index":1719705600000,
+        "company ID":"AIT",
+        "Rank Target":0.625,
+        "prediction":0.5566980839,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "1036":{
+        "index":1719705600000,
+        "company ID":"DXPE",
+        "Rank Target":0.75,
+        "prediction":0.5461596847,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1034":{
+        "index":1719705600000,
+        "company ID":"DNOW",
+        "Rank Target":0.125,
+        "prediction":0.5426319838,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "1041":{
+        "index":1719705600000,
+        "company ID":"POOL",
+        "Rank Target":0.8125,
+        "prediction":0.5400056243,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "1035":{
+        "index":1719705600000,
+        "company ID":"DSGR",
+        "Rank Target":0.9375,
+        "prediction":0.5263718963,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "1037":{
+        "index":1719705600000,
+        "company ID":"EVI",
+        "Rank Target":0.3125,
+        "prediction":0.496334523,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1042":{
+        "index":1719705600000,
+        "company ID":"QXO",
+        "Rank Target":0.0625,
+        "prediction":0.4929410219,
+        "trueRank":16.0,
+        "predictionRank":13.0
+    },
+    "1047":{
+        "index":1719705600000,
+        "company ID":"XMTR",
+        "Rank Target":1.0,
+        "prediction":0.4650251269,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "1043":{
+        "index":1719705600000,
+        "company ID":"REZI",
+        "Rank Target":0.1875,
+        "prediction":0.4253181815,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "1033":{
+        "index":1719705600000,
+        "company ID":"BXC",
+        "Rank Target":0.6875,
+        "prediction":0.4186309874,
+        "trueRank":6.0,
+        "predictionRank":16.0
+    },
+    "1057":{
+        "index":1727654400000,
+        "company ID":"POOL",
+        "Rank Target":0.3125,
+        "prediction":0.6390919089,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "1050":{
+        "index":1727654400000,
+        "company ID":"DNOW",
+        "Rank Target":0.5625,
+        "prediction":0.6202400327,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "1052":{
+        "index":1727654400000,
+        "company ID":"DXPE",
+        "Rank Target":0.9375,
+        "prediction":0.5808469057,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "1048":{
+        "index":1727654400000,
+        "company ID":"AIT",
+        "Rank Target":0.6875,
+        "prediction":0.5784679055,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1054":{
+        "index":1727654400000,
+        "company ID":"FAST",
+        "Rank Target":0.5,
+        "prediction":0.5723897815,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "1062":{
+        "index":1727654400000,
+        "company ID":"WSO",
+        "Rank Target":0.375,
+        "prediction":0.5653599501,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "1055":{
+        "index":1727654400000,
+        "company ID":"GIC",
+        "Rank Target":0.0625,
+        "prediction":0.5500004888,
+        "trueRank":16.0,
+        "predictionRank":7.0
+    },
+    "1056":{
+        "index":1727654400000,
+        "company ID":"GWW",
+        "Rank Target":0.625,
+        "prediction":0.5349951386,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "1060":{
+        "index":1727654400000,
+        "company ID":"SITE",
+        "Rank Target":0.1875,
+        "prediction":0.5348920822,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "1051":{
+        "index":1727654400000,
+        "company ID":"DSGR",
+        "Rank Target":0.25,
+        "prediction":0.5135094523,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1053":{
+        "index":1727654400000,
+        "company ID":"EVI",
+        "Rank Target":0.125,
+        "prediction":0.5117461681,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1061":{
+        "index":1727654400000,
+        "company ID":"WCC",
+        "Rank Target":0.75,
+        "prediction":0.5011030436,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "1063":{
+        "index":1727654400000,
+        "company ID":"XMTR",
+        "Rank Target":1.0,
+        "prediction":0.4726735055,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "1058":{
+        "index":1727654400000,
+        "company ID":"QXO",
+        "Rank Target":0.8125,
+        "prediction":0.4722164869,
+        "trueRank":4.0,
+        "predictionRank":14.0
+    },
+    "1059":{
+        "index":1727654400000,
+        "company ID":"REZI",
+        "Rank Target":0.875,
+        "prediction":0.4674316049,
+        "trueRank":3.0,
+        "predictionRank":15.0
+    },
+    "1049":{
+        "index":1727654400000,
+        "company ID":"BXC",
+        "Rank Target":0.4375,
+        "prediction":0.4401196539,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "1078":{
+        "index":1735603200000,
+        "company ID":"WSO",
+        "Rank Target":0.875,
+        "prediction":0.7032701373,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "1072":{
+        "index":1735603200000,
+        "company ID":"GWW",
+        "Rank Target":0.5,
+        "prediction":0.6060935855,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "1073":{
+        "index":1735603200000,
+        "company ID":"POOL",
+        "Rank Target":0.625,
+        "prediction":0.5982838273,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "1068":{
+        "index":1735603200000,
+        "company ID":"DXPE",
+        "Rank Target":0.75,
+        "prediction":0.5868797898,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "1064":{
+        "index":1735603200000,
+        "company ID":"AIT",
+        "Rank Target":0.4375,
+        "prediction":0.5726510882,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "1070":{
+        "index":1735603200000,
+        "company ID":"FAST",
+        "Rank Target":0.9375,
+        "prediction":0.5622843504,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "1075":{
+        "index":1735603200000,
+        "company ID":"REZI",
+        "Rank Target":0.1875,
+        "prediction":0.5556620359,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "1071":{
+        "index":1735603200000,
+        "company ID":"GIC",
+        "Rank Target":0.6875,
+        "prediction":0.5456864834,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "1077":{
+        "index":1735603200000,
+        "company ID":"WCC",
+        "Rank Target":0.375,
+        "prediction":0.5302179456,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "1066":{
+        "index":1735603200000,
+        "company ID":"DNOW",
+        "Rank Target":1.0,
+        "prediction":0.528075099,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "1067":{
+        "index":1735603200000,
+        "company ID":"DSGR",
+        "Rank Target":0.25,
+        "prediction":0.5186196566,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "1076":{
+        "index":1735603200000,
+        "company ID":"SITE",
+        "Rank Target":0.5625,
+        "prediction":0.5042538643,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "1074":{
+        "index":1735603200000,
+        "company ID":"QXO",
+        "Rank Target":0.3125,
+        "prediction":0.4682471752,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "1065":{
+        "index":1735603200000,
+        "company ID":"BXC",
+        "Rank Target":0.125,
+        "prediction":0.4408097863,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "1079":{
+        "index":1735603200000,
+        "company ID":"XMTR",
+        "Rank Target":0.0625,
+        "prediction":0.4262263477,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "1069":{
+        "index":1735603200000,
+        "company ID":"EVI",
+        "Rank Target":0.8125,
+        "prediction":0.3714742064,
+        "trueRank":4.0,
+        "predictionRank":16.0
+    },
+    "1087":{
+        "index":1743379200000,
+        "company ID":"GIC",
+        "Rank Target":0.75,
+        "prediction":0.7029574513,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1088":{
+        "index":1743379200000,
+        "company ID":"GWW",
+        "Rank Target":0.4375,
+        "prediction":0.6212434173,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "1089":{
+        "index":1743379200000,
+        "company ID":"POOL",
+        "Rank Target":0.125,
+        "prediction":0.6005967855,
+        "trueRank":15.0,
+        "predictionRank":3.0
+    },
+    "1080":{
+        "index":1743379200000,
+        "company ID":"AIT",
+        "Rank Target":0.5,
+        "prediction":0.5818353295,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "1084":{
+        "index":1743379200000,
+        "company ID":"DXPE",
+        "Rank Target":0.625,
+        "prediction":0.5766038299,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "1094":{
+        "index":1743379200000,
+        "company ID":"WSO",
+        "Rank Target":0.0625,
+        "prediction":0.5753795505,
+        "trueRank":16.0,
+        "predictionRank":6.0
+    },
+    "1086":{
+        "index":1743379200000,
+        "company ID":"FAST",
+        "Rank Target":0.5625,
+        "prediction":0.5669159889,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "1093":{
+        "index":1743379200000,
+        "company ID":"WCC",
+        "Rank Target":0.8125,
+        "prediction":0.5495910048,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "1083":{
+        "index":1743379200000,
+        "company ID":"DSGR",
+        "Rank Target":0.25,
+        "prediction":0.5240513682,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1082":{
+        "index":1743379200000,
+        "company ID":"DNOW",
+        "Rank Target":0.1875,
+        "prediction":0.513215065,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "1081":{
+        "index":1743379200000,
+        "company ID":"BXC",
+        "Rank Target":0.3125,
+        "prediction":0.4749956131,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "1092":{
+        "index":1743379200000,
+        "company ID":"SITE",
+        "Rank Target":0.375,
+        "prediction":0.4673497379,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "1085":{
+        "index":1743379200000,
+        "company ID":"EVI",
+        "Rank Target":0.6875,
+        "prediction":0.4631603062,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "1091":{
+        "index":1743379200000,
+        "company ID":"REZI",
+        "Rank Target":0.875,
+        "prediction":0.4479523897,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "1090":{
+        "index":1743379200000,
+        "company ID":"QXO",
+        "Rank Target":0.9375,
+        "prediction":0.4289359152,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "1095":{
+        "index":1743379200000,
+        "company ID":"XMTR",
+        "Rank Target":1.0,
+        "prediction":0.4266847372,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    }
+}

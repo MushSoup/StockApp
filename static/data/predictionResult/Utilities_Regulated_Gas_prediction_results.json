@@ -1,0 +1,114 @@
+{
+    "1056":{
+        "company ID":"ATO",
+        "score":0.6965222955,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":11.9198210935
+    },
+    "1065":{
+        "company ID":"OGS",
+        "score":0.6739350557,
+        "Rank":2.0,
+        "Rank Target":0.9375,
+        "stockDifferencePercentage":11.7368185376
+    },
+    "1069":{
+        "company ID":"SR",
+        "score":0.6447802782,
+        "Rank":3.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":11.0394847021
+    },
+    "1062":{
+        "company ID":"NI",
+        "score":0.6398448944,
+        "Rank":4.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":9.9513777096
+    },
+    "1064":{
+        "company ID":"NWN",
+        "score":0.6295273304,
+        "Rank":5.0,
+        "Rank Target":0.6875,
+        "stockDifferencePercentage":9.8774702422
+    },
+    "1059":{
+        "company ID":"CPK",
+        "score":0.6267018914,
+        "Rank":6.0,
+        "Rank Target":0.8125,
+        "stockDifferencePercentage":10.5457249145
+    },
+    "1058":{
+        "company ID":"BKH",
+        "score":0.6215754747,
+        "Rank":7.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":8.588913013
+    },
+    "1068":{
+        "company ID":"SPH",
+        "score":0.5729514956,
+        "Rank":8.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":2.9027342798
+    },
+    "1063":{
+        "company ID":"NJR",
+        "score":0.4777469635,
+        "Rank":9.0,
+        "Rank Target":0.5625,
+        "stockDifferencePercentage":6.8327353338
+    },
+    "1057":{
+        "company ID":"BIPC",
+        "score":0.4544672072,
+        "Rank":10.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-3.0775231057
+    },
+    "1060":{
+        "company ID":"CTRI",
+        "score":0.4372928441,
+        "Rank":11.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-6.5500266121
+    },
+    "1061":{
+        "company ID":"MDU",
+        "score":0.4261522591,
+        "Rank":12.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":6.5599536007
+    },
+    "1070":{
+        "company ID":"SWX",
+        "score":0.4197531641,
+        "Rank":13.0,
+        "Rank Target":0.4375,
+        "stockDifferencePercentage":6.4188720547
+    },
+    "1071":{
+        "company ID":"UGI",
+        "score":0.4132822156,
+        "Rank":14.0,
+        "Rank Target":0.1875,
+        "stockDifferencePercentage":-5.2489897348
+    },
+    "1067":{
+        "company ID":"RGCO",
+        "score":0.4050872326,
+        "Rank":15.0,
+        "Rank Target":0.3125,
+        "stockDifferencePercentage":-0.4682077614
+    },
+    "1066":{
+        "company ID":"OPAL",
+        "score":0.348524332,
+        "Rank":16.0,
+        "Rank Target":0.0625,
+        "stockDifferencePercentage":-12.3595562798
+    }
+}

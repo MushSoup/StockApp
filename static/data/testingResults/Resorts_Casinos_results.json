@@ -1,0 +1,1562 @@
+{
+    "864":{
+        "index":1648684800000,
+        "company ID":"LVS",
+        "Rank Target":0.9333333333,
+        "prediction":0.6788555384,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "857":{
+        "index":1648684800000,
+        "company ID":"BYD",
+        "Rank Target":0.8,
+        "prediction":0.6418851614,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "863":{
+        "index":1648684800000,
+        "company ID":"HGV",
+        "Rank Target":0.6,
+        "prediction":0.6394943595,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "862":{
+        "index":1648684800000,
+        "company ID":"GDEN",
+        "Rank Target":0.5333333333,
+        "prediction":0.6302981377,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "869":{
+        "index":1648684800000,
+        "company ID":"VAC",
+        "Rank Target":0.8666666667,
+        "prediction":0.5756523013,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "865":{
+        "index":1648684800000,
+        "company ID":"MCRI",
+        "Rank Target":0.2666666667,
+        "prediction":0.5704358816,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "859":{
+        "index":1648684800000,
+        "company ID":"CPHC",
+        "Rank Target":1.0,
+        "prediction":0.5694311261,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "856":{
+        "index":1648684800000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.5573139191,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "870":{
+        "index":1648684800000,
+        "company ID":"WYNN",
+        "Rank Target":0.7333333333,
+        "prediction":0.5531684756,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "858":{
+        "index":1648684800000,
+        "company ID":"CNTY",
+        "Rank Target":0.2,
+        "prediction":0.5428122282,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "868":{
+        "index":1648684800000,
+        "company ID":"RRR",
+        "Rank Target":0.4,
+        "prediction":0.5276201963,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "867":{
+        "index":1648684800000,
+        "company ID":"PENN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5246715546,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "866":{
+        "index":1648684800000,
+        "company ID":"MGM",
+        "Rank Target":0.4666666667,
+        "prediction":0.5163688064,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "860":{
+        "index":1648684800000,
+        "company ID":"CZR",
+        "Rank Target":0.1333333333,
+        "prediction":0.4942453206,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "861":{
+        "index":1648684800000,
+        "company ID":"FLL",
+        "Rank Target":0.3333333333,
+        "prediction":0.4857863188,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "878":{
+        "index":1656547200000,
+        "company ID":"HGV",
+        "Rank Target":0.5333333333,
+        "prediction":0.7038869858,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "880":{
+        "index":1656547200000,
+        "company ID":"MCRI",
+        "Rank Target":0.6,
+        "prediction":0.6074995995,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "884":{
+        "index":1656547200000,
+        "company ID":"VAC",
+        "Rank Target":0.8666666667,
+        "prediction":0.6044515371,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "872":{
+        "index":1656547200000,
+        "company ID":"BYD",
+        "Rank Target":0.4666666667,
+        "prediction":0.6016509533,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "877":{
+        "index":1656547200000,
+        "company ID":"GDEN",
+        "Rank Target":0.2666666667,
+        "prediction":0.5910243988,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "881":{
+        "index":1656547200000,
+        "company ID":"MGM",
+        "Rank Target":0.6666666667,
+        "prediction":0.5892461538,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "876":{
+        "index":1656547200000,
+        "company ID":"FLL",
+        "Rank Target":0.8,
+        "prediction":0.5695701838,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "871":{
+        "index":1656547200000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.56191504,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "874":{
+        "index":1656547200000,
+        "company ID":"CPHC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5575391054,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "875":{
+        "index":1656547200000,
+        "company ID":"CZR",
+        "Rank Target":0.1333333333,
+        "prediction":0.5535061955,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "873":{
+        "index":1656547200000,
+        "company ID":"CNTY",
+        "Rank Target":0.4,
+        "prediction":0.5316582322,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "879":{
+        "index":1656547200000,
+        "company ID":"LVS",
+        "Rank Target":0.9333333333,
+        "prediction":0.5104087591,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "882":{
+        "index":1656547200000,
+        "company ID":"PENN",
+        "Rank Target":0.2,
+        "prediction":0.4934885502,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "883":{
+        "index":1656547200000,
+        "company ID":"RRR",
+        "Rank Target":0.7333333333,
+        "prediction":0.4771455824,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "885":{
+        "index":1656547200000,
+        "company ID":"WYNN",
+        "Rank Target":1.0,
+        "prediction":0.3984065354,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "893":{
+        "index":1664496000000,
+        "company ID":"HGV",
+        "Rank Target":0.5333333333,
+        "prediction":0.7112700939,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "895":{
+        "index":1664496000000,
+        "company ID":"MCRI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6374935508,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "890":{
+        "index":1664496000000,
+        "company ID":"CZR",
+        "Rank Target":0.6666666667,
+        "prediction":0.605080843,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "887":{
+        "index":1664496000000,
+        "company ID":"BYD",
+        "Rank Target":0.4666666667,
+        "prediction":0.5686558485,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "898":{
+        "index":1664496000000,
+        "company ID":"RRR",
+        "Rank Target":0.6,
+        "prediction":0.5664083958,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "899":{
+        "index":1664496000000,
+        "company ID":"VAC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5612403154,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "889":{
+        "index":1664496000000,
+        "company ID":"CPHC",
+        "Rank Target":1.0,
+        "prediction":0.5556441545,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "888":{
+        "index":1664496000000,
+        "company ID":"CNTY",
+        "Rank Target":0.2666666667,
+        "prediction":0.5284616947,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "894":{
+        "index":1664496000000,
+        "company ID":"LVS",
+        "Rank Target":0.7333333333,
+        "prediction":0.526098907,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "897":{
+        "index":1664496000000,
+        "company ID":"PENN",
+        "Rank Target":0.2,
+        "prediction":0.5196955204,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "892":{
+        "index":1664496000000,
+        "company ID":"GDEN",
+        "Rank Target":0.1333333333,
+        "prediction":0.5167608857,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "886":{
+        "index":1664496000000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.5034464002,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "891":{
+        "index":1664496000000,
+        "company ID":"FLL",
+        "Rank Target":0.9333333333,
+        "prediction":0.4424672723,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "896":{
+        "index":1664496000000,
+        "company ID":"MGM",
+        "Rank Target":0.4,
+        "prediction":0.4136073291,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "900":{
+        "index":1664496000000,
+        "company ID":"WYNN",
+        "Rank Target":0.8,
+        "prediction":0.3942020833,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "911":{
+        "index":1672444800000,
+        "company ID":"MGM",
+        "Rank Target":1.0,
+        "prediction":0.6493860483,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "902":{
+        "index":1672444800000,
+        "company ID":"BYD",
+        "Rank Target":0.8666666667,
+        "prediction":0.6259700656,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "912":{
+        "index":1672444800000,
+        "company ID":"PENN",
+        "Rank Target":0.2666666667,
+        "prediction":0.6036570668,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "913":{
+        "index":1672444800000,
+        "company ID":"RRR",
+        "Rank Target":0.5333333333,
+        "prediction":0.578347683,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "909":{
+        "index":1672444800000,
+        "company ID":"LVS",
+        "Rank Target":0.7333333333,
+        "prediction":0.5762060881,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "910":{
+        "index":1672444800000,
+        "company ID":"MCRI",
+        "Rank Target":0.4,
+        "prediction":0.5736183524,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "907":{
+        "index":1672444800000,
+        "company ID":"GDEN",
+        "Rank Target":0.6,
+        "prediction":0.5588736534,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "915":{
+        "index":1672444800000,
+        "company ID":"WYNN",
+        "Rank Target":0.9333333333,
+        "prediction":0.5541843176,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "908":{
+        "index":1672444800000,
+        "company ID":"HGV",
+        "Rank Target":0.8,
+        "prediction":0.5509161353,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "906":{
+        "index":1672444800000,
+        "company ID":"FLL",
+        "Rank Target":0.2,
+        "prediction":0.5364848971,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "905":{
+        "index":1672444800000,
+        "company ID":"CZR",
+        "Rank Target":0.6666666667,
+        "prediction":0.529709816,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "914":{
+        "index":1672444800000,
+        "company ID":"VAC",
+        "Rank Target":0.3333333333,
+        "prediction":0.4901638627,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "903":{
+        "index":1672444800000,
+        "company ID":"CNTY",
+        "Rank Target":0.4666666667,
+        "prediction":0.4654860795,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "904":{
+        "index":1672444800000,
+        "company ID":"CPHC",
+        "Rank Target":0.1333333333,
+        "prediction":0.4234367013,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "901":{
+        "index":1672444800000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.3987929225,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "924":{
+        "index":1680220800000,
+        "company ID":"LVS",
+        "Rank Target":0.6666666667,
+        "prediction":0.704683423,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "930":{
+        "index":1680220800000,
+        "company ID":"WYNN",
+        "Rank Target":0.2666666667,
+        "prediction":0.6632767916,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "917":{
+        "index":1680220800000,
+        "company ID":"BYD",
+        "Rank Target":1.0,
+        "prediction":0.6205272079,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "927":{
+        "index":1680220800000,
+        "company ID":"PENN",
+        "Rank Target":0.1333333333,
+        "prediction":0.5970571637,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "922":{
+        "index":1680220800000,
+        "company ID":"GDEN",
+        "Rank Target":0.4666666667,
+        "prediction":0.5936243534,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "919":{
+        "index":1680220800000,
+        "company ID":"CPHC",
+        "Rank Target":0.5333333333,
+        "prediction":0.5771986842,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "918":{
+        "index":1680220800000,
+        "company ID":"CNTY",
+        "Rank Target":0.7333333333,
+        "prediction":0.57034266,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "925":{
+        "index":1680220800000,
+        "company ID":"MCRI",
+        "Rank Target":0.4,
+        "prediction":0.5397068262,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "921":{
+        "index":1680220800000,
+        "company ID":"FLL",
+        "Rank Target":0.2,
+        "prediction":0.5276002288,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "926":{
+        "index":1680220800000,
+        "company ID":"MGM",
+        "Rank Target":0.6,
+        "prediction":0.5224508047,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "916":{
+        "index":1680220800000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.4979950488,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "928":{
+        "index":1680220800000,
+        "company ID":"RRR",
+        "Rank Target":0.9333333333,
+        "prediction":0.4848094881,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "920":{
+        "index":1680220800000,
+        "company ID":"CZR",
+        "Rank Target":0.8,
+        "prediction":0.4691846371,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "923":{
+        "index":1680220800000,
+        "company ID":"HGV",
+        "Rank Target":0.8666666667,
+        "prediction":0.4628314972,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "929":{
+        "index":1680220800000,
+        "company ID":"VAC",
+        "Rank Target":0.3333333333,
+        "prediction":0.3535199463,
+        "trueRank":11.0,
+        "predictionRank":15.0
+    },
+    "939":{
+        "index":1688083200000,
+        "company ID":"LVS",
+        "Rank Target":0.2666666667,
+        "prediction":0.7140316963,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "938":{
+        "index":1688083200000,
+        "company ID":"HGV",
+        "Rank Target":0.7333333333,
+        "prediction":0.6411234736,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "945":{
+        "index":1688083200000,
+        "company ID":"WYNN",
+        "Rank Target":0.5333333333,
+        "prediction":0.6409024,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "937":{
+        "index":1688083200000,
+        "company ID":"GDEN",
+        "Rank Target":0.4666666667,
+        "prediction":0.6198738217,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "940":{
+        "index":1688083200000,
+        "company ID":"MCRI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6135646105,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "935":{
+        "index":1688083200000,
+        "company ID":"CZR",
+        "Rank Target":0.9333333333,
+        "prediction":0.6024137139,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "936":{
+        "index":1688083200000,
+        "company ID":"FLL",
+        "Rank Target":0.1333333333,
+        "prediction":0.5427842736,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "932":{
+        "index":1688083200000,
+        "company ID":"BYD",
+        "Rank Target":0.8,
+        "prediction":0.5427590609,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "934":{
+        "index":1688083200000,
+        "company ID":"CPHC",
+        "Rank Target":0.6,
+        "prediction":0.4872360528,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "942":{
+        "index":1688083200000,
+        "company ID":"PENN",
+        "Rank Target":1.0,
+        "prediction":0.4823388755,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "944":{
+        "index":1688083200000,
+        "company ID":"VAC",
+        "Rank Target":0.3333333333,
+        "prediction":0.467117995,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "933":{
+        "index":1688083200000,
+        "company ID":"CNTY",
+        "Rank Target":0.2,
+        "prediction":0.4591002464,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "943":{
+        "index":1688083200000,
+        "company ID":"RRR",
+        "Rank Target":0.6666666667,
+        "prediction":0.4451400638,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "941":{
+        "index":1688083200000,
+        "company ID":"MGM",
+        "Rank Target":0.4,
+        "prediction":0.3982647359,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "931":{
+        "index":1688083200000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.320392549,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "954":{
+        "index":1696032000000,
+        "company ID":"LVS",
+        "Rank Target":0.6666666667,
+        "prediction":0.7159029245,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "951":{
+        "index":1696032000000,
+        "company ID":"FLL",
+        "Rank Target":0.9333333333,
+        "prediction":0.687600553,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "952":{
+        "index":1696032000000,
+        "company ID":"GDEN",
+        "Rank Target":0.7333333333,
+        "prediction":0.6107413173,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "955":{
+        "index":1696032000000,
+        "company ID":"MCRI",
+        "Rank Target":0.6,
+        "prediction":0.5810959339,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "950":{
+        "index":1696032000000,
+        "company ID":"CZR",
+        "Rank Target":0.4,
+        "prediction":0.5581601858,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "947":{
+        "index":1696032000000,
+        "company ID":"BYD",
+        "Rank Target":0.5333333333,
+        "prediction":0.5107215643,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "957":{
+        "index":1696032000000,
+        "company ID":"PENN",
+        "Rank Target":0.8,
+        "prediction":0.4999250174,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "946":{
+        "index":1696032000000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.498057276,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "960":{
+        "index":1696032000000,
+        "company ID":"WYNN",
+        "Rank Target":0.2666666667,
+        "prediction":0.4866492748,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "956":{
+        "index":1696032000000,
+        "company ID":"MGM",
+        "Rank Target":0.8666666667,
+        "prediction":0.4865947962,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "958":{
+        "index":1696032000000,
+        "company ID":"RRR",
+        "Rank Target":1.0,
+        "prediction":0.4742637277,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "948":{
+        "index":1696032000000,
+        "company ID":"CNTY",
+        "Rank Target":0.2,
+        "prediction":0.4710103571,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "953":{
+        "index":1696032000000,
+        "company ID":"HGV",
+        "Rank Target":0.3333333333,
+        "prediction":0.4601484239,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "949":{
+        "index":1696032000000,
+        "company ID":"CPHC",
+        "Rank Target":0.4666666667,
+        "prediction":0.4416295588,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "959":{
+        "index":1696032000000,
+        "company ID":"VAC",
+        "Rank Target":0.1333333333,
+        "prediction":0.4149149358,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "975":{
+        "index":1703980800000,
+        "company ID":"WYNN",
+        "Rank Target":0.5333333333,
+        "prediction":0.6842176318,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "969":{
+        "index":1703980800000,
+        "company ID":"LVS",
+        "Rank Target":0.4,
+        "prediction":0.681081593,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "974":{
+        "index":1703980800000,
+        "company ID":"VAC",
+        "Rank Target":1.0,
+        "prediction":0.6399390697,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "971":{
+        "index":1703980800000,
+        "company ID":"MGM",
+        "Rank Target":0.4666666667,
+        "prediction":0.5789160132,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "970":{
+        "index":1703980800000,
+        "company ID":"MCRI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5549404621,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "961":{
+        "index":1703980800000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.5418863297,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "966":{
+        "index":1703980800000,
+        "company ID":"FLL",
+        "Rank Target":0.7333333333,
+        "prediction":0.5340899229,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "963":{
+        "index":1703980800000,
+        "company ID":"CNTY",
+        "Rank Target":0.1333333333,
+        "prediction":0.5335383415,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "973":{
+        "index":1703980800000,
+        "company ID":"RRR",
+        "Rank Target":0.9333333333,
+        "prediction":0.5231189728,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "968":{
+        "index":1703980800000,
+        "company ID":"HGV",
+        "Rank Target":0.8666666667,
+        "prediction":0.5038207769,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "962":{
+        "index":1703980800000,
+        "company ID":"BYD",
+        "Rank Target":0.6,
+        "prediction":0.4839966297,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "972":{
+        "index":1703980800000,
+        "company ID":"PENN",
+        "Rank Target":0.2,
+        "prediction":0.4685837626,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "965":{
+        "index":1703980800000,
+        "company ID":"CZR",
+        "Rank Target":0.3333333333,
+        "prediction":0.4596011639,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "964":{
+        "index":1703980800000,
+        "company ID":"CPHC",
+        "Rank Target":0.8,
+        "prediction":0.4079239368,
+        "trueRank":4.0,
+        "predictionRank":14.0
+    },
+    "967":{
+        "index":1703980800000,
+        "company ID":"GDEN",
+        "Rank Target":0.2666666667,
+        "prediction":0.3874172866,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "984":{
+        "index":1711843200000,
+        "company ID":"LVS",
+        "Rank Target":0.1333333333,
+        "prediction":0.6716973782,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "981":{
+        "index":1711843200000,
+        "company ID":"FLL",
+        "Rank Target":0.8,
+        "prediction":0.664278686,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "989":{
+        "index":1711843200000,
+        "company ID":"VAC",
+        "Rank Target":0.3333333333,
+        "prediction":0.6313012242,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "977":{
+        "index":1711843200000,
+        "company ID":"BYD",
+        "Rank Target":0.2,
+        "prediction":0.6126943827,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "985":{
+        "index":1711843200000,
+        "company ID":"MCRI",
+        "Rank Target":0.7333333333,
+        "prediction":0.546261549,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "986":{
+        "index":1711843200000,
+        "company ID":"MGM",
+        "Rank Target":0.8666666667,
+        "prediction":0.5397015214,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "979":{
+        "index":1711843200000,
+        "company ID":"CPHC",
+        "Rank Target":0.9333333333,
+        "prediction":0.5394399166,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "990":{
+        "index":1711843200000,
+        "company ID":"WYNN",
+        "Rank Target":0.2666666667,
+        "prediction":0.5338953733,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "983":{
+        "index":1711843200000,
+        "company ID":"HGV",
+        "Rank Target":0.4666666667,
+        "prediction":0.4971598685,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "988":{
+        "index":1711843200000,
+        "company ID":"RRR",
+        "Rank Target":0.5333333333,
+        "prediction":0.4967710078,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "978":{
+        "index":1711843200000,
+        "company ID":"CNTY",
+        "Rank Target":0.6666666667,
+        "prediction":0.4888480604,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "987":{
+        "index":1711843200000,
+        "company ID":"PENN",
+        "Rank Target":1.0,
+        "prediction":0.4789361358,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "982":{
+        "index":1711843200000,
+        "company ID":"GDEN",
+        "Rank Target":0.4,
+        "prediction":0.4704478383,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "976":{
+        "index":1711843200000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.4276996851,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "980":{
+        "index":1711843200000,
+        "company ID":"CZR",
+        "Rank Target":0.6,
+        "prediction":0.3928976059,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "992":{
+        "index":1719705600000,
+        "company ID":"BYD",
+        "Rank Target":1.0,
+        "prediction":0.6016252637,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "998":{
+        "index":1719705600000,
+        "company ID":"HGV",
+        "Rank Target":0.3333333333,
+        "prediction":0.5764424801,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "999":{
+        "index":1719705600000,
+        "company ID":"LVS",
+        "Rank Target":0.9333333333,
+        "prediction":0.5620483756,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "997":{
+        "index":1719705600000,
+        "company ID":"GDEN",
+        "Rank Target":0.7333333333,
+        "prediction":0.5336353779,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "1000":{
+        "index":1719705600000,
+        "company ID":"MCRI",
+        "Rank Target":0.8666666667,
+        "prediction":0.5283219218,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "1001":{
+        "index":1719705600000,
+        "company ID":"MGM",
+        "Rank Target":0.2,
+        "prediction":0.5239344835,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "996":{
+        "index":1719705600000,
+        "company ID":"FLL",
+        "Rank Target":0.4,
+        "prediction":0.5216204524,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "994":{
+        "index":1719705600000,
+        "company ID":"CPHC",
+        "Rank Target":0.1333333333,
+        "prediction":0.5168061852,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "995":{
+        "index":1719705600000,
+        "company ID":"CZR",
+        "Rank Target":0.6666666667,
+        "prediction":0.4894383848,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1003":{
+        "index":1719705600000,
+        "company ID":"RRR",
+        "Rank Target":0.4666666667,
+        "prediction":0.4684888124,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "1002":{
+        "index":1719705600000,
+        "company ID":"PENN",
+        "Rank Target":0.5333333333,
+        "prediction":0.4590064585,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "993":{
+        "index":1719705600000,
+        "company ID":"CNTY",
+        "Rank Target":0.6,
+        "prediction":0.4539454579,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "1005":{
+        "index":1719705600000,
+        "company ID":"WYNN",
+        "Rank Target":0.8,
+        "prediction":0.4442489743,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "1004":{
+        "index":1719705600000,
+        "company ID":"VAC",
+        "Rank Target":0.2666666667,
+        "prediction":0.4415333569,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "991":{
+        "index":1719705600000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.4200181067,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "1013":{
+        "index":1727654400000,
+        "company ID":"HGV",
+        "Rank Target":0.7333333333,
+        "prediction":0.6363349557,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1009":{
+        "index":1727654400000,
+        "company ID":"CPHC",
+        "Rank Target":0.8,
+        "prediction":0.6244181395,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "1015":{
+        "index":1727654400000,
+        "company ID":"MCRI",
+        "Rank Target":0.5333333333,
+        "prediction":0.6155545712,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "1008":{
+        "index":1727654400000,
+        "company ID":"CNTY",
+        "Rank Target":1.0,
+        "prediction":0.5935097337,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "1019":{
+        "index":1727654400000,
+        "company ID":"VAC",
+        "Rank Target":0.9333333333,
+        "prediction":0.5898748636,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1011":{
+        "index":1727654400000,
+        "company ID":"FLL",
+        "Rank Target":0.1333333333,
+        "prediction":0.5453029871,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "1007":{
+        "index":1727654400000,
+        "company ID":"BYD",
+        "Rank Target":0.8666666667,
+        "prediction":0.5447750688,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "1017":{
+        "index":1727654400000,
+        "company ID":"PENN",
+        "Rank Target":0.4666666667,
+        "prediction":0.5201902986,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1014":{
+        "index":1727654400000,
+        "company ID":"LVS",
+        "Rank Target":0.4,
+        "prediction":0.5176762938,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "1018":{
+        "index":1727654400000,
+        "company ID":"RRR",
+        "Rank Target":0.2666666667,
+        "prediction":0.4964112639,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "1016":{
+        "index":1727654400000,
+        "company ID":"MGM",
+        "Rank Target":0.3333333333,
+        "prediction":0.4933435619,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "1012":{
+        "index":1727654400000,
+        "company ID":"GDEN",
+        "Rank Target":0.6666666667,
+        "prediction":0.4826587439,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "1010":{
+        "index":1727654400000,
+        "company ID":"CZR",
+        "Rank Target":0.0666666667,
+        "prediction":0.4476570785,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "1020":{
+        "index":1727654400000,
+        "company ID":"WYNN",
+        "Rank Target":0.2,
+        "prediction":0.4022273123,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "1006":{
+        "index":1727654400000,
+        "company ID":"BALY",
+        "Rank Target":0.6,
+        "prediction":0.3964519799,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "1022":{
+        "index":1735603200000,
+        "company ID":"BYD",
+        "Rank Target":0.7333333333,
+        "prediction":0.6469652653,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1035":{
+        "index":1735603200000,
+        "company ID":"WYNN",
+        "Rank Target":0.8666666667,
+        "prediction":0.600587368,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "1027":{
+        "index":1735603200000,
+        "company ID":"GDEN",
+        "Rank Target":0.4,
+        "prediction":0.5985888243,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1030":{
+        "index":1735603200000,
+        "company ID":"MCRI",
+        "Rank Target":1.0,
+        "prediction":0.5936602354,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "1033":{
+        "index":1735603200000,
+        "company ID":"RRR",
+        "Rank Target":0.8,
+        "prediction":0.5869609118,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "1029":{
+        "index":1735603200000,
+        "company ID":"LVS",
+        "Rank Target":0.2,
+        "prediction":0.5803261995,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "1034":{
+        "index":1735603200000,
+        "company ID":"VAC",
+        "Rank Target":0.2666666667,
+        "prediction":0.5509384274,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "1028":{
+        "index":1735603200000,
+        "company ID":"HGV",
+        "Rank Target":0.9333333333,
+        "prediction":0.5390022397,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "1031":{
+        "index":1735603200000,
+        "company ID":"MGM",
+        "Rank Target":0.6,
+        "prediction":0.5356407762,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "1032":{
+        "index":1735603200000,
+        "company ID":"PENN",
+        "Rank Target":0.6666666667,
+        "prediction":0.4902625978,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "1023":{
+        "index":1735603200000,
+        "company ID":"CNTY",
+        "Rank Target":0.0666666667,
+        "prediction":0.4549722672,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1026":{
+        "index":1735603200000,
+        "company ID":"FLL",
+        "Rank Target":0.4666666667,
+        "prediction":0.4452065825,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "1025":{
+        "index":1735603200000,
+        "company ID":"CZR",
+        "Rank Target":0.3333333333,
+        "prediction":0.4331910312,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "1021":{
+        "index":1735603200000,
+        "company ID":"BALY",
+        "Rank Target":0.1333333333,
+        "prediction":0.4147240818,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "1024":{
+        "index":1735603200000,
+        "company ID":"CPHC",
+        "Rank Target":0.5333333333,
+        "prediction":0.4119765759,
+        "trueRank":8.0,
+        "predictionRank":15.0
+    },
+    "1047":{
+        "index":1743379200000,
+        "company ID":"PENN",
+        "Rank Target":0.3333333333,
+        "prediction":0.6008277535,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "1045":{
+        "index":1743379200000,
+        "company ID":"MCRI",
+        "Rank Target":0.2666666667,
+        "prediction":0.5974080563,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "1049":{
+        "index":1743379200000,
+        "company ID":"VAC",
+        "Rank Target":0.8666666667,
+        "prediction":0.5682100058,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1044":{
+        "index":1743379200000,
+        "company ID":"LVS",
+        "Rank Target":0.6,
+        "prediction":0.5585218072,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1046":{
+        "index":1743379200000,
+        "company ID":"MGM",
+        "Rank Target":0.6666666667,
+        "prediction":0.5413685441,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1037":{
+        "index":1743379200000,
+        "company ID":"BYD",
+        "Rank Target":0.7333333333,
+        "prediction":0.5225661993,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "1048":{
+        "index":1743379200000,
+        "company ID":"RRR",
+        "Rank Target":0.9333333333,
+        "prediction":0.5222113729,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "1041":{
+        "index":1743379200000,
+        "company ID":"FLL",
+        "Rank Target":0.1333333333,
+        "prediction":0.5042537451,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "1042":{
+        "index":1743379200000,
+        "company ID":"GDEN",
+        "Rank Target":0.4,
+        "prediction":0.5006145239,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "1039":{
+        "index":1743379200000,
+        "company ID":"CPHC",
+        "Rank Target":0.2,
+        "prediction":0.4930177927,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1040":{
+        "index":1743379200000,
+        "company ID":"CZR",
+        "Rank Target":0.5333333333,
+        "prediction":0.4896072149,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "1043":{
+        "index":1743379200000,
+        "company ID":"HGV",
+        "Rank Target":0.4666666667,
+        "prediction":0.4487348497,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "1050":{
+        "index":1743379200000,
+        "company ID":"WYNN",
+        "Rank Target":0.8,
+        "prediction":0.385492146,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "1036":{
+        "index":1743379200000,
+        "company ID":"BALY",
+        "Rank Target":0.0666666667,
+        "prediction":0.3590659201,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "1038":{
+        "index":1743379200000,
+        "company ID":"CNTY",
+        "Rank Target":1.0,
+        "prediction":0.3499898612,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    }
+}

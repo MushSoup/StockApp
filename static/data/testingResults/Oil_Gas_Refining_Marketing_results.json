@@ -1,0 +1,1562 @@
+{
+    "861":{
+        "index":1648684800000,
+        "company ID":"CVI",
+        "Rank Target":1.0,
+        "prediction":0.691706717,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "871":{
+        "index":1648684800000,
+        "company ID":"SUN",
+        "Rank Target":0.2666666667,
+        "prediction":0.6547870636,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "870":{
+        "index":1648684800000,
+        "company ID":"SGU",
+        "Rank Target":0.2,
+        "prediction":0.6128259897,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "863":{
+        "index":1648684800000,
+        "company ID":"DK",
+        "Rank Target":0.8666666667,
+        "prediction":0.6005397439,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "872":{
+        "index":1648684800000,
+        "company ID":"VLO",
+        "Rank Target":0.6,
+        "prediction":0.5861265659,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "865":{
+        "index":1648684800000,
+        "company ID":"IEP",
+        "Rank Target":0.4,
+        "prediction":0.582857728,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "869":{
+        "index":1648684800000,
+        "company ID":"PSX",
+        "Rank Target":0.4666666667,
+        "prediction":0.5792152882,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "868":{
+        "index":1648684800000,
+        "company ID":"PBF",
+        "Rank Target":0.9333333333,
+        "prediction":0.5634668469,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "866":{
+        "index":1648684800000,
+        "company ID":"MPC",
+        "Rank Target":0.5333333333,
+        "prediction":0.5586491227,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "862":{
+        "index":1648684800000,
+        "company ID":"DINO",
+        "Rank Target":0.7333333333,
+        "prediction":0.5530763268,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "859":{
+        "index":1648684800000,
+        "company ID":"CAPL",
+        "Rank Target":0.3333333333,
+        "prediction":0.5314698219,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "867":{
+        "index":1648684800000,
+        "company ID":"PARR",
+        "Rank Target":0.8,
+        "prediction":0.5241854787,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "873":{
+        "index":1648684800000,
+        "company ID":"WKC",
+        "Rank Target":0.1333333333,
+        "prediction":0.4373698235,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "864":{
+        "index":1648684800000,
+        "company ID":"DKL",
+        "Rank Target":0.6666666667,
+        "prediction":0.4264912903,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "860":{
+        "index":1648684800000,
+        "company ID":"CLNE",
+        "Rank Target":0.0666666667,
+        "prediction":0.3881003857,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "877":{
+        "index":1656547200000,
+        "company ID":"DINO",
+        "Rank Target":1.0,
+        "prediction":0.768304944,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "883":{
+        "index":1656547200000,
+        "company ID":"PBF",
+        "Rank Target":0.9333333333,
+        "prediction":0.7436571717,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "887":{
+        "index":1656547200000,
+        "company ID":"VLO",
+        "Rank Target":0.3333333333,
+        "prediction":0.7304204106,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "882":{
+        "index":1656547200000,
+        "company ID":"PARR",
+        "Rank Target":0.4,
+        "prediction":0.6978315711,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "881":{
+        "index":1656547200000,
+        "company ID":"MPC",
+        "Rank Target":0.8666666667,
+        "prediction":0.6968744993,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "878":{
+        "index":1656547200000,
+        "company ID":"DK",
+        "Rank Target":0.6666666667,
+        "prediction":0.6942854524,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "884":{
+        "index":1656547200000,
+        "company ID":"PSX",
+        "Rank Target":0.2,
+        "prediction":0.6581608057,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "876":{
+        "index":1656547200000,
+        "company ID":"CVI",
+        "Rank Target":0.2666666667,
+        "prediction":0.6514083147,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "886":{
+        "index":1656547200000,
+        "company ID":"SUN",
+        "Rank Target":0.5333333333,
+        "prediction":0.575314343,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "888":{
+        "index":1656547200000,
+        "company ID":"WKC",
+        "Rank Target":0.8,
+        "prediction":0.5498825908,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "874":{
+        "index":1656547200000,
+        "company ID":"CAPL",
+        "Rank Target":0.1333333333,
+        "prediction":0.5378069878,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "875":{
+        "index":1656547200000,
+        "company ID":"CLNE",
+        "Rank Target":0.7333333333,
+        "prediction":0.5266536474,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "885":{
+        "index":1656547200000,
+        "company ID":"SGU",
+        "Rank Target":0.0666666667,
+        "prediction":0.4972837567,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "880":{
+        "index":1656547200000,
+        "company ID":"IEP",
+        "Rank Target":0.4666666667,
+        "prediction":0.4790497124,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "879":{
+        "index":1656547200000,
+        "company ID":"DKL",
+        "Rank Target":0.6,
+        "prediction":0.462952733,
+        "trueRank":7.0,
+        "predictionRank":15.0
+    },
+    "897":{
+        "index":1664496000000,
+        "company ID":"PARR",
+        "Rank Target":0.9333333333,
+        "prediction":0.714823246,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "892":{
+        "index":1664496000000,
+        "company ID":"DINO",
+        "Rank Target":0.2,
+        "prediction":0.6993896961,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "902":{
+        "index":1664496000000,
+        "company ID":"VLO",
+        "Rank Target":0.7333333333,
+        "prediction":0.6805915236,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "896":{
+        "index":1664496000000,
+        "company ID":"MPC",
+        "Rank Target":0.8,
+        "prediction":0.6723294258,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "899":{
+        "index":1664496000000,
+        "company ID":"PSX",
+        "Rank Target":0.8666666667,
+        "prediction":0.6693834066,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "898":{
+        "index":1664496000000,
+        "company ID":"PBF",
+        "Rank Target":0.6666666667,
+        "prediction":0.6328254938,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "903":{
+        "index":1664496000000,
+        "company ID":"WKC",
+        "Rank Target":0.5333333333,
+        "prediction":0.5645735264,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "891":{
+        "index":1664496000000,
+        "company ID":"CVI",
+        "Rank Target":0.4666666667,
+        "prediction":0.5604801774,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "889":{
+        "index":1664496000000,
+        "company ID":"CAPL",
+        "Rank Target":0.4,
+        "prediction":0.5467620492,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "893":{
+        "index":1664496000000,
+        "company ID":"DK",
+        "Rank Target":0.2666666667,
+        "prediction":0.5192863941,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "901":{
+        "index":1664496000000,
+        "company ID":"SUN",
+        "Rank Target":0.6,
+        "prediction":0.5068337321,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "890":{
+        "index":1664496000000,
+        "company ID":"CLNE",
+        "Rank Target":0.1333333333,
+        "prediction":0.5036476254,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "895":{
+        "index":1664496000000,
+        "company ID":"IEP",
+        "Rank Target":0.3333333333,
+        "prediction":0.4955350161,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "900":{
+        "index":1664496000000,
+        "company ID":"SGU",
+        "Rank Target":1.0,
+        "prediction":0.4718618691,
+        "trueRank":1.0,
+        "predictionRank":14.0
+    },
+    "894":{
+        "index":1664496000000,
+        "company ID":"DKL",
+        "Rank Target":0.0666666667,
+        "prediction":0.4600225687,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "917":{
+        "index":1672444800000,
+        "company ID":"VLO",
+        "Rank Target":0.8,
+        "prediction":0.6825888157,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "906":{
+        "index":1672444800000,
+        "company ID":"CVI",
+        "Rank Target":0.7333333333,
+        "prediction":0.6634112597,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "907":{
+        "index":1672444800000,
+        "company ID":"DINO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6393153667,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "911":{
+        "index":1672444800000,
+        "company ID":"MPC",
+        "Rank Target":0.9333333333,
+        "prediction":0.6322914362,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "913":{
+        "index":1672444800000,
+        "company ID":"PBF",
+        "Rank Target":0.8666666667,
+        "prediction":0.6069319248,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "914":{
+        "index":1672444800000,
+        "company ID":"PSX",
+        "Rank Target":0.2666666667,
+        "prediction":0.5901933312,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "912":{
+        "index":1672444800000,
+        "company ID":"PARR",
+        "Rank Target":1.0,
+        "prediction":0.5801563859,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "908":{
+        "index":1672444800000,
+        "company ID":"DK",
+        "Rank Target":0.1333333333,
+        "prediction":0.546125114,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "918":{
+        "index":1672444800000,
+        "company ID":"WKC",
+        "Rank Target":0.2,
+        "prediction":0.5395354033,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "915":{
+        "index":1672444800000,
+        "company ID":"SGU",
+        "Rank Target":0.6666666667,
+        "prediction":0.5289641023,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "916":{
+        "index":1672444800000,
+        "company ID":"SUN",
+        "Rank Target":0.4,
+        "prediction":0.5051021576,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "904":{
+        "index":1672444800000,
+        "company ID":"CAPL",
+        "Rank Target":0.5333333333,
+        "prediction":0.4975901246,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "910":{
+        "index":1672444800000,
+        "company ID":"IEP",
+        "Rank Target":0.4666666667,
+        "prediction":0.4757028222,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "909":{
+        "index":1672444800000,
+        "company ID":"DKL",
+        "Rank Target":0.6,
+        "prediction":0.4513914585,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "905":{
+        "index":1672444800000,
+        "company ID":"CLNE",
+        "Rank Target":0.0666666667,
+        "prediction":0.38078174,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "927":{
+        "index":1680220800000,
+        "company ID":"PARR",
+        "Rank Target":0.3333333333,
+        "prediction":0.7585273981,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "921":{
+        "index":1680220800000,
+        "company ID":"CVI",
+        "Rank Target":0.4,
+        "prediction":0.7162272334,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "932":{
+        "index":1680220800000,
+        "company ID":"VLO",
+        "Rank Target":0.2,
+        "prediction":0.6595642567,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "926":{
+        "index":1680220800000,
+        "company ID":"MPC",
+        "Rank Target":0.2666666667,
+        "prediction":0.6503808498,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "930":{
+        "index":1680220800000,
+        "company ID":"SGU",
+        "Rank Target":0.8666666667,
+        "prediction":0.6287745237,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "931":{
+        "index":1680220800000,
+        "company ID":"SUN",
+        "Rank Target":0.7333333333,
+        "prediction":0.6107130647,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "929":{
+        "index":1680220800000,
+        "company ID":"PSX",
+        "Rank Target":0.5333333333,
+        "prediction":0.6020401716,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "923":{
+        "index":1680220800000,
+        "company ID":"DK",
+        "Rank Target":0.8,
+        "prediction":0.5930418968,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "928":{
+        "index":1680220800000,
+        "company ID":"PBF",
+        "Rank Target":0.6666666667,
+        "prediction":0.5883512497,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "922":{
+        "index":1680220800000,
+        "company ID":"DINO",
+        "Rank Target":0.4666666667,
+        "prediction":0.5783815384,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "933":{
+        "index":1680220800000,
+        "company ID":"WKC",
+        "Rank Target":0.1333333333,
+        "prediction":0.5781776309,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "925":{
+        "index":1680220800000,
+        "company ID":"IEP",
+        "Rank Target":0.0666666667,
+        "prediction":0.5531160235,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "924":{
+        "index":1680220800000,
+        "company ID":"DKL",
+        "Rank Target":0.9333333333,
+        "prediction":0.5064073205,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "919":{
+        "index":1680220800000,
+        "company ID":"CAPL",
+        "Rank Target":0.6,
+        "prediction":0.4865633249,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "920":{
+        "index":1680220800000,
+        "company ID":"CLNE",
+        "Rank Target":1.0,
+        "prediction":0.4561055303,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "937":{
+        "index":1688083200000,
+        "company ID":"DINO",
+        "Rank Target":0.8,
+        "prediction":0.6781941652,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "934":{
+        "index":1688083200000,
+        "company ID":"CAPL",
+        "Rank Target":0.4,
+        "prediction":0.6064302921,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "947":{
+        "index":1688083200000,
+        "company ID":"VLO",
+        "Rank Target":0.6666666667,
+        "prediction":0.573892355,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "942":{
+        "index":1688083200000,
+        "company ID":"PARR",
+        "Rank Target":1.0,
+        "prediction":0.5589202642,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "939":{
+        "index":1688083200000,
+        "company ID":"DKL",
+        "Rank Target":0.2,
+        "prediction":0.5553346872,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "944":{
+        "index":1688083200000,
+        "company ID":"PSX",
+        "Rank Target":0.7333333333,
+        "prediction":0.5514056087,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "941":{
+        "index":1688083200000,
+        "company ID":"MPC",
+        "Rank Target":0.8666666667,
+        "prediction":0.5462523103,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "946":{
+        "index":1688083200000,
+        "company ID":"SUN",
+        "Rank Target":0.4666666667,
+        "prediction":0.530700922,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "943":{
+        "index":1688083200000,
+        "company ID":"PBF",
+        "Rank Target":0.9333333333,
+        "prediction":0.5207039714,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "940":{
+        "index":1688083200000,
+        "company ID":"IEP",
+        "Rank Target":0.0666666667,
+        "prediction":0.5139731765,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "936":{
+        "index":1688083200000,
+        "company ID":"CVI",
+        "Rank Target":0.5333333333,
+        "prediction":0.5118515491,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "948":{
+        "index":1688083200000,
+        "company ID":"WKC",
+        "Rank Target":0.3333333333,
+        "prediction":0.4943746328,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "938":{
+        "index":1688083200000,
+        "company ID":"DK",
+        "Rank Target":0.6,
+        "prediction":0.4867160022,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "945":{
+        "index":1688083200000,
+        "company ID":"SGU",
+        "Rank Target":0.2666666667,
+        "prediction":0.4763692319,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "935":{
+        "index":1688083200000,
+        "company ID":"CLNE",
+        "Rank Target":0.1333333333,
+        "prediction":0.3919011354,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "952":{
+        "index":1696032000000,
+        "company ID":"DINO",
+        "Rank Target":0.6,
+        "prediction":0.6363031864,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "953":{
+        "index":1696032000000,
+        "company ID":"DK",
+        "Rank Target":0.2666666667,
+        "prediction":0.6137946844,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "957":{
+        "index":1696032000000,
+        "company ID":"PARR",
+        "Rank Target":0.7333333333,
+        "prediction":0.6111833453,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "958":{
+        "index":1696032000000,
+        "company ID":"PBF",
+        "Rank Target":0.0666666667,
+        "prediction":0.6063070893,
+        "trueRank":15.0,
+        "predictionRank":4.0
+    },
+    "961":{
+        "index":1696032000000,
+        "company ID":"SUN",
+        "Rank Target":1.0,
+        "prediction":0.6052767634,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "962":{
+        "index":1696032000000,
+        "company ID":"VLO",
+        "Rank Target":0.2,
+        "prediction":0.5985999703,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "951":{
+        "index":1696032000000,
+        "company ID":"CVI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5763436556,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "956":{
+        "index":1696032000000,
+        "company ID":"MPC",
+        "Rank Target":0.4666666667,
+        "prediction":0.5395480394,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "954":{
+        "index":1696032000000,
+        "company ID":"DKL",
+        "Rank Target":0.8,
+        "prediction":0.5284435153,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "959":{
+        "index":1696032000000,
+        "company ID":"PSX",
+        "Rank Target":0.9333333333,
+        "prediction":0.514618516,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "955":{
+        "index":1696032000000,
+        "company ID":"IEP",
+        "Rank Target":0.1333333333,
+        "prediction":0.4838025272,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "960":{
+        "index":1696032000000,
+        "company ID":"SGU",
+        "Rank Target":0.4,
+        "prediction":0.4772595167,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "949":{
+        "index":1696032000000,
+        "company ID":"CAPL",
+        "Rank Target":0.8666666667,
+        "prediction":0.4587682188,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "963":{
+        "index":1696032000000,
+        "company ID":"WKC",
+        "Rank Target":0.6666666667,
+        "prediction":0.4241688251,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "950":{
+        "index":1696032000000,
+        "company ID":"CLNE",
+        "Rank Target":0.5333333333,
+        "prediction":0.3396936953,
+        "trueRank":8.0,
+        "predictionRank":15.0
+    },
+    "972":{
+        "index":1703980800000,
+        "company ID":"PARR",
+        "Rank Target":0.4,
+        "prediction":0.6505963206,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "976":{
+        "index":1703980800000,
+        "company ID":"SUN",
+        "Rank Target":0.4666666667,
+        "prediction":0.5998396277,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "977":{
+        "index":1703980800000,
+        "company ID":"VLO",
+        "Rank Target":0.9333333333,
+        "prediction":0.5770795941,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "964":{
+        "index":1703980800000,
+        "company ID":"CAPL",
+        "Rank Target":0.2666666667,
+        "prediction":0.5371075869,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "973":{
+        "index":1703980800000,
+        "company ID":"PBF",
+        "Rank Target":1.0,
+        "prediction":0.5231320858,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "974":{
+        "index":1703980800000,
+        "company ID":"PSX",
+        "Rank Target":0.8,
+        "prediction":0.5219014287,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "971":{
+        "index":1703980800000,
+        "company ID":"MPC",
+        "Rank Target":0.8666666667,
+        "prediction":0.4943955541,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "970":{
+        "index":1703980800000,
+        "company ID":"IEP",
+        "Rank Target":0.3333333333,
+        "prediction":0.4894205332,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "967":{
+        "index":1703980800000,
+        "company ID":"DINO",
+        "Rank Target":0.5333333333,
+        "prediction":0.4854760468,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "969":{
+        "index":1703980800000,
+        "company ID":"DKL",
+        "Rank Target":0.2,
+        "prediction":0.4853205383,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "966":{
+        "index":1703980800000,
+        "company ID":"CVI",
+        "Rank Target":0.6666666667,
+        "prediction":0.4830194712,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "975":{
+        "index":1703980800000,
+        "company ID":"SGU",
+        "Rank Target":0.1333333333,
+        "prediction":0.4603463709,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "978":{
+        "index":1703980800000,
+        "company ID":"WKC",
+        "Rank Target":0.7333333333,
+        "prediction":0.4435617328,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "968":{
+        "index":1703980800000,
+        "company ID":"DK",
+        "Rank Target":0.6,
+        "prediction":0.4377762675,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "965":{
+        "index":1703980800000,
+        "company ID":"CLNE",
+        "Rank Target":0.0666666667,
+        "prediction":0.3841527402,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "991":{
+        "index":1711843200000,
+        "company ID":"SUN",
+        "Rank Target":0.6666666667,
+        "prediction":0.6731703281,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "982":{
+        "index":1711843200000,
+        "company ID":"DINO",
+        "Rank Target":0.4666666667,
+        "prediction":0.671333611,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "984":{
+        "index":1711843200000,
+        "company ID":"DKL",
+        "Rank Target":0.8666666667,
+        "prediction":0.6551593542,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "990":{
+        "index":1711843200000,
+        "company ID":"SGU",
+        "Rank Target":0.9333333333,
+        "prediction":0.6348417401,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "981":{
+        "index":1711843200000,
+        "company ID":"CVI",
+        "Rank Target":0.1333333333,
+        "prediction":0.6181958914,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "992":{
+        "index":1711843200000,
+        "company ID":"VLO",
+        "Rank Target":0.5333333333,
+        "prediction":0.6143032312,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "986":{
+        "index":1711843200000,
+        "company ID":"MPC",
+        "Rank Target":0.3333333333,
+        "prediction":0.6122305989,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "987":{
+        "index":1711843200000,
+        "company ID":"PARR",
+        "Rank Target":0.0666666667,
+        "prediction":0.6097743511,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "985":{
+        "index":1711843200000,
+        "company ID":"IEP",
+        "Rank Target":0.8,
+        "prediction":0.5382446647,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "988":{
+        "index":1711843200000,
+        "company ID":"PBF",
+        "Rank Target":0.2,
+        "prediction":0.5222300887,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "983":{
+        "index":1711843200000,
+        "company ID":"DK",
+        "Rank Target":0.2666666667,
+        "prediction":0.4866845608,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "993":{
+        "index":1711843200000,
+        "company ID":"WKC",
+        "Rank Target":0.7333333333,
+        "prediction":0.4384201765,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "989":{
+        "index":1711843200000,
+        "company ID":"PSX",
+        "Rank Target":0.4,
+        "prediction":0.4352234006,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "979":{
+        "index":1711843200000,
+        "company ID":"CAPL",
+        "Rank Target":0.6,
+        "prediction":0.4087478817,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "980":{
+        "index":1711843200000,
+        "company ID":"CLNE",
+        "Rank Target":1.0,
+        "prediction":0.3843564391,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1001":{
+        "index":1719705600000,
+        "company ID":"MPC",
+        "Rank Target":0.5333333333,
+        "prediction":0.6393687725,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "1002":{
+        "index":1719705600000,
+        "company ID":"PARR",
+        "Rank Target":0.1333333333,
+        "prediction":0.6300118566,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "994":{
+        "index":1719705600000,
+        "company ID":"CAPL",
+        "Rank Target":0.7333333333,
+        "prediction":0.6098855734,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "1008":{
+        "index":1719705600000,
+        "company ID":"WKC",
+        "Rank Target":0.9333333333,
+        "prediction":0.6063377261,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "1007":{
+        "index":1719705600000,
+        "company ID":"VLO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5849425793,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "1004":{
+        "index":1719705600000,
+        "company ID":"PSX",
+        "Rank Target":0.6,
+        "prediction":0.5768492222,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "999":{
+        "index":1719705600000,
+        "company ID":"DKL",
+        "Rank Target":0.8,
+        "prediction":0.554912746,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "1006":{
+        "index":1719705600000,
+        "company ID":"SUN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5538911223,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "997":{
+        "index":1719705600000,
+        "company ID":"DINO",
+        "Rank Target":0.4,
+        "prediction":0.5451589823,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "996":{
+        "index":1719705600000,
+        "company ID":"CVI",
+        "Rank Target":0.4666666667,
+        "prediction":0.5423278213,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "1003":{
+        "index":1719705600000,
+        "company ID":"PBF",
+        "Rank Target":0.0666666667,
+        "prediction":0.5324838758,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1000":{
+        "index":1719705600000,
+        "company ID":"IEP",
+        "Rank Target":0.2666666667,
+        "prediction":0.5269098878,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1005":{
+        "index":1719705600000,
+        "company ID":"SGU",
+        "Rank Target":0.8666666667,
+        "prediction":0.5044124722,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "998":{
+        "index":1719705600000,
+        "company ID":"DK",
+        "Rank Target":0.2,
+        "prediction":0.4027942419,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "995":{
+        "index":1719705600000,
+        "company ID":"CLNE",
+        "Rank Target":1.0,
+        "prediction":0.3665361404,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1017":{
+        "index":1727654400000,
+        "company ID":"PARR",
+        "Rank Target":0.5333333333,
+        "prediction":0.718380332,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "1022":{
+        "index":1727654400000,
+        "company ID":"VLO",
+        "Rank Target":0.6,
+        "prediction":0.5925684571,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1016":{
+        "index":1727654400000,
+        "company ID":"MPC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5780556202,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1019":{
+        "index":1727654400000,
+        "company ID":"PSX",
+        "Rank Target":0.4,
+        "prediction":0.5730879903,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "1021":{
+        "index":1727654400000,
+        "company ID":"SUN",
+        "Rank Target":0.8666666667,
+        "prediction":0.558881402,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "1015":{
+        "index":1727654400000,
+        "company ID":"IEP",
+        "Rank Target":0.0666666667,
+        "prediction":0.5583877563,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "1014":{
+        "index":1727654400000,
+        "company ID":"DKL",
+        "Rank Target":0.8,
+        "prediction":0.5298319459,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "1012":{
+        "index":1727654400000,
+        "company ID":"DINO",
+        "Rank Target":0.1333333333,
+        "prediction":0.5008422136,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "1011":{
+        "index":1727654400000,
+        "company ID":"CVI",
+        "Rank Target":0.2,
+        "prediction":0.4776548147,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1009":{
+        "index":1727654400000,
+        "company ID":"CAPL",
+        "Rank Target":1.0,
+        "prediction":0.4539006352,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "1023":{
+        "index":1727654400000,
+        "company ID":"WKC",
+        "Rank Target":0.7333333333,
+        "prediction":0.4527142644,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "1018":{
+        "index":1727654400000,
+        "company ID":"PBF",
+        "Rank Target":0.2666666667,
+        "prediction":0.4500808716,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1020":{
+        "index":1727654400000,
+        "company ID":"SGU",
+        "Rank Target":0.9333333333,
+        "prediction":0.4400010705,
+        "trueRank":2.0,
+        "predictionRank":13.0
+    },
+    "1010":{
+        "index":1727654400000,
+        "company ID":"CLNE",
+        "Rank Target":0.4666666667,
+        "prediction":0.4296707809,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "1013":{
+        "index":1727654400000,
+        "company ID":"DK",
+        "Rank Target":0.6666666667,
+        "prediction":0.3959743679,
+        "trueRank":6.0,
+        "predictionRank":15.0
+    },
+    "1036":{
+        "index":1735603200000,
+        "company ID":"SUN",
+        "Rank Target":0.9333333333,
+        "prediction":0.6827328801,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1035":{
+        "index":1735603200000,
+        "company ID":"SGU",
+        "Rank Target":1.0,
+        "prediction":0.5883101821,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "1026":{
+        "index":1735603200000,
+        "company ID":"CVI",
+        "Rank Target":0.5333333333,
+        "prediction":0.5733568072,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "1034":{
+        "index":1735603200000,
+        "company ID":"PSX",
+        "Rank Target":0.6,
+        "prediction":0.5501682758,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1029":{
+        "index":1735603200000,
+        "company ID":"DKL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5367578864,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1037":{
+        "index":1735603200000,
+        "company ID":"VLO",
+        "Rank Target":0.8,
+        "prediction":0.5304887891,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "1031":{
+        "index":1735603200000,
+        "company ID":"MPC",
+        "Rank Target":0.4,
+        "prediction":0.5133876801,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "1024":{
+        "index":1735603200000,
+        "company ID":"CAPL",
+        "Rank Target":0.8666666667,
+        "prediction":0.5043183565,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "1038":{
+        "index":1735603200000,
+        "company ID":"WKC",
+        "Rank Target":0.4666666667,
+        "prediction":0.5040292144,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "1032":{
+        "index":1735603200000,
+        "company ID":"PARR",
+        "Rank Target":0.2666666667,
+        "prediction":0.4885918796,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "1030":{
+        "index":1735603200000,
+        "company ID":"IEP",
+        "Rank Target":0.7333333333,
+        "prediction":0.4834091067,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "1027":{
+        "index":1735603200000,
+        "company ID":"DINO",
+        "Rank Target":0.3333333333,
+        "prediction":0.4434326589,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "1025":{
+        "index":1735603200000,
+        "company ID":"CLNE",
+        "Rank Target":0.0666666667,
+        "prediction":0.401537329,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "1033":{
+        "index":1735603200000,
+        "company ID":"PBF",
+        "Rank Target":0.1333333333,
+        "prediction":0.3816175163,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "1028":{
+        "index":1735603200000,
+        "company ID":"DK",
+        "Rank Target":0.2,
+        "prediction":0.335449636,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "1050":{
+        "index":1743379200000,
+        "company ID":"SGU",
+        "Rank Target":0.0666666667,
+        "prediction":0.6823561192,
+        "trueRank":15.0,
+        "predictionRank":1.0
+    },
+    "1042":{
+        "index":1743379200000,
+        "company ID":"DINO",
+        "Rank Target":0.8,
+        "prediction":0.6627868414,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "1051":{
+        "index":1743379200000,
+        "company ID":"SUN",
+        "Rank Target":0.2666666667,
+        "prediction":0.6563975811,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "1044":{
+        "index":1743379200000,
+        "company ID":"DKL",
+        "Rank Target":0.3333333333,
+        "prediction":0.596206069,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "1046":{
+        "index":1743379200000,
+        "company ID":"MPC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5272891521,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1052":{
+        "index":1743379200000,
+        "company ID":"VLO",
+        "Rank Target":0.5333333333,
+        "prediction":0.5226844549,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "1047":{
+        "index":1743379200000,
+        "company ID":"PARR",
+        "Rank Target":1.0,
+        "prediction":0.522151947,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "1049":{
+        "index":1743379200000,
+        "company ID":"PSX",
+        "Rank Target":0.4666666667,
+        "prediction":0.5192056894,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1045":{
+        "index":1743379200000,
+        "company ID":"IEP",
+        "Rank Target":0.2,
+        "prediction":0.5164723396,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1039":{
+        "index":1743379200000,
+        "company ID":"CAPL",
+        "Rank Target":0.1333333333,
+        "prediction":0.5048326254,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "1040":{
+        "index":1743379200000,
+        "company ID":"CLNE",
+        "Rank Target":0.6,
+        "prediction":0.466530174,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "1041":{
+        "index":1743379200000,
+        "company ID":"CVI",
+        "Rank Target":0.8666666667,
+        "prediction":0.4527787864,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "1053":{
+        "index":1743379200000,
+        "company ID":"WKC",
+        "Rank Target":0.4,
+        "prediction":0.418959707,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1048":{
+        "index":1743379200000,
+        "company ID":"PBF",
+        "Rank Target":0.7333333333,
+        "prediction":0.4004392028,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "1043":{
+        "index":1743379200000,
+        "company ID":"DK",
+        "Rank Target":0.9333333333,
+        "prediction":0.3797356188,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    }
+}

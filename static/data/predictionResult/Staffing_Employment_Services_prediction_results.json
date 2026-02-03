@@ -1,0 +1,107 @@
+{
+    "1050":{
+        "company ID":"KELYA",
+        "score":0.7776116133,
+        "Rank":1.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":6.6151870111
+    },
+    "1045":{
+        "company ID":"BBSI",
+        "score":0.6687605381,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":2.9345267913
+    },
+    "1053":{
+        "company ID":"MHH",
+        "score":0.641069293,
+        "Rank":3.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":9.8430750053
+    },
+    "1057":{
+        "company ID":"TBI",
+        "score":0.6154735684,
+        "Rank":4.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-10.8270715304
+    },
+    "1047":{
+        "company ID":"HQI",
+        "score":0.5687503219,
+        "Rank":5.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":-7.0352751553
+    },
+    "1049":{
+        "company ID":"JOB",
+        "score":0.56485641,
+        "Rank":6.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":4.999995125
+    },
+    "1051":{
+        "company ID":"KFRC",
+        "score":0.5593135357,
+        "Rank":7.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-30.750222275
+    },
+    "1056":{
+        "company ID":"RHI",
+        "score":0.5231127739,
+        "Rank":8.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":-18.7362776254
+    },
+    "1058":{
+        "company ID":"TNET",
+        "score":0.5204678178,
+        "Rank":9.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":-8.4857308556
+    },
+    "1044":{
+        "company ID":"ATLN",
+        "score":0.5134083033,
+        "Rank":10.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":48.8262866687
+    },
+    "1046":{
+        "company ID":"BGSF",
+        "score":0.4998808503,
+        "Rank":11.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":-5.5858395028
+    },
+    "1048":{
+        "company ID":"IPDN",
+        "score":0.4975480735,
+        "Rank":12.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":59.1489430352
+    },
+    "1052":{
+        "company ID":"MAN",
+        "score":0.4319932461,
+        "Rank":13.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-13.9629352017
+    },
+    "1055":{
+        "company ID":"NSP",
+        "score":0.4291062951,
+        "Rank":14.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-19.2505163272
+    },
+    "1054":{
+        "company ID":"NIXX",
+        "score":0.3803948462,
+        "Rank":15.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-39.1949149752
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "1501":{
+        "company ID":"TSCO",
+        "score":0.6711034775,
+        "Rank":1.0,
+        "Rank Target":0.5625,
+        "stockDifferencePercentage":4.159655276
+    },
+    "1502":{
+        "company ID":"WINA",
+        "score":0.6616402864,
+        "Rank":2.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":35.5640655256
+    },
+    "1498":{
+        "company ID":"SBH",
+        "score":0.6565467715,
+        "Rank":3.0,
+        "Rank Target":0.9375,
+        "stockDifferencePercentage":59.046700449
+    },
+    "1494":{
+        "company ID":"MUSA",
+        "score":0.621050477,
+        "Rank":4.0,
+        "Rank Target":0.3125,
+        "stockDifferencePercentage":-7.2127142018
+    },
+    "1497":{
+        "company ID":"ONEW",
+        "score":0.6011712551,
+        "Rank":5.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":9.2666625973
+    },
+    "1487":{
+        "company ID":"ARHS",
+        "score":0.5976731181,
+        "Rank":6.0,
+        "Rank Target":0.6875,
+        "stockDifferencePercentage":12.6730515111
+    },
+    "1488":{
+        "company ID":"ARKO",
+        "score":0.5825333595,
+        "Rank":7.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-1.5461767476
+    },
+    "1490":{
+        "company ID":"EVGO",
+        "score":0.5792176723,
+        "Rank":8.0,
+        "Rank Target":0.8125,
+        "stockDifferencePercentage":33.8983000598
+    },
+    "1499":{
+        "company ID":"SVV",
+        "score":0.577801764,
+        "Rank":9.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":25.0919072941
+    },
+    "1492":{
+        "company ID":"HZO",
+        "score":0.5655563474,
+        "Rank":10.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-6.4794856008
+    },
+    "1493":{
+        "company ID":"LESL",
+        "score":0.521984756,
+        "Rank":11.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-20.3349267836
+    },
+    "1489":{
+        "company ID":"BARK",
+        "score":0.519139111,
+        "Rank":12.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-10.7338435193
+    },
+    "1500":{
+        "company ID":"TLF",
+        "score":0.4792183638,
+        "Rank":13.0,
+        "Rank Target":0.4375,
+        "stockDifferencePercentage":-3.8095276307
+    },
+    "1491":{
+        "company ID":"GRWG",
+        "score":0.4701529145,
+        "Rank":14.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":106.9306865206
+    },
+    "1496":{
+        "company ID":"OLPX",
+        "score":0.4420422912,
+        "Rank":15.0,
+        "Rank Target":0.1875,
+        "stockDifferencePercentage":-15.8227843805
+    },
+    "1495":{
+        "company ID":"NVVE",
+        "score":0.3327186704,
+        "Rank":16.0,
+        "Rank Target":0.0625,
+        "stockDifferencePercentage":-75.102040717
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "497":{
+        "company ID":"PFGC",
+        "score":0.762568295,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":17.2724181385
+    },
+    "498":{
+        "company ID":"SYY",
+        "score":0.6743555665,
+        "Rank":2.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":6.0378264358
+    },
+    "492":{
+        "company ID":"ANDE",
+        "score":0.6402145624,
+        "Rank":3.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":3.2266497944
+    },
+    "499":{
+        "company ID":"USFD",
+        "score":0.6378253102,
+        "Rank":4.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-2.1295565008
+    },
+    "493":{
+        "company ID":"CHEF",
+        "score":0.6189767718,
+        "Rank":5.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-8.5392543037
+    },
+    "494":{
+        "company ID":"DIT",
+        "score":0.5989411473,
+        "Rank":6.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":0.3727895642
+    },
+    "495":{
+        "company ID":"HFFG",
+        "score":0.4618882239,
+        "Rank":7.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-17.5149645158
+    },
+    "496":{
+        "company ID":"MTEX",
+        "score":0.3968136609,
+        "Rank":8.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":-7.4999955946
+    }
+}

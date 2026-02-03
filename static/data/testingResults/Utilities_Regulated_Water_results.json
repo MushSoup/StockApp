@@ -1,0 +1,1042 @@
+{
+    "646":{
+        "index":1648684800000,
+        "company ID":"WTRG",
+        "Rank Target":0.5,
+        "prediction":0.7287093401,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "645":{
+        "index":1648684800000,
+        "company ID":"MSEX",
+        "Rank Target":0.2,
+        "prediction":0.7244237065,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "638":{
+        "index":1648684800000,
+        "company ID":"ARTNA",
+        "Rank Target":0.9,
+        "prediction":0.6263415813,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "642":{
+        "index":1648684800000,
+        "company ID":"CWT",
+        "Rank Target":0.7,
+        "prediction":0.615436852,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "643":{
+        "index":1648684800000,
+        "company ID":"GWRS",
+        "Rank Target":0.1,
+        "prediction":0.5860946774,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "644":{
+        "index":1648684800000,
+        "company ID":"HTO",
+        "Rank Target":0.4,
+        "prediction":0.5561146736,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "647":{
+        "index":1648684800000,
+        "company ID":"YORW",
+        "Rank Target":0.8,
+        "prediction":0.5524691939,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "641":{
+        "index":1648684800000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.5334638357,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "640":{
+        "index":1648684800000,
+        "company ID":"AWR",
+        "Rank Target":0.6,
+        "prediction":0.5282973051,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "639":{
+        "index":1648684800000,
+        "company ID":"AWK",
+        "Rank Target":0.3,
+        "prediction":0.4610141218,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "657":{
+        "index":1656547200000,
+        "company ID":"YORW",
+        "Rank Target":0.7,
+        "prediction":0.5704226494,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "648":{
+        "index":1656547200000,
+        "company ID":"ARTNA",
+        "Rank Target":1.0,
+        "prediction":0.5525650382,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "653":{
+        "index":1656547200000,
+        "company ID":"GWRS",
+        "Rank Target":0.3,
+        "prediction":0.5449801683,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "652":{
+        "index":1656547200000,
+        "company ID":"CWT",
+        "Rank Target":0.9,
+        "prediction":0.5438992977,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "651":{
+        "index":1656547200000,
+        "company ID":"CDZI",
+        "Rank Target":0.1,
+        "prediction":0.5390847325,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "656":{
+        "index":1656547200000,
+        "company ID":"WTRG",
+        "Rank Target":0.5,
+        "prediction":0.5271390676,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "650":{
+        "index":1656547200000,
+        "company ID":"AWR",
+        "Rank Target":0.8,
+        "prediction":0.514239192,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "649":{
+        "index":1656547200000,
+        "company ID":"AWK",
+        "Rank Target":0.4,
+        "prediction":0.5039479733,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "655":{
+        "index":1656547200000,
+        "company ID":"MSEX",
+        "Rank Target":0.2,
+        "prediction":0.5033774376,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "654":{
+        "index":1656547200000,
+        "company ID":"HTO",
+        "Rank Target":0.6,
+        "prediction":0.4401625395,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "665":{
+        "index":1664496000000,
+        "company ID":"MSEX",
+        "Rank Target":0.1,
+        "prediction":0.75685215,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "662":{
+        "index":1664496000000,
+        "company ID":"CWT",
+        "Rank Target":0.3,
+        "prediction":0.5982428193,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "661":{
+        "index":1664496000000,
+        "company ID":"CDZI",
+        "Rank Target":0.9,
+        "prediction":0.5924461484,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "658":{
+        "index":1664496000000,
+        "company ID":"ARTNA",
+        "Rank Target":0.8,
+        "prediction":0.5893631577,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "664":{
+        "index":1664496000000,
+        "company ID":"HTO",
+        "Rank Target":1.0,
+        "prediction":0.5531640649,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "667":{
+        "index":1664496000000,
+        "company ID":"YORW",
+        "Rank Target":0.7,
+        "prediction":0.5282956362,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "663":{
+        "index":1664496000000,
+        "company ID":"GWRS",
+        "Rank Target":0.4,
+        "prediction":0.502923727,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "659":{
+        "index":1664496000000,
+        "company ID":"AWK",
+        "Rank Target":0.6,
+        "prediction":0.5028904676,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "666":{
+        "index":1664496000000,
+        "company ID":"WTRG",
+        "Rank Target":0.2,
+        "prediction":0.4994927645,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "660":{
+        "index":1664496000000,
+        "company ID":"AWR",
+        "Rank Target":0.5,
+        "prediction":0.4740627706,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "674":{
+        "index":1672444800000,
+        "company ID":"HTO",
+        "Rank Target":0.3,
+        "prediction":0.7227191329,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "676":{
+        "index":1672444800000,
+        "company ID":"WTRG",
+        "Rank Target":0.1,
+        "prediction":0.630653739,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "677":{
+        "index":1672444800000,
+        "company ID":"YORW",
+        "Rank Target":0.9,
+        "prediction":0.6244431138,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "670":{
+        "index":1672444800000,
+        "company ID":"AWR",
+        "Rank Target":0.4,
+        "prediction":0.6166547537,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "672":{
+        "index":1672444800000,
+        "company ID":"CWT",
+        "Rank Target":0.6,
+        "prediction":0.590952754,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "675":{
+        "index":1672444800000,
+        "company ID":"MSEX",
+        "Rank Target":0.8,
+        "prediction":0.5626949072,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "673":{
+        "index":1672444800000,
+        "company ID":"GWRS",
+        "Rank Target":0.2,
+        "prediction":0.5451655388,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "669":{
+        "index":1672444800000,
+        "company ID":"AWK",
+        "Rank Target":0.7,
+        "prediction":0.520832479,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "671":{
+        "index":1672444800000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.5032004118,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "668":{
+        "index":1672444800000,
+        "company ID":"ARTNA",
+        "Rank Target":0.5,
+        "prediction":0.478381604,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "683":{
+        "index":1680220800000,
+        "company ID":"GWRS",
+        "Rank Target":1.0,
+        "prediction":0.6949917674,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "679":{
+        "index":1680220800000,
+        "company ID":"AWK",
+        "Rank Target":0.6,
+        "prediction":0.652066946,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "680":{
+        "index":1680220800000,
+        "company ID":"AWR",
+        "Rank Target":0.7,
+        "prediction":0.6355782747,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "686":{
+        "index":1680220800000,
+        "company ID":"WTRG",
+        "Rank Target":0.4,
+        "prediction":0.618987143,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "684":{
+        "index":1680220800000,
+        "company ID":"HTO",
+        "Rank Target":0.5,
+        "prediction":0.5620177984,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "687":{
+        "index":1680220800000,
+        "company ID":"YORW",
+        "Rank Target":0.3,
+        "prediction":0.5456057191,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "685":{
+        "index":1680220800000,
+        "company ID":"MSEX",
+        "Rank Target":0.9,
+        "prediction":0.5207156539,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "681":{
+        "index":1680220800000,
+        "company ID":"CDZI",
+        "Rank Target":0.8,
+        "prediction":0.4761708975,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "682":{
+        "index":1680220800000,
+        "company ID":"CWT",
+        "Rank Target":0.2,
+        "prediction":0.4752880931,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "678":{
+        "index":1680220800000,
+        "company ID":"ARTNA",
+        "Rank Target":0.1,
+        "prediction":0.4726405144,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "689":{
+        "index":1688083200000,
+        "company ID":"AWK",
+        "Rank Target":0.6,
+        "prediction":0.7101243734,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "690":{
+        "index":1688083200000,
+        "company ID":"AWR",
+        "Rank Target":0.8,
+        "prediction":0.6437827349,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "697":{
+        "index":1688083200000,
+        "company ID":"YORW",
+        "Rank Target":0.9,
+        "prediction":0.6346135736,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "695":{
+        "index":1688083200000,
+        "company ID":"MSEX",
+        "Rank Target":0.2,
+        "prediction":0.5990926027,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "688":{
+        "index":1688083200000,
+        "company ID":"ARTNA",
+        "Rank Target":0.7,
+        "prediction":0.5667085052,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "694":{
+        "index":1688083200000,
+        "company ID":"HTO",
+        "Rank Target":0.5,
+        "prediction":0.5478121638,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "693":{
+        "index":1688083200000,
+        "company ID":"GWRS",
+        "Rank Target":0.1,
+        "prediction":0.5244139433,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "691":{
+        "index":1688083200000,
+        "company ID":"CDZI",
+        "Rank Target":0.3,
+        "prediction":0.5008455515,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "692":{
+        "index":1688083200000,
+        "company ID":"CWT",
+        "Rank Target":1.0,
+        "prediction":0.4782527685,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "696":{
+        "index":1688083200000,
+        "company ID":"WTRG",
+        "Rank Target":0.4,
+        "prediction":0.4434317648,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "704":{
+        "index":1696032000000,
+        "company ID":"HTO",
+        "Rank Target":0.8,
+        "prediction":0.6813340187,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "703":{
+        "index":1696032000000,
+        "company ID":"GWRS",
+        "Rank Target":1.0,
+        "prediction":0.6642739773,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "707":{
+        "index":1696032000000,
+        "company ID":"YORW",
+        "Rank Target":0.5,
+        "prediction":0.6466411352,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "700":{
+        "index":1696032000000,
+        "company ID":"AWR",
+        "Rank Target":0.4,
+        "prediction":0.6009687185,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "705":{
+        "index":1696032000000,
+        "company ID":"MSEX",
+        "Rank Target":0.3,
+        "prediction":0.5890087485,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "699":{
+        "index":1696032000000,
+        "company ID":"AWK",
+        "Rank Target":0.7,
+        "prediction":0.5700232387,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "698":{
+        "index":1696032000000,
+        "company ID":"ARTNA",
+        "Rank Target":0.2,
+        "prediction":0.4966477752,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "702":{
+        "index":1696032000000,
+        "company ID":"CWT",
+        "Rank Target":0.6,
+        "prediction":0.4789087474,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "706":{
+        "index":1696032000000,
+        "company ID":"WTRG",
+        "Rank Target":0.9,
+        "prediction":0.4590142965,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "701":{
+        "index":1696032000000,
+        "company ID":"CDZI",
+        "Rank Target":0.1,
+        "prediction":0.4574773312,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "708":{
+        "index":1703980800000,
+        "company ID":"ARTNA",
+        "Rank Target":0.6,
+        "prediction":0.6853844523,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "709":{
+        "index":1703980800000,
+        "company ID":"AWK",
+        "Rank Target":0.5,
+        "prediction":0.6450081468,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "717":{
+        "index":1703980800000,
+        "company ID":"YORW",
+        "Rank Target":0.7,
+        "prediction":0.6088468432,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "715":{
+        "index":1703980800000,
+        "company ID":"MSEX",
+        "Rank Target":0.1,
+        "prediction":0.579097867,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "712":{
+        "index":1703980800000,
+        "company ID":"CWT",
+        "Rank Target":0.3,
+        "prediction":0.5468783975,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "713":{
+        "index":1703980800000,
+        "company ID":"GWRS",
+        "Rank Target":0.8,
+        "prediction":0.5446776152,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "710":{
+        "index":1703980800000,
+        "company ID":"AWR",
+        "Rank Target":0.4,
+        "prediction":0.5259965062,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "711":{
+        "index":1703980800000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.5113134384,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "716":{
+        "index":1703980800000,
+        "company ID":"WTRG",
+        "Rank Target":0.9,
+        "prediction":0.4989756942,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "714":{
+        "index":1703980800000,
+        "company ID":"HTO",
+        "Rank Target":0.2,
+        "prediction":0.389899224,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "718":{
+        "index":1711843200000,
+        "company ID":"ARTNA",
+        "Rank Target":0.2,
+        "prediction":0.6505243778,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "725":{
+        "index":1711843200000,
+        "company ID":"MSEX",
+        "Rank Target":0.8,
+        "prediction":0.6462243795,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "722":{
+        "index":1711843200000,
+        "company ID":"CWT",
+        "Rank Target":0.7,
+        "prediction":0.6334836483,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "726":{
+        "index":1711843200000,
+        "company ID":"WTRG",
+        "Rank Target":0.4,
+        "prediction":0.5785725713,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "727":{
+        "index":1711843200000,
+        "company ID":"YORW",
+        "Rank Target":0.6,
+        "prediction":0.5755387545,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "721":{
+        "index":1711843200000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.5485033989,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "720":{
+        "index":1711843200000,
+        "company ID":"AWR",
+        "Rank Target":0.5,
+        "prediction":0.5454931259,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "719":{
+        "index":1711843200000,
+        "company ID":"AWK",
+        "Rank Target":0.9,
+        "prediction":0.5360390544,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "723":{
+        "index":1711843200000,
+        "company ID":"GWRS",
+        "Rank Target":0.1,
+        "prediction":0.5075921416,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "724":{
+        "index":1711843200000,
+        "company ID":"HTO",
+        "Rank Target":0.3,
+        "prediction":0.4066160321,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "728":{
+        "index":1719705600000,
+        "company ID":"ARTNA",
+        "Rank Target":0.2,
+        "prediction":0.7009461522,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "735":{
+        "index":1719705600000,
+        "company ID":"MSEX",
+        "Rank Target":1.0,
+        "prediction":0.6523454785,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "732":{
+        "index":1719705600000,
+        "company ID":"CWT",
+        "Rank Target":0.7,
+        "prediction":0.588033855,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "729":{
+        "index":1719705600000,
+        "company ID":"AWK",
+        "Rank Target":0.8,
+        "prediction":0.5649319887,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "733":{
+        "index":1719705600000,
+        "company ID":"GWRS",
+        "Rank Target":0.5,
+        "prediction":0.5451128483,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "730":{
+        "index":1719705600000,
+        "company ID":"AWR",
+        "Rank Target":0.9,
+        "prediction":0.5363149047,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "734":{
+        "index":1719705600000,
+        "company ID":"HTO",
+        "Rank Target":0.6,
+        "prediction":0.4902895689,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "736":{
+        "index":1719705600000,
+        "company ID":"WTRG",
+        "Rank Target":0.4,
+        "prediction":0.4752808511,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "737":{
+        "index":1719705600000,
+        "company ID":"YORW",
+        "Rank Target":0.3,
+        "prediction":0.4670037627,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "731":{
+        "index":1719705600000,
+        "company ID":"CDZI",
+        "Rank Target":0.1,
+        "prediction":0.4232499897,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "745":{
+        "index":1727654400000,
+        "company ID":"MSEX",
+        "Rank Target":0.1,
+        "prediction":0.7122632861,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "738":{
+        "index":1727654400000,
+        "company ID":"ARTNA",
+        "Rank Target":0.5,
+        "prediction":0.678894341,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "742":{
+        "index":1727654400000,
+        "company ID":"CWT",
+        "Rank Target":0.3,
+        "prediction":0.6241160035,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "740":{
+        "index":1727654400000,
+        "company ID":"AWR",
+        "Rank Target":0.7,
+        "prediction":0.6219340563,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "739":{
+        "index":1727654400000,
+        "company ID":"AWK",
+        "Rank Target":0.2,
+        "prediction":0.6210843325,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "741":{
+        "index":1727654400000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.5806301236,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "744":{
+        "index":1727654400000,
+        "company ID":"HTO",
+        "Rank Target":0.4,
+        "prediction":0.5163743496,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "747":{
+        "index":1727654400000,
+        "company ID":"YORW",
+        "Rank Target":0.6,
+        "prediction":0.4780376554,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "746":{
+        "index":1727654400000,
+        "company ID":"WTRG",
+        "Rank Target":0.8,
+        "prediction":0.466240555,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "743":{
+        "index":1727654400000,
+        "company ID":"GWRS",
+        "Rank Target":0.9,
+        "prediction":0.4512115121,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "750":{
+        "index":1735603200000,
+        "company ID":"AWR",
+        "Rank Target":0.3,
+        "prediction":0.7334517837,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "755":{
+        "index":1735603200000,
+        "company ID":"MSEX",
+        "Rank Target":1.0,
+        "prediction":0.6866073012,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "749":{
+        "index":1735603200000,
+        "company ID":"AWK",
+        "Rank Target":0.9,
+        "prediction":0.6647611856,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "748":{
+        "index":1735603200000,
+        "company ID":"ARTNA",
+        "Rank Target":0.4,
+        "prediction":0.6406841874,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "756":{
+        "index":1735603200000,
+        "company ID":"WTRG",
+        "Rank Target":0.7,
+        "prediction":0.6129720807,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "751":{
+        "index":1735603200000,
+        "company ID":"CDZI",
+        "Rank Target":0.1,
+        "prediction":0.570922792,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "757":{
+        "index":1735603200000,
+        "company ID":"YORW",
+        "Rank Target":0.5,
+        "prediction":0.565854609,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "754":{
+        "index":1735603200000,
+        "company ID":"HTO",
+        "Rank Target":0.8,
+        "prediction":0.4790325165,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "753":{
+        "index":1735603200000,
+        "company ID":"GWRS",
+        "Rank Target":0.2,
+        "prediction":0.44952631,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "752":{
+        "index":1735603200000,
+        "company ID":"CWT",
+        "Rank Target":0.6,
+        "prediction":0.4276292026,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "766":{
+        "index":1743379200000,
+        "company ID":"WTRG",
+        "Rank Target":0.4,
+        "prediction":0.7298295498,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "758":{
+        "index":1743379200000,
+        "company ID":"ARTNA",
+        "Rank Target":0.8,
+        "prediction":0.7007315755,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "765":{
+        "index":1743379200000,
+        "company ID":"MSEX",
+        "Rank Target":0.1,
+        "prediction":0.6459365487,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "759":{
+        "index":1743379200000,
+        "company ID":"AWK",
+        "Rank Target":0.3,
+        "prediction":0.6405116916,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "760":{
+        "index":1743379200000,
+        "company ID":"AWR",
+        "Rank Target":0.7,
+        "prediction":0.6162701249,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "763":{
+        "index":1743379200000,
+        "company ID":"GWRS",
+        "Rank Target":0.9,
+        "prediction":0.5560212135,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "767":{
+        "index":1743379200000,
+        "company ID":"YORW",
+        "Rank Target":0.2,
+        "prediction":0.5507151484,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "764":{
+        "index":1743379200000,
+        "company ID":"HTO",
+        "Rank Target":0.6,
+        "prediction":0.5236053467,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "761":{
+        "index":1743379200000,
+        "company ID":"CDZI",
+        "Rank Target":1.0,
+        "prediction":0.4809622169,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "762":{
+        "index":1743379200000,
+        "company ID":"CWT",
+        "Rank Target":0.5,
+        "prediction":0.4220416248,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    }
+}

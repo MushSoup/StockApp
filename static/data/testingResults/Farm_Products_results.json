@@ -1,0 +1,1146 @@
+{
+    "483":{
+        "index":1648684800000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.7333378792,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "491":{
+        "index":1648684800000,
+        "company ID":"TSN",
+        "Rank Target":0.9090909091,
+        "prediction":0.7124059796,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "486":{
+        "index":1648684800000,
+        "company ID":"BG",
+        "Rank Target":0.5454545455,
+        "prediction":0.6775177717,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "488":{
+        "index":1648684800000,
+        "company ID":"FDP",
+        "Rank Target":1.0,
+        "prediction":0.6672586203,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "484":{
+        "index":1648684800000,
+        "company ID":"ALCO",
+        "Rank Target":0.8181818182,
+        "prediction":0.6110027432,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "489":{
+        "index":1648684800000,
+        "company ID":"LOCL",
+        "Rank Target":0.0909090909,
+        "prediction":0.5032640696,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "485":{
+        "index":1648684800000,
+        "company ID":"AQB",
+        "Rank Target":0.6363636364,
+        "prediction":0.4969827235,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "493":{
+        "index":1648684800000,
+        "company ID":"VITL",
+        "Rank Target":0.3636363636,
+        "prediction":0.3600124419,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "492":{
+        "index":1648684800000,
+        "company ID":"VFF",
+        "Rank Target":0.2727272727,
+        "prediction":0.349812746,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "490":{
+        "index":1648684800000,
+        "company ID":"SDOT",
+        "Rank Target":0.4545454545,
+        "prediction":0.3371303976,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "487":{
+        "index":1648684800000,
+        "company ID":"EDBL",
+        "Rank Target":0.1818181818,
+        "prediction":0.3033202291,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "494":{
+        "index":1656547200000,
+        "company ID":"ADM",
+        "Rank Target":0.9090909091,
+        "prediction":0.7525314093,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "502":{
+        "index":1656547200000,
+        "company ID":"TSN",
+        "Rank Target":0.5454545455,
+        "prediction":0.7219441533,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "499":{
+        "index":1656547200000,
+        "company ID":"FDP",
+        "Rank Target":0.4545454545,
+        "prediction":0.6942563653,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "497":{
+        "index":1656547200000,
+        "company ID":"BG",
+        "Rank Target":0.7272727273,
+        "prediction":0.6188570261,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "495":{
+        "index":1656547200000,
+        "company ID":"ALCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.5819214582,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "500":{
+        "index":1656547200000,
+        "company ID":"LOCL",
+        "Rank Target":0.3636363636,
+        "prediction":0.498806566,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "504":{
+        "index":1656547200000,
+        "company ID":"VITL",
+        "Rank Target":1.0,
+        "prediction":0.4919937551,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "496":{
+        "index":1656547200000,
+        "company ID":"AQB",
+        "Rank Target":0.0909090909,
+        "prediction":0.4880564809,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "498":{
+        "index":1656547200000,
+        "company ID":"EDBL",
+        "Rank Target":0.1818181818,
+        "prediction":0.4158998728,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "501":{
+        "index":1656547200000,
+        "company ID":"SDOT",
+        "Rank Target":0.8181818182,
+        "prediction":0.3337327242,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "503":{
+        "index":1656547200000,
+        "company ID":"VFF",
+        "Rank Target":0.2727272727,
+        "prediction":0.318369776,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "505":{
+        "index":1664496000000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.7653563023,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "513":{
+        "index":1664496000000,
+        "company ID":"TSN",
+        "Rank Target":0.4545454545,
+        "prediction":0.7203581929,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "510":{
+        "index":1664496000000,
+        "company ID":"FDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.6861994863,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "508":{
+        "index":1664496000000,
+        "company ID":"BG",
+        "Rank Target":0.8181818182,
+        "prediction":0.6840439439,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "515":{
+        "index":1664496000000,
+        "company ID":"VITL",
+        "Rank Target":0.9090909091,
+        "prediction":0.529124856,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "511":{
+        "index":1664496000000,
+        "company ID":"LOCL",
+        "Rank Target":0.1818181818,
+        "prediction":0.4806248844,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "507":{
+        "index":1664496000000,
+        "company ID":"AQB",
+        "Rank Target":0.5454545455,
+        "prediction":0.4607869685,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "506":{
+        "index":1664496000000,
+        "company ID":"ALCO",
+        "Rank Target":0.3636363636,
+        "prediction":0.4106443226,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "514":{
+        "index":1664496000000,
+        "company ID":"VFF",
+        "Rank Target":0.2727272727,
+        "prediction":0.3504995406,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "512":{
+        "index":1664496000000,
+        "company ID":"SDOT",
+        "Rank Target":1.0,
+        "prediction":0.3249024451,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "509":{
+        "index":1664496000000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.2614181936,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "516":{
+        "index":1672444800000,
+        "company ID":"ADM",
+        "Rank Target":0.4545454545,
+        "prediction":0.7524710298,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "519":{
+        "index":1672444800000,
+        "company ID":"BG",
+        "Rank Target":0.7272727273,
+        "prediction":0.7385792732,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "524":{
+        "index":1672444800000,
+        "company ID":"TSN",
+        "Rank Target":0.5454545455,
+        "prediction":0.6786959171,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "521":{
+        "index":1672444800000,
+        "company ID":"FDP",
+        "Rank Target":0.9090909091,
+        "prediction":0.6246798635,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "517":{
+        "index":1672444800000,
+        "company ID":"ALCO",
+        "Rank Target":0.8181818182,
+        "prediction":0.5558325648,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "522":{
+        "index":1672444800000,
+        "company ID":"LOCL",
+        "Rank Target":0.1818181818,
+        "prediction":0.486281544,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "518":{
+        "index":1672444800000,
+        "company ID":"AQB",
+        "Rank Target":0.3636363636,
+        "prediction":0.4759898484,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "526":{
+        "index":1672444800000,
+        "company ID":"VITL",
+        "Rank Target":0.6363636364,
+        "prediction":0.4491657615,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "523":{
+        "index":1672444800000,
+        "company ID":"SDOT",
+        "Rank Target":1.0,
+        "prediction":0.3806267679,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "525":{
+        "index":1672444800000,
+        "company ID":"VFF",
+        "Rank Target":0.2727272727,
+        "prediction":0.3410277367,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "520":{
+        "index":1672444800000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.2845236957,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "530":{
+        "index":1680220800000,
+        "company ID":"BG",
+        "Rank Target":0.8181818182,
+        "prediction":0.7330520153,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "532":{
+        "index":1680220800000,
+        "company ID":"FDP",
+        "Rank Target":0.5454545455,
+        "prediction":0.6861666441,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "527":{
+        "index":1680220800000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.6737961769,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "535":{
+        "index":1680220800000,
+        "company ID":"TSN",
+        "Rank Target":0.6363636364,
+        "prediction":0.5908876061,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "537":{
+        "index":1680220800000,
+        "company ID":"VITL",
+        "Rank Target":0.4545454545,
+        "prediction":0.5050683618,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "533":{
+        "index":1680220800000,
+        "company ID":"LOCL",
+        "Rank Target":0.0909090909,
+        "prediction":0.5005900264,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "529":{
+        "index":1680220800000,
+        "company ID":"AQB",
+        "Rank Target":0.2727272727,
+        "prediction":0.479991883,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "531":{
+        "index":1680220800000,
+        "company ID":"EDBL",
+        "Rank Target":0.1818181818,
+        "prediction":0.4145156145,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "528":{
+        "index":1680220800000,
+        "company ID":"ALCO",
+        "Rank Target":1.0,
+        "prediction":0.4083890915,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "534":{
+        "index":1680220800000,
+        "company ID":"SDOT",
+        "Rank Target":0.9090909091,
+        "prediction":0.3757925928,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "536":{
+        "index":1680220800000,
+        "company ID":"VFF",
+        "Rank Target":0.3636363636,
+        "prediction":0.3447321951,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "543":{
+        "index":1688083200000,
+        "company ID":"FDP",
+        "Rank Target":0.8181818182,
+        "prediction":0.7180450559,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "538":{
+        "index":1688083200000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.6831714511,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "539":{
+        "index":1688083200000,
+        "company ID":"ALCO",
+        "Rank Target":0.5454545455,
+        "prediction":0.666341424,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "541":{
+        "index":1688083200000,
+        "company ID":"BG",
+        "Rank Target":0.9090909091,
+        "prediction":0.6366168857,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "545":{
+        "index":1688083200000,
+        "company ID":"SDOT",
+        "Rank Target":0.0909090909,
+        "prediction":0.597853303,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "544":{
+        "index":1688083200000,
+        "company ID":"LOCL",
+        "Rank Target":0.3636363636,
+        "prediction":0.5208537579,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "548":{
+        "index":1688083200000,
+        "company ID":"VITL",
+        "Rank Target":0.4545454545,
+        "prediction":0.4713493586,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "540":{
+        "index":1688083200000,
+        "company ID":"AQB",
+        "Rank Target":0.2727272727,
+        "prediction":0.4538190663,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "546":{
+        "index":1688083200000,
+        "company ID":"TSN",
+        "Rank Target":0.6363636364,
+        "prediction":0.4395081103,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "542":{
+        "index":1688083200000,
+        "company ID":"EDBL",
+        "Rank Target":0.1818181818,
+        "prediction":0.422850132,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "547":{
+        "index":1688083200000,
+        "company ID":"VFF",
+        "Rank Target":1.0,
+        "prediction":0.4132937789,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "552":{
+        "index":1696032000000,
+        "company ID":"BG",
+        "Rank Target":0.4545454545,
+        "prediction":0.6879071593,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "549":{
+        "index":1696032000000,
+        "company ID":"ADM",
+        "Rank Target":0.5454545455,
+        "prediction":0.684654355,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "550":{
+        "index":1696032000000,
+        "company ID":"ALCO",
+        "Rank Target":0.9090909091,
+        "prediction":0.6106863618,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "554":{
+        "index":1696032000000,
+        "company ID":"FDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.5818754435,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "557":{
+        "index":1696032000000,
+        "company ID":"TSN",
+        "Rank Target":0.8181818182,
+        "prediction":0.5323639512,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "555":{
+        "index":1696032000000,
+        "company ID":"LOCL",
+        "Rank Target":0.3636363636,
+        "prediction":0.4995438457,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "558":{
+        "index":1696032000000,
+        "company ID":"VFF",
+        "Rank Target":0.7272727273,
+        "prediction":0.4849227965,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "559":{
+        "index":1696032000000,
+        "company ID":"VITL",
+        "Rank Target":1.0,
+        "prediction":0.4702081382,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "551":{
+        "index":1696032000000,
+        "company ID":"AQB",
+        "Rank Target":0.0909090909,
+        "prediction":0.4688962102,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "553":{
+        "index":1696032000000,
+        "company ID":"EDBL",
+        "Rank Target":0.2727272727,
+        "prediction":0.3864123821,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "556":{
+        "index":1696032000000,
+        "company ID":"SDOT",
+        "Rank Target":0.1818181818,
+        "prediction":0.3726360798,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "563":{
+        "index":1703980800000,
+        "company ID":"BG",
+        "Rank Target":0.6363636364,
+        "prediction":0.815261364,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "560":{
+        "index":1703980800000,
+        "company ID":"ADM",
+        "Rank Target":0.3636363636,
+        "prediction":0.7259473205,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "568":{
+        "index":1703980800000,
+        "company ID":"TSN",
+        "Rank Target":0.7272727273,
+        "prediction":0.6522732377,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "561":{
+        "index":1703980800000,
+        "company ID":"ALCO",
+        "Rank Target":0.5454545455,
+        "prediction":0.5353250504,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "570":{
+        "index":1703980800000,
+        "company ID":"VITL",
+        "Rank Target":0.9090909091,
+        "prediction":0.5093413591,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "562":{
+        "index":1703980800000,
+        "company ID":"AQB",
+        "Rank Target":0.2727272727,
+        "prediction":0.4710337818,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "566":{
+        "index":1703980800000,
+        "company ID":"LOCL",
+        "Rank Target":0.8181818182,
+        "prediction":0.4640698135,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "567":{
+        "index":1703980800000,
+        "company ID":"SDOT",
+        "Rank Target":0.1818181818,
+        "prediction":0.3920241594,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "569":{
+        "index":1703980800000,
+        "company ID":"VFF",
+        "Rank Target":1.0,
+        "prediction":0.3651486635,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "565":{
+        "index":1703980800000,
+        "company ID":"FDP",
+        "Rank Target":0.4545454545,
+        "prediction":0.3556924164,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "564":{
+        "index":1703980800000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.329218328,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "571":{
+        "index":1711843200000,
+        "company ID":"ADM",
+        "Rank Target":0.6363636364,
+        "prediction":0.7159700394,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "576":{
+        "index":1711843200000,
+        "company ID":"FDP",
+        "Rank Target":0.3636363636,
+        "prediction":0.7098234296,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "574":{
+        "index":1711843200000,
+        "company ID":"BG",
+        "Rank Target":0.8181818182,
+        "prediction":0.6777018905,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "579":{
+        "index":1711843200000,
+        "company ID":"TSN",
+        "Rank Target":0.7272727273,
+        "prediction":0.6380791068,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "578":{
+        "index":1711843200000,
+        "company ID":"SDOT",
+        "Rank Target":0.9090909091,
+        "prediction":0.5712738633,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "581":{
+        "index":1711843200000,
+        "company ID":"VITL",
+        "Rank Target":1.0,
+        "prediction":0.4651765525,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "580":{
+        "index":1711843200000,
+        "company ID":"VFF",
+        "Rank Target":0.1818181818,
+        "prediction":0.4629099667,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "573":{
+        "index":1711843200000,
+        "company ID":"AQB",
+        "Rank Target":0.2727272727,
+        "prediction":0.4260104001,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "577":{
+        "index":1711843200000,
+        "company ID":"LOCL",
+        "Rank Target":0.5454545455,
+        "prediction":0.4257849753,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "572":{
+        "index":1711843200000,
+        "company ID":"ALCO",
+        "Rank Target":0.4545454545,
+        "prediction":0.3841964006,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "575":{
+        "index":1711843200000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.2872262001,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "587":{
+        "index":1719705600000,
+        "company ID":"FDP",
+        "Rank Target":1.0,
+        "prediction":0.7110077739,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "590":{
+        "index":1719705600000,
+        "company ID":"TSN",
+        "Rank Target":0.8181818182,
+        "prediction":0.7107106447,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "582":{
+        "index":1719705600000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.6507780552,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "585":{
+        "index":1719705600000,
+        "company ID":"BG",
+        "Rank Target":0.4545454545,
+        "prediction":0.5962545276,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "589":{
+        "index":1719705600000,
+        "company ID":"SDOT",
+        "Rank Target":0.6363636364,
+        "prediction":0.5263796449,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "583":{
+        "index":1719705600000,
+        "company ID":"ALCO",
+        "Rank Target":0.9090909091,
+        "prediction":0.4976177812,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "584":{
+        "index":1719705600000,
+        "company ID":"AQB",
+        "Rank Target":0.1818181818,
+        "prediction":0.4966598153,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "592":{
+        "index":1719705600000,
+        "company ID":"VITL",
+        "Rank Target":0.2727272727,
+        "prediction":0.4645128548,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "586":{
+        "index":1719705600000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.4178421497,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "588":{
+        "index":1719705600000,
+        "company ID":"LOCL",
+        "Rank Target":0.3636363636,
+        "prediction":0.4042317867,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "591":{
+        "index":1719705600000,
+        "company ID":"VFF",
+        "Rank Target":0.5454545455,
+        "prediction":0.3079291284,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "601":{
+        "index":1727654400000,
+        "company ID":"TSN",
+        "Rank Target":0.6363636364,
+        "prediction":0.7237967849,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "596":{
+        "index":1727654400000,
+        "company ID":"BG",
+        "Rank Target":0.1818181818,
+        "prediction":0.6960833073,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "598":{
+        "index":1727654400000,
+        "company ID":"FDP",
+        "Rank Target":0.9090909091,
+        "prediction":0.6693018675,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "593":{
+        "index":1727654400000,
+        "company ID":"ADM",
+        "Rank Target":0.4545454545,
+        "prediction":0.6412931681,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "595":{
+        "index":1727654400000,
+        "company ID":"AQB",
+        "Rank Target":0.0909090909,
+        "prediction":0.5165916085,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "602":{
+        "index":1727654400000,
+        "company ID":"VFF",
+        "Rank Target":0.3636363636,
+        "prediction":0.4595824778,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "603":{
+        "index":1727654400000,
+        "company ID":"VITL",
+        "Rank Target":0.7272727273,
+        "prediction":0.4506337345,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "594":{
+        "index":1727654400000,
+        "company ID":"ALCO",
+        "Rank Target":0.5454545455,
+        "prediction":0.4446225464,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "600":{
+        "index":1727654400000,
+        "company ID":"SDOT",
+        "Rank Target":0.8181818182,
+        "prediction":0.4434889853,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "599":{
+        "index":1727654400000,
+        "company ID":"LOCL",
+        "Rank Target":0.2727272727,
+        "prediction":0.3969654143,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "597":{
+        "index":1727654400000,
+        "company ID":"EDBL",
+        "Rank Target":1.0,
+        "prediction":0.3375789523,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "612":{
+        "index":1735603200000,
+        "company ID":"TSN",
+        "Rank Target":0.9090909091,
+        "prediction":0.7934901714,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "607":{
+        "index":1735603200000,
+        "company ID":"BG",
+        "Rank Target":0.8181818182,
+        "prediction":0.7887397408,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "604":{
+        "index":1735603200000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.7628876567,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "609":{
+        "index":1735603200000,
+        "company ID":"FDP",
+        "Rank Target":0.6363636364,
+        "prediction":0.6245861053,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "611":{
+        "index":1735603200000,
+        "company ID":"SDOT",
+        "Rank Target":0.1818181818,
+        "prediction":0.4810292423,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "606":{
+        "index":1735603200000,
+        "company ID":"AQB",
+        "Rank Target":0.4545454545,
+        "prediction":0.4744762182,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "614":{
+        "index":1735603200000,
+        "company ID":"VITL",
+        "Rank Target":0.3636363636,
+        "prediction":0.4629231989,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "605":{
+        "index":1735603200000,
+        "company ID":"ALCO",
+        "Rank Target":1.0,
+        "prediction":0.4079397321,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "610":{
+        "index":1735603200000,
+        "company ID":"LOCL",
+        "Rank Target":0.5454545455,
+        "prediction":0.3955053091,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "608":{
+        "index":1735603200000,
+        "company ID":"EDBL",
+        "Rank Target":0.0909090909,
+        "prediction":0.3818687201,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "613":{
+        "index":1735603200000,
+        "company ID":"VFF",
+        "Rank Target":0.2727272727,
+        "prediction":0.3195678294,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "620":{
+        "index":1743379200000,
+        "company ID":"FDP",
+        "Rank Target":0.3636363636,
+        "prediction":0.7093787193,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "618":{
+        "index":1743379200000,
+        "company ID":"BG",
+        "Rank Target":0.4545454545,
+        "prediction":0.6518461704,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "615":{
+        "index":1743379200000,
+        "company ID":"ADM",
+        "Rank Target":0.7272727273,
+        "prediction":0.627070725,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "623":{
+        "index":1743379200000,
+        "company ID":"TSN",
+        "Rank Target":0.2727272727,
+        "prediction":0.5831066966,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "622":{
+        "index":1743379200000,
+        "company ID":"SDOT",
+        "Rank Target":0.0909090909,
+        "prediction":0.5439247489,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "616":{
+        "index":1743379200000,
+        "company ID":"ALCO",
+        "Rank Target":0.6363636364,
+        "prediction":0.4589202702,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "621":{
+        "index":1743379200000,
+        "company ID":"LOCL",
+        "Rank Target":0.1818181818,
+        "prediction":0.4414010346,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "625":{
+        "index":1743379200000,
+        "company ID":"VITL",
+        "Rank Target":0.9090909091,
+        "prediction":0.4248514175,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "617":{
+        "index":1743379200000,
+        "company ID":"AQB",
+        "Rank Target":0.8181818182,
+        "prediction":0.4215084016,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "619":{
+        "index":1743379200000,
+        "company ID":"EDBL",
+        "Rank Target":0.5454545455,
+        "prediction":0.3936012089,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "624":{
+        "index":1743379200000,
+        "company ID":"VFF",
+        "Rank Target":1.0,
+        "prediction":0.3211154044,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    }
+}

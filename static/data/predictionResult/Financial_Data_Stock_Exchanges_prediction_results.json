@@ -1,0 +1,79 @@
+{
+    "721":{
+        "company ID":"NDAQ",
+        "score":0.7283405662,
+        "Rank":1.0,
+        "Rank Target":0.8181818182,
+        "stockDifferencePercentage":-1.2318008222
+    },
+    "713":{
+        "company ID":"CBOE",
+        "score":0.6625559926,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":6.4269398322
+    },
+    "720":{
+        "company ID":"MSCI",
+        "score":0.6283664107,
+        "Rank":3.0,
+        "Rank Target":0.7272727273,
+        "stockDifferencePercentage":-2.896530866
+    },
+    "717":{
+        "company ID":"MCO",
+        "score":0.6045003533,
+        "Rank":4.0,
+        "Rank Target":0.6363636364,
+        "stockDifferencePercentage":-4.6274576356
+    },
+    "719":{
+        "company ID":"MORN",
+        "score":0.5823973417,
+        "Rank":5.0,
+        "Rank Target":0.0909090909,
+        "stockDifferencePercentage":-24.6757604803
+    },
+    "714":{
+        "company ID":"CME",
+        "score":0.5612854958,
+        "Rank":6.0,
+        "Rank Target":0.9090909091,
+        "stockDifferencePercentage":-1.1412508794
+    },
+    "716":{
+        "company ID":"ICE",
+        "score":0.5503724217,
+        "Rank":7.0,
+        "Rank Target":0.2727272727,
+        "stockDifferencePercentage":-8.0009299937
+    },
+    "722":{
+        "company ID":"SPGI",
+        "score":0.5289615989,
+        "Rank":8.0,
+        "Rank Target":0.3636363636,
+        "stockDifferencePercentage":-7.0643562535
+    },
+    "723":{
+        "company ID":"TRU",
+        "score":0.5115562081,
+        "Rank":9.0,
+        "Rank Target":0.4545454545,
+        "stockDifferencePercentage":-6.8406443499
+    },
+    "715":{
+        "company ID":"COIN",
+        "score":0.4387558997,
+        "Rank":10.0,
+        "Rank Target":0.5454545455,
+        "stockDifferencePercentage":-6.1298477535
+    },
+    "718":{
+        "company ID":"MKTW",
+        "score":0.4008898139,
+        "Rank":11.0,
+        "Rank Target":0.1818181818,
+        "stockDifferencePercentage":-16.2154853663
+    }
+}

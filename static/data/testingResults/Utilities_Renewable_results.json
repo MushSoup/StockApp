@@ -1,0 +1,762 @@
+{
+    "291":{
+        "index":1688083200000,
+        "company ID":"CWEN",
+        "Rank Target":0.4545454545,
+        "prediction":0.7307018638,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "292":{
+        "index":1688083200000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.3636363636,
+        "prediction":0.7307018638,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "296":{
+        "index":1688083200000,
+        "company ID":"ORA",
+        "Rank Target":0.6363636364,
+        "prediction":0.6879369617,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "299":{
+        "index":1688083200000,
+        "company ID":"XIFR",
+        "Rank Target":0.0909090909,
+        "prediction":0.6473436952,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "290":{
+        "index":1688083200000,
+        "company ID":"BEPC",
+        "Rank Target":0.5454545455,
+        "prediction":0.6281681061,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "294":{
+        "index":1688083200000,
+        "company ID":"NRGV",
+        "Rank Target":0.9090909091,
+        "prediction":0.5304321051,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "289":{
+        "index":1688083200000,
+        "company ID":"AGIG",
+        "Rank Target":0.8181818182,
+        "prediction":0.5274493694,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "297":{
+        "index":1688083200000,
+        "company ID":"STEM",
+        "Rank Target":0.2727272727,
+        "prediction":0.5069616437,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "293":{
+        "index":1688083200000,
+        "company ID":"FLNC",
+        "Rank Target":0.7272727273,
+        "prediction":0.4896265864,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "298":{
+        "index":1688083200000,
+        "company ID":"VGAS",
+        "Rank Target":0.1818181818,
+        "prediction":0.4594833553,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "295":{
+        "index":1688083200000,
+        "company ID":"NXXT",
+        "Rank Target":1.0,
+        "prediction":0.4175306559,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "311":{
+        "index":1696032000000,
+        "company ID":"XIFR",
+        "Rank Target":0.8333333333,
+        "prediction":0.6952587962,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "307":{
+        "index":1696032000000,
+        "company ID":"ORA",
+        "Rank Target":0.5833333333,
+        "prediction":0.6792703271,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "302":{
+        "index":1696032000000,
+        "company ID":"CWEN",
+        "Rank Target":1.0,
+        "prediction":0.6779901385,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "303":{
+        "index":1696032000000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.9166666667,
+        "prediction":0.6779901385,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "301":{
+        "index":1696032000000,
+        "company ID":"BEPC",
+        "Rank Target":0.75,
+        "prediction":0.6564320326,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "304":{
+        "index":1696032000000,
+        "company ID":"FLNC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5804763436,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "300":{
+        "index":1696032000000,
+        "company ID":"AGIG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5785185099,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "309":{
+        "index":1696032000000,
+        "company ID":"STEM",
+        "Rank Target":0.4166666667,
+        "prediction":0.5181866288,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "310":{
+        "index":1696032000000,
+        "company ID":"VGAS",
+        "Rank Target":0.1666666667,
+        "prediction":0.5041486621,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "305":{
+        "index":1696032000000,
+        "company ID":"NRGV",
+        "Rank Target":0.5,
+        "prediction":0.5007989407,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "306":{
+        "index":1696032000000,
+        "company ID":"NXXT",
+        "Rank Target":0.25,
+        "prediction":0.3905635178,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "308":{
+        "index":1696032000000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.3585746586,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "319":{
+        "index":1703980800000,
+        "company ID":"ORA",
+        "Rank Target":0.6666666667,
+        "prediction":0.7067300677,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "313":{
+        "index":1703980800000,
+        "company ID":"BEPC",
+        "Rank Target":0.4166666667,
+        "prediction":0.6293860078,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "314":{
+        "index":1703980800000,
+        "company ID":"CWEN",
+        "Rank Target":0.5,
+        "prediction":0.6277913451,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "315":{
+        "index":1703980800000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.5833333333,
+        "prediction":0.6277913451,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "323":{
+        "index":1703980800000,
+        "company ID":"XIFR",
+        "Rank Target":0.9166666667,
+        "prediction":0.6238036752,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "312":{
+        "index":1703980800000,
+        "company ID":"AGIG",
+        "Rank Target":0.25,
+        "prediction":0.613632977,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "321":{
+        "index":1703980800000,
+        "company ID":"STEM",
+        "Rank Target":0.1666666667,
+        "prediction":0.5907620788,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "316":{
+        "index":1703980800000,
+        "company ID":"FLNC",
+        "Rank Target":0.3333333333,
+        "prediction":0.5859324932,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "318":{
+        "index":1703980800000,
+        "company ID":"NXXT",
+        "Rank Target":0.8333333333,
+        "prediction":0.5645135045,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "317":{
+        "index":1703980800000,
+        "company ID":"NRGV",
+        "Rank Target":0.75,
+        "prediction":0.5520088673,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "322":{
+        "index":1703980800000,
+        "company ID":"VGAS",
+        "Rank Target":1.0,
+        "prediction":0.4830906689,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "320":{
+        "index":1703980800000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.3369227648,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "335":{
+        "index":1711843200000,
+        "company ID":"XIFR",
+        "Rank Target":0.5,
+        "prediction":0.6889779568,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "331":{
+        "index":1711843200000,
+        "company ID":"ORA",
+        "Rank Target":0.9166666667,
+        "prediction":0.6386103034,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "329":{
+        "index":1711843200000,
+        "company ID":"NRGV",
+        "Rank Target":0.1666666667,
+        "prediction":0.6339018941,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "325":{
+        "index":1711843200000,
+        "company ID":"BEPC",
+        "Rank Target":1.0,
+        "prediction":0.6292139888,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "326":{
+        "index":1711843200000,
+        "company ID":"CWEN",
+        "Rank Target":0.8333333333,
+        "prediction":0.6160357594,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "327":{
+        "index":1711843200000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.6666666667,
+        "prediction":0.6160357594,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "324":{
+        "index":1711843200000,
+        "company ID":"AGIG",
+        "Rank Target":0.4166666667,
+        "prediction":0.5753156543,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "333":{
+        "index":1711843200000,
+        "company ID":"STEM",
+        "Rank Target":0.25,
+        "prediction":0.5720493197,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "328":{
+        "index":1711843200000,
+        "company ID":"FLNC",
+        "Rank Target":0.75,
+        "prediction":0.5626085401,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "332":{
+        "index":1711843200000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.5598161817,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "330":{
+        "index":1711843200000,
+        "company ID":"NXXT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5114563704,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "334":{
+        "index":1711843200000,
+        "company ID":"VGAS",
+        "Rank Target":0.5833333333,
+        "prediction":0.4991584718,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "347":{
+        "index":1719705600000,
+        "company ID":"XIFR",
+        "Rank Target":0.5833333333,
+        "prediction":0.7123588324,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "338":{
+        "index":1719705600000,
+        "company ID":"CWEN",
+        "Rank Target":0.8333333333,
+        "prediction":0.6949804425,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "339":{
+        "index":1719705600000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.9166666667,
+        "prediction":0.6949804425,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "343":{
+        "index":1719705600000,
+        "company ID":"ORA",
+        "Rank Target":0.6666666667,
+        "prediction":0.6317918301,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "337":{
+        "index":1719705600000,
+        "company ID":"BEPC",
+        "Rank Target":0.75,
+        "prediction":0.6291644573,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "336":{
+        "index":1719705600000,
+        "company ID":"AGIG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5897728205,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "345":{
+        "index":1719705600000,
+        "company ID":"STEM",
+        "Rank Target":0.1666666667,
+        "prediction":0.588717103,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "341":{
+        "index":1719705600000,
+        "company ID":"NRGV",
+        "Rank Target":0.4166666667,
+        "prediction":0.5728599429,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "340":{
+        "index":1719705600000,
+        "company ID":"FLNC",
+        "Rank Target":1.0,
+        "prediction":0.5540831089,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "342":{
+        "index":1719705600000,
+        "company ID":"NXXT",
+        "Rank Target":0.25,
+        "prediction":0.5300808549,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "344":{
+        "index":1719705600000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.4921654761,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "346":{
+        "index":1719705600000,
+        "company ID":"VGAS",
+        "Rank Target":0.5,
+        "prediction":0.4489793479,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "355":{
+        "index":1727654400000,
+        "company ID":"ORA",
+        "Rank Target":0.5,
+        "prediction":0.7036861181,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "350":{
+        "index":1727654400000,
+        "company ID":"CWEN",
+        "Rank Target":0.5833333333,
+        "prediction":0.6745774746,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "351":{
+        "index":1727654400000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.6666666667,
+        "prediction":0.6745774746,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "359":{
+        "index":1727654400000,
+        "company ID":"XIFR",
+        "Rank Target":0.1666666667,
+        "prediction":0.6433733702,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "349":{
+        "index":1727654400000,
+        "company ID":"BEPC",
+        "Rank Target":0.3333333333,
+        "prediction":0.6346601844,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "348":{
+        "index":1727654400000,
+        "company ID":"AGIG",
+        "Rank Target":0.4166666667,
+        "prediction":0.6167682409,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "353":{
+        "index":1727654400000,
+        "company ID":"NRGV",
+        "Rank Target":1.0,
+        "prediction":0.605448544,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "357":{
+        "index":1727654400000,
+        "company ID":"STEM",
+        "Rank Target":0.9166666667,
+        "prediction":0.5828220248,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "354":{
+        "index":1727654400000,
+        "company ID":"NXXT",
+        "Rank Target":0.75,
+        "prediction":0.5526313186,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "352":{
+        "index":1727654400000,
+        "company ID":"FLNC",
+        "Rank Target":0.25,
+        "prediction":0.5395581722,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "356":{
+        "index":1727654400000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.51771909,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "358":{
+        "index":1727654400000,
+        "company ID":"VGAS",
+        "Rank Target":0.8333333333,
+        "prediction":0.4919937253,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "367":{
+        "index":1735603200000,
+        "company ID":"ORA",
+        "Rank Target":0.75,
+        "prediction":0.7306368947,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "362":{
+        "index":1735603200000,
+        "company ID":"CWEN",
+        "Rank Target":0.8333333333,
+        "prediction":0.6703708172,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "363":{
+        "index":1735603200000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.9166666667,
+        "prediction":0.6703708172,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "361":{
+        "index":1735603200000,
+        "company ID":"BEPC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6042870283,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "365":{
+        "index":1735603200000,
+        "company ID":"NRGV",
+        "Rank Target":0.0833333333,
+        "prediction":0.5907379985,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "360":{
+        "index":1735603200000,
+        "company ID":"AGIG",
+        "Rank Target":0.4166666667,
+        "prediction":0.5888546109,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "369":{
+        "index":1735603200000,
+        "company ID":"STEM",
+        "Rank Target":0.25,
+        "prediction":0.5828099847,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "364":{
+        "index":1735603200000,
+        "company ID":"FLNC",
+        "Rank Target":0.1666666667,
+        "prediction":0.5808780193,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "371":{
+        "index":1735603200000,
+        "company ID":"XIFR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5775174499,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "368":{
+        "index":1735603200000,
+        "company ID":"SAFX",
+        "Rank Target":1.0,
+        "prediction":0.5738399625,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "366":{
+        "index":1735603200000,
+        "company ID":"NXXT",
+        "Rank Target":0.5833333333,
+        "prediction":0.5691717267,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "370":{
+        "index":1735603200000,
+        "company ID":"VGAS",
+        "Rank Target":0.5,
+        "prediction":0.4597253501,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "379":{
+        "index":1743379200000,
+        "company ID":"ORA",
+        "Rank Target":0.8333333333,
+        "prediction":0.6808614135,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "374":{
+        "index":1743379200000,
+        "company ID":"CWEN",
+        "Rank Target":0.5,
+        "prediction":0.6667683721,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "375":{
+        "index":1743379200000,
+        "company ID":"CWEN-A",
+        "Rank Target":0.5833333333,
+        "prediction":0.6667683721,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "373":{
+        "index":1743379200000,
+        "company ID":"BEPC",
+        "Rank Target":0.75,
+        "prediction":0.6534620523,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "383":{
+        "index":1743379200000,
+        "company ID":"XIFR",
+        "Rank Target":0.25,
+        "prediction":0.6377592683,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "377":{
+        "index":1743379200000,
+        "company ID":"NRGV",
+        "Rank Target":0.1666666667,
+        "prediction":0.6342537999,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "376":{
+        "index":1743379200000,
+        "company ID":"FLNC",
+        "Rank Target":0.9166666667,
+        "prediction":0.6268411279,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "372":{
+        "index":1743379200000,
+        "company ID":"AGIG",
+        "Rank Target":1.0,
+        "prediction":0.5968604088,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "381":{
+        "index":1743379200000,
+        "company ID":"STEM",
+        "Rank Target":0.4166666667,
+        "prediction":0.5852280259,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "382":{
+        "index":1743379200000,
+        "company ID":"VGAS",
+        "Rank Target":0.6666666667,
+        "prediction":0.565308392,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "378":{
+        "index":1743379200000,
+        "company ID":"NXXT",
+        "Rank Target":0.3333333333,
+        "prediction":0.5026289225,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "380":{
+        "index":1743379200000,
+        "company ID":"SAFX",
+        "Rank Target":0.0833333333,
+        "prediction":0.4168741107,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    }
+}

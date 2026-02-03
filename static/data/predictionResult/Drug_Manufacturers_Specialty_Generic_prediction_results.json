@@ -1,0 +1,331 @@
+{
+    "2539":{
+        "company ID":"ANIP",
+        "score":0.7021428347,
+        "Rank":1.0,
+        "Rank Target":0.7446808511,
+        "stockDifferencePercentage":40.8241452577
+    },
+    "2551":{
+        "company ID":"DVAX",
+        "score":0.6841991544,
+        "Rank":2.0,
+        "Rank Target":0.2553191489,
+        "stockDifferencePercentage":-5.939635669
+    },
+    "2572":{
+        "company ID":"SIGA",
+        "score":0.6494374275,
+        "Rank":3.0,
+        "Rank Target":0.6382978723,
+        "stockDifferencePercentage":33.9312400821
+    },
+    "2565":{
+        "company ID":"PAHC",
+        "score":0.6438186765,
+        "Rank":4.0,
+        "Rank Target":0.7234042553,
+        "stockDifferencePercentage":40.2803068657
+    },
+    "2547":{
+        "company ID":"COLL",
+        "score":0.6350281239,
+        "Rank":5.0,
+        "Rank Target":0.4893617021,
+        "stockDifferencePercentage":13.9044456681
+    },
+    "2553":{
+        "company ID":"ELAN",
+        "score":0.6345505118,
+        "Rank":6.0,
+        "Rank Target":0.6595744681,
+        "stockDifferencePercentage":33.9480884601
+    },
+    "2559":{
+        "company ID":"HROW",
+        "score":0.6306043863,
+        "Rank":7.0,
+        "Rank Target":0.8510638298,
+        "stockDifferencePercentage":52.4409496879
+    },
+    "2563":{
+        "company ID":"NBIX",
+        "score":0.6286302805,
+        "Rank":8.0,
+        "Rank Target":0.4468085106,
+        "stockDifferencePercentage":8.6437949108
+    },
+    "2560":{
+        "company ID":"INDV",
+        "score":0.6282370687,
+        "Rank":9.0,
+        "Rank Target":0.914893617,
+        "stockDifferencePercentage":56.3919573015
+    },
+    "2556":{
+        "company ID":"ETON",
+        "score":0.625058949,
+        "Rank":10.0,
+        "Rank Target":0.8936170213,
+        "stockDifferencePercentage":55.570933141
+    },
+    "2544":{
+        "company ID":"BCRX",
+        "score":0.6223037839,
+        "Rank":11.0,
+        "Rank Target":0.170212766,
+        "stockDifferencePercentage":-15.5480923371
+    },
+    "2574":{
+        "company ID":"SUPN",
+        "score":0.608864069,
+        "Rank":12.0,
+        "Rank Target":0.8085106383,
+        "stockDifferencePercentage":48.8430242511
+    },
+    "2581":{
+        "company ID":"ZTS",
+        "score":0.5959965587,
+        "Rank":13.0,
+        "Rank Target":0.1914893617,
+        "stockDifferencePercentage":-9.8263836242
+    },
+    "2558":{
+        "company ID":"HIMS",
+        "score":0.5844069123,
+        "Rank":14.0,
+        "Rank Target":0.5531914894,
+        "stockDifferencePercentage":23.2180064527
+    },
+    "2561":{
+        "company ID":"IRWD",
+        "score":0.5841076374,
+        "Rank":15.0,
+        "Rank Target":0.9574468085,
+        "stockDifferencePercentage":84.4155834186
+    },
+    "2578":{
+        "company ID":"UTHR",
+        "score":0.5798561573,
+        "Rank":16.0,
+        "Rank Target":0.7872340426,
+        "stockDifferencePercentage":44.0829948824
+    },
+    "2536":{
+        "company ID":"AMPH",
+        "score":0.5742166042,
+        "Rank":17.0,
+        "Rank Target":0.5106382979,
+        "stockDifferencePercentage":16.0344792719
+    },
+    "2562":{
+        "company ID":"LNTH",
+        "score":0.5736460686,
+        "Rank":18.0,
+        "Rank Target":0.0425531915,
+        "stockDifferencePercentage":-37.055458736
+    },
+    "2535":{
+        "company ID":"AKBA",
+        "score":0.5716143847,
+        "Rank":19.0,
+        "Rank Target":0.1063829787,
+        "stockDifferencePercentage":-25.1381181287
+    },
+    "2570":{
+        "company ID":"SCYX",
+        "score":0.5667356253,
+        "Rank":20.0,
+        "Rank Target":0.7659574468,
+        "stockDifferencePercentage":43.6388431456
+    },
+    "2575":{
+        "company ID":"TKNO",
+        "score":0.5655809641,
+        "Rank":21.0,
+        "Rank Target":0.4255319149,
+        "stockDifferencePercentage":8.4452985428
+    },
+    "2579":{
+        "company ID":"VTRS",
+        "score":0.5645666718,
+        "Rank":22.0,
+        "Rank Target":0.3829787234,
+        "stockDifferencePercentage":4.3907205153
+    },
+    "2537":{
+        "company ID":"AMRX",
+        "score":0.5643051267,
+        "Rank":23.0,
+        "Rank Target":0.5319148936,
+        "stockDifferencePercentage":17.2209001919
+    },
+    "2566":{
+        "company ID":"PBH",
+        "score":0.5600542426,
+        "Rank":24.0,
+        "Rank Target":0.1276595745,
+        "stockDifferencePercentage":-22.5431380811
+    },
+    "2541":{
+        "company ID":"AQST",
+        "score":0.5598906875,
+        "Rank":25.0,
+        "Rank Target":0.829787234,
+        "stockDifferencePercentage":51.8817218269
+    },
+    "2573":{
+        "company ID":"SNOA",
+        "score":0.5468557477,
+        "Rank":26.0,
+        "Rank Target":0.6170212766,
+        "stockDifferencePercentage":32.6599333084
+    },
+    "2555":{
+        "company ID":"ESPR",
+        "score":0.5383404493,
+        "Rank":27.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":125.6410428803
+    },
+    "2577":{
+        "company ID":"TXMD",
+        "score":0.5300369859,
+        "Rank":28.0,
+        "Rank Target":0.2127659574,
+        "stockDifferencePercentage":-8.4745685635
+    },
+    "2552":{
+        "company ID":"EBS",
+        "score":0.5262694359,
+        "Rank":29.0,
+        "Rank Target":0.5957446809,
+        "stockDifferencePercentage":27.8969938935
+    },
+    "2550":{
+        "company ID":"DERM",
+        "score":0.5216127634,
+        "Rank":30.0,
+        "Rank Target":0.3191489362,
+        "stockDifferencePercentage":0.0
+    },
+    "2567":{
+        "company ID":"PCRX",
+        "score":0.5122852325,
+        "Rank":31.0,
+        "Rank Target":0.4680851064,
+        "stockDifferencePercentage":9.1300641769
+    },
+    "2538":{
+        "company ID":"ANIK",
+        "score":0.5108916759,
+        "Rank":32.0,
+        "Rank Target":0.1489361702,
+        "stockDifferencePercentage":-18.755552504
+    },
+    "2542":{
+        "company ID":"ASRT",
+        "score":0.5104522705,
+        "Rank":33.0,
+        "Rank Target":0.6808510638,
+        "stockDifferencePercentage":36.9230808359
+    },
+    "2564":{
+        "company ID":"ORGO",
+        "score":0.509186089,
+        "Rank":34.0,
+        "Rank Target":0.3404255319,
+        "stockDifferencePercentage":0.2352995035
+    },
+    "2568":{
+        "company ID":"RMTI",
+        "score":0.5026805997,
+        "Rank":35.0,
+        "Rank Target":0.8723404255,
+        "stockDifferencePercentage":54.8780478111
+    },
+    "2576":{
+        "company ID":"TLPH",
+        "score":0.4927455485,
+        "Rank":36.0,
+        "Rank Target":0.9787234043,
+        "stockDifferencePercentage":102.2222333921
+    },
+    "2546":{
+        "company ID":"BIOA",
+        "score":0.459679544,
+        "Rank":37.0,
+        "Rank Target":0.5744680851,
+        "stockDifferencePercentage":27.3364379007
+    },
+    "2548":{
+        "company ID":"CPIX",
+        "score":0.4565975666,
+        "Rank":38.0,
+        "Rank Target":0.3617021277,
+        "stockDifferencePercentage":0.3174600031
+    },
+    "2554":{
+        "company ID":"EOLS",
+        "score":0.4564677477,
+        "Rank":39.0,
+        "Rank Target":0.0638297872,
+        "stockDifferencePercentage":-33.7648375051
+    },
+    "2580":{
+        "company ID":"YCBD",
+        "score":0.4399915338,
+        "Rank":40.0,
+        "Rank Target":0.9361702128,
+        "stockDifferencePercentage":60.4651130527
+    },
+    "2569":{
+        "company ID":"SBFM",
+        "score":0.4357249737,
+        "Rank":41.0,
+        "Rank Target":0.2340425532,
+        "stockDifferencePercentage":-6.4516069469
+    },
+    "2545":{
+        "company ID":"BFRI",
+        "score":0.4303537905,
+        "Rank":42.0,
+        "Rank Target":0.7021276596,
+        "stockDifferencePercentage":38.2857158937
+    },
+    "2571":{
+        "company ID":"SHPH",
+        "score":0.3991339803,
+        "Rank":43.0,
+        "Rank Target":0.2978723404,
+        "stockDifferencePercentage":-2.8133025853
+    },
+    "2543":{
+        "company ID":"AYTU",
+        "score":0.3987969458,
+        "Rank":44.0,
+        "Rank Target":0.085106383,
+        "stockDifferencePercentage":-28.1512623569
+    },
+    "2540":{
+        "company ID":"APUS",
+        "score":0.3835697472,
+        "Rank":45.0,
+        "Rank Target":0.4042553191,
+        "stockDifferencePercentage":6.7415734117
+    },
+    "2549":{
+        "company ID":"CTOR",
+        "score":0.3825258613,
+        "Rank":46.0,
+        "Rank Target":0.0212765957,
+        "stockDifferencePercentage":-61.6257091489
+    },
+    "2557":{
+        "company ID":"FLGC",
+        "score":0.3390085399,
+        "Rank":47.0,
+        "Rank Target":0.2765957447,
+        "stockDifferencePercentage":-4.5895304357
+    }
+}

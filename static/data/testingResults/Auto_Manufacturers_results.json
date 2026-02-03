@@ -1,0 +1,802 @@
+{
+    "277":{
+        "index":1688083200000,
+        "company ID":"F",
+        "Rank Target":0.6666666667,
+        "prediction":0.7286039591,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "280":{
+        "index":1688083200000,
+        "company ID":"GM",
+        "Rank Target":0.75,
+        "prediction":0.7025093436,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "276":{
+        "index":1688083200000,
+        "company ID":"ECDA",
+        "Rank Target":0.9166666667,
+        "prediction":0.7003615499,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "285":{
+        "index":1688083200000,
+        "company ID":"TSLA",
+        "Rank Target":0.8333333333,
+        "prediction":0.6991896033,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "279":{
+        "index":1688083200000,
+        "company ID":"FLYE",
+        "Rank Target":0.0833333333,
+        "prediction":0.6865391731,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "275":{
+        "index":1688083200000,
+        "company ID":"CENN",
+        "Rank Target":0.5833333333,
+        "prediction":0.5939413309,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "281":{
+        "index":1688083200000,
+        "company ID":"LCID",
+        "Rank Target":0.5,
+        "prediction":0.583417654,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "284":{
+        "index":1688083200000,
+        "company ID":"SBLX",
+        "Rank Target":0.3333333333,
+        "prediction":0.5511353016,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "286":{
+        "index":1688083200000,
+        "company ID":"WKHS",
+        "Rank Target":0.25,
+        "prediction":0.5506198406,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "283":{
+        "index":1688083200000,
+        "company ID":"RIVN",
+        "Rank Target":1.0,
+        "prediction":0.5382822752,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "282":{
+        "index":1688083200000,
+        "company ID":"LVWR",
+        "Rank Target":0.4166666667,
+        "prediction":0.5052767396,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "278":{
+        "index":1688083200000,
+        "company ID":"FFAI",
+        "Rank Target":0.1666666667,
+        "prediction":0.4319169521,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "292":{
+        "index":1696032000000,
+        "company ID":"GM",
+        "Rank Target":0.9166666667,
+        "prediction":0.721495986,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "291":{
+        "index":1696032000000,
+        "company ID":"FLYE",
+        "Rank Target":0.0833333333,
+        "prediction":0.6886146069,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "297":{
+        "index":1696032000000,
+        "company ID":"TSLA",
+        "Rank Target":0.6666666667,
+        "prediction":0.6729730368,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "289":{
+        "index":1696032000000,
+        "company ID":"F",
+        "Rank Target":0.75,
+        "prediction":0.6666488647,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "298":{
+        "index":1696032000000,
+        "company ID":"WKHS",
+        "Rank Target":0.5833333333,
+        "prediction":0.576243639,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "296":{
+        "index":1696032000000,
+        "company ID":"SBLX",
+        "Rank Target":0.5,
+        "prediction":0.5740377307,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "290":{
+        "index":1696032000000,
+        "company ID":"FFAI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5605964661,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "294":{
+        "index":1696032000000,
+        "company ID":"LVWR",
+        "Rank Target":1.0,
+        "prediction":0.5451486707,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "293":{
+        "index":1696032000000,
+        "company ID":"LCID",
+        "Rank Target":0.4166666667,
+        "prediction":0.5263816714,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "288":{
+        "index":1696032000000,
+        "company ID":"ECDA",
+        "Rank Target":0.25,
+        "prediction":0.5088529587,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "295":{
+        "index":1696032000000,
+        "company ID":"RIVN",
+        "Rank Target":0.8333333333,
+        "prediction":0.498061657,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "287":{
+        "index":1696032000000,
+        "company ID":"CENN",
+        "Rank Target":0.1666666667,
+        "prediction":0.467954725,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "304":{
+        "index":1703980800000,
+        "company ID":"GM",
+        "Rank Target":1.0,
+        "prediction":0.7273840308,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "308":{
+        "index":1703980800000,
+        "company ID":"TSLA",
+        "Rank Target":0.6363636364,
+        "prediction":0.7245415449,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "301":{
+        "index":1703980800000,
+        "company ID":"F",
+        "Rank Target":0.9090909091,
+        "prediction":0.6943224072,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "300":{
+        "index":1703980800000,
+        "company ID":"ECDA",
+        "Rank Target":0.7272727273,
+        "prediction":0.6352387071,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "305":{
+        "index":1703980800000,
+        "company ID":"LCID",
+        "Rank Target":0.5454545455,
+        "prediction":0.6211212277,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "303":{
+        "index":1703980800000,
+        "company ID":"FLYE",
+        "Rank Target":0.0909090909,
+        "prediction":0.6191610694,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "307":{
+        "index":1703980800000,
+        "company ID":"RIVN",
+        "Rank Target":0.2727272727,
+        "prediction":0.6058937907,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "309":{
+        "index":1703980800000,
+        "company ID":"WKHS",
+        "Rank Target":0.4545454545,
+        "prediction":0.5498147011,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "302":{
+        "index":1703980800000,
+        "company ID":"FFAI",
+        "Rank Target":0.1818181818,
+        "prediction":0.5364220738,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "299":{
+        "index":1703980800000,
+        "company ID":"CENN",
+        "Rank Target":0.8181818182,
+        "prediction":0.5266702771,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "306":{
+        "index":1703980800000,
+        "company ID":"LVWR",
+        "Rank Target":0.3636363636,
+        "prediction":0.5188378096,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "316":{
+        "index":1711843200000,
+        "company ID":"GM",
+        "Rank Target":0.5384615385,
+        "prediction":0.7381005287,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "313":{
+        "index":1711843200000,
+        "company ID":"F",
+        "Rank Target":0.3076923077,
+        "prediction":0.7378690243,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "321":{
+        "index":1711843200000,
+        "company ID":"TSLA",
+        "Rank Target":0.7692307692,
+        "prediction":0.7192913294,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "315":{
+        "index":1711843200000,
+        "company ID":"FLYE",
+        "Rank Target":0.6923076923,
+        "prediction":0.6590128541,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "310":{
+        "index":1711843200000,
+        "company ID":"CENN",
+        "Rank Target":0.4615384615,
+        "prediction":0.6449516416,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "317":{
+        "index":1711843200000,
+        "company ID":"LCID",
+        "Rank Target":0.3846153846,
+        "prediction":0.6418531537,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "322":{
+        "index":1711843200000,
+        "company ID":"WKHS",
+        "Rank Target":0.1538461538,
+        "prediction":0.6187221408,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "318":{
+        "index":1711843200000,
+        "company ID":"LVWR",
+        "Rank Target":0.6153846154,
+        "prediction":0.5967352986,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "319":{
+        "index":1711843200000,
+        "company ID":"RIVN",
+        "Rank Target":0.8461538462,
+        "prediction":0.5846960545,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "314":{
+        "index":1711843200000,
+        "company ID":"FFAI",
+        "Rank Target":1.0,
+        "prediction":0.5636430383,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "311":{
+        "index":1711843200000,
+        "company ID":"ECDA",
+        "Rank Target":0.9230769231,
+        "prediction":0.536718905,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "320":{
+        "index":1711843200000,
+        "company ID":"SBLX",
+        "Rank Target":0.2307692308,
+        "prediction":0.4731143415,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "312":{
+        "index":1711843200000,
+        "company ID":"EMPD",
+        "Rank Target":0.0769230769,
+        "prediction":0.3539201021,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "329":{
+        "index":1719705600000,
+        "company ID":"GM",
+        "Rank Target":0.6923076923,
+        "prediction":0.7204585671,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "326":{
+        "index":1719705600000,
+        "company ID":"F",
+        "Rank Target":0.6153846154,
+        "prediction":0.6960790753,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "328":{
+        "index":1719705600000,
+        "company ID":"FLYE",
+        "Rank Target":0.0769230769,
+        "prediction":0.6591024399,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "334":{
+        "index":1719705600000,
+        "company ID":"TSLA",
+        "Rank Target":0.9230769231,
+        "prediction":0.6553364396,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "327":{
+        "index":1719705600000,
+        "company ID":"FFAI",
+        "Rank Target":0.1538461538,
+        "prediction":0.6488308907,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "324":{
+        "index":1719705600000,
+        "company ID":"ECDA",
+        "Rank Target":0.8461538462,
+        "prediction":0.6263746619,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "335":{
+        "index":1719705600000,
+        "company ID":"WKHS",
+        "Rank Target":0.3076923077,
+        "prediction":0.5896373391,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "332":{
+        "index":1719705600000,
+        "company ID":"RIVN",
+        "Rank Target":0.4615384615,
+        "prediction":0.5480605364,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "331":{
+        "index":1719705600000,
+        "company ID":"LVWR",
+        "Rank Target":0.5384615385,
+        "prediction":0.53706038,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "323":{
+        "index":1719705600000,
+        "company ID":"CENN",
+        "Rank Target":0.3846153846,
+        "prediction":0.4831963778,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "330":{
+        "index":1719705600000,
+        "company ID":"LCID",
+        "Rank Target":1.0,
+        "prediction":0.4826649725,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "325":{
+        "index":1719705600000,
+        "company ID":"EMPD",
+        "Rank Target":0.2307692308,
+        "prediction":0.4729399085,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "333":{
+        "index":1719705600000,
+        "company ID":"SBLX",
+        "Rank Target":0.7692307692,
+        "prediction":0.4699338675,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "342":{
+        "index":1727654400000,
+        "company ID":"GM",
+        "Rank Target":0.7692307692,
+        "prediction":0.740711391,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "347":{
+        "index":1727654400000,
+        "company ID":"TSLA",
+        "Rank Target":1.0,
+        "prediction":0.7389093637,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "339":{
+        "index":1727654400000,
+        "company ID":"F",
+        "Rank Target":0.5384615385,
+        "prediction":0.7115582824,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "345":{
+        "index":1727654400000,
+        "company ID":"RIVN",
+        "Rank Target":0.9230769231,
+        "prediction":0.6429780722,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "344":{
+        "index":1727654400000,
+        "company ID":"LVWR",
+        "Rank Target":0.1538461538,
+        "prediction":0.622194171,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "346":{
+        "index":1727654400000,
+        "company ID":"SBLX",
+        "Rank Target":0.2307692308,
+        "prediction":0.6220815182,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "348":{
+        "index":1727654400000,
+        "company ID":"WKHS",
+        "Rank Target":0.6153846154,
+        "prediction":0.6145586967,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "340":{
+        "index":1727654400000,
+        "company ID":"FFAI",
+        "Rank Target":0.6923076923,
+        "prediction":0.6007248759,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "336":{
+        "index":1727654400000,
+        "company ID":"CENN",
+        "Rank Target":0.4615384615,
+        "prediction":0.574365437,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "337":{
+        "index":1727654400000,
+        "company ID":"ECDA",
+        "Rank Target":0.3076923077,
+        "prediction":0.5645816326,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "343":{
+        "index":1727654400000,
+        "company ID":"LCID",
+        "Rank Target":0.3846153846,
+        "prediction":0.5592133403,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "341":{
+        "index":1727654400000,
+        "company ID":"FLYE",
+        "Rank Target":0.8461538462,
+        "prediction":0.54330796,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "338":{
+        "index":1727654400000,
+        "company ID":"EMPD",
+        "Rank Target":0.0769230769,
+        "prediction":0.4659086764,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "352":{
+        "index":1735603200000,
+        "company ID":"F",
+        "Rank Target":1.0,
+        "prediction":0.710036099,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "360":{
+        "index":1735603200000,
+        "company ID":"TSLA",
+        "Rank Target":0.4615384615,
+        "prediction":0.6872394085,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "354":{
+        "index":1735603200000,
+        "company ID":"FLYE",
+        "Rank Target":0.3846153846,
+        "prediction":0.6783387065,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "355":{
+        "index":1735603200000,
+        "company ID":"GM",
+        "Rank Target":0.9230769231,
+        "prediction":0.6549341083,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "353":{
+        "index":1735603200000,
+        "company ID":"FFAI",
+        "Rank Target":0.2307692308,
+        "prediction":0.6214656234,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "358":{
+        "index":1735603200000,
+        "company ID":"RIVN",
+        "Rank Target":0.8461538462,
+        "prediction":0.5999180079,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "361":{
+        "index":1735603200000,
+        "company ID":"WKHS",
+        "Rank Target":0.0769230769,
+        "prediction":0.5963017344,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "357":{
+        "index":1735603200000,
+        "company ID":"LVWR",
+        "Rank Target":0.3076923077,
+        "prediction":0.5905065536,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "356":{
+        "index":1735603200000,
+        "company ID":"LCID",
+        "Rank Target":0.6923076923,
+        "prediction":0.5895773172,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "349":{
+        "index":1735603200000,
+        "company ID":"CENN",
+        "Rank Target":0.6153846154,
+        "prediction":0.5886474848,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "350":{
+        "index":1735603200000,
+        "company ID":"ECDA",
+        "Rank Target":0.5384615385,
+        "prediction":0.5601086617,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "359":{
+        "index":1735603200000,
+        "company ID":"SBLX",
+        "Rank Target":0.7692307692,
+        "prediction":0.506270349,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "351":{
+        "index":1735603200000,
+        "company ID":"EMPD",
+        "Rank Target":0.1538461538,
+        "prediction":0.3814619482,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "368":{
+        "index":1743379200000,
+        "company ID":"GM",
+        "Rank Target":0.5384615385,
+        "prediction":0.6939387918,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "373":{
+        "index":1743379200000,
+        "company ID":"TSLA",
+        "Rank Target":0.7692307692,
+        "prediction":0.6727433205,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "365":{
+        "index":1743379200000,
+        "company ID":"F",
+        "Rank Target":0.6153846154,
+        "prediction":0.6590390801,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "366":{
+        "index":1743379200000,
+        "company ID":"FFAI",
+        "Rank Target":0.8461538462,
+        "prediction":0.5901472569,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "363":{
+        "index":1743379200000,
+        "company ID":"ECDA",
+        "Rank Target":0.0769230769,
+        "prediction":0.5866270661,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "367":{
+        "index":1743379200000,
+        "company ID":"FLYE",
+        "Rank Target":0.9230769231,
+        "prediction":0.5585551262,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "371":{
+        "index":1743379200000,
+        "company ID":"RIVN",
+        "Rank Target":0.6923076923,
+        "prediction":0.5529561043,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "364":{
+        "index":1743379200000,
+        "company ID":"EMPD",
+        "Rank Target":0.4615384615,
+        "prediction":0.5436253548,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "362":{
+        "index":1743379200000,
+        "company ID":"CENN",
+        "Rank Target":0.3846153846,
+        "prediction":0.4944351614,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "374":{
+        "index":1743379200000,
+        "company ID":"WKHS",
+        "Rank Target":0.1538461538,
+        "prediction":0.4867316782,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "369":{
+        "index":1743379200000,
+        "company ID":"LCID",
+        "Rank Target":0.3076923077,
+        "prediction":0.4836021662,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "370":{
+        "index":1743379200000,
+        "company ID":"LVWR",
+        "Rank Target":1.0,
+        "prediction":0.4750662148,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "372":{
+        "index":1743379200000,
+        "company ID":"SBLX",
+        "Rank Target":0.2307692308,
+        "prediction":0.4489515722,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    }
+}

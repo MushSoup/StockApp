@@ -1,0 +1,1562 @@
+{
+    "863":{
+        "index":1648684800000,
+        "company ID":"TNET",
+        "Rank Target":0.5333333333,
+        "prediction":0.7232334018,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "860":{
+        "index":1648684800000,
+        "company ID":"NSP",
+        "Rank Target":0.9333333333,
+        "prediction":0.6847893,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "856":{
+        "index":1648684800000,
+        "company ID":"KFRC",
+        "Rank Target":0.6,
+        "prediction":0.6676623821,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "852":{
+        "index":1648684800000,
+        "company ID":"HQI",
+        "Rank Target":0.4,
+        "prediction":0.6085551977,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "861":{
+        "index":1648684800000,
+        "company ID":"RHI",
+        "Rank Target":0.2,
+        "prediction":0.6026841998,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "862":{
+        "index":1648684800000,
+        "company ID":"TBI",
+        "Rank Target":0.1333333333,
+        "prediction":0.5979732275,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "858":{
+        "index":1648684800000,
+        "company ID":"MHH",
+        "Rank Target":0.4666666667,
+        "prediction":0.576783061,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "849":{
+        "index":1648684800000,
+        "company ID":"ATLN",
+        "Rank Target":0.2666666667,
+        "prediction":0.5730485916,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "851":{
+        "index":1648684800000,
+        "company ID":"BGSF",
+        "Rank Target":1.0,
+        "prediction":0.5457102656,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "857":{
+        "index":1648684800000,
+        "company ID":"MAN",
+        "Rank Target":0.6666666667,
+        "prediction":0.5277801156,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "853":{
+        "index":1648684800000,
+        "company ID":"IPDN",
+        "Rank Target":0.3333333333,
+        "prediction":0.4999226332,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "854":{
+        "index":1648684800000,
+        "company ID":"JOB",
+        "Rank Target":0.8,
+        "prediction":0.4889089465,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "850":{
+        "index":1648684800000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.4699154198,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "855":{
+        "index":1648684800000,
+        "company ID":"KELYA",
+        "Rank Target":0.7333333333,
+        "prediction":0.4585307837,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "859":{
+        "index":1648684800000,
+        "company ID":"NIXX",
+        "Rank Target":0.0666666667,
+        "prediction":0.4518892467,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "865":{
+        "index":1656547200000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.73019135,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "877":{
+        "index":1656547200000,
+        "company ID":"TBI",
+        "Rank Target":0.8,
+        "prediction":0.6685587168,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "871":{
+        "index":1656547200000,
+        "company ID":"KFRC",
+        "Rank Target":0.4666666667,
+        "prediction":0.6413586736,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "869":{
+        "index":1656547200000,
+        "company ID":"JOB",
+        "Rank Target":0.9333333333,
+        "prediction":0.618848145,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "876":{
+        "index":1656547200000,
+        "company ID":"RHI",
+        "Rank Target":0.6,
+        "prediction":0.5940172076,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "867":{
+        "index":1656547200000,
+        "company ID":"HQI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5927067399,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "873":{
+        "index":1656547200000,
+        "company ID":"MHH",
+        "Rank Target":0.5333333333,
+        "prediction":0.5183534622,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "875":{
+        "index":1656547200000,
+        "company ID":"NSP",
+        "Rank Target":0.6666666667,
+        "prediction":0.5148380399,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "866":{
+        "index":1656547200000,
+        "company ID":"BGSF",
+        "Rank Target":0.4,
+        "prediction":0.5062345862,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "872":{
+        "index":1656547200000,
+        "company ID":"MAN",
+        "Rank Target":0.2,
+        "prediction":0.4917694926,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "874":{
+        "index":1656547200000,
+        "company ID":"NIXX",
+        "Rank Target":1.0,
+        "prediction":0.4770538807,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "870":{
+        "index":1656547200000,
+        "company ID":"KELYA",
+        "Rank Target":0.0666666667,
+        "prediction":0.4661876261,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "868":{
+        "index":1656547200000,
+        "company ID":"IPDN",
+        "Rank Target":0.7333333333,
+        "prediction":0.4625219107,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "864":{
+        "index":1656547200000,
+        "company ID":"ATLN",
+        "Rank Target":0.1333333333,
+        "prediction":0.4546001554,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "878":{
+        "index":1656547200000,
+        "company ID":"TNET",
+        "Rank Target":0.2666666667,
+        "prediction":0.443416059,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "887":{
+        "index":1664496000000,
+        "company ID":"MAN",
+        "Rank Target":0.8666666667,
+        "prediction":0.6843169928,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "890":{
+        "index":1664496000000,
+        "company ID":"NSP",
+        "Rank Target":0.6,
+        "prediction":0.6749942899,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "880":{
+        "index":1664496000000,
+        "company ID":"BBSI",
+        "Rank Target":0.6666666667,
+        "prediction":0.65721035,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "888":{
+        "index":1664496000000,
+        "company ID":"MHH",
+        "Rank Target":0.2,
+        "prediction":0.6050201654,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "892":{
+        "index":1664496000000,
+        "company ID":"TBI",
+        "Rank Target":0.5333333333,
+        "prediction":0.5764148831,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "886":{
+        "index":1664496000000,
+        "company ID":"KFRC",
+        "Rank Target":0.4,
+        "prediction":0.5592470169,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "879":{
+        "index":1664496000000,
+        "company ID":"ATLN",
+        "Rank Target":0.1333333333,
+        "prediction":0.5574234128,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "893":{
+        "index":1664496000000,
+        "company ID":"TNET",
+        "Rank Target":0.3333333333,
+        "prediction":0.5544610023,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "882":{
+        "index":1664496000000,
+        "company ID":"HQI",
+        "Rank Target":0.8,
+        "prediction":0.5525764227,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "891":{
+        "index":1664496000000,
+        "company ID":"RHI",
+        "Rank Target":0.4666666667,
+        "prediction":0.5155401826,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "885":{
+        "index":1664496000000,
+        "company ID":"KELYA",
+        "Rank Target":0.7333333333,
+        "prediction":0.473910898,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "881":{
+        "index":1664496000000,
+        "company ID":"BGSF",
+        "Rank Target":1.0,
+        "prediction":0.4675458372,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "884":{
+        "index":1664496000000,
+        "company ID":"JOB",
+        "Rank Target":0.2666666667,
+        "prediction":0.3929795921,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "883":{
+        "index":1664496000000,
+        "company ID":"IPDN",
+        "Rank Target":0.9333333333,
+        "prediction":0.3527743816,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "889":{
+        "index":1664496000000,
+        "company ID":"NIXX",
+        "Rank Target":0.0666666667,
+        "prediction":0.3515712321,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "895":{
+        "index":1672444800000,
+        "company ID":"BBSI",
+        "Rank Target":0.3333333333,
+        "prediction":0.6441380978,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "897":{
+        "index":1672444800000,
+        "company ID":"HQI",
+        "Rank Target":0.9333333333,
+        "prediction":0.6134162545,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "907":{
+        "index":1672444800000,
+        "company ID":"TBI",
+        "Rank Target":0.2666666667,
+        "prediction":0.6011744738,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "905":{
+        "index":1672444800000,
+        "company ID":"NSP",
+        "Rank Target":0.6,
+        "prediction":0.5874440074,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "908":{
+        "index":1672444800000,
+        "company ID":"TNET",
+        "Rank Target":0.7333333333,
+        "prediction":0.5750307441,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "906":{
+        "index":1672444800000,
+        "company ID":"RHI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5741747618,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "902":{
+        "index":1672444800000,
+        "company ID":"MAN",
+        "Rank Target":0.4666666667,
+        "prediction":0.5590785146,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "900":{
+        "index":1672444800000,
+        "company ID":"KELYA",
+        "Rank Target":0.4,
+        "prediction":0.5451122522,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "901":{
+        "index":1672444800000,
+        "company ID":"KFRC",
+        "Rank Target":0.8,
+        "prediction":0.5230471492,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "896":{
+        "index":1672444800000,
+        "company ID":"BGSF",
+        "Rank Target":0.1333333333,
+        "prediction":0.5042870641,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "903":{
+        "index":1672444800000,
+        "company ID":"MHH",
+        "Rank Target":0.5333333333,
+        "prediction":0.4935263395,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "898":{
+        "index":1672444800000,
+        "company ID":"IPDN",
+        "Rank Target":1.0,
+        "prediction":0.4585360885,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "899":{
+        "index":1672444800000,
+        "company ID":"JOB",
+        "Rank Target":0.2,
+        "prediction":0.4438475966,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "894":{
+        "index":1672444800000,
+        "company ID":"ATLN",
+        "Rank Target":0.8666666667,
+        "prediction":0.4250948727,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "904":{
+        "index":1672444800000,
+        "company ID":"NIXX",
+        "Rank Target":0.0666666667,
+        "prediction":0.3581164479,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "920":{
+        "index":1680220800000,
+        "company ID":"NSP",
+        "Rank Target":0.4666666667,
+        "prediction":0.6812375188,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "917":{
+        "index":1680220800000,
+        "company ID":"MAN",
+        "Rank Target":0.7333333333,
+        "prediction":0.6722208858,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "923":{
+        "index":1680220800000,
+        "company ID":"TNET",
+        "Rank Target":0.9333333333,
+        "prediction":0.6361963153,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "912":{
+        "index":1680220800000,
+        "company ID":"HQI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6001623273,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "916":{
+        "index":1680220800000,
+        "company ID":"KFRC",
+        "Rank Target":0.6666666667,
+        "prediction":0.582023859,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "914":{
+        "index":1680220800000,
+        "company ID":"JOB",
+        "Rank Target":1.0,
+        "prediction":0.5527815819,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "915":{
+        "index":1680220800000,
+        "company ID":"KELYA",
+        "Rank Target":0.8,
+        "prediction":0.5030827522,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "921":{
+        "index":1680220800000,
+        "company ID":"RHI",
+        "Rank Target":0.2,
+        "prediction":0.4867186546,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "911":{
+        "index":1680220800000,
+        "company ID":"BGSF",
+        "Rank Target":0.5333333333,
+        "prediction":0.4805753827,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "918":{
+        "index":1680220800000,
+        "company ID":"MHH",
+        "Rank Target":0.0666666667,
+        "prediction":0.4776842296,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "922":{
+        "index":1680220800000,
+        "company ID":"TBI",
+        "Rank Target":0.6,
+        "prediction":0.4763180614,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "910":{
+        "index":1680220800000,
+        "company ID":"BBSI",
+        "Rank Target":0.4,
+        "prediction":0.4671525955,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "909":{
+        "index":1680220800000,
+        "company ID":"ATLN",
+        "Rank Target":0.1333333333,
+        "prediction":0.3652814925,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "913":{
+        "index":1680220800000,
+        "company ID":"IPDN",
+        "Rank Target":0.3333333333,
+        "prediction":0.3644530773,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "919":{
+        "index":1680220800000,
+        "company ID":"NIXX",
+        "Rank Target":0.2666666667,
+        "prediction":0.301279664,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "926":{
+        "index":1688083200000,
+        "company ID":"BGSF",
+        "Rank Target":0.7333333333,
+        "prediction":0.6992589831,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "925":{
+        "index":1688083200000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6499595642,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "930":{
+        "index":1688083200000,
+        "company ID":"KELYA",
+        "Rank Target":0.8,
+        "prediction":0.5847303867,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "938":{
+        "index":1688083200000,
+        "company ID":"TNET",
+        "Rank Target":1.0,
+        "prediction":0.5712788701,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "936":{
+        "index":1688083200000,
+        "company ID":"RHI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5629848242,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "937":{
+        "index":1688083200000,
+        "company ID":"TBI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5398039222,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "933":{
+        "index":1688083200000,
+        "company ID":"MHH",
+        "Rank Target":0.4,
+        "prediction":0.5203720331,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "932":{
+        "index":1688083200000,
+        "company ID":"MAN",
+        "Rank Target":0.4666666667,
+        "prediction":0.5197301507,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "931":{
+        "index":1688083200000,
+        "company ID":"KFRC",
+        "Rank Target":0.6,
+        "prediction":0.5155825615,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "929":{
+        "index":1688083200000,
+        "company ID":"JOB",
+        "Rank Target":0.9333333333,
+        "prediction":0.5061560869,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "927":{
+        "index":1688083200000,
+        "company ID":"HQI",
+        "Rank Target":0.2,
+        "prediction":0.4846135676,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "924":{
+        "index":1688083200000,
+        "company ID":"ATLN",
+        "Rank Target":0.5333333333,
+        "prediction":0.4639473557,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "935":{
+        "index":1688083200000,
+        "company ID":"NSP",
+        "Rank Target":0.2666666667,
+        "prediction":0.4416163862,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "934":{
+        "index":1688083200000,
+        "company ID":"NIXX",
+        "Rank Target":0.0666666667,
+        "prediction":0.3568347692,
+        "trueRank":15.0,
+        "predictionRank":14.0
+    },
+    "928":{
+        "index":1688083200000,
+        "company ID":"IPDN",
+        "Rank Target":0.1333333333,
+        "prediction":0.3476374149,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "947":{
+        "index":1696032000000,
+        "company ID":"MAN",
+        "Rank Target":0.6,
+        "prediction":0.6547545195,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "940":{
+        "index":1696032000000,
+        "company ID":"BBSI",
+        "Rank Target":0.9333333333,
+        "prediction":0.6500070095,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "950":{
+        "index":1696032000000,
+        "company ID":"NSP",
+        "Rank Target":0.8666666667,
+        "prediction":0.6469914317,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "945":{
+        "index":1696032000000,
+        "company ID":"KELYA",
+        "Rank Target":0.7333333333,
+        "prediction":0.6237250566,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "953":{
+        "index":1696032000000,
+        "company ID":"TNET",
+        "Rank Target":0.4666666667,
+        "prediction":0.6175593138,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "941":{
+        "index":1696032000000,
+        "company ID":"BGSF",
+        "Rank Target":0.5333333333,
+        "prediction":0.5837982297,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "942":{
+        "index":1696032000000,
+        "company ID":"HQI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5695655942,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "951":{
+        "index":1696032000000,
+        "company ID":"RHI",
+        "Rank Target":0.8,
+        "prediction":0.5561380386,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "946":{
+        "index":1696032000000,
+        "company ID":"KFRC",
+        "Rank Target":0.6666666667,
+        "prediction":0.517860353,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "944":{
+        "index":1696032000000,
+        "company ID":"JOB",
+        "Rank Target":0.2,
+        "prediction":0.4955211878,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "952":{
+        "index":1696032000000,
+        "company ID":"TBI",
+        "Rank Target":0.4,
+        "prediction":0.4548615813,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "939":{
+        "index":1696032000000,
+        "company ID":"ATLN",
+        "Rank Target":0.0666666667,
+        "prediction":0.4532235861,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "948":{
+        "index":1696032000000,
+        "company ID":"MHH",
+        "Rank Target":0.2666666667,
+        "prediction":0.4277132154,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "943":{
+        "index":1696032000000,
+        "company ID":"IPDN",
+        "Rank Target":0.1333333333,
+        "prediction":0.4254364371,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "949":{
+        "index":1696032000000,
+        "company ID":"NIXX",
+        "Rank Target":1.0,
+        "prediction":0.3131189048,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "955":{
+        "index":1703980800000,
+        "company ID":"BBSI",
+        "Rank Target":0.8,
+        "prediction":0.6507854462,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "968":{
+        "index":1703980800000,
+        "company ID":"TNET",
+        "Rank Target":0.8666666667,
+        "prediction":0.6209940314,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "961":{
+        "index":1703980800000,
+        "company ID":"KFRC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6176793575,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "960":{
+        "index":1703980800000,
+        "company ID":"KELYA",
+        "Rank Target":0.9333333333,
+        "prediction":0.6058977246,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "957":{
+        "index":1703980800000,
+        "company ID":"HQI",
+        "Rank Target":0.2666666667,
+        "prediction":0.5966168642,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "967":{
+        "index":1703980800000,
+        "company ID":"TBI",
+        "Rank Target":0.2,
+        "prediction":0.5965467691,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "962":{
+        "index":1703980800000,
+        "company ID":"MAN",
+        "Rank Target":0.5333333333,
+        "prediction":0.574780941,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "956":{
+        "index":1703980800000,
+        "company ID":"BGSF",
+        "Rank Target":0.7333333333,
+        "prediction":0.5663548708,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "965":{
+        "index":1703980800000,
+        "company ID":"NSP",
+        "Rank Target":0.4666666667,
+        "prediction":0.5205215812,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "966":{
+        "index":1703980800000,
+        "company ID":"RHI",
+        "Rank Target":0.3333333333,
+        "prediction":0.5145224929,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "958":{
+        "index":1703980800000,
+        "company ID":"IPDN",
+        "Rank Target":0.4,
+        "prediction":0.5057851672,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "959":{
+        "index":1703980800000,
+        "company ID":"JOB",
+        "Rank Target":0.1333333333,
+        "prediction":0.4863695502,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "964":{
+        "index":1703980800000,
+        "company ID":"NIXX",
+        "Rank Target":1.0,
+        "prediction":0.4440933466,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "963":{
+        "index":1703980800000,
+        "company ID":"MHH",
+        "Rank Target":0.6,
+        "prediction":0.4299601912,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "954":{
+        "index":1703980800000,
+        "company ID":"ATLN",
+        "Rank Target":0.0666666667,
+        "prediction":0.3708759248,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "980":{
+        "index":1711843200000,
+        "company ID":"NSP",
+        "Rank Target":0.4,
+        "prediction":0.664013207,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "983":{
+        "index":1711843200000,
+        "company ID":"TNET",
+        "Rank Target":0.1333333333,
+        "prediction":0.6472986937,
+        "trueRank":14.0,
+        "predictionRank":2.0
+    },
+    "977":{
+        "index":1711843200000,
+        "company ID":"MAN",
+        "Rank Target":0.8,
+        "prediction":0.5830628872,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "976":{
+        "index":1711843200000,
+        "company ID":"KFRC",
+        "Rank Target":0.6666666667,
+        "prediction":0.5792858005,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "972":{
+        "index":1711843200000,
+        "company ID":"HQI",
+        "Rank Target":0.7333333333,
+        "prediction":0.5717738271,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "975":{
+        "index":1711843200000,
+        "company ID":"KELYA",
+        "Rank Target":0.5333333333,
+        "prediction":0.551248014,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "971":{
+        "index":1711843200000,
+        "company ID":"BGSF",
+        "Rank Target":0.6,
+        "prediction":0.5495542884,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "969":{
+        "index":1711843200000,
+        "company ID":"ATLN",
+        "Rank Target":1.0,
+        "prediction":0.5259742141,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "970":{
+        "index":1711843200000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.4907258451,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "981":{
+        "index":1711843200000,
+        "company ID":"RHI",
+        "Rank Target":0.2666666667,
+        "prediction":0.4721124768,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "982":{
+        "index":1711843200000,
+        "company ID":"TBI",
+        "Rank Target":0.3333333333,
+        "prediction":0.4591701627,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "979":{
+        "index":1711843200000,
+        "company ID":"NIXX",
+        "Rank Target":0.9333333333,
+        "prediction":0.4535003603,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "978":{
+        "index":1711843200000,
+        "company ID":"MHH",
+        "Rank Target":0.2,
+        "prediction":0.447003752,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "974":{
+        "index":1711843200000,
+        "company ID":"JOB",
+        "Rank Target":0.4666666667,
+        "prediction":0.4360748827,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "973":{
+        "index":1711843200000,
+        "company ID":"IPDN",
+        "Rank Target":0.0666666667,
+        "prediction":0.4032010436,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "985":{
+        "index":1719705600000,
+        "company ID":"BBSI",
+        "Rank Target":0.8,
+        "prediction":0.6353850961,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "993":{
+        "index":1719705600000,
+        "company ID":"MHH",
+        "Rank Target":1.0,
+        "prediction":0.6308306456,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "990":{
+        "index":1719705600000,
+        "company ID":"KELYA",
+        "Rank Target":0.4666666667,
+        "prediction":0.615565598,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "996":{
+        "index":1719705600000,
+        "company ID":"RHI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5905320644,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "992":{
+        "index":1719705600000,
+        "company ID":"MAN",
+        "Rank Target":0.6,
+        "prediction":0.5687633157,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "991":{
+        "index":1719705600000,
+        "company ID":"KFRC",
+        "Rank Target":0.5333333333,
+        "prediction":0.5418295264,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "987":{
+        "index":1719705600000,
+        "company ID":"HQI",
+        "Rank Target":0.8666666667,
+        "prediction":0.530323565,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "998":{
+        "index":1719705600000,
+        "company ID":"TNET",
+        "Rank Target":0.4,
+        "prediction":0.5179768801,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "995":{
+        "index":1719705600000,
+        "company ID":"NSP",
+        "Rank Target":0.3333333333,
+        "prediction":0.5026609302,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "986":{
+        "index":1719705600000,
+        "company ID":"BGSF",
+        "Rank Target":0.1333333333,
+        "prediction":0.4914657474,
+        "trueRank":14.0,
+        "predictionRank":10.0
+    },
+    "988":{
+        "index":1719705600000,
+        "company ID":"IPDN",
+        "Rank Target":0.2666666667,
+        "prediction":0.4816173017,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "984":{
+        "index":1719705600000,
+        "company ID":"ATLN",
+        "Rank Target":0.7333333333,
+        "prediction":0.4717235863,
+        "trueRank":5.0,
+        "predictionRank":12.0
+    },
+    "997":{
+        "index":1719705600000,
+        "company ID":"TBI",
+        "Rank Target":0.0666666667,
+        "prediction":0.4249154925,
+        "trueRank":15.0,
+        "predictionRank":13.0
+    },
+    "994":{
+        "index":1719705600000,
+        "company ID":"NIXX",
+        "Rank Target":0.9333333333,
+        "prediction":0.3677173555,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "989":{
+        "index":1719705600000,
+        "company ID":"JOB",
+        "Rank Target":0.2,
+        "prediction":0.2786073089,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "1008":{
+        "index":1727654400000,
+        "company ID":"MHH",
+        "Rank Target":0.9333333333,
+        "prediction":0.7216098905,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1007":{
+        "index":1727654400000,
+        "company ID":"MAN",
+        "Rank Target":0.3333333333,
+        "prediction":0.6789826155,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "1000":{
+        "index":1727654400000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6672062874,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1006":{
+        "index":1727654400000,
+        "company ID":"KFRC",
+        "Rank Target":0.6,
+        "prediction":0.612796247,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1011":{
+        "index":1727654400000,
+        "company ID":"RHI",
+        "Rank Target":0.7333333333,
+        "prediction":0.5938383937,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "1001":{
+        "index":1727654400000,
+        "company ID":"BGSF",
+        "Rank Target":0.2,
+        "prediction":0.5486696362,
+        "trueRank":13.0,
+        "predictionRank":6.0
+    },
+    "1002":{
+        "index":1727654400000,
+        "company ID":"HQI",
+        "Rank Target":0.6666666667,
+        "prediction":0.5440896153,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "999":{
+        "index":1727654400000,
+        "company ID":"ATLN",
+        "Rank Target":0.4,
+        "prediction":0.5347535014,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "1005":{
+        "index":1727654400000,
+        "company ID":"KELYA",
+        "Rank Target":0.1333333333,
+        "prediction":0.5306038857,
+        "trueRank":14.0,
+        "predictionRank":9.0
+    },
+    "1013":{
+        "index":1727654400000,
+        "company ID":"TNET",
+        "Rank Target":0.5333333333,
+        "prediction":0.5099711418,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "1003":{
+        "index":1727654400000,
+        "company ID":"IPDN",
+        "Rank Target":0.0666666667,
+        "prediction":0.4826610386,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "1004":{
+        "index":1727654400000,
+        "company ID":"JOB",
+        "Rank Target":0.2666666667,
+        "prediction":0.4711109996,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1012":{
+        "index":1727654400000,
+        "company ID":"TBI",
+        "Rank Target":0.8,
+        "prediction":0.4679753482,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "1010":{
+        "index":1727654400000,
+        "company ID":"NSP",
+        "Rank Target":0.4666666667,
+        "prediction":0.4511955082,
+        "trueRank":9.0,
+        "predictionRank":14.0
+    },
+    "1009":{
+        "index":1727654400000,
+        "company ID":"NIXX",
+        "Rank Target":1.0,
+        "prediction":0.2512219846,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1017":{
+        "index":1735603200000,
+        "company ID":"HQI",
+        "Rank Target":0.7333333333,
+        "prediction":0.7024075985,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "1015":{
+        "index":1735603200000,
+        "company ID":"BBSI",
+        "Rank Target":0.8666666667,
+        "prediction":0.6618119478,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "1026":{
+        "index":1735603200000,
+        "company ID":"RHI",
+        "Rank Target":0.4666666667,
+        "prediction":0.6594112515,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "1021":{
+        "index":1735603200000,
+        "company ID":"KFRC",
+        "Rank Target":0.6666666667,
+        "prediction":0.6494336128,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "1022":{
+        "index":1735603200000,
+        "company ID":"MAN",
+        "Rank Target":0.9333333333,
+        "prediction":0.6286560893,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1028":{
+        "index":1735603200000,
+        "company ID":"TNET",
+        "Rank Target":0.6,
+        "prediction":0.5299779177,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "1025":{
+        "index":1735603200000,
+        "company ID":"NSP",
+        "Rank Target":1.0,
+        "prediction":0.5157901645,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "1023":{
+        "index":1735603200000,
+        "company ID":"MHH",
+        "Rank Target":0.2666666667,
+        "prediction":0.5081458688,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "1016":{
+        "index":1735603200000,
+        "company ID":"BGSF",
+        "Rank Target":0.2,
+        "prediction":0.4936347306,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1027":{
+        "index":1735603200000,
+        "company ID":"TBI",
+        "Rank Target":0.3333333333,
+        "prediction":0.4726037681,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "1020":{
+        "index":1735603200000,
+        "company ID":"KELYA",
+        "Rank Target":0.8,
+        "prediction":0.4579330683,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "1019":{
+        "index":1735603200000,
+        "company ID":"JOB",
+        "Rank Target":0.5333333333,
+        "prediction":0.4383743107,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "1014":{
+        "index":1735603200000,
+        "company ID":"ATLN",
+        "Rank Target":0.4,
+        "prediction":0.3556877375,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1018":{
+        "index":1735603200000,
+        "company ID":"IPDN",
+        "Rank Target":0.1333333333,
+        "prediction":0.3527424335,
+        "trueRank":14.0,
+        "predictionRank":14.0
+    },
+    "1024":{
+        "index":1735603200000,
+        "company ID":"NIXX",
+        "Rank Target":0.0666666667,
+        "prediction":0.3015940189,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "1043":{
+        "index":1743379200000,
+        "company ID":"TNET",
+        "Rank Target":0.6,
+        "prediction":0.7007225752,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "1031":{
+        "index":1743379200000,
+        "company ID":"BGSF",
+        "Rank Target":1.0,
+        "prediction":0.6491144896,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "1035":{
+        "index":1743379200000,
+        "company ID":"KELYA",
+        "Rank Target":0.6666666667,
+        "prediction":0.6348775625,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "1040":{
+        "index":1743379200000,
+        "company ID":"NSP",
+        "Rank Target":0.1333333333,
+        "prediction":0.6140446067,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "1032":{
+        "index":1743379200000,
+        "company ID":"HQI",
+        "Rank Target":0.4,
+        "prediction":0.61392802,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "1029":{
+        "index":1743379200000,
+        "company ID":"ATLN",
+        "Rank Target":0.0666666667,
+        "prediction":0.5813575983,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "1036":{
+        "index":1743379200000,
+        "company ID":"KFRC",
+        "Rank Target":0.4666666667,
+        "prediction":0.5312632322,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "1030":{
+        "index":1743379200000,
+        "company ID":"BBSI",
+        "Rank Target":0.7333333333,
+        "prediction":0.5236006975,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1037":{
+        "index":1743379200000,
+        "company ID":"MAN",
+        "Rank Target":0.2,
+        "prediction":0.4997587502,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "1042":{
+        "index":1743379200000,
+        "company ID":"TBI",
+        "Rank Target":0.9333333333,
+        "prediction":0.4673182964,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "1038":{
+        "index":1743379200000,
+        "company ID":"MHH",
+        "Rank Target":0.2666666667,
+        "prediction":0.4654707015,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "1041":{
+        "index":1743379200000,
+        "company ID":"RHI",
+        "Rank Target":0.3333333333,
+        "prediction":0.4572528005,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "1033":{
+        "index":1743379200000,
+        "company ID":"IPDN",
+        "Rank Target":0.5333333333,
+        "prediction":0.4508128464,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "1034":{
+        "index":1743379200000,
+        "company ID":"JOB",
+        "Rank Target":0.8666666667,
+        "prediction":0.3762479722,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "1039":{
+        "index":1743379200000,
+        "company ID":"NIXX",
+        "Rank Target":0.8,
+        "prediction":0.336671561,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    }
+}

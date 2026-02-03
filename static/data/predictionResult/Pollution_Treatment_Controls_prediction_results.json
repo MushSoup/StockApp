@@ -1,0 +1,86 @@
+{
+    "650":{
+        "company ID":"FSS",
+        "score":0.7014726996,
+        "Rank":1.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":7.5553567889
+    },
+    "647":{
+        "company ID":"CECO",
+        "score":0.6483632922,
+        "Rank":2.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":67.599995931
+    },
+    "658":{
+        "company ID":"ZWS",
+        "score":0.6411718726,
+        "Rank":3.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":25.0889876296
+    },
+    "648":{
+        "company ID":"CLIR",
+        "score":0.6217938066,
+        "Rank":4.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":48.1481444534
+    },
+    "649":{
+        "company ID":"ERII",
+        "score":0.6184387207,
+        "Rank":5.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":16.287883358
+    },
+    "656":{
+        "company ID":"VLTO",
+        "score":0.5959467292,
+        "Rank":6.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":1.2819208757
+    },
+    "654":{
+        "company ID":"SCWO",
+        "score":0.5813471675,
+        "Rank":7.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":42.8571493469
+    },
+    "653":{
+        "company ID":"RAIN",
+        "score":0.5585973263,
+        "Rank":8.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":66.0778465208
+    },
+    "652":{
+        "company ID":"PCT",
+        "score":0.4588744342,
+        "Rank":9.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-4.6511652082
+    },
+    "651":{
+        "company ID":"FTEK",
+        "score":0.4481347501,
+        "Rank":10.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":4.6428613112
+    },
+    "655":{
+        "company ID":"TOMZ",
+        "score":0.4253893495,
+        "Rank":11.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-6.4814860759
+    },
+    "657":{
+        "company ID":"ZONE",
+        "score":0.3518133759,
+        "Rank":12.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-18.7251008119
+    }
+}

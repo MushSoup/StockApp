@@ -1,0 +1,1154 @@
+{
+    "517":{
+        "index":1664496000000,
+        "company ID":"ERII",
+        "Rank Target":0.6666666667,
+        "prediction":0.6657993793,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "515":{
+        "index":1664496000000,
+        "company ID":"CECO",
+        "Rank Target":1.0,
+        "prediction":0.6542374492,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "518":{
+        "index":1664496000000,
+        "company ID":"FSS",
+        "Rank Target":0.9166666667,
+        "prediction":0.6477208734,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "516":{
+        "index":1664496000000,
+        "company ID":"CLIR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5727517605,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "522":{
+        "index":1664496000000,
+        "company ID":"SCWO",
+        "Rank Target":0.75,
+        "prediction":0.5476811528,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "523":{
+        "index":1664496000000,
+        "company ID":"TOMZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.5463660955,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "526":{
+        "index":1664496000000,
+        "company ID":"ZWS",
+        "Rank Target":0.5833333333,
+        "prediction":0.54327631,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "519":{
+        "index":1664496000000,
+        "company ID":"FTEK",
+        "Rank Target":0.8333333333,
+        "prediction":0.5212599635,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "520":{
+        "index":1664496000000,
+        "company ID":"PCT",
+        "Rank Target":0.5,
+        "prediction":0.4630745947,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "524":{
+        "index":1664496000000,
+        "company ID":"VLTO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4005521536,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "521":{
+        "index":1664496000000,
+        "company ID":"RAIN",
+        "Rank Target":0.1666666667,
+        "prediction":0.3718548119,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "525":{
+        "index":1664496000000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.2220003456,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "530":{
+        "index":1672444800000,
+        "company ID":"FSS",
+        "Rank Target":0.6666666667,
+        "prediction":0.7209327221,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "527":{
+        "index":1672444800000,
+        "company ID":"CECO",
+        "Rank Target":0.8333333333,
+        "prediction":0.701362133,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "529":{
+        "index":1672444800000,
+        "company ID":"ERII",
+        "Rank Target":0.5,
+        "prediction":0.6461353302,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "535":{
+        "index":1672444800000,
+        "company ID":"TOMZ",
+        "Rank Target":0.75,
+        "prediction":0.6322316527,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "538":{
+        "index":1672444800000,
+        "company ID":"ZWS",
+        "Rank Target":0.3333333333,
+        "prediction":0.5879332423,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "528":{
+        "index":1672444800000,
+        "company ID":"CLIR",
+        "Rank Target":0.9166666667,
+        "prediction":0.5383284092,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "532":{
+        "index":1672444800000,
+        "company ID":"PCT",
+        "Rank Target":0.5833333333,
+        "prediction":0.5366958976,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "531":{
+        "index":1672444800000,
+        "company ID":"FTEK",
+        "Rank Target":0.4166666667,
+        "prediction":0.5334010124,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "534":{
+        "index":1672444800000,
+        "company ID":"SCWO",
+        "Rank Target":1.0,
+        "prediction":0.4727169871,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "536":{
+        "index":1672444800000,
+        "company ID":"VLTO",
+        "Rank Target":0.1666666667,
+        "prediction":0.4042440653,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "533":{
+        "index":1672444800000,
+        "company ID":"RAIN",
+        "Rank Target":0.1666666667,
+        "prediction":0.3572069108,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "537":{
+        "index":1672444800000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.3319639564,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "542":{
+        "index":1680220800000,
+        "company ID":"FSS",
+        "Rank Target":0.75,
+        "prediction":0.63211447,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "550":{
+        "index":1680220800000,
+        "company ID":"ZWS",
+        "Rank Target":0.8333333333,
+        "prediction":0.5805801749,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "539":{
+        "index":1680220800000,
+        "company ID":"CECO",
+        "Rank Target":0.4166666667,
+        "prediction":0.5781944394,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "548":{
+        "index":1680220800000,
+        "company ID":"VLTO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5773814917,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "543":{
+        "index":1680220800000,
+        "company ID":"FTEK",
+        "Rank Target":0.5833333333,
+        "prediction":0.549043119,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "547":{
+        "index":1680220800000,
+        "company ID":"TOMZ",
+        "Rank Target":0.5,
+        "prediction":0.5350953937,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "544":{
+        "index":1680220800000,
+        "company ID":"PCT",
+        "Rank Target":0.9166666667,
+        "prediction":0.5146555305,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "541":{
+        "index":1680220800000,
+        "company ID":"ERII",
+        "Rank Target":0.6666666667,
+        "prediction":0.5129551291,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "546":{
+        "index":1680220800000,
+        "company ID":"SCWO",
+        "Rank Target":0.3333333333,
+        "prediction":0.4837670624,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "540":{
+        "index":1680220800000,
+        "company ID":"CLIR",
+        "Rank Target":1.0,
+        "prediction":0.4733808041,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "545":{
+        "index":1680220800000,
+        "company ID":"RAIN",
+        "Rank Target":0.1666666667,
+        "prediction":0.3772554398,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "549":{
+        "index":1680220800000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.3436131179,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "554":{
+        "index":1688083200000,
+        "company ID":"FSS",
+        "Rank Target":0.75,
+        "prediction":0.7154454589,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "559":{
+        "index":1688083200000,
+        "company ID":"TOMZ",
+        "Rank Target":1.0,
+        "prediction":0.6910033226,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "551":{
+        "index":1688083200000,
+        "company ID":"CECO",
+        "Rank Target":0.9166666667,
+        "prediction":0.674734354,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "553":{
+        "index":1688083200000,
+        "company ID":"ERII",
+        "Rank Target":0.5,
+        "prediction":0.6676371098,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "562":{
+        "index":1688083200000,
+        "company ID":"ZWS",
+        "Rank Target":0.8333333333,
+        "prediction":0.6076453328,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "558":{
+        "index":1688083200000,
+        "company ID":"SCWO",
+        "Rank Target":0.4166666667,
+        "prediction":0.5911878347,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "560":{
+        "index":1688083200000,
+        "company ID":"VLTO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5601531863,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "561":{
+        "index":1688083200000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5584623814,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "555":{
+        "index":1688083200000,
+        "company ID":"FTEK",
+        "Rank Target":0.6666666667,
+        "prediction":0.5188578367,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "552":{
+        "index":1688083200000,
+        "company ID":"CLIR",
+        "Rank Target":0.5833333333,
+        "prediction":0.4927816391,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "556":{
+        "index":1688083200000,
+        "company ID":"PCT",
+        "Rank Target":0.3333333333,
+        "prediction":0.4544269741,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "557":{
+        "index":1688083200000,
+        "company ID":"RAIN",
+        "Rank Target":0.1666666667,
+        "prediction":0.3408289552,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "566":{
+        "index":1696032000000,
+        "company ID":"FSS",
+        "Rank Target":0.9166666667,
+        "prediction":0.7369482517,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "565":{
+        "index":1696032000000,
+        "company ID":"ERII",
+        "Rank Target":0.3333333333,
+        "prediction":0.6788932681,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "563":{
+        "index":1696032000000,
+        "company ID":"CECO",
+        "Rank Target":1.0,
+        "prediction":0.6490656734,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "567":{
+        "index":1696032000000,
+        "company ID":"FTEK",
+        "Rank Target":0.4166666667,
+        "prediction":0.61323452,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "574":{
+        "index":1696032000000,
+        "company ID":"ZWS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6007205248,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "568":{
+        "index":1696032000000,
+        "company ID":"PCT",
+        "Rank Target":0.25,
+        "prediction":0.5626932979,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "570":{
+        "index":1696032000000,
+        "company ID":"SCWO",
+        "Rank Target":0.75,
+        "prediction":0.5618692636,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "572":{
+        "index":1696032000000,
+        "company ID":"VLTO",
+        "Rank Target":0.5,
+        "prediction":0.5519465208,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "573":{
+        "index":1696032000000,
+        "company ID":"ZONE",
+        "Rank Target":0.125,
+        "prediction":0.5459215641,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "571":{
+        "index":1696032000000,
+        "company ID":"TOMZ",
+        "Rank Target":0.8333333333,
+        "prediction":0.4897653162,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "564":{
+        "index":1696032000000,
+        "company ID":"CLIR",
+        "Rank Target":0.5833333333,
+        "prediction":0.4890890718,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "569":{
+        "index":1696032000000,
+        "company ID":"RAIN",
+        "Rank Target":0.125,
+        "prediction":0.3630668819,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "577":{
+        "index":1703980800000,
+        "company ID":"ERII",
+        "Rank Target":0.3333333333,
+        "prediction":0.7386527061,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "584":{
+        "index":1703980800000,
+        "company ID":"VLTO",
+        "Rank Target":0.5833333333,
+        "prediction":0.6596403718,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "578":{
+        "index":1703980800000,
+        "company ID":"FSS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6310574412,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "586":{
+        "index":1703980800000,
+        "company ID":"ZWS",
+        "Rank Target":0.8333333333,
+        "prediction":0.6251449585,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "575":{
+        "index":1703980800000,
+        "company ID":"CECO",
+        "Rank Target":0.9166666667,
+        "prediction":0.6198580861,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "585":{
+        "index":1703980800000,
+        "company ID":"ZONE",
+        "Rank Target":0.125,
+        "prediction":0.5750128627,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "579":{
+        "index":1703980800000,
+        "company ID":"FTEK",
+        "Rank Target":0.75,
+        "prediction":0.5701748133,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "583":{
+        "index":1703980800000,
+        "company ID":"TOMZ",
+        "Rank Target":0.25,
+        "prediction":0.5485524535,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "582":{
+        "index":1703980800000,
+        "company ID":"SCWO",
+        "Rank Target":0.5,
+        "prediction":0.5015513301,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "580":{
+        "index":1703980800000,
+        "company ID":"PCT",
+        "Rank Target":1.0,
+        "prediction":0.4967232347,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "581":{
+        "index":1703980800000,
+        "company ID":"RAIN",
+        "Rank Target":0.125,
+        "prediction":0.4833475053,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "576":{
+        "index":1703980800000,
+        "company ID":"CLIR",
+        "Rank Target":0.4166666667,
+        "prediction":0.3874926865,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "590":{
+        "index":1711843200000,
+        "company ID":"FSS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6650307775,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "595":{
+        "index":1711843200000,
+        "company ID":"TOMZ",
+        "Rank Target":1.0,
+        "prediction":0.6435871124,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "598":{
+        "index":1711843200000,
+        "company ID":"ZWS",
+        "Rank Target":0.5,
+        "prediction":0.6341329813,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "596":{
+        "index":1711843200000,
+        "company ID":"VLTO",
+        "Rank Target":0.8333333333,
+        "prediction":0.6300804615,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "587":{
+        "index":1711843200000,
+        "company ID":"CECO",
+        "Rank Target":0.9166666667,
+        "prediction":0.5849738717,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "591":{
+        "index":1711843200000,
+        "company ID":"FTEK",
+        "Rank Target":0.4166666667,
+        "prediction":0.548766613,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "589":{
+        "index":1711843200000,
+        "company ID":"ERII",
+        "Rank Target":0.3333333333,
+        "prediction":0.5457931161,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "594":{
+        "index":1711843200000,
+        "company ID":"SCWO",
+        "Rank Target":0.5833333333,
+        "prediction":0.5282613039,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "593":{
+        "index":1711843200000,
+        "company ID":"RAIN",
+        "Rank Target":0.0833333333,
+        "prediction":0.5266799927,
+        "trueRank":12.0,
+        "predictionRank":9.0
+    },
+    "597":{
+        "index":1711843200000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.5151318908,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "592":{
+        "index":1711843200000,
+        "company ID":"PCT",
+        "Rank Target":0.75,
+        "prediction":0.4700107872,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "588":{
+        "index":1711843200000,
+        "company ID":"CLIR",
+        "Rank Target":0.25,
+        "prediction":0.3935740888,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "602":{
+        "index":1719705600000,
+        "company ID":"FSS",
+        "Rank Target":0.5833333333,
+        "prediction":0.7444970608,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "599":{
+        "index":1719705600000,
+        "company ID":"CECO",
+        "Rank Target":0.5,
+        "prediction":0.7006919384,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "610":{
+        "index":1719705600000,
+        "company ID":"ZWS",
+        "Rank Target":0.75,
+        "prediction":0.6754228473,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "609":{
+        "index":1719705600000,
+        "company ID":"ZONE",
+        "Rank Target":0.1666666667,
+        "prediction":0.6398336291,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "608":{
+        "index":1719705600000,
+        "company ID":"VLTO",
+        "Rank Target":0.6666666667,
+        "prediction":0.6361319423,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "603":{
+        "index":1719705600000,
+        "company ID":"FTEK",
+        "Rank Target":0.3333333333,
+        "prediction":0.6356935501,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "604":{
+        "index":1719705600000,
+        "company ID":"PCT",
+        "Rank Target":1.0,
+        "prediction":0.6170808673,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "607":{
+        "index":1719705600000,
+        "company ID":"TOMZ",
+        "Rank Target":0.4166666667,
+        "prediction":0.5896148086,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "600":{
+        "index":1719705600000,
+        "company ID":"CLIR",
+        "Rank Target":0.25,
+        "prediction":0.5840956569,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "601":{
+        "index":1719705600000,
+        "company ID":"ERII",
+        "Rank Target":0.9166666667,
+        "prediction":0.570230186,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "606":{
+        "index":1719705600000,
+        "company ID":"SCWO",
+        "Rank Target":0.8333333333,
+        "prediction":0.563831687,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "605":{
+        "index":1719705600000,
+        "company ID":"RAIN",
+        "Rank Target":0.0833333333,
+        "prediction":0.5337405801,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "614":{
+        "index":1727654400000,
+        "company ID":"FSS",
+        "Rank Target":0.4166666667,
+        "prediction":0.741638422,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "622":{
+        "index":1727654400000,
+        "company ID":"ZWS",
+        "Rank Target":0.5833333333,
+        "prediction":0.675353229,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "619":{
+        "index":1727654400000,
+        "company ID":"TOMZ",
+        "Rank Target":0.9166666667,
+        "prediction":0.661082387,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "620":{
+        "index":1727654400000,
+        "company ID":"VLTO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6518557072,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "618":{
+        "index":1727654400000,
+        "company ID":"SCWO",
+        "Rank Target":0.1666666667,
+        "prediction":0.6216575503,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "615":{
+        "index":1727654400000,
+        "company ID":"FTEK",
+        "Rank Target":0.6666666667,
+        "prediction":0.6077020168,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "613":{
+        "index":1727654400000,
+        "company ID":"ERII",
+        "Rank Target":0.25,
+        "prediction":0.6014748216,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "621":{
+        "index":1727654400000,
+        "company ID":"ZONE",
+        "Rank Target":0.5,
+        "prediction":0.5792232156,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "611":{
+        "index":1727654400000,
+        "company ID":"CECO",
+        "Rank Target":0.8333333333,
+        "prediction":0.5696171522,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "612":{
+        "index":1727654400000,
+        "company ID":"CLIR",
+        "Rank Target":1.0,
+        "prediction":0.5328555107,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "617":{
+        "index":1727654400000,
+        "company ID":"RAIN",
+        "Rank Target":0.0833333333,
+        "prediction":0.5049524903,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "616":{
+        "index":1727654400000,
+        "company ID":"PCT",
+        "Rank Target":0.75,
+        "prediction":0.4875703454,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "626":{
+        "index":1735603200000,
+        "company ID":"FSS",
+        "Rank Target":0.5833333333,
+        "prediction":0.6824985743,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "634":{
+        "index":1735603200000,
+        "company ID":"ZWS",
+        "Rank Target":0.75,
+        "prediction":0.6589927673,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "632":{
+        "index":1735603200000,
+        "company ID":"VLTO",
+        "Rank Target":0.8333333333,
+        "prediction":0.65212363,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "625":{
+        "index":1735603200000,
+        "company ID":"ERII",
+        "Rank Target":1.0,
+        "prediction":0.6407154799,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "623":{
+        "index":1735603200000,
+        "company ID":"CECO",
+        "Rank Target":0.4166666667,
+        "prediction":0.5980272889,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "633":{
+        "index":1735603200000,
+        "company ID":"ZONE",
+        "Rank Target":0.5,
+        "prediction":0.5891409516,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "630":{
+        "index":1735603200000,
+        "company ID":"SCWO",
+        "Rank Target":0.1666666667,
+        "prediction":0.5484849811,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "624":{
+        "index":1735603200000,
+        "company ID":"CLIR",
+        "Rank Target":0.25,
+        "prediction":0.5329324603,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "627":{
+        "index":1735603200000,
+        "company ID":"FTEK",
+        "Rank Target":0.9166666667,
+        "prediction":0.5177868605,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "631":{
+        "index":1735603200000,
+        "company ID":"TOMZ",
+        "Rank Target":0.6666666667,
+        "prediction":0.5038386583,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "629":{
+        "index":1735603200000,
+        "company ID":"RAIN",
+        "Rank Target":0.0833333333,
+        "prediction":0.4587908685,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "628":{
+        "index":1735603200000,
+        "company ID":"PCT",
+        "Rank Target":0.3333333333,
+        "prediction":0.4359657764,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "646":{
+        "index":1743379200000,
+        "company ID":"ZWS",
+        "Rank Target":0.4166666667,
+        "prediction":0.6581012011,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "643":{
+        "index":1743379200000,
+        "company ID":"TOMZ",
+        "Rank Target":0.5,
+        "prediction":0.6258435249,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "645":{
+        "index":1743379200000,
+        "company ID":"ZONE",
+        "Rank Target":0.9166666667,
+        "prediction":0.599793613,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "644":{
+        "index":1743379200000,
+        "company ID":"VLTO",
+        "Rank Target":0.25,
+        "prediction":0.5902396441,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "635":{
+        "index":1743379200000,
+        "company ID":"CECO",
+        "Rank Target":0.6666666667,
+        "prediction":0.5851904154,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "640":{
+        "index":1743379200000,
+        "company ID":"PCT",
+        "Rank Target":0.8333333333,
+        "prediction":0.5627576709,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "642":{
+        "index":1743379200000,
+        "company ID":"SCWO",
+        "Rank Target":0.3333333333,
+        "prediction":0.5612421036,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "638":{
+        "index":1743379200000,
+        "company ID":"FSS",
+        "Rank Target":0.5833333333,
+        "prediction":0.5415346026,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "641":{
+        "index":1743379200000,
+        "company ID":"RAIN",
+        "Rank Target":0.75,
+        "prediction":0.5400114059,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "639":{
+        "index":1743379200000,
+        "company ID":"FTEK",
+        "Rank Target":1.0,
+        "prediction":0.5334541202,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "637":{
+        "index":1743379200000,
+        "company ID":"ERII",
+        "Rank Target":0.0833333333,
+        "prediction":0.5215578079,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "636":{
+        "index":1743379200000,
+        "company ID":"CLIR",
+        "Rank Target":0.1666666667,
+        "prediction":0.5027076602,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "650":{
+        "index":1751241600000,
+        "company ID":"FSS",
+        "Rank Target":0.5,
+        "prediction":0.7193180919,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "649":{
+        "index":1751241600000,
+        "company ID":"ERII",
+        "Rank Target":0.5833333333,
+        "prediction":0.7025974989,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "658":{
+        "index":1751241600000,
+        "company ID":"ZWS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6399431825,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "656":{
+        "index":1751241600000,
+        "company ID":"VLTO",
+        "Rank Target":0.3333333333,
+        "prediction":0.6103401184,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "647":{
+        "index":1751241600000,
+        "company ID":"CECO",
+        "Rank Target":1.0,
+        "prediction":0.5768232346,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "648":{
+        "index":1751241600000,
+        "company ID":"CLIR",
+        "Rank Target":0.8333333333,
+        "prediction":0.5344545841,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "651":{
+        "index":1751241600000,
+        "company ID":"FTEK",
+        "Rank Target":0.4166666667,
+        "prediction":0.5232858062,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "654":{
+        "index":1751241600000,
+        "company ID":"SCWO",
+        "Rank Target":0.75,
+        "prediction":0.5196976066,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "652":{
+        "index":1751241600000,
+        "company ID":"PCT",
+        "Rank Target":0.25,
+        "prediction":0.5160945654,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "653":{
+        "index":1751241600000,
+        "company ID":"RAIN",
+        "Rank Target":0.9166666667,
+        "prediction":0.5123094916,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "655":{
+        "index":1751241600000,
+        "company ID":"TOMZ",
+        "Rank Target":0.1666666667,
+        "prediction":0.4843814969,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "657":{
+        "index":1751241600000,
+        "company ID":"ZONE",
+        "Rank Target":0.0833333333,
+        "prediction":0.4773997664,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "2743":{
+        "company ID":"FARM",
+        "score":0.6755281091,
+        "Rank":1.0,
+        "Rank Target":0.9444444444,
+        "stockDifferencePercentage":18.493148901
+    },
+    "2756":{
+        "company ID":"LWAY",
+        "score":0.6752160788,
+        "Rank":2.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":5.8339847991
+    },
+    "2740":{
+        "company ID":"CENT",
+        "score":0.6472562551,
+        "Rank":3.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":-10.1671765649
+    },
+    "2741":{
+        "company ID":"CENTA",
+        "score":0.6472562551,
+        "Rank":3.0,
+        "Rank Target":0.5277777778,
+        "stockDifferencePercentage":-8.7881602056
+    },
+    "2751":{
+        "company ID":"JBSS",
+        "score":0.6457965374,
+        "Rank":5.0,
+        "Rank Target":0.8055555556,
+        "stockDifferencePercentage":-1.9951930321
+    },
+    "2763":{
+        "company ID":"PPC",
+        "score":0.6369121075,
+        "Rank":6.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":-8.32732525
+    },
+    "2765":{
+        "company ID":"SENEA",
+        "score":0.6350293159,
+        "Rank":7.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":-0.2157427593
+    },
+    "2745":{
+        "company ID":"FRPT",
+        "score":0.6310093403,
+        "Rank":8.0,
+        "Rank Target":0.1388888889,
+        "stockDifferencePercentage":-26.9954044031
+    },
+    "2758":{
+        "company ID":"MZTI",
+        "score":0.6266939044,
+        "Rank":9.0,
+        "Rank Target":0.6111111111,
+        "stockDifferencePercentage":-4.1893777524
+    },
+    "2762":{
+        "company ID":"POST",
+        "score":0.6200000644,
+        "Rank":10.0,
+        "Rank Target":0.6944444444,
+        "stockDifferencePercentage":-2.5450172145
+    },
+    "2752":{
+        "company ID":"JJSF",
+        "score":0.6177957058,
+        "Rank":11.0,
+        "Rank Target":0.3055555556,
+        "stockDifferencePercentage":-18.2909324769
+    },
+    "2742":{
+        "company ID":"DAR",
+        "score":0.5736494064,
+        "Rank":12.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-22.3067198333
+    },
+    "2749":{
+        "company ID":"HLF",
+        "score":0.5622133613,
+        "Rank":13.0,
+        "Rank Target":0.3611111111,
+        "stockDifferencePercentage":-14.7294527127
+    },
+    "2750":{
+        "company ID":"INGR",
+        "score":0.5460505486,
+        "Rank":14.0,
+        "Rank Target":0.3888888889,
+        "stockDifferencePercentage":-11.809248594
+    },
+    "2760":{
+        "company ID":"NATR",
+        "score":0.5452615023,
+        "Rank":15.0,
+        "Rank Target":0.7222222222,
+        "stockDifferencePercentage":-2.4374606208
+    },
+    "2735":{
+        "company ID":"BGS",
+        "score":0.5382633209,
+        "Rank":16.0,
+        "Rank Target":0.8611111111,
+        "stockDifferencePercentage":0.2217224379
+    },
+    "2744":{
+        "company ID":"FLO",
+        "score":0.5284051299,
+        "Rank":17.0,
+        "Rank Target":0.2777777778,
+        "stockDifferencePercentage":-19.884160384
+    },
+    "2768":{
+        "company ID":"USNA",
+        "score":0.518617332,
+        "Rank":18.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-15.5935323131
+    },
+    "2746":{
+        "company ID":"FTLF",
+        "score":0.5146430731,
+        "Rank":19.0,
+        "Rank Target":0.9722222222,
+        "stockDifferencePercentage":40.8062189817
+    },
+    "2753":{
+        "company ID":"KHC",
+        "score":0.510818541,
+        "Rank":20.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":-2.1853464465
+    },
+    "2759":{
+        "company ID":"NAII",
+        "score":0.5024400353,
+        "Rank":21.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-10.4615358215
+    },
+    "2755":{
+        "company ID":"LSF",
+        "score":0.4970362782,
+        "Rank":22.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-8.9763732813
+    },
+    "2748":{
+        "company ID":"HCWC",
+        "score":0.4933021367,
+        "Rank":23.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":60.9195366064
+    },
+    "2767":{
+        "company ID":"THS",
+        "score":0.4836913347,
+        "Rank":24.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":-6.9856416797
+    },
+    "2770":{
+        "company ID":"WEST",
+        "score":0.4751780927,
+        "Rank":25.0,
+        "Rank Target":0.1944444444,
+        "stockDifferencePercentage":-25.7410243024
+    },
+    "2766":{
+        "company ID":"SFD",
+        "score":0.471468091,
+        "Rank":26.0,
+        "Rank Target":0.6388888889,
+        "stockDifferencePercentage":-3.3885897191
+    },
+    "2747":{
+        "company ID":"HAIN",
+        "score":0.465595752,
+        "Rank":27.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":-2.4096363015
+    },
+    "2769":{
+        "company ID":"UTZ",
+        "score":0.4526245296,
+        "Rank":28.0,
+        "Rank Target":0.4722222222,
+        "stockDifferencePercentage":-9.6655304914
+    },
+    "2736":{
+        "company ID":"BOF",
+        "score":0.4446616769,
+        "Rank":29.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-23.4657075734
+    },
+    "2738":{
+        "company ID":"BRCC",
+        "score":0.4341464043,
+        "Rank":30.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":-3.1446585188
+    },
+    "2761":{
+        "company ID":"PAVS",
+        "score":0.4298313856,
+        "Rank":31.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":17.7777777778
+    },
+    "2737":{
+        "company ID":"BRBR",
+        "score":0.4255435467,
+        "Rank":32.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-36.1583932746
+    },
+    "2754":{
+        "company ID":"LFVN",
+        "score":0.3767177463,
+        "Rank":33.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-28.5976450789
+    },
+    "2764":{
+        "company ID":"RKDA",
+        "score":0.3696941435,
+        "Rank":34.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-26.021505664
+    },
+    "2739":{
+        "company ID":"BYND",
+        "score":0.3545830548,
+        "Rank":35.0,
+        "Rank Target":0.0555555556,
+        "stockDifferencePercentage":-49.0196054186
+    },
+    "2757":{
+        "company ID":"MEHA",
+        "score":0.3538135886,
+        "Rank":36.0,
+        "Rank Target":0.0277777778,
+        "stockDifferencePercentage":-100.0
+    }
+}

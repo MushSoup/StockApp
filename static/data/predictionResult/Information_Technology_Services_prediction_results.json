@@ -1,0 +1,247 @@
+{
+    "2092":{
+        "company ID":"IBEX",
+        "score":0.6752729416,
+        "Rank":1.0,
+        "Rank Target":0.9714285714,
+        "stockDifferencePercentage":33.5292283594
+    },
+    "2094":{
+        "company ID":"III",
+        "score":0.6718805432,
+        "Rank":2.0,
+        "Rank Target":0.9142857143,
+        "stockDifferencePercentage":11.7134954117
+    },
+    "2076":{
+        "company ID":"BR",
+        "score":0.668712616,
+        "Rank":3.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-1.4744276961
+    },
+    "2089":{
+        "company ID":"FISV",
+        "score":0.6392734647,
+        "Rank":4.0,
+        "Rank Target":0.2285714286,
+        "stockDifferencePercentage":-25.6906894444
+    },
+    "2098":{
+        "company ID":"TASK",
+        "score":0.6198564768,
+        "Rank":5.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":6.0190714396
+    },
+    "2093":{
+        "company ID":"IBM",
+        "score":0.6160758734,
+        "Rank":6.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":-3.5203053927
+    },
+    "2078":{
+        "company ID":"CDW",
+        "score":0.6140650511,
+        "Rank":7.0,
+        "Rank Target":0.5142857143,
+        "stockDifferencePercentage":-10.5806304691
+    },
+    "2087":{
+        "company ID":"EXLS",
+        "score":0.6112077236,
+        "Rank":8.0,
+        "Rank Target":0.6857142857,
+        "stockDifferencePercentage":-2.871657221
+    },
+    "2073":{
+        "company ID":"ASGN",
+        "score":0.6085861325,
+        "Rank":9.0,
+        "Rank Target":0.5428571429,
+        "stockDifferencePercentage":-10.3709302165
+    },
+    "2081":{
+        "company ID":"CTM",
+        "score":0.6029441953,
+        "Rank":10.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":0.9009000334
+    },
+    "2106":{
+        "company ID":"WYY",
+        "score":0.5839629769,
+        "Rank":11.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":46.6275622931
+    },
+    "2086":{
+        "company ID":"EPAM",
+        "score":0.5790253282,
+        "Rank":12.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-15.4952696753
+    },
+    "2100":{
+        "company ID":"TTEC",
+        "score":0.5768185854,
+        "Rank":13.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-34.0425525053
+    },
+    "2082":{
+        "company ID":"CTSH",
+        "score":0.5766842365,
+        "Rank":14.0,
+        "Rank Target":0.3142857143,
+        "stockDifferencePercentage":-16.7962497728
+    },
+    "2096":{
+        "company ID":"KD",
+        "score":0.5760185122,
+        "Rank":15.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-30.6841735582
+    },
+    "2095":{
+        "company ID":"JKHY",
+        "score":0.571823895,
+        "Rank":16.0,
+        "Rank Target":0.3714285714,
+        "stockDifferencePercentage":-16.3282542662
+    },
+    "2104":{
+        "company ID":"VRRM",
+        "score":0.5639467239,
+        "Rank":17.0,
+        "Rank Target":0.6285714286,
+        "stockDifferencePercentage":-3.4697832469
+    },
+    "2077":{
+        "company ID":"CACI",
+        "score":0.5628892779,
+        "Rank":18.0,
+        "Rank Target":0.7428571429,
+        "stockDifferencePercentage":-0.1963092464
+    },
+    "2105":{
+        "company ID":"VYX",
+        "score":0.5623963475,
+        "Rank":19.0,
+        "Rank Target":0.6571428571,
+        "stockDifferencePercentage":-3.0873483106
+    },
+    "2097":{
+        "company ID":"PSN",
+        "score":0.5494676828,
+        "Rank":20.0,
+        "Rank Target":0.8857142857,
+        "stockDifferencePercentage":9.4372482534
+    },
+    "2079":{
+        "company ID":"CNDT",
+        "score":0.5206747651,
+        "Rank":21.0,
+        "Rank Target":0.7714285714,
+        "stockDifferencePercentage":0.7142850443
+    },
+    "2102":{
+        "company ID":"UIS",
+        "score":0.5141869783,
+        "Rank":22.0,
+        "Rank Target":0.4857142857,
+        "stockDifferencePercentage":-13.2450356559
+    },
+    "2088":{
+        "company ID":"FIS",
+        "score":0.5128047466,
+        "Rank":23.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-19.0833101602
+    },
+    "2090":{
+        "company ID":"GDYN",
+        "score":0.5075010061,
+        "Rank":24.0,
+        "Rank Target":0.0857142857,
+        "stockDifferencePercentage":-37.5302699222
+    },
+    "2084":{
+        "company ID":"DTST",
+        "score":0.4991915226,
+        "Rank":25.0,
+        "Rank Target":0.9428571429,
+        "stockDifferencePercentage":18.4357503203
+    },
+    "2080":{
+        "company ID":"CSPI",
+        "score":0.4648121595,
+        "Rank":26.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-6.2371457297
+    },
+    "2107":{
+        "company ID":"XRX",
+        "score":0.463458091,
+        "Rank":27.0,
+        "Rank Target":0.1714285714,
+        "stockDifferencePercentage":-34.0350807793
+    },
+    "2085":{
+        "company ID":"DXC",
+        "score":0.461030513,
+        "Rank":28.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-16.071426684
+    },
+    "2074":{
+        "company ID":"AUR",
+        "score":0.4521988928,
+        "Rank":29.0,
+        "Rank Target":0.8285714286,
+        "stockDifferencePercentage":4.5282974069
+    },
+    "2101":{
+        "company ID":"TTGT",
+        "score":0.4371847808,
+        "Rank":30.0,
+        "Rank Target":0.4571428571,
+        "stockDifferencePercentage":-13.2947986439
+    },
+    "2091":{
+        "company ID":"HCKT",
+        "score":0.4257048368,
+        "Rank":31.0,
+        "Rank Target":0.2571428571,
+        "stockDifferencePercentage":-25.4241671579
+    },
+    "2075":{
+        "company ID":"BBAI",
+        "score":0.3813939393,
+        "Rank":32.0,
+        "Rank Target":0.3428571429,
+        "stockDifferencePercentage":-16.6451607987
+    },
+    "2099":{
+        "company ID":"TSSI",
+        "score":0.3290056586,
+        "Rank":33.0,
+        "Rank Target":0.1142857143,
+        "stockDifferencePercentage":-34.175864469
+    },
+    "2103":{
+        "company ID":"VEEA",
+        "score":0.279494524,
+        "Rank":34.0,
+        "Rank Target":0.0285714286,
+        "stockDifferencePercentage":-62.3428583143
+    },
+    "2083":{
+        "company ID":"DAIC",
+        "score":0.2443036139,
+        "Rank":35.0,
+        "Rank Target":0.0571428571,
+        "stockDifferencePercentage":-52.9801335743
+    }
+}

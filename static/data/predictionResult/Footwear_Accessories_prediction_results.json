@@ -1,0 +1,65 @@
+{
+    "684":{
+        "company ID":"WWW",
+        "score":0.7103359699,
+        "Rank":1.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":36.7602761513
+    },
+    "682":{
+        "company ID":"SHOO",
+        "score":0.6377854943,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":31.3139459431
+    },
+    "681":{
+        "company ID":"RCKY",
+        "score":0.6163191795,
+        "Rank":3.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":25.0260592571
+    },
+    "679":{
+        "company ID":"FOSL",
+        "score":0.5944986343,
+        "Rank":4.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":66.8711678902
+    },
+    "678":{
+        "company ID":"DECK",
+        "score":0.5831671953,
+        "Rank":5.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-2.749527545
+    },
+    "680":{
+        "company ID":"FWDI",
+        "score":0.5714002848,
+        "Rank":6.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":238.1377514401
+    },
+    "683":{
+        "company ID":"WEYS",
+        "score":0.5261508226,
+        "Rank":7.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-10.9969767451
+    },
+    "677":{
+        "company ID":"CROX",
+        "score":0.4866647422,
+        "Rank":8.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-21.9675750011
+    },
+    "676":{
+        "company ID":"AREB",
+        "score":0.369810164,
+        "Rank":9.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":2.3437514549
+    }
+}

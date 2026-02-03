@@ -1,0 +1,100 @@
+{
+    "910":{
+        "company ID":"LXU",
+        "score":0.6578964591,
+        "Rank":1.0,
+        "Rank Target":0.6428571429,
+        "stockDifferencePercentage":-1.7031671381
+    },
+    "905":{
+        "company ID":"ASPI",
+        "score":0.6179138422,
+        "Rank":2.0,
+        "Rank Target":0.9285714286,
+        "stockDifferencePercentage":48.2808073521
+    },
+    "911":{
+        "company ID":"OLN",
+        "score":0.6175838113,
+        "Rank":3.0,
+        "Rank Target":0.7857142857,
+        "stockDifferencePercentage":12.4621067139
+    },
+    "906":{
+        "company ID":"CE",
+        "score":0.6175251603,
+        "Rank":4.0,
+        "Rank Target":0.0714285714,
+        "stockDifferencePercentage":-32.8824444748
+    },
+    "913":{
+        "company ID":"RYAM",
+        "score":0.5926493406,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":68.4337255522
+    },
+    "916":{
+        "company ID":"WLKP",
+        "score":0.5800999999,
+        "Rank":6.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":-3.3023003275
+    },
+    "908":{
+        "company ID":"GPRE",
+        "score":0.5581765175,
+        "Rank":7.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":31.0888193906
+    },
+    "915":{
+        "company ID":"VHI",
+        "score":0.5527181625,
+        "Rank":8.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-12.6604760067
+    },
+    "903":{
+        "company ID":"ACNT",
+        "score":0.5182202458,
+        "Rank":9.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":-0.393083252
+    },
+    "909":{
+        "company ID":"HUN",
+        "score":0.4886725843,
+        "Rank":10.0,
+        "Rank Target":0.3571428571,
+        "stockDifferencePercentage":-18.2878802123
+    },
+    "904":{
+        "company ID":"ASIX",
+        "score":0.4237532914,
+        "Rank":11.0,
+        "Rank Target":0.2142857143,
+        "stockDifferencePercentage":-22.7724212015
+    },
+    "912":{
+        "company ID":"ORGN",
+        "score":0.422092855,
+        "Rank":12.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-14.9999974319
+    },
+    "907":{
+        "company ID":"DOW",
+        "score":0.4217785299,
+        "Rank":13.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-18.4090618519
+    },
+    "914":{
+        "company ID":"TROX",
+        "score":0.417938292,
+        "Rank":14.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-24.6059144776
+    }
+}

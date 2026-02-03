@@ -1,0 +1,86 @@
+{
+    "772":{
+        "company ID":"DAL",
+        "score":0.7126674652,
+        "Rank":1.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":13.7690680363
+    },
+    "779":{
+        "company ID":"UAL",
+        "score":0.6986900568,
+        "Rank":2.0,
+        "Rank Target":0.9166666667,
+        "stockDifferencePercentage":19.766875496
+    },
+    "770":{
+        "company ID":"ALGT",
+        "score":0.6094864011,
+        "Rank":3.0,
+        "Rank Target":0.5833333333,
+        "stockDifferencePercentage":4.1134508287
+    },
+    "774":{
+        "company ID":"JBLU",
+        "score":0.5905367732,
+        "Rank":4.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":13.2287028601
+    },
+    "769":{
+        "company ID":"AAL",
+        "score":0.5833217502,
+        "Rank":5.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-2.651834706
+    },
+    "776":{
+        "company ID":"SKYW",
+        "score":0.5756914616,
+        "Rank":6.0,
+        "Rank Target":0.0833333333,
+        "stockDifferencePercentage":-6.1792504251
+    },
+    "771":{
+        "company ID":"ALK",
+        "score":0.5692312717,
+        "Rank":7.0,
+        "Rank Target":0.4166666667,
+        "stockDifferencePercentage":-1.1949081675
+    },
+    "773":{
+        "company ID":"FLYX",
+        "score":0.5242781043,
+        "Rank":8.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":103.8626676201
+    },
+    "775":{
+        "company ID":"LUV",
+        "score":0.5219140649,
+        "Rank":9.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-3.333724118
+    },
+    "780":{
+        "company ID":"ULCC",
+        "score":0.5192664862,
+        "Rank":10.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":16.1445797807
+    },
+    "778":{
+        "company ID":"SRFM",
+        "score":0.4242626429,
+        "Rank":11.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":3.6585389973
+    },
+    "777":{
+        "company ID":"SNCY",
+        "score":0.4237745702,
+        "Rank":12.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-4.8489639141
+    }
+}

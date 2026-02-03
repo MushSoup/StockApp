@@ -1,0 +1,65 @@
+{
+    "618":{
+        "company ID":"CRAI",
+        "score":0.6682263017,
+        "Rank":1.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":4.8387675751
+    },
+    "622":{
+        "company ID":"HURN",
+        "score":0.653642118,
+        "Rank":2.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":3.8607545061
+    },
+    "619":{
+        "company ID":"EFX",
+        "score":0.6228981018,
+        "Rank":3.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":-2.1771936837
+    },
+    "620":{
+        "company ID":"FCN",
+        "score":0.6000125408,
+        "Rank":4.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":-2.2014706145
+    },
+    "623":{
+        "company ID":"ICFI",
+        "score":0.582663238,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":5.4375112618
+    },
+    "625":{
+        "company ID":"VRSK",
+        "score":0.5402385592,
+        "Rank":6.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-18.0399517416
+    },
+    "617":{
+        "company ID":"BAH",
+        "score":0.478082031,
+        "Rank":7.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-8.7674301704
+    },
+    "624":{
+        "company ID":"SBC",
+        "score":0.4597094655,
+        "Rank":8.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-4.6979769834
+    },
+    "621":{
+        "company ID":"FORR",
+        "score":0.4589878619,
+        "Rank":9.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":-4.3397993565
+    }
+}

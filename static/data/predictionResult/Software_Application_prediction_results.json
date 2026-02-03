@@ -1,0 +1,779 @@
+{
+    "5762":{
+        "company ID":"PRCH",
+        "score":0.7165849209,
+        "Rank":1.0,
+        "Rank Target":0.9189189189,
+        "stockDifferencePercentage":38.762225456
+    },
+    "5730":{
+        "company ID":"IDCC",
+        "score":0.712041676,
+        "Rank":2.0,
+        "Rank Target":0.954954955,
+        "stockDifferencePercentage":55.6972577297
+    },
+    "5715":{
+        "company ID":"DUOL",
+        "score":0.6849779487,
+        "Rank":3.0,
+        "Rank Target":0.2972972973,
+        "stockDifferencePercentage":-16.0975830476
+    },
+    "5765":{
+        "company ID":"RBBN",
+        "score":0.6805366874,
+        "Rank":4.0,
+        "Rank Target":0.3963963964,
+        "stockDifferencePercentage":-10.2625312847
+    },
+    "5714":{
+        "company ID":"DT",
+        "score":0.6781144142,
+        "Rank":5.0,
+        "Rank Target":0.3693693694,
+        "stockDifferencePercentage":-12.7697225041
+    },
+    "5741":{
+        "company ID":"LIF",
+        "score":0.6714789867,
+        "Rank":6.0,
+        "Rank Target":0.972972973,
+        "stockDifferencePercentage":61.2229344385
+    },
+    "5717":{
+        "company ID":"EGAN",
+        "score":0.6609469652,
+        "Rank":7.0,
+        "Rank Target":0.9099099099,
+        "stockDifferencePercentage":35.5029517342
+    },
+    "5724":{
+        "company ID":"GRND",
+        "score":0.6564850807,
+        "Rank":8.0,
+        "Rank Target":0.0990990991,
+        "stockDifferencePercentage":-30.1819837424
+    },
+    "5685":{
+        "company ID":"ALRM",
+        "score":0.6532562971,
+        "Rank":9.0,
+        "Rank Target":0.4234234234,
+        "stockDifferencePercentage":-8.9790265705
+    },
+    "5791":{
+        "company ID":"YOU",
+        "score":0.6523017287,
+        "Rank":10.0,
+        "Rank Target":0.8648648649,
+        "stockDifferencePercentage":25.9811596836
+    },
+    "5726":{
+        "company ID":"HIT",
+        "score":0.6453940868,
+        "Rank":11.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":313.6310147357
+    },
+    "5740":{
+        "company ID":"LAW",
+        "score":0.643379271,
+        "Rank":12.0,
+        "Rank Target":0.9279279279,
+        "stockDifferencePercentage":40.088109843
+    },
+    "5752":{
+        "company ID":"NTWK",
+        "score":0.641402781,
+        "Rank":13.0,
+        "Rank Target":0.963963964,
+        "stockDifferencePercentage":58.6626094423
+    },
+    "5786":{
+        "company ID":"VERX",
+        "score":0.6384070516,
+        "Rank":14.0,
+        "Rank Target":0.1261261261,
+        "stockDifferencePercentage":-28.3497910525
+    },
+    "5736":{
+        "company ID":"JAMF",
+        "score":0.6377581954,
+        "Rank":15.0,
+        "Rank Target":0.7927927928,
+        "stockDifferencePercentage":16.5413522287
+    },
+    "5688":{
+        "company ID":"APPF",
+        "score":0.6367888451,
+        "Rank":16.0,
+        "Rank Target":0.8198198198,
+        "stockDifferencePercentage":19.996594327
+    },
+    "5721":{
+        "company ID":"FSLY",
+        "score":0.633939743,
+        "Rank":17.0,
+        "Rank Target":0.8558558559,
+        "stockDifferencePercentage":23.3285891544
+    },
+    "5769":{
+        "company ID":"RNG",
+        "score":0.6319123507,
+        "Rank":18.0,
+        "Rank Target":0.6036036036,
+        "stockDifferencePercentage":2.9460968734
+    },
+    "5755":{
+        "company ID":"ONTF",
+        "score":0.6285935044,
+        "Rank":19.0,
+        "Rank Target":0.7027027027,
+        "stockDifferencePercentage":9.0909090909
+    },
+    "5683":{
+        "company ID":"AGYS",
+        "score":0.6264397502,
+        "Rank":20.0,
+        "Rank Target":0.4054054054,
+        "stockDifferencePercentage":-9.9488256827
+    },
+    "5700":{
+        "company ID":"CCC",
+        "score":0.6258544326,
+        "Rank":21.0,
+        "Rank Target":0.4954954955,
+        "stockDifferencePercentage":-4.6153826595
+    },
+    "5750":{
+        "company ID":"NOW",
+        "score":0.6218779683,
+        "Rank":22.0,
+        "Rank Target":0.4144144144,
+        "stockDifferencePercentage":-9.9397931536
+    },
+    "5697":{
+        "company ID":"BLND",
+        "score":0.6216835976,
+        "Rank":23.0,
+        "Rank Target":0.6576576577,
+        "stockDifferencePercentage":6.2322954783
+    },
+    "5784":{
+        "company ID":"TYL",
+        "score":0.617022872,
+        "Rank":24.0,
+        "Rank Target":0.3873873874,
+        "stockDifferencePercentage":-10.3060809137
+    },
+    "5731":{
+        "company ID":"IDN",
+        "score":0.6162745953,
+        "Rank":25.0,
+        "Rank Target":0.5585585586,
+        "stockDifferencePercentage":-2.0484107829
+    },
+    "5718":{
+        "company ID":"EGHT",
+        "score":0.6146754622,
+        "Rank":26.0,
+        "Rank Target":0.6396396396,
+        "stockDifferencePercentage":5.0925875338
+    },
+    "5790":{
+        "company ID":"WK",
+        "score":0.6141082644,
+        "Rank":27.0,
+        "Rank Target":0.8468468468,
+        "stockDifferencePercentage":23.100256547
+    },
+    "5709":{
+        "company ID":"DDOG",
+        "score":0.6134560108,
+        "Rank":28.0,
+        "Rank Target":0.4684684685,
+        "stockDifferencePercentage":-6.3744761707
+    },
+    "5725":{
+        "company ID":"GTM",
+        "score":0.6121690273,
+        "Rank":29.0,
+        "Rank Target":0.7297297297,
+        "stockDifferencePercentage":13.1578888663
+    },
+    "5758":{
+        "company ID":"PDFS",
+        "score":0.6121575832,
+        "Rank":30.0,
+        "Rank Target":0.7387387387,
+        "stockDifferencePercentage":13.5276234944
+    },
+    "5703":{
+        "company ID":"CVLT",
+        "score":0.6104390621,
+        "Rank":31.0,
+        "Rank Target":0.7117117117,
+        "stockDifferencePercentage":10.5872216582
+    },
+    "5696":{
+        "company ID":"BLKB",
+        "score":0.6093961596,
+        "Rank":32.0,
+        "Rank Target":0.5225225225,
+        "stockDifferencePercentage":-3.8935382103
+    },
+    "5708":{
+        "company ID":"DAY",
+        "score":0.6086170077,
+        "Rank":33.0,
+        "Rank Target":0.8288288288,
+        "stockDifferencePercentage":20.1850904154
+    },
+    "5735":{
+        "company ID":"IPM",
+        "score":0.6077640057,
+        "Rank":34.0,
+        "Rank Target":0.6306306306,
+        "stockDifferencePercentage":4.7368439172
+    },
+    "5719":{
+        "company ID":"FROG",
+        "score":0.6048669219,
+        "Rank":35.0,
+        "Rank Target":0.8018018018,
+        "stockDifferencePercentage":17.8095227195
+    },
+    "5764":{
+        "company ID":"QTWO",
+        "score":0.6015418768,
+        "Rank":36.0,
+        "Rank Target":0.1981981982,
+        "stockDifferencePercentage":-21.7887660206
+    },
+    "5729":{
+        "company ID":"IDAI",
+        "score":0.5952683687,
+        "Rank":37.0,
+        "Rank Target":0.8108108108,
+        "stockDifferencePercentage":19.1335731067
+    },
+    "5757":{
+        "company ID":"PAYC",
+        "score":0.5950328112,
+        "Rank":38.0,
+        "Rank Target":0.4774774775,
+        "stockDifferencePercentage":-6.2426140587
+    },
+    "5747":{
+        "company ID":"MSTR",
+        "score":0.5947497487,
+        "Rank":39.0,
+        "Rank Target":0.2252252252,
+        "stockDifferencePercentage":-19.2009650441
+    },
+    "5777":{
+        "company ID":"SPSC",
+        "score":0.5933817625,
+        "Rank":40.0,
+        "Rank Target":0.1531531532,
+        "stockDifferencePercentage":-25.6861894467
+    },
+    "5763":{
+        "company ID":"PUBM",
+        "score":0.5888629556,
+        "Rank":41.0,
+        "Rank Target":0.0810810811,
+        "stockDifferencePercentage":-33.9313535987
+    },
+    "5689":{
+        "company ID":"APPS",
+        "score":0.5876796842,
+        "Rank":42.0,
+        "Rank Target":0.5765765766,
+        "stockDifferencePercentage":-1.4925397922
+    },
+    "5727":{
+        "company ID":"HUBS",
+        "score":0.5869066715,
+        "Rank":43.0,
+        "Rank Target":0.4414414414,
+        "stockDifferencePercentage":-7.3066329457
+    },
+    "5779":{
+        "company ID":"SSNC",
+        "score":0.5825917721,
+        "Rank":44.0,
+        "Rank Target":0.6486486486,
+        "stockDifferencePercentage":5.8553069615
+    },
+    "5682":{
+        "company ID":"AEYE",
+        "score":0.5820908546,
+        "Rank":45.0,
+        "Rank Target":0.7837837838,
+        "stockDifferencePercentage":16.3248629475
+    },
+    "5692":{
+        "company ID":"AWRE",
+        "score":0.5815762281,
+        "Rank":46.0,
+        "Rank Target":0.8828828829,
+        "stockDifferencePercentage":30.0546480113
+    },
+    "5789":{
+        "company ID":"VTSI",
+        "score":0.5806129575,
+        "Rank":47.0,
+        "Rank Target":0.2882882883,
+        "stockDifferencePercentage":-17.0437420046
+    },
+    "5744":{
+        "company ID":"MAPS",
+        "score":0.5800364017,
+        "Rank":48.0,
+        "Rank Target":0.9369369369,
+        "stockDifferencePercentage":41.3043400763
+    },
+    "5743":{
+        "company ID":"MANH",
+        "score":0.57937783,
+        "Rank":49.0,
+        "Rank Target":0.6216216216,
+        "stockDifferencePercentage":3.8713578636
+    },
+    "5776":{
+        "company ID":"SOUN",
+        "score":0.5782464147,
+        "Rank":50.0,
+        "Rank Target":0.9459459459,
+        "stockDifferencePercentage":41.3886392195
+    },
+    "5713":{
+        "company ID":"DSP",
+        "score":0.5762120485,
+        "Rank":51.0,
+        "Rank Target":0.0630630631,
+        "stockDifferencePercentage":-37.3730023105
+    },
+    "5739":{
+        "company ID":"KVYO",
+        "score":0.575019002,
+        "Rank":52.0,
+        "Rank Target":0.4504504505,
+        "stockDifferencePercentage":-7.1365381515
+    },
+    "5699":{
+        "company ID":"BSY",
+        "score":0.5629290342,
+        "Rank":53.0,
+        "Rank Target":0.4864864865,
+        "stockDifferencePercentage":-5.9572107977
+    },
+    "5781":{
+        "company ID":"TEAM",
+        "score":0.5623800159,
+        "Rank":54.0,
+        "Rank Target":0.1891891892,
+        "stockDifferencePercentage":-22.5823076366
+    },
+    "5720":{
+        "company ID":"FRSH",
+        "score":0.5601838827,
+        "Rank":55.0,
+        "Rank Target":0.2432432432,
+        "stockDifferencePercentage":-18.6842117647
+    },
+    "5771":{
+        "company ID":"RSSS",
+        "score":0.5569291115,
+        "Rank":56.0,
+        "Rank Target":0.8738738739,
+        "stockDifferencePercentage":27.3026294113
+    },
+    "5749":{
+        "company ID":"NATL",
+        "score":0.5543361306,
+        "Rank":57.0,
+        "Rank Target":0.9009009009,
+        "stockDifferencePercentage":32.2941396567
+    },
+    "5722":{
+        "company ID":"FTFT",
+        "score":0.5520145297,
+        "Rank":58.0,
+        "Rank Target":0.990990991,
+        "stockDifferencePercentage":67.4418720617
+    },
+    "5745":{
+        "company ID":"MITK",
+        "score":0.5497105122,
+        "Rank":59.0,
+        "Rank Target":0.5135135135,
+        "stockDifferencePercentage":-4.0579716021
+    },
+    "5788":{
+        "company ID":"VS",
+        "score":0.5455637574,
+        "Rank":60.0,
+        "Rank Target":0.3243243243,
+        "stockDifferencePercentage":-14.0562210146
+    },
+    "5694":{
+        "company ID":"BL",
+        "score":0.5450637341,
+        "Rank":61.0,
+        "Rank Target":0.4324324324,
+        "stockDifferencePercentage":-8.5106415271
+    },
+    "5704":{
+        "company ID":"CWAN",
+        "score":0.5446198583,
+        "Rank":62.0,
+        "Rank Target":0.2612612613,
+        "stockDifferencePercentage":-17.7958389129
+    },
+    "5759":{
+        "company ID":"PEGA",
+        "score":0.5440966487,
+        "Rank":63.0,
+        "Rank Target":0.6936936937,
+        "stockDifferencePercentage":8.4397573592
+    },
+    "5728":{
+        "company ID":"IBTA",
+        "score":0.5435682535,
+        "Rank":64.0,
+        "Rank Target":0.1711711712,
+        "stockDifferencePercentage":-23.114889013
+    },
+    "5768":{
+        "company ID":"RMNI",
+        "score":0.5434215665,
+        "Rank":65.0,
+        "Rank Target":0.7567567568,
+        "stockDifferencePercentage":15.3477183403
+    },
+    "5787":{
+        "company ID":"VIA",
+        "score":0.5379216075,
+        "Rank":66.0,
+        "Rank Target":0.5315315315,
+        "stockDifferencePercentage":-3.7164213593
+    },
+    "5712":{
+        "company ID":"DJCO",
+        "score":0.5378566384,
+        "Rank":67.0,
+        "Rank Target":0.6756756757,
+        "stockDifferencePercentage":7.8712917892
+    },
+    "5701":{
+        "company ID":"CDNS",
+        "score":0.5377380848,
+        "Rank":68.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":6.643001015
+    },
+    "5733":{
+        "company ID":"INTA",
+        "score":0.5371525288,
+        "Rank":69.0,
+        "Rank Target":0.3513513514,
+        "stockDifferencePercentage":-12.8871350745
+    },
+    "5778":{
+        "company ID":"SPT",
+        "score":0.5348219872,
+        "Rank":70.0,
+        "Rank Target":0.0720720721,
+        "stockDifferencePercentage":-34.858490931
+    },
+    "5707":{
+        "company ID":"DAVE",
+        "score":0.5326316953,
+        "Rank":71.0,
+        "Rank Target":0.1621621622,
+        "stockDifferencePercentage":-25.1676820601
+    },
+    "5774":{
+        "company ID":"SMRT",
+        "score":0.5325823426,
+        "Rank":72.0,
+        "Rank Target":0.8918918919,
+        "stockDifferencePercentage":30.630633245
+    },
+    "5710":{
+        "company ID":"DFIN",
+        "score":0.5318072438,
+        "Rank":73.0,
+        "Rank Target":0.2342342342,
+        "stockDifferencePercentage":-19.1509443356
+    },
+    "5693":{
+        "company ID":"BILL",
+        "score":0.531678617,
+        "Rank":74.0,
+        "Rank Target":0.7207207207,
+        "stockDifferencePercentage":13.1093130363
+    },
+    "5687":{
+        "company ID":"AMST",
+        "score":0.5262103677,
+        "Rank":75.0,
+        "Rank Target":0.7657657658,
+        "stockDifferencePercentage":15.5234682226
+    },
+    "5681":{
+        "company ID":"ADEA",
+        "score":0.5251013041,
+        "Rank":76.0,
+        "Rank Target":0.7477477477,
+        "stockDifferencePercentage":14.6438634858
+    },
+    "5711":{
+        "company ID":"DHX",
+        "score":0.5195077062,
+        "Rank":77.0,
+        "Rank Target":0.4594594595,
+        "stockDifferencePercentage":-6.8403922694
+    },
+    "5738":{
+        "company ID":"KLTR",
+        "score":0.5122460127,
+        "Rank":78.0,
+        "Rank Target":0.1171171171,
+        "stockDifferencePercentage":-28.6432185768
+    },
+    "5772":{
+        "company ID":"SEMR",
+        "score":0.5061063766,
+        "Rank":79.0,
+        "Rank Target":0.2162162162,
+        "stockDifferencePercentage":-20.4371528598
+    },
+    "5756":{
+        "company ID":"PAR",
+        "score":0.5051864386,
+        "Rank":80.0,
+        "Rank Target":0.045045045,
+        "stockDifferencePercentage":-42.2612178829
+    },
+    "5775":{
+        "company ID":"SMSI",
+        "score":0.4948869348,
+        "Rank":81.0,
+        "Rank Target":0.2522522523,
+        "stockDifferencePercentage":-18.6813199786
+    },
+    "5767":{
+        "company ID":"RDZN",
+        "score":0.4941456318,
+        "Rank":82.0,
+        "Rank Target":0.2072072072,
+        "stockDifferencePercentage":-20.6666626531
+    },
+    "5785":{
+        "company ID":"UPLD",
+        "score":0.4917518497,
+        "Rank":83.0,
+        "Rank Target":0.8378378378,
+        "stockDifferencePercentage":21.9512223498
+    },
+    "5690":{
+        "company ID":"ASUR",
+        "score":0.4857593775,
+        "Rank":84.0,
+        "Rank Target":0.1351351351,
+        "stockDifferencePercentage":-27.4008855142
+    },
+    "5751":{
+        "company ID":"NRDY",
+        "score":0.4793561995,
+        "Rank":85.0,
+        "Rank Target":0.1801801802,
+        "stockDifferencePercentage":-22.7544913151
+    },
+    "5770":{
+        "company ID":"ROP",
+        "score":0.4742027521,
+        "Rank":86.0,
+        "Rank Target":0.3783783784,
+        "stockDifferencePercentage":-12.4448133843
+    },
+    "5783":{
+        "company ID":"TRAK",
+        "score":0.4713680446,
+        "Rank":87.0,
+        "Rank Target":0.2792792793,
+        "stockDifferencePercentage":-17.3652740908
+    },
+    "5780":{
+        "company ID":"SSTI",
+        "score":0.4638434052,
+        "Rank":88.0,
+        "Rank Target":0.3423423423,
+        "stockDifferencePercentage":-13.7522437025
+    },
+    "5761":{
+        "company ID":"PLUS",
+        "score":0.463732779,
+        "Rank":89.0,
+        "Rank Target":0.5675675676,
+        "stockDifferencePercentage":-1.5643585525
+    },
+    "5705":{
+        "company ID":"CXAI",
+        "score":0.4580512941,
+        "Rank":90.0,
+        "Rank Target":0.1081081081,
+        "stockDifferencePercentage":-29.3333316659
+    },
+    "5748":{
+        "company ID":"MYSE",
+        "score":0.4553375542,
+        "Rank":91.0,
+        "Rank Target":0.3153153153,
+        "stockDifferencePercentage":-14.8854917377
+    },
+    "5723":{
+        "company ID":"FUSE",
+        "score":0.4541759789,
+        "Rank":92.0,
+        "Rank Target":0.7747747748,
+        "stockDifferencePercentage":16.1825707754
+    },
+    "5737":{
+        "company ID":"JTAI",
+        "score":0.4491415322,
+        "Rank":93.0,
+        "Rank Target":0.5855855856,
+        "stockDifferencePercentage":0.5730653566
+    },
+    "5716":{
+        "company ID":"DUOT",
+        "score":0.4489132464,
+        "Rank":94.0,
+        "Rank Target":0.5405405405,
+        "stockDifferencePercentage":-3.3877037391
+    },
+    "5766":{
+        "company ID":"RDVT",
+        "score":0.4455550611,
+        "Rank":95.0,
+        "Rank Target":0.6126126126,
+        "stockDifferencePercentage":3.4825870647
+    },
+    "5760":{
+        "company ID":"PHUN",
+        "score":0.4368959665,
+        "Rank":96.0,
+        "Rank Target":0.2702702703,
+        "stockDifferencePercentage":-17.7325617255
+    },
+    "5695":{
+        "company ID":"BLBX",
+        "score":0.4328050315,
+        "Rank":97.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-14.0449440459
+    },
+    "5746":{
+        "company ID":"MNTN",
+        "score":0.4247880578,
+        "Rank":98.0,
+        "Rank Target":0.3603603604,
+        "stockDifferencePercentage":-12.8384686751
+    },
+    "5742":{
+        "company ID":"LPSN",
+        "score":0.4245572388,
+        "Rank":99.0,
+        "Rank Target":0.036036036,
+        "stockDifferencePercentage":-42.727273883
+    },
+    "5753":{
+        "company ID":"NUKK",
+        "score":0.4063084722,
+        "Rank":100.0,
+        "Rank Target":0.0540540541,
+        "stockDifferencePercentage":-38.52496508
+    },
+    "5754":{
+        "company ID":"NXPL",
+        "score":0.4056423306,
+        "Rank":101.0,
+        "Rank Target":0.6846846847,
+        "stockDifferencePercentage":7.8947372434
+    },
+    "5732":{
+        "company ID":"INLX",
+        "score":0.400826484,
+        "Rank":102.0,
+        "Rank Target":0.5495495495,
+        "stockDifferencePercentage":-3.1852481541
+    },
+    "5684":{
+        "company ID":"AIFF",
+        "score":0.3933487236,
+        "Rank":103.0,
+        "Rank Target":0.5045045045,
+        "stockDifferencePercentage":-4.290424991
+    },
+    "5773":{
+        "company ID":"SGN",
+        "score":0.3932721913,
+        "Rank":104.0,
+        "Rank Target":0.981981982,
+        "stockDifferencePercentage":63.5513938444
+    },
+    "5686":{
+        "company ID":"AMOD",
+        "score":0.3887194991,
+        "Rank":105.0,
+        "Rank Target":0.5945945946,
+        "stockDifferencePercentage":1.7241363341
+    },
+    "5782":{
+        "company ID":"TONX",
+        "score":0.3875833452,
+        "Rank":106.0,
+        "Rank Target":0.3063063063,
+        "stockDifferencePercentage":-15.2854547873
+    },
+    "5734":{
+        "company ID":"INUV",
+        "score":0.3716224432,
+        "Rank":107.0,
+        "Rank Target":0.1441441441,
+        "stockDifferencePercentage":-26.4646415125
+    },
+    "5691":{
+        "company ID":"ATHR",
+        "score":0.3577465713,
+        "Rank":108.0,
+        "Rank Target":0.009009009,
+        "stockDifferencePercentage":-58.2258065511
+    },
+    "5702":{
+        "company ID":"CHYM",
+        "score":0.3414171338,
+        "Rank":109.0,
+        "Rank Target":0.0900900901,
+        "stockDifferencePercentage":-33.5887629636
+    },
+    "5706":{
+        "company ID":"CYN",
+        "score":0.3200621009,
+        "Rank":110.0,
+        "Rank Target":0.027027027,
+        "stockDifferencePercentage":-53.3073943824
+    },
+    "5698":{
+        "company ID":"BNZI",
+        "score":0.2812909782,
+        "Rank":111.0,
+        "Rank Target":0.018018018,
+        "stockDifferencePercentage":-56.351789494
+    }
+}

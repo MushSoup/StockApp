@@ -1,0 +1,1834 @@
+{
+    "621":{
+        "index":1656547200000,
+        "company ID":"AMZN",
+        "Rank Target":0.7222222222,
+        "prediction":0.6849808097,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "628":{
+        "index":1656547200000,
+        "company ID":"ETSY",
+        "Rank Target":0.9444444444,
+        "prediction":0.6833075285,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "634":{
+        "index":1656547200000,
+        "company ID":"QVCGA",
+        "Rank Target":0.3888888889,
+        "prediction":0.6819096208,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "631":{
+        "index":1656547200000,
+        "company ID":"LQDT",
+        "Rank Target":0.8888888889,
+        "prediction":0.6650298238,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "632":{
+        "index":1656547200000,
+        "company ID":"MELI",
+        "Rank Target":1.0,
+        "prediction":0.6639749408,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "627":{
+        "index":1656547200000,
+        "company ID":"EBAY",
+        "Rank Target":0.5555555556,
+        "prediction":0.6465473771,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "625":{
+        "index":1656547200000,
+        "company ID":"DASH",
+        "Rank Target":0.2777777778,
+        "prediction":0.5842720866,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "626":{
+        "index":1656547200000,
+        "company ID":"DIBS",
+        "Rank Target":0.6666666667,
+        "prediction":0.5783606768,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "624":{
+        "index":1656547200000,
+        "company ID":"CPNG",
+        "Rank Target":0.7777777778,
+        "prediction":0.5501576066,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "636":{
+        "index":1656547200000,
+        "company ID":"SBDS",
+        "Rank Target":0.6111111111,
+        "prediction":0.5350347161,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "638":{
+        "index":1656547200000,
+        "company ID":"W",
+        "Rank Target":0.2222222222,
+        "prediction":0.5229005218,
+        "trueRank":15.0,
+        "predictionRank":11.0
+    },
+    "630":{
+        "index":1656547200000,
+        "company ID":"IPW",
+        "Rank Target":0.1111111111,
+        "prediction":0.5074569583,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "622":{
+        "index":1656547200000,
+        "company ID":"BBBY",
+        "Rank Target":0.3333333333,
+        "prediction":0.4810118377,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "635":{
+        "index":1656547200000,
+        "company ID":"RVLV",
+        "Rank Target":0.5,
+        "prediction":0.4552194178,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "633":{
+        "index":1656547200000,
+        "company ID":"NEGG",
+        "Rank Target":0.1666666667,
+        "prediction":0.407888025,
+        "trueRank":16.0,
+        "predictionRank":15.0
+    },
+    "629":{
+        "index":1656547200000,
+        "company ID":"HOUR",
+        "Rank Target":0.8333333333,
+        "prediction":0.4017833471,
+        "trueRank":4.0,
+        "predictionRank":16.0
+    },
+    "637":{
+        "index":1656547200000,
+        "company ID":"TDUP",
+        "Rank Target":0.4444444444,
+        "prediction":0.3821482062,
+        "trueRank":11.0,
+        "predictionRank":17.0
+    },
+    "623":{
+        "index":1656547200000,
+        "company ID":"CART",
+        "Rank Target":0.0555555556,
+        "prediction":0.3200368583,
+        "trueRank":18.0,
+        "predictionRank":18.0
+    },
+    "644":{
+        "index":1664496000000,
+        "company ID":"EBAY",
+        "Rank Target":0.9411764706,
+        "prediction":0.7434991002,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "639":{
+        "index":1664496000000,
+        "company ID":"AMZN",
+        "Rank Target":0.2941176471,
+        "prediction":0.7058367133,
+        "trueRank":13.0,
+        "predictionRank":2.0
+    },
+    "649":{
+        "index":1664496000000,
+        "company ID":"MELI",
+        "Rank Target":0.5882352941,
+        "prediction":0.664945662,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "648":{
+        "index":1664496000000,
+        "company ID":"LQDT",
+        "Rank Target":0.5294117647,
+        "prediction":0.6630808711,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "642":{
+        "index":1664496000000,
+        "company ID":"DASH",
+        "Rank Target":0.7647058824,
+        "prediction":0.6618950367,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "645":{
+        "index":1664496000000,
+        "company ID":"ETSY",
+        "Rank Target":1.0,
+        "prediction":0.5951749086,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "651":{
+        "index":1664496000000,
+        "company ID":"QVCGA",
+        "Rank Target":0.4117647059,
+        "prediction":0.5772942305,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "647":{
+        "index":1664496000000,
+        "company ID":"IPW",
+        "Rank Target":0.1176470588,
+        "prediction":0.5607550144,
+        "trueRank":16.0,
+        "predictionRank":8.0
+    },
+    "650":{
+        "index":1664496000000,
+        "company ID":"NEGG",
+        "Rank Target":0.1764705882,
+        "prediction":0.5517147183,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "643":{
+        "index":1664496000000,
+        "company ID":"DIBS",
+        "Rank Target":0.3529411765,
+        "prediction":0.5433982015,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "641":{
+        "index":1664496000000,
+        "company ID":"CPNG",
+        "Rank Target":0.4705882353,
+        "prediction":0.5424290895,
+        "trueRank":10.0,
+        "predictionRank":11.0
+    },
+    "655":{
+        "index":1664496000000,
+        "company ID":"W",
+        "Rank Target":0.7058823529,
+        "prediction":0.5399820805,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "652":{
+        "index":1664496000000,
+        "company ID":"RVLV",
+        "Rank Target":0.8823529412,
+        "prediction":0.5289548039,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "640":{
+        "index":1664496000000,
+        "company ID":"CART",
+        "Rank Target":0.0588235294,
+        "prediction":0.5284625292,
+        "trueRank":17.0,
+        "predictionRank":14.0
+    },
+    "646":{
+        "index":1664496000000,
+        "company ID":"HOUR",
+        "Rank Target":0.8235294118,
+        "prediction":0.463535279,
+        "trueRank":4.0,
+        "predictionRank":15.0
+    },
+    "653":{
+        "index":1664496000000,
+        "company ID":"SBDS",
+        "Rank Target":0.6470588235,
+        "prediction":0.4422333241,
+        "trueRank":7.0,
+        "predictionRank":16.0
+    },
+    "654":{
+        "index":1664496000000,
+        "company ID":"TDUP",
+        "Rank Target":0.2352941176,
+        "prediction":0.4263294637,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "656":{
+        "index":1672444800000,
+        "company ID":"AMZN",
+        "Rank Target":0.7222222222,
+        "prediction":0.7107641101,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "659":{
+        "index":1672444800000,
+        "company ID":"CPNG",
+        "Rank Target":0.5555555556,
+        "prediction":0.7106246948,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "667":{
+        "index":1672444800000,
+        "company ID":"MELI",
+        "Rank Target":0.8888888889,
+        "prediction":0.6690345407,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "662":{
+        "index":1672444800000,
+        "company ID":"EBAY",
+        "Rank Target":0.5,
+        "prediction":0.6614958644,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "666":{
+        "index":1672444800000,
+        "company ID":"LQDT",
+        "Rank Target":0.2777777778,
+        "prediction":0.6365372539,
+        "trueRank":14.0,
+        "predictionRank":5.0
+    },
+    "669":{
+        "index":1672444800000,
+        "company ID":"QVCGA",
+        "Rank Target":0.1111111111,
+        "prediction":0.6342236996,
+        "trueRank":17.0,
+        "predictionRank":6.0
+    },
+    "663":{
+        "index":1672444800000,
+        "company ID":"ETSY",
+        "Rank Target":0.3333333333,
+        "prediction":0.6274152994,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "673":{
+        "index":1672444800000,
+        "company ID":"W",
+        "Rank Target":0.3888888889,
+        "prediction":0.6145896316,
+        "trueRank":12.0,
+        "predictionRank":8.0
+    },
+    "671":{
+        "index":1672444800000,
+        "company ID":"SBDS",
+        "Rank Target":0.9444444444,
+        "prediction":0.5816526413,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "661":{
+        "index":1672444800000,
+        "company ID":"DIBS",
+        "Rank Target":0.2222222222,
+        "prediction":0.5760530233,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "668":{
+        "index":1672444800000,
+        "company ID":"NEGG",
+        "Rank Target":0.4444444444,
+        "prediction":0.5509378314,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "657":{
+        "index":1672444800000,
+        "company ID":"BBBY",
+        "Rank Target":0.6111111111,
+        "prediction":0.5453308821,
+        "trueRank":8.0,
+        "predictionRank":12.0
+    },
+    "665":{
+        "index":1672444800000,
+        "company ID":"IPW",
+        "Rank Target":0.8333333333,
+        "prediction":0.4881628454,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "660":{
+        "index":1672444800000,
+        "company ID":"DASH",
+        "Rank Target":0.7777777778,
+        "prediction":0.481348455,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "658":{
+        "index":1672444800000,
+        "company ID":"CART",
+        "Rank Target":0.0555555556,
+        "prediction":0.4727446735,
+        "trueRank":18.0,
+        "predictionRank":15.0
+    },
+    "664":{
+        "index":1672444800000,
+        "company ID":"HOUR",
+        "Rank Target":0.1666666667,
+        "prediction":0.4654439092,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "670":{
+        "index":1672444800000,
+        "company ID":"RVLV",
+        "Rank Target":0.6666666667,
+        "prediction":0.4256160557,
+        "trueRank":7.0,
+        "predictionRank":17.0
+    },
+    "672":{
+        "index":1672444800000,
+        "company ID":"TDUP",
+        "Rank Target":1.0,
+        "prediction":0.4056763351,
+        "trueRank":1.0,
+        "predictionRank":18.0
+    },
+    "677":{
+        "index":1680220800000,
+        "company ID":"CPNG",
+        "Rank Target":0.6666666667,
+        "prediction":0.705820322,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "680":{
+        "index":1680220800000,
+        "company ID":"EBAY",
+        "Rank Target":0.5555555556,
+        "prediction":0.7057603598,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "678":{
+        "index":1680220800000,
+        "company ID":"DASH",
+        "Rank Target":0.7222222222,
+        "prediction":0.6984040737,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "674":{
+        "index":1680220800000,
+        "company ID":"AMZN",
+        "Rank Target":0.7777777778,
+        "prediction":0.6754007339,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "685":{
+        "index":1680220800000,
+        "company ID":"MELI",
+        "Rank Target":0.3888888889,
+        "prediction":0.6734572649,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "681":{
+        "index":1680220800000,
+        "company ID":"ETSY",
+        "Rank Target":0.2222222222,
+        "prediction":0.6680224538,
+        "trueRank":15.0,
+        "predictionRank":6.0
+    },
+    "684":{
+        "index":1680220800000,
+        "company ID":"LQDT",
+        "Rank Target":0.8333333333,
+        "prediction":0.6602708697,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "675":{
+        "index":1680220800000,
+        "company ID":"BBBY",
+        "Rank Target":0.8888888889,
+        "prediction":0.6186632514,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "676":{
+        "index":1680220800000,
+        "company ID":"CART",
+        "Rank Target":0.0555555556,
+        "prediction":0.612079978,
+        "trueRank":18.0,
+        "predictionRank":9.0
+    },
+    "689":{
+        "index":1680220800000,
+        "company ID":"SBDS",
+        "Rank Target":0.1666666667,
+        "prediction":0.5928356051,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "687":{
+        "index":1680220800000,
+        "company ID":"QVCGA",
+        "Rank Target":0.6111111111,
+        "prediction":0.5715204477,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "691":{
+        "index":1680220800000,
+        "company ID":"W",
+        "Rank Target":1.0,
+        "prediction":0.5586196184,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "688":{
+        "index":1680220800000,
+        "company ID":"RVLV",
+        "Rank Target":0.1111111111,
+        "prediction":0.5526496172,
+        "trueRank":17.0,
+        "predictionRank":13.0
+    },
+    "686":{
+        "index":1680220800000,
+        "company ID":"NEGG",
+        "Rank Target":0.3333333333,
+        "prediction":0.5073001981,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "683":{
+        "index":1680220800000,
+        "company ID":"IPW",
+        "Rank Target":0.9444444444,
+        "prediction":0.4996394515,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "679":{
+        "index":1680220800000,
+        "company ID":"DIBS",
+        "Rank Target":0.4444444444,
+        "prediction":0.4843068123,
+        "trueRank":11.0,
+        "predictionRank":16.0
+    },
+    "690":{
+        "index":1680220800000,
+        "company ID":"TDUP",
+        "Rank Target":0.5,
+        "prediction":0.4382619262,
+        "trueRank":10.0,
+        "predictionRank":17.0
+    },
+    "682":{
+        "index":1680220800000,
+        "company ID":"HOUR",
+        "Rank Target":0.2777777778,
+        "prediction":0.4041301608,
+        "trueRank":14.0,
+        "predictionRank":18.0
+    },
+    "692":{
+        "index":1688083200000,
+        "company ID":"AMZN",
+        "Rank Target":0.6470588235,
+        "prediction":0.723957777,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "697":{
+        "index":1688083200000,
+        "company ID":"EBAY",
+        "Rank Target":0.7058823529,
+        "prediction":0.698340714,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "702":{
+        "index":1688083200000,
+        "company ID":"MELI",
+        "Rank Target":0.8823529412,
+        "prediction":0.6974181533,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "694":{
+        "index":1688083200000,
+        "company ID":"CPNG",
+        "Rank Target":0.7647058824,
+        "prediction":0.6669241786,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "701":{
+        "index":1688083200000,
+        "company ID":"LQDT",
+        "Rank Target":0.9411764706,
+        "prediction":0.6423589587,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "704":{
+        "index":1688083200000,
+        "company ID":"QVCGA",
+        "Rank Target":0.0588235294,
+        "prediction":0.6403787136,
+        "trueRank":17.0,
+        "predictionRank":6.0
+    },
+    "698":{
+        "index":1688083200000,
+        "company ID":"ETSY",
+        "Rank Target":0.2352941176,
+        "prediction":0.6311929822,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "695":{
+        "index":1688083200000,
+        "company ID":"DASH",
+        "Rank Target":0.8235294118,
+        "prediction":0.6276592612,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "708":{
+        "index":1688083200000,
+        "company ID":"W",
+        "Rank Target":0.4705882353,
+        "prediction":0.6226994395,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "706":{
+        "index":1688083200000,
+        "company ID":"SBDS",
+        "Rank Target":0.5294117647,
+        "prediction":0.5896421075,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "693":{
+        "index":1688083200000,
+        "company ID":"CART",
+        "Rank Target":0.4117647059,
+        "prediction":0.5831073523,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "700":{
+        "index":1688083200000,
+        "company ID":"IPW",
+        "Rank Target":0.1176470588,
+        "prediction":0.5509644747,
+        "trueRank":16.0,
+        "predictionRank":12.0
+    },
+    "707":{
+        "index":1688083200000,
+        "company ID":"TDUP",
+        "Rank Target":1.0,
+        "prediction":0.5106661916,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "696":{
+        "index":1688083200000,
+        "company ID":"DIBS",
+        "Rank Target":0.5882352941,
+        "prediction":0.5098088384,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "705":{
+        "index":1688083200000,
+        "company ID":"RVLV",
+        "Rank Target":0.2941176471,
+        "prediction":0.4684866071,
+        "trueRank":13.0,
+        "predictionRank":15.0
+    },
+    "703":{
+        "index":1688083200000,
+        "company ID":"NEGG",
+        "Rank Target":0.1764705882,
+        "prediction":0.4524405897,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "699":{
+        "index":1688083200000,
+        "company ID":"HOUR",
+        "Rank Target":0.3529411765,
+        "prediction":0.3483413756,
+        "trueRank":12.0,
+        "predictionRank":17.0
+    },
+    "718":{
+        "index":1696032000000,
+        "company ID":"LQDT",
+        "Rank Target":0.2352941176,
+        "prediction":0.7395720482,
+        "trueRank":14.0,
+        "predictionRank":1.0
+    },
+    "714":{
+        "index":1696032000000,
+        "company ID":"EBAY",
+        "Rank Target":0.4117647059,
+        "prediction":0.6936314106,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "709":{
+        "index":1696032000000,
+        "company ID":"AMZN",
+        "Rank Target":0.5294117647,
+        "prediction":0.6898189783,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "711":{
+        "index":1696032000000,
+        "company ID":"CPNG",
+        "Rank Target":0.2941176471,
+        "prediction":0.6779452562,
+        "trueRank":13.0,
+        "predictionRank":4.0
+    },
+    "712":{
+        "index":1696032000000,
+        "company ID":"DASH",
+        "Rank Target":0.7647058824,
+        "prediction":0.6696509123,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "719":{
+        "index":1696032000000,
+        "company ID":"MELI",
+        "Rank Target":0.7058823529,
+        "prediction":0.6597547531,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "721":{
+        "index":1696032000000,
+        "company ID":"QVCGA",
+        "Rank Target":1.0,
+        "prediction":0.6548651457,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "715":{
+        "index":1696032000000,
+        "company ID":"ETSY",
+        "Rank Target":0.8235294118,
+        "prediction":0.6326339245,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "725":{
+        "index":1696032000000,
+        "company ID":"W",
+        "Rank Target":0.4705882353,
+        "prediction":0.6112185121,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "720":{
+        "index":1696032000000,
+        "company ID":"NEGG",
+        "Rank Target":0.9411764706,
+        "prediction":0.609338522,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "713":{
+        "index":1696032000000,
+        "company ID":"DIBS",
+        "Rank Target":0.8823529412,
+        "prediction":0.5992436409,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "717":{
+        "index":1696032000000,
+        "company ID":"IPW",
+        "Rank Target":0.1176470588,
+        "prediction":0.5947309732,
+        "trueRank":16.0,
+        "predictionRank":12.0
+    },
+    "722":{
+        "index":1696032000000,
+        "company ID":"RVLV",
+        "Rank Target":0.5882352941,
+        "prediction":0.5714556575,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "724":{
+        "index":1696032000000,
+        "company ID":"TDUP",
+        "Rank Target":0.0588235294,
+        "prediction":0.547380209,
+        "trueRank":17.0,
+        "predictionRank":14.0
+    },
+    "710":{
+        "index":1696032000000,
+        "company ID":"CART",
+        "Rank Target":0.1764705882,
+        "prediction":0.5385106802,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "723":{
+        "index":1696032000000,
+        "company ID":"SBDS",
+        "Rank Target":0.6470588235,
+        "prediction":0.5037552118,
+        "trueRank":7.0,
+        "predictionRank":16.0
+    },
+    "716":{
+        "index":1696032000000,
+        "company ID":"HOUR",
+        "Rank Target":0.3529411765,
+        "prediction":0.4035268128,
+        "trueRank":12.0,
+        "predictionRank":17.0
+    },
+    "726":{
+        "index":1703980800000,
+        "company ID":"AMZN",
+        "Rank Target":0.5555555556,
+        "prediction":0.7325766683,
+        "trueRank":9.0,
+        "predictionRank":1.0
+    },
+    "729":{
+        "index":1703980800000,
+        "company ID":"CPNG",
+        "Rank Target":0.5,
+        "prediction":0.6971550584,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "730":{
+        "index":1703980800000,
+        "company ID":"DASH",
+        "Rank Target":0.8888888889,
+        "prediction":0.6942436099,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "733":{
+        "index":1703980800000,
+        "company ID":"ETSY",
+        "Rank Target":0.2222222222,
+        "prediction":0.6776708961,
+        "trueRank":15.0,
+        "predictionRank":4.0
+    },
+    "732":{
+        "index":1703980800000,
+        "company ID":"EBAY",
+        "Rank Target":0.6111111111,
+        "prediction":0.6703944802,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "743":{
+        "index":1703980800000,
+        "company ID":"W",
+        "Rank Target":0.6666666667,
+        "prediction":0.6625198126,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "737":{
+        "index":1703980800000,
+        "company ID":"MELI",
+        "Rank Target":0.3333333333,
+        "prediction":0.6469655037,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "739":{
+        "index":1703980800000,
+        "company ID":"QVCGA",
+        "Rank Target":0.9444444444,
+        "prediction":0.6329571009,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "735":{
+        "index":1703980800000,
+        "company ID":"IPW",
+        "Rank Target":0.4444444444,
+        "prediction":0.6116429567,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "731":{
+        "index":1703980800000,
+        "company ID":"DIBS",
+        "Rank Target":0.7222222222,
+        "prediction":0.600499332,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "738":{
+        "index":1703980800000,
+        "company ID":"NEGG",
+        "Rank Target":0.1111111111,
+        "prediction":0.5925219059,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "741":{
+        "index":1703980800000,
+        "company ID":"SBDS",
+        "Rank Target":0.0555555556,
+        "prediction":0.578209281,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "740":{
+        "index":1703980800000,
+        "company ID":"RVLV",
+        "Rank Target":0.7777777778,
+        "prediction":0.565680325,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "736":{
+        "index":1703980800000,
+        "company ID":"LQDT",
+        "Rank Target":0.3888888889,
+        "prediction":0.5552384257,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "728":{
+        "index":1703980800000,
+        "company ID":"CART",
+        "Rank Target":1.0,
+        "prediction":0.532489419,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "742":{
+        "index":1703980800000,
+        "company ID":"TDUP",
+        "Rank Target":0.2777777778,
+        "prediction":0.5219798088,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "727":{
+        "index":1703980800000,
+        "company ID":"BBBY",
+        "Rank Target":0.8333333333,
+        "prediction":0.4500164688,
+        "trueRank":4.0,
+        "predictionRank":17.0
+    },
+    "734":{
+        "index":1703980800000,
+        "company ID":"HOUR",
+        "Rank Target":0.1666666667,
+        "prediction":0.4017016888,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "744":{
+        "index":1711843200000,
+        "company ID":"AMZN",
+        "Rank Target":0.6666666667,
+        "prediction":0.6917926073,
+        "trueRank":7.0,
+        "predictionRank":1.0
+    },
+    "751":{
+        "index":1711843200000,
+        "company ID":"ETSY",
+        "Rank Target":0.5,
+        "prediction":0.661675036,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "750":{
+        "index":1711843200000,
+        "company ID":"EBAY",
+        "Rank Target":0.6111111111,
+        "prediction":0.6412126422,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "758":{
+        "index":1711843200000,
+        "company ID":"RVLV",
+        "Rank Target":0.2777777778,
+        "prediction":0.6407672763,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "748":{
+        "index":1711843200000,
+        "company ID":"DASH",
+        "Rank Target":0.2222222222,
+        "prediction":0.6407222748,
+        "trueRank":15.0,
+        "predictionRank":5.0
+    },
+    "747":{
+        "index":1711843200000,
+        "company ID":"CPNG",
+        "Rank Target":0.8888888889,
+        "prediction":0.6288409233,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "753":{
+        "index":1711843200000,
+        "company ID":"IPW",
+        "Rank Target":1.0,
+        "prediction":0.6271247864,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "755":{
+        "index":1711843200000,
+        "company ID":"MELI",
+        "Rank Target":0.8333333333,
+        "prediction":0.6259088516,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "754":{
+        "index":1711843200000,
+        "company ID":"LQDT",
+        "Rank Target":0.7777777778,
+        "prediction":0.620859921,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "746":{
+        "index":1711843200000,
+        "company ID":"CART",
+        "Rank Target":0.3888888889,
+        "prediction":0.5965788364,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "757":{
+        "index":1711843200000,
+        "company ID":"QVCGA",
+        "Rank Target":0.1111111111,
+        "prediction":0.5886545181,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "760":{
+        "index":1711843200000,
+        "company ID":"TDUP",
+        "Rank Target":0.5555555556,
+        "prediction":0.5785813332,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "761":{
+        "index":1711843200000,
+        "company ID":"W",
+        "Rank Target":0.3333333333,
+        "prediction":0.5644199848,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "759":{
+        "index":1711843200000,
+        "company ID":"SBDS",
+        "Rank Target":0.9444444444,
+        "prediction":0.5520939827,
+        "trueRank":2.0,
+        "predictionRank":14.0
+    },
+    "745":{
+        "index":1711843200000,
+        "company ID":"BBBY",
+        "Rank Target":0.0555555556,
+        "prediction":0.5458085537,
+        "trueRank":18.0,
+        "predictionRank":15.0
+    },
+    "749":{
+        "index":1711843200000,
+        "company ID":"DIBS",
+        "Rank Target":0.1666666667,
+        "prediction":0.5447953343,
+        "trueRank":16.0,
+        "predictionRank":16.0
+    },
+    "752":{
+        "index":1711843200000,
+        "company ID":"HOUR",
+        "Rank Target":0.4444444444,
+        "prediction":0.5204769373,
+        "trueRank":11.0,
+        "predictionRank":17.0
+    },
+    "756":{
+        "index":1711843200000,
+        "company ID":"NEGG",
+        "Rank Target":0.7222222222,
+        "prediction":0.499129653,
+        "trueRank":6.0,
+        "predictionRank":18.0
+    },
+    "769":{
+        "index":1719705600000,
+        "company ID":"ETSY",
+        "Rank Target":0.3888888889,
+        "prediction":0.7120432258,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "771":{
+        "index":1719705600000,
+        "company ID":"IPW",
+        "Rank Target":0.5,
+        "prediction":0.6771212816,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "762":{
+        "index":1719705600000,
+        "company ID":"AMZN",
+        "Rank Target":0.3333333333,
+        "prediction":0.6698242426,
+        "trueRank":13.0,
+        "predictionRank":3.0
+    },
+    "765":{
+        "index":1719705600000,
+        "company ID":"CPNG",
+        "Rank Target":0.7222222222,
+        "prediction":0.6639592648,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "768":{
+        "index":1719705600000,
+        "company ID":"EBAY",
+        "Rank Target":0.7777777778,
+        "prediction":0.6621161103,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "775":{
+        "index":1719705600000,
+        "company ID":"QVCGA",
+        "Rank Target":0.2777777778,
+        "prediction":0.6538978815,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "777":{
+        "index":1719705600000,
+        "company ID":"SBDS",
+        "Rank Target":0.1111111111,
+        "prediction":0.6456834078,
+        "trueRank":17.0,
+        "predictionRank":7.0
+    },
+    "772":{
+        "index":1719705600000,
+        "company ID":"LQDT",
+        "Rank Target":0.6111111111,
+        "prediction":0.6432353258,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "766":{
+        "index":1719705600000,
+        "company ID":"DASH",
+        "Rank Target":0.8888888889,
+        "prediction":0.642565608,
+        "trueRank":3.0,
+        "predictionRank":9.0
+    },
+    "773":{
+        "index":1719705600000,
+        "company ID":"MELI",
+        "Rank Target":0.8333333333,
+        "prediction":0.6296380758,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "779":{
+        "index":1719705600000,
+        "company ID":"W",
+        "Rank Target":0.5555555556,
+        "prediction":0.6089065671,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "778":{
+        "index":1719705600000,
+        "company ID":"TDUP",
+        "Rank Target":0.0555555556,
+        "prediction":0.5930998921,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "764":{
+        "index":1719705600000,
+        "company ID":"CART",
+        "Rank Target":0.6666666667,
+        "prediction":0.5839816332,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "767":{
+        "index":1719705600000,
+        "company ID":"DIBS",
+        "Rank Target":0.4444444444,
+        "prediction":0.536672771,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "776":{
+        "index":1719705600000,
+        "company ID":"RVLV",
+        "Rank Target":1.0,
+        "prediction":0.5334586501,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "763":{
+        "index":1719705600000,
+        "company ID":"BBBY",
+        "Rank Target":0.2222222222,
+        "prediction":0.4958221316,
+        "trueRank":15.0,
+        "predictionRank":16.0
+    },
+    "774":{
+        "index":1719705600000,
+        "company ID":"NEGG",
+        "Rank Target":0.1666666667,
+        "prediction":0.4669727683,
+        "trueRank":16.0,
+        "predictionRank":17.0
+    },
+    "770":{
+        "index":1719705600000,
+        "company ID":"HOUR",
+        "Rank Target":0.9444444444,
+        "prediction":0.456882,
+        "trueRank":2.0,
+        "predictionRank":18.0
+    },
+    "780":{
+        "index":1727654400000,
+        "company ID":"AMZN",
+        "Rank Target":0.7777777778,
+        "prediction":0.6830602884,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "790":{
+        "index":1727654400000,
+        "company ID":"LQDT",
+        "Rank Target":0.8888888889,
+        "prediction":0.6744990349,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "787":{
+        "index":1727654400000,
+        "company ID":"ETSY",
+        "Rank Target":0.6111111111,
+        "prediction":0.6652895212,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "786":{
+        "index":1727654400000,
+        "company ID":"EBAY",
+        "Rank Target":0.5555555556,
+        "prediction":0.6626721621,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "784":{
+        "index":1727654400000,
+        "company ID":"DASH",
+        "Rank Target":0.7222222222,
+        "prediction":0.6623156667,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "782":{
+        "index":1727654400000,
+        "company ID":"CART",
+        "Rank Target":0.6666666667,
+        "prediction":0.6453489661,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "791":{
+        "index":1727654400000,
+        "company ID":"MELI",
+        "Rank Target":0.4444444444,
+        "prediction":0.636495471,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "792":{
+        "index":1727654400000,
+        "company ID":"NEGG",
+        "Rank Target":0.1111111111,
+        "prediction":0.6130216718,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "794":{
+        "index":1727654400000,
+        "company ID":"RVLV",
+        "Rank Target":0.8333333333,
+        "prediction":0.6083414555,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "783":{
+        "index":1727654400000,
+        "company ID":"CPNG",
+        "Rank Target":0.5,
+        "prediction":0.6051603556,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "797":{
+        "index":1727654400000,
+        "company ID":"W",
+        "Rank Target":0.3333333333,
+        "prediction":0.6027425528,
+        "trueRank":13.0,
+        "predictionRank":11.0
+    },
+    "793":{
+        "index":1727654400000,
+        "company ID":"QVCGA",
+        "Rank Target":0.2222222222,
+        "prediction":0.5797270536,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "796":{
+        "index":1727654400000,
+        "company ID":"TDUP",
+        "Rank Target":1.0,
+        "prediction":0.5746337175,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "781":{
+        "index":1727654400000,
+        "company ID":"BBBY",
+        "Rank Target":0.1666666667,
+        "prediction":0.5567254424,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "785":{
+        "index":1727654400000,
+        "company ID":"DIBS",
+        "Rank Target":0.2777777778,
+        "prediction":0.5407266617,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "789":{
+        "index":1727654400000,
+        "company ID":"IPW",
+        "Rank Target":0.0555555556,
+        "prediction":0.5133168101,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "795":{
+        "index":1727654400000,
+        "company ID":"SBDS",
+        "Rank Target":0.3888888889,
+        "prediction":0.5031622052,
+        "trueRank":12.0,
+        "predictionRank":17.0
+    },
+    "788":{
+        "index":1727654400000,
+        "company ID":"HOUR",
+        "Rank Target":0.9444444444,
+        "prediction":0.4097078145,
+        "trueRank":2.0,
+        "predictionRank":18.0
+    },
+    "809":{
+        "index":1735603200000,
+        "company ID":"MELI",
+        "Rank Target":0.9411764706,
+        "prediction":0.6936538219,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "798":{
+        "index":1735603200000,
+        "company ID":"AMZN",
+        "Rank Target":0.4117647059,
+        "prediction":0.6923108697,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "805":{
+        "index":1735603200000,
+        "company ID":"ETSY",
+        "Rank Target":0.5294117647,
+        "prediction":0.688911736,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "802":{
+        "index":1735603200000,
+        "company ID":"DASH",
+        "Rank Target":0.8235294118,
+        "prediction":0.6817048788,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "814":{
+        "index":1735603200000,
+        "company ID":"W",
+        "Rank Target":0.3529411765,
+        "prediction":0.6457305551,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "801":{
+        "index":1735603200000,
+        "company ID":"CPNG",
+        "Rank Target":0.7647058824,
+        "prediction":0.6452888846,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "804":{
+        "index":1735603200000,
+        "company ID":"EBAY",
+        "Rank Target":0.8823529412,
+        "prediction":0.6452223659,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "812":{
+        "index":1735603200000,
+        "company ID":"SBDS",
+        "Rank Target":0.0588235294,
+        "prediction":0.6440094113,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "800":{
+        "index":1735603200000,
+        "company ID":"CART",
+        "Rank Target":0.5882352941,
+        "prediction":0.6143380404,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "803":{
+        "index":1735603200000,
+        "company ID":"DIBS",
+        "Rank Target":0.4705882353,
+        "prediction":0.6125863194,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "810":{
+        "index":1735603200000,
+        "company ID":"QVCGA",
+        "Rank Target":0.1176470588,
+        "prediction":0.5996530056,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "807":{
+        "index":1735603200000,
+        "company ID":"IPW",
+        "Rank Target":0.1764705882,
+        "prediction":0.5497255325,
+        "trueRank":15.0,
+        "predictionRank":12.0
+    },
+    "811":{
+        "index":1735603200000,
+        "company ID":"RVLV",
+        "Rank Target":0.2941176471,
+        "prediction":0.5295072794,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "808":{
+        "index":1735603200000,
+        "company ID":"LQDT",
+        "Rank Target":0.7058823529,
+        "prediction":0.5292166471,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "813":{
+        "index":1735603200000,
+        "company ID":"TDUP",
+        "Rank Target":1.0,
+        "prediction":0.5008425117,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "799":{
+        "index":1735603200000,
+        "company ID":"BBBY",
+        "Rank Target":0.6470588235,
+        "prediction":0.4806037545,
+        "trueRank":7.0,
+        "predictionRank":16.0
+    },
+    "806":{
+        "index":1735603200000,
+        "company ID":"HOUR",
+        "Rank Target":0.2352941176,
+        "prediction":0.4265921116,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "821":{
+        "index":1743379200000,
+        "company ID":"EBAY",
+        "Rank Target":0.3888888889,
+        "prediction":0.6919735074,
+        "trueRank":12.0,
+        "predictionRank":1.0
+    },
+    "819":{
+        "index":1743379200000,
+        "company ID":"DASH",
+        "Rank Target":0.6666666667,
+        "prediction":0.6770402789,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "822":{
+        "index":1743379200000,
+        "company ID":"ETSY",
+        "Rank Target":0.2222222222,
+        "prediction":0.6600291729,
+        "trueRank":15.0,
+        "predictionRank":3.0
+    },
+    "826":{
+        "index":1743379200000,
+        "company ID":"MELI",
+        "Rank Target":0.5555555556,
+        "prediction":0.6516406536,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "815":{
+        "index":1743379200000,
+        "company ID":"AMZN",
+        "Rank Target":0.5,
+        "prediction":0.6415334344,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "825":{
+        "index":1743379200000,
+        "company ID":"LQDT",
+        "Rank Target":0.1111111111,
+        "prediction":0.6340323091,
+        "trueRank":17.0,
+        "predictionRank":6.0
+    },
+    "817":{
+        "index":1743379200000,
+        "company ID":"CART",
+        "Rank Target":0.4444444444,
+        "prediction":0.6297169328,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "818":{
+        "index":1743379200000,
+        "company ID":"CPNG",
+        "Rank Target":0.7222222222,
+        "prediction":0.6218580008,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "831":{
+        "index":1743379200000,
+        "company ID":"TDUP",
+        "Rank Target":1.0,
+        "prediction":0.6150676608,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "829":{
+        "index":1743379200000,
+        "company ID":"RVLV",
+        "Rank Target":0.3333333333,
+        "prediction":0.6075580716,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "832":{
+        "index":1743379200000,
+        "company ID":"W",
+        "Rank Target":0.8333333333,
+        "prediction":0.5739426017,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "828":{
+        "index":1743379200000,
+        "company ID":"QVCGA",
+        "Rank Target":0.0555555556,
+        "prediction":0.5701950788,
+        "trueRank":18.0,
+        "predictionRank":12.0
+    },
+    "830":{
+        "index":1743379200000,
+        "company ID":"SBDS",
+        "Rank Target":0.8888888889,
+        "prediction":0.5170240402,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "823":{
+        "index":1743379200000,
+        "company ID":"HOUR",
+        "Rank Target":0.1666666667,
+        "prediction":0.5069467425,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "820":{
+        "index":1743379200000,
+        "company ID":"DIBS",
+        "Rank Target":0.2777777778,
+        "prediction":0.5038933754,
+        "trueRank":14.0,
+        "predictionRank":15.0
+    },
+    "824":{
+        "index":1743379200000,
+        "company ID":"IPW",
+        "Rank Target":0.6111111111,
+        "prediction":0.4891375601,
+        "trueRank":8.0,
+        "predictionRank":16.0
+    },
+    "816":{
+        "index":1743379200000,
+        "company ID":"BBBY",
+        "Rank Target":0.7777777778,
+        "prediction":0.4735890925,
+        "trueRank":5.0,
+        "predictionRank":17.0
+    },
+    "827":{
+        "index":1743379200000,
+        "company ID":"NEGG",
+        "Rank Target":0.9444444444,
+        "prediction":0.3918089271,
+        "trueRank":2.0,
+        "predictionRank":18.0
+    },
+    "840":{
+        "index":1751241600000,
+        "company ID":"ETSY",
+        "Rank Target":0.8235294118,
+        "prediction":0.7460166216,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "836":{
+        "index":1751241600000,
+        "company ID":"CPNG",
+        "Rank Target":0.4117647059,
+        "prediction":0.6786853075,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "837":{
+        "index":1751241600000,
+        "company ID":"DASH",
+        "Rank Target":0.5294117647,
+        "prediction":0.6732125878,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "833":{
+        "index":1751241600000,
+        "company ID":"AMZN",
+        "Rank Target":0.2352941176,
+        "prediction":0.6511383653,
+        "trueRank":14.0,
+        "predictionRank":4.0
+    },
+    "844":{
+        "index":1751241600000,
+        "company ID":"MELI",
+        "Rank Target":0.2941176471,
+        "prediction":0.6256380081,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "839":{
+        "index":1751241600000,
+        "company ID":"EBAY",
+        "Rank Target":0.6470588235,
+        "prediction":0.6166932583,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "845":{
+        "index":1751241600000,
+        "company ID":"QVCGA",
+        "Rank Target":1.0,
+        "prediction":0.6155779958,
+        "trueRank":1.0,
+        "predictionRank":7.0
+    },
+    "847":{
+        "index":1751241600000,
+        "company ID":"SBDS",
+        "Rank Target":0.7058823529,
+        "prediction":0.6026965976,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "848":{
+        "index":1751241600000,
+        "company ID":"TDUP",
+        "Rank Target":0.5882352941,
+        "prediction":0.6005398631,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "835":{
+        "index":1751241600000,
+        "company ID":"CART",
+        "Rank Target":0.1176470588,
+        "prediction":0.5950610638,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "849":{
+        "index":1751241600000,
+        "company ID":"W",
+        "Rank Target":0.8823529412,
+        "prediction":0.5913888216,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    },
+    "846":{
+        "index":1751241600000,
+        "company ID":"RVLV",
+        "Rank Target":0.3529411765,
+        "prediction":0.5563829541,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "843":{
+        "index":1751241600000,
+        "company ID":"LQDT",
+        "Rank Target":0.4705882353,
+        "prediction":0.5534985662,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "834":{
+        "index":1751241600000,
+        "company ID":"BBBY",
+        "Rank Target":0.7647058824,
+        "prediction":0.5413948894,
+        "trueRank":5.0,
+        "predictionRank":14.0
+    },
+    "838":{
+        "index":1751241600000,
+        "company ID":"DIBS",
+        "Rank Target":0.1764705882,
+        "prediction":0.5227303505,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "842":{
+        "index":1751241600000,
+        "company ID":"IPW",
+        "Rank Target":0.0588235294,
+        "prediction":0.4810884595,
+        "trueRank":17.0,
+        "predictionRank":16.0
+    },
+    "841":{
+        "index":1751241600000,
+        "company ID":"HOUR",
+        "Rank Target":0.9411764706,
+        "prediction":0.4689189196,
+        "trueRank":2.0,
+        "predictionRank":17.0
+    }
+}

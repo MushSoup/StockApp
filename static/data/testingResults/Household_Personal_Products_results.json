@@ -1,0 +1,2210 @@
+{
+    "978":{
+        "index":1648684800000,
+        "company ID":"ELF",
+        "Rank Target":1.0,
+        "prediction":0.7499268651,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "983":{
+        "index":1648684800000,
+        "company ID":"IPAR",
+        "Rank Target":0.3333333333,
+        "prediction":0.678979218,
+        "trueRank":15.0,
+        "predictionRank":2.0
+    },
+    "990":{
+        "index":1648684800000,
+        "company ID":"SPB",
+        "Rank Target":0.5238095238,
+        "prediction":0.6484860182,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "979":{
+        "index":1648684800000,
+        "company ID":"EPC",
+        "Rank Target":0.7142857143,
+        "prediction":0.6383587718,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "975":{
+        "index":1648684800000,
+        "company ID":"CLX",
+        "Rank Target":0.8095238095,
+        "prediction":0.6147584319,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "976":{
+        "index":1648684800000,
+        "company ID":"COTY",
+        "Rank Target":0.380952381,
+        "prediction":0.5866838694,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "984":{
+        "index":1648684800000,
+        "company ID":"KMB",
+        "Rank Target":0.9523809524,
+        "prediction":0.5790002346,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "987":{
+        "index":1648684800000,
+        "company ID":"NWL",
+        "Rank Target":0.4285714286,
+        "prediction":0.5672011971,
+        "trueRank":13.0,
+        "predictionRank":8.0
+    },
+    "988":{
+        "index":1648684800000,
+        "company ID":"PG",
+        "Rank Target":0.6666666667,
+        "prediction":0.5576581955,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "974":{
+        "index":1648684800000,
+        "company ID":"CL",
+        "Rank Target":0.9047619048,
+        "prediction":0.548024714,
+        "trueRank":3.0,
+        "predictionRank":10.0
+    },
+    "980":{
+        "index":1648684800000,
+        "company ID":"EWCZ",
+        "Rank Target":0.1904761905,
+        "prediction":0.5389196277,
+        "trueRank":18.0,
+        "predictionRank":11.0
+    },
+    "986":{
+        "index":1648684800000,
+        "company ID":"NUS",
+        "Rank Target":0.4761904762,
+        "prediction":0.5003541708,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "982":{
+        "index":1648684800000,
+        "company ID":"HNST",
+        "Rank Target":0.0952380952,
+        "prediction":0.4941518009,
+        "trueRank":20.0,
+        "predictionRank":13.0
+    },
+    "972":{
+        "index":1648684800000,
+        "company ID":"ACU",
+        "Rank Target":0.7619047619,
+        "prediction":0.4933312237,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "977":{
+        "index":1648684800000,
+        "company ID":"EL",
+        "Rank Target":0.619047619,
+        "prediction":0.4746984541,
+        "trueRank":9.0,
+        "predictionRank":15.0
+    },
+    "973":{
+        "index":1648684800000,
+        "company ID":"CHD",
+        "Rank Target":0.5714285714,
+        "prediction":0.4676297307,
+        "trueRank":10.0,
+        "predictionRank":16.0
+    },
+    "981":{
+        "index":1648684800000,
+        "company ID":"GROV",
+        "Rank Target":0.1428571429,
+        "prediction":0.4349640012,
+        "trueRank":19.0,
+        "predictionRank":17.0
+    },
+    "989":{
+        "index":1648684800000,
+        "company ID":"SKIN",
+        "Rank Target":0.2857142857,
+        "prediction":0.4052098095,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "991":{
+        "index":1648684800000,
+        "company ID":"UG",
+        "Rank Target":0.2380952381,
+        "prediction":0.3878957629,
+        "trueRank":17.0,
+        "predictionRank":19.0
+    },
+    "992":{
+        "index":1648684800000,
+        "company ID":"WALD",
+        "Rank Target":0.8571428571,
+        "prediction":0.3820595741,
+        "trueRank":4.0,
+        "predictionRank":20.0
+    },
+    "985":{
+        "index":1648684800000,
+        "company ID":"KVUE",
+        "Rank Target":0.0476190476,
+        "prediction":0.3797888756,
+        "trueRank":21.0,
+        "predictionRank":21.0
+    },
+    "999":{
+        "index":1656547200000,
+        "company ID":"ELF",
+        "Rank Target":1.0,
+        "prediction":0.7270083427,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1011":{
+        "index":1656547200000,
+        "company ID":"SPB",
+        "Rank Target":0.0952380952,
+        "prediction":0.682315588,
+        "trueRank":20.0,
+        "predictionRank":2.0
+    },
+    "1005":{
+        "index":1656547200000,
+        "company ID":"KMB",
+        "Rank Target":0.5238095238,
+        "prediction":0.6525602341,
+        "trueRank":11.0,
+        "predictionRank":3.0
+    },
+    "1000":{
+        "index":1656547200000,
+        "company ID":"EPC",
+        "Rank Target":0.9047619048,
+        "prediction":0.6218693852,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "1001":{
+        "index":1656547200000,
+        "company ID":"EWCZ",
+        "Rank Target":0.8571428571,
+        "prediction":0.6012247205,
+        "trueRank":4.0,
+        "predictionRank":5.0
+    },
+    "1003":{
+        "index":1656547200000,
+        "company ID":"HNST",
+        "Rank Target":0.9523809524,
+        "prediction":0.5858564377,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "1004":{
+        "index":1656547200000,
+        "company ID":"IPAR",
+        "Rank Target":0.8095238095,
+        "prediction":0.570666492,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "993":{
+        "index":1656547200000,
+        "company ID":"ACU",
+        "Rank Target":0.2380952381,
+        "prediction":0.5518636107,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "1009":{
+        "index":1656547200000,
+        "company ID":"PG",
+        "Rank Target":0.7142857143,
+        "prediction":0.5464307666,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "995":{
+        "index":1656547200000,
+        "company ID":"CL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5363087654,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "996":{
+        "index":1656547200000,
+        "company ID":"CLX",
+        "Rank Target":0.7619047619,
+        "prediction":0.5160657167,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "997":{
+        "index":1656547200000,
+        "company ID":"COTY",
+        "Rank Target":0.380952381,
+        "prediction":0.5053335428,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "1008":{
+        "index":1656547200000,
+        "company ID":"NWL",
+        "Rank Target":0.1904761905,
+        "prediction":0.4981129467,
+        "trueRank":18.0,
+        "predictionRank":13.0
+    },
+    "998":{
+        "index":1656547200000,
+        "company ID":"EL",
+        "Rank Target":0.4761904762,
+        "prediction":0.4944895506,
+        "trueRank":12.0,
+        "predictionRank":14.0
+    },
+    "994":{
+        "index":1656547200000,
+        "company ID":"CHD",
+        "Rank Target":0.3333333333,
+        "prediction":0.4894959331,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "1013":{
+        "index":1656547200000,
+        "company ID":"WALD",
+        "Rank Target":0.619047619,
+        "prediction":0.4496961534,
+        "trueRank":9.0,
+        "predictionRank":16.0
+    },
+    "1010":{
+        "index":1656547200000,
+        "company ID":"SKIN",
+        "Rank Target":0.5714285714,
+        "prediction":0.443670541,
+        "trueRank":10.0,
+        "predictionRank":17.0
+    },
+    "1007":{
+        "index":1656547200000,
+        "company ID":"NUS",
+        "Rank Target":0.2857142857,
+        "prediction":0.4389456511,
+        "trueRank":16.0,
+        "predictionRank":18.0
+    },
+    "1012":{
+        "index":1656547200000,
+        "company ID":"UG",
+        "Rank Target":0.4285714286,
+        "prediction":0.4389421344,
+        "trueRank":13.0,
+        "predictionRank":19.0
+    },
+    "1002":{
+        "index":1656547200000,
+        "company ID":"GROV",
+        "Rank Target":0.1428571429,
+        "prediction":0.3383873105,
+        "trueRank":19.0,
+        "predictionRank":20.0
+    },
+    "1006":{
+        "index":1656547200000,
+        "company ID":"KVUE",
+        "Rank Target":0.0476190476,
+        "prediction":0.2986433208,
+        "trueRank":21.0,
+        "predictionRank":21.0
+    },
+    "1020":{
+        "index":1664496000000,
+        "company ID":"ELF",
+        "Rank Target":0.9523809524,
+        "prediction":0.6929136515,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "1030":{
+        "index":1664496000000,
+        "company ID":"PG",
+        "Rank Target":0.7142857143,
+        "prediction":0.5945848823,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1025":{
+        "index":1664496000000,
+        "company ID":"IPAR",
+        "Rank Target":0.8571428571,
+        "prediction":0.5569511056,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "1016":{
+        "index":1664496000000,
+        "company ID":"CL",
+        "Rank Target":0.619047619,
+        "prediction":0.5552946925,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "1026":{
+        "index":1664496000000,
+        "company ID":"KMB",
+        "Rank Target":0.7619047619,
+        "prediction":0.5543872118,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1019":{
+        "index":1664496000000,
+        "company ID":"EL",
+        "Rank Target":0.6666666667,
+        "prediction":0.5407317877,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "1031":{
+        "index":1664496000000,
+        "company ID":"SKIN",
+        "Rank Target":0.1904761905,
+        "prediction":0.5263671279,
+        "trueRank":18.0,
+        "predictionRank":7.0
+    },
+    "1028":{
+        "index":1664496000000,
+        "company ID":"NUS",
+        "Rank Target":0.8095238095,
+        "prediction":0.5261580944,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1022":{
+        "index":1664496000000,
+        "company ID":"EWCZ",
+        "Rank Target":0.1428571429,
+        "prediction":0.5251022577,
+        "trueRank":19.0,
+        "predictionRank":9.0
+    },
+    "1023":{
+        "index":1664496000000,
+        "company ID":"GROV",
+        "Rank Target":0.0952380952,
+        "prediction":0.5214630365,
+        "trueRank":20.0,
+        "predictionRank":10.0
+    },
+    "1024":{
+        "index":1664496000000,
+        "company ID":"HNST",
+        "Rank Target":0.2380952381,
+        "prediction":0.5179175138,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "1015":{
+        "index":1664496000000,
+        "company ID":"CHD",
+        "Rank Target":0.5714285714,
+        "prediction":0.5172976851,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "1017":{
+        "index":1664496000000,
+        "company ID":"CLX",
+        "Rank Target":0.5238095238,
+        "prediction":0.509549737,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "1018":{
+        "index":1664496000000,
+        "company ID":"COTY",
+        "Rank Target":0.9047619048,
+        "prediction":0.4917260706,
+        "trueRank":3.0,
+        "predictionRank":14.0
+    },
+    "1032":{
+        "index":1664496000000,
+        "company ID":"SPB",
+        "Rank Target":1.0,
+        "prediction":0.4914038479,
+        "trueRank":1.0,
+        "predictionRank":15.0
+    },
+    "1034":{
+        "index":1664496000000,
+        "company ID":"WALD",
+        "Rank Target":0.4285714286,
+        "prediction":0.4837084413,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "1021":{
+        "index":1664496000000,
+        "company ID":"EPC",
+        "Rank Target":0.4761904762,
+        "prediction":0.4461781085,
+        "trueRank":12.0,
+        "predictionRank":17.0
+    },
+    "1033":{
+        "index":1664496000000,
+        "company ID":"UG",
+        "Rank Target":0.3333333333,
+        "prediction":0.4160748422,
+        "trueRank":15.0,
+        "predictionRank":18.0
+    },
+    "1014":{
+        "index":1664496000000,
+        "company ID":"ACU",
+        "Rank Target":0.2857142857,
+        "prediction":0.365042001,
+        "trueRank":16.0,
+        "predictionRank":19.0
+    },
+    "1029":{
+        "index":1664496000000,
+        "company ID":"NWL",
+        "Rank Target":0.380952381,
+        "prediction":0.3239420056,
+        "trueRank":14.0,
+        "predictionRank":20.0
+    },
+    "1027":{
+        "index":1664496000000,
+        "company ID":"KVUE",
+        "Rank Target":0.0476190476,
+        "prediction":0.3154287636,
+        "trueRank":21.0,
+        "predictionRank":21.0
+    },
+    "1046":{
+        "index":1672444800000,
+        "company ID":"IPAR",
+        "Rank Target":1.0,
+        "prediction":0.7743756175,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1041":{
+        "index":1672444800000,
+        "company ID":"ELF",
+        "Rank Target":0.95,
+        "prediction":0.7652554512,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1037":{
+        "index":1672444800000,
+        "company ID":"CL",
+        "Rank Target":0.3,
+        "prediction":0.6221781373,
+        "trueRank":15.0,
+        "predictionRank":3.0
+    },
+    "1038":{
+        "index":1672444800000,
+        "company ID":"CLX",
+        "Rank Target":0.7,
+        "prediction":0.6047154665,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1047":{
+        "index":1672444800000,
+        "company ID":"KMB",
+        "Rank Target":0.5,
+        "prediction":0.5976258516,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "1049":{
+        "index":1672444800000,
+        "company ID":"NUS",
+        "Rank Target":0.25,
+        "prediction":0.5966435671,
+        "trueRank":16.0,
+        "predictionRank":6.0
+    },
+    "1036":{
+        "index":1672444800000,
+        "company ID":"CHD",
+        "Rank Target":0.6,
+        "prediction":0.594858408,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "1043":{
+        "index":1672444800000,
+        "company ID":"EWCZ",
+        "Rank Target":0.9,
+        "prediction":0.5915518999,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "1042":{
+        "index":1672444800000,
+        "company ID":"EPC",
+        "Rank Target":0.75,
+        "prediction":0.5456830263,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1051":{
+        "index":1672444800000,
+        "company ID":"PG",
+        "Rank Target":0.4,
+        "prediction":0.5390108228,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1050":{
+        "index":1672444800000,
+        "company ID":"NWL",
+        "Rank Target":0.2,
+        "prediction":0.5166688561,
+        "trueRank":17.0,
+        "predictionRank":11.0
+    },
+    "1039":{
+        "index":1672444800000,
+        "company ID":"COTY",
+        "Rank Target":0.85,
+        "prediction":0.502314508,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "1040":{
+        "index":1672444800000,
+        "company ID":"EL",
+        "Rank Target":0.35,
+        "prediction":0.4994835258,
+        "trueRank":14.0,
+        "predictionRank":13.0
+    },
+    "1045":{
+        "index":1672444800000,
+        "company ID":"HNST",
+        "Rank Target":0.1,
+        "prediction":0.485751003,
+        "trueRank":19.0,
+        "predictionRank":14.0
+    },
+    "1052":{
+        "index":1672444800000,
+        "company ID":"SKIN",
+        "Rank Target":0.8,
+        "prediction":0.4659541249,
+        "trueRank":5.0,
+        "predictionRank":15.0
+    },
+    "1054":{
+        "index":1672444800000,
+        "company ID":"UG",
+        "Rank Target":0.15,
+        "prediction":0.4622623026,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "1035":{
+        "index":1672444800000,
+        "company ID":"ACU",
+        "Rank Target":0.65,
+        "prediction":0.459951669,
+        "trueRank":8.0,
+        "predictionRank":17.0
+    },
+    "1044":{
+        "index":1672444800000,
+        "company ID":"GROV",
+        "Rank Target":0.45,
+        "prediction":0.4496138096,
+        "trueRank":12.0,
+        "predictionRank":18.0
+    },
+    "1053":{
+        "index":1672444800000,
+        "company ID":"SPB",
+        "Rank Target":0.55,
+        "prediction":0.4261375368,
+        "trueRank":10.0,
+        "predictionRank":19.0
+    },
+    "1048":{
+        "index":1672444800000,
+        "company ID":"KVUE",
+        "Rank Target":0.05,
+        "prediction":0.4118993878,
+        "trueRank":20.0,
+        "predictionRank":20.0
+    },
+    "1061":{
+        "index":1680220800000,
+        "company ID":"ELF",
+        "Rank Target":1.0,
+        "prediction":0.7271689773,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1055":{
+        "index":1680220800000,
+        "company ID":"ACU",
+        "Rank Target":0.8571428571,
+        "prediction":0.7209345102,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "1056":{
+        "index":1680220800000,
+        "company ID":"CHD",
+        "Rank Target":0.9047619048,
+        "prediction":0.6372790337,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "1062":{
+        "index":1680220800000,
+        "company ID":"EPC",
+        "Rank Target":0.4761904762,
+        "prediction":0.6103131771,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "1071":{
+        "index":1680220800000,
+        "company ID":"PG",
+        "Rank Target":0.619047619,
+        "prediction":0.5827631354,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "1057":{
+        "index":1680220800000,
+        "company ID":"CL",
+        "Rank Target":0.7619047619,
+        "prediction":0.5392882228,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "1060":{
+        "index":1680220800000,
+        "company ID":"EL",
+        "Rank Target":0.1428571429,
+        "prediction":0.5372083187,
+        "trueRank":19.0,
+        "predictionRank":7.0
+    },
+    "1058":{
+        "index":1680220800000,
+        "company ID":"CLX",
+        "Rank Target":0.7142857143,
+        "prediction":0.5319289565,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "1067":{
+        "index":1680220800000,
+        "company ID":"KMB",
+        "Rank Target":0.8095238095,
+        "prediction":0.5309337974,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "1066":{
+        "index":1680220800000,
+        "company ID":"IPAR",
+        "Rank Target":0.3333333333,
+        "prediction":0.5294954181,
+        "trueRank":15.0,
+        "predictionRank":10.0
+    },
+    "1073":{
+        "index":1680220800000,
+        "company ID":"SPB",
+        "Rank Target":0.9523809524,
+        "prediction":0.5231235623,
+        "trueRank":2.0,
+        "predictionRank":11.0
+    },
+    "1068":{
+        "index":1680220800000,
+        "company ID":"KVUE",
+        "Rank Target":0.5714285714,
+        "prediction":0.5215412378,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "1069":{
+        "index":1680220800000,
+        "company ID":"NUS",
+        "Rank Target":0.1904761905,
+        "prediction":0.5155456662,
+        "trueRank":18.0,
+        "predictionRank":13.0
+    },
+    "1074":{
+        "index":1680220800000,
+        "company ID":"UG",
+        "Rank Target":0.2857142857,
+        "prediction":0.5025855303,
+        "trueRank":16.0,
+        "predictionRank":14.0
+    },
+    "1070":{
+        "index":1680220800000,
+        "company ID":"NWL",
+        "Rank Target":0.0952380952,
+        "prediction":0.488339901,
+        "trueRank":20.0,
+        "predictionRank":15.0
+    },
+    "1059":{
+        "index":1680220800000,
+        "company ID":"COTY",
+        "Rank Target":0.6666666667,
+        "prediction":0.4880967438,
+        "trueRank":8.0,
+        "predictionRank":16.0
+    },
+    "1065":{
+        "index":1680220800000,
+        "company ID":"HNST",
+        "Rank Target":0.380952381,
+        "prediction":0.4761991799,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "1063":{
+        "index":1680220800000,
+        "company ID":"EWCZ",
+        "Rank Target":0.4285714286,
+        "prediction":0.446613282,
+        "trueRank":13.0,
+        "predictionRank":18.0
+    },
+    "1064":{
+        "index":1680220800000,
+        "company ID":"GROV",
+        "Rank Target":0.2380952381,
+        "prediction":0.4361969829,
+        "trueRank":17.0,
+        "predictionRank":19.0
+    },
+    "1072":{
+        "index":1680220800000,
+        "company ID":"SKIN",
+        "Rank Target":0.0476190476,
+        "prediction":0.4100416005,
+        "trueRank":21.0,
+        "predictionRank":20.0
+    },
+    "1075":{
+        "index":1680220800000,
+        "company ID":"WALD",
+        "Rank Target":0.5238095238,
+        "prediction":0.3886618018,
+        "trueRank":11.0,
+        "predictionRank":21.0
+    },
+    "1079":{
+        "index":1688083200000,
+        "company ID":"CLX",
+        "Rank Target":0.2857142857,
+        "prediction":0.6710743308,
+        "trueRank":16.0,
+        "predictionRank":1.0
+    },
+    "1090":{
+        "index":1688083200000,
+        "company ID":"NUS",
+        "Rank Target":0.0476190476,
+        "prediction":0.6588508487,
+        "trueRank":21.0,
+        "predictionRank":2.0
+    },
+    "1092":{
+        "index":1688083200000,
+        "company ID":"PG",
+        "Rank Target":0.6666666667,
+        "prediction":0.6405852437,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "1082":{
+        "index":1688083200000,
+        "company ID":"ELF",
+        "Rank Target":0.7142857143,
+        "prediction":0.637327075,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "1077":{
+        "index":1688083200000,
+        "company ID":"CHD",
+        "Rank Target":0.5714285714,
+        "prediction":0.6351224184,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "1080":{
+        "index":1688083200000,
+        "company ID":"COTY",
+        "Rank Target":0.380952381,
+        "prediction":0.6280973554,
+        "trueRank":14.0,
+        "predictionRank":6.0
+    },
+    "1084":{
+        "index":1688083200000,
+        "company ID":"EWCZ",
+        "Rank Target":0.3333333333,
+        "prediction":0.6132726073,
+        "trueRank":15.0,
+        "predictionRank":7.0
+    },
+    "1078":{
+        "index":1688083200000,
+        "company ID":"CL",
+        "Rank Target":0.619047619,
+        "prediction":0.6126120687,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1087":{
+        "index":1688083200000,
+        "company ID":"IPAR",
+        "Rank Target":0.7619047619,
+        "prediction":0.6042593718,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "1088":{
+        "index":1688083200000,
+        "company ID":"KMB",
+        "Rank Target":0.4285714286,
+        "prediction":0.5984808803,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "1083":{
+        "index":1688083200000,
+        "company ID":"EPC",
+        "Rank Target":0.4761904762,
+        "prediction":0.5974380374,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "1089":{
+        "index":1688083200000,
+        "company ID":"KVUE",
+        "Rank Target":0.2380952381,
+        "prediction":0.5859999061,
+        "trueRank":17.0,
+        "predictionRank":12.0
+    },
+    "1091":{
+        "index":1688083200000,
+        "company ID":"NWL",
+        "Rank Target":0.8571428571,
+        "prediction":0.5795978904,
+        "trueRank":4.0,
+        "predictionRank":13.0
+    },
+    "1081":{
+        "index":1688083200000,
+        "company ID":"EL",
+        "Rank Target":0.1904761905,
+        "prediction":0.5767480135,
+        "trueRank":18.0,
+        "predictionRank":14.0
+    },
+    "1096":{
+        "index":1688083200000,
+        "company ID":"WALD",
+        "Rank Target":0.9523809524,
+        "prediction":0.5718784332,
+        "trueRank":2.0,
+        "predictionRank":15.0
+    },
+    "1085":{
+        "index":1688083200000,
+        "company ID":"GROV",
+        "Rank Target":1.0,
+        "prediction":0.5035492182,
+        "trueRank":1.0,
+        "predictionRank":16.0
+    },
+    "1095":{
+        "index":1688083200000,
+        "company ID":"UG",
+        "Rank Target":0.5238095238,
+        "prediction":0.4947932065,
+        "trueRank":11.0,
+        "predictionRank":17.0
+    },
+    "1093":{
+        "index":1688083200000,
+        "company ID":"SKIN",
+        "Rank Target":0.0952380952,
+        "prediction":0.492442131,
+        "trueRank":20.0,
+        "predictionRank":18.0
+    },
+    "1076":{
+        "index":1688083200000,
+        "company ID":"ACU",
+        "Rank Target":0.9047619048,
+        "prediction":0.4906486869,
+        "trueRank":3.0,
+        "predictionRank":19.0
+    },
+    "1094":{
+        "index":1688083200000,
+        "company ID":"SPB",
+        "Rank Target":0.8095238095,
+        "prediction":0.4725507498,
+        "trueRank":5.0,
+        "predictionRank":20.0
+    },
+    "1086":{
+        "index":1688083200000,
+        "company ID":"HNST",
+        "Rank Target":0.1428571429,
+        "prediction":0.4048389792,
+        "trueRank":19.0,
+        "predictionRank":21.0
+    },
+    "1116":{
+        "index":1696032000000,
+        "company ID":"UG",
+        "Rank Target":0.2380952381,
+        "prediction":0.7566331625,
+        "trueRank":17.0,
+        "predictionRank":1.0
+    },
+    "1097":{
+        "index":1696032000000,
+        "company ID":"ACU",
+        "Rank Target":0.9523809524,
+        "prediction":0.7181787491,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "1108":{
+        "index":1696032000000,
+        "company ID":"IPAR",
+        "Rank Target":0.7142857143,
+        "prediction":0.6677777767,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "1113":{
+        "index":1696032000000,
+        "company ID":"PG",
+        "Rank Target":0.3333333333,
+        "prediction":0.6517893672,
+        "trueRank":15.0,
+        "predictionRank":4.0
+    },
+    "1099":{
+        "index":1696032000000,
+        "company ID":"CL",
+        "Rank Target":0.8095238095,
+        "prediction":0.6336653233,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "1103":{
+        "index":1696032000000,
+        "company ID":"ELF",
+        "Rank Target":0.9047619048,
+        "prediction":0.6292732358,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "1098":{
+        "index":1696032000000,
+        "company ID":"CHD",
+        "Rank Target":0.4761904762,
+        "prediction":0.6166726351,
+        "trueRank":12.0,
+        "predictionRank":7.0
+    },
+    "1109":{
+        "index":1696032000000,
+        "company ID":"KMB",
+        "Rank Target":0.380952381,
+        "prediction":0.6114349365,
+        "trueRank":14.0,
+        "predictionRank":8.0
+    },
+    "1112":{
+        "index":1696032000000,
+        "company ID":"NWL",
+        "Rank Target":0.619047619,
+        "prediction":0.5857596397,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "1107":{
+        "index":1696032000000,
+        "company ID":"HNST",
+        "Rank Target":1.0,
+        "prediction":0.5787593126,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "1101":{
+        "index":1696032000000,
+        "company ID":"COTY",
+        "Rank Target":0.8571428571,
+        "prediction":0.5779229403,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "1104":{
+        "index":1696032000000,
+        "company ID":"EPC",
+        "Rank Target":0.2857142857,
+        "prediction":0.5697234869,
+        "trueRank":16.0,
+        "predictionRank":12.0
+    },
+    "1105":{
+        "index":1696032000000,
+        "company ID":"EWCZ",
+        "Rank Target":0.1428571429,
+        "prediction":0.5598558784,
+        "trueRank":19.0,
+        "predictionRank":13.0
+    },
+    "1115":{
+        "index":1696032000000,
+        "company ID":"SPB",
+        "Rank Target":0.5238095238,
+        "prediction":0.5445979238,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "1110":{
+        "index":1696032000000,
+        "company ID":"KVUE",
+        "Rank Target":0.5714285714,
+        "prediction":0.5369399786,
+        "trueRank":10.0,
+        "predictionRank":15.0
+    },
+    "1111":{
+        "index":1696032000000,
+        "company ID":"NUS",
+        "Rank Target":0.1904761905,
+        "prediction":0.5243573785,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "1106":{
+        "index":1696032000000,
+        "company ID":"GROV",
+        "Rank Target":0.0952380952,
+        "prediction":0.4950433075,
+        "trueRank":20.0,
+        "predictionRank":17.0
+    },
+    "1114":{
+        "index":1696032000000,
+        "company ID":"SKIN",
+        "Rank Target":0.0476190476,
+        "prediction":0.4909021556,
+        "trueRank":21.0,
+        "predictionRank":18.0
+    },
+    "1102":{
+        "index":1696032000000,
+        "company ID":"EL",
+        "Rank Target":0.4285714286,
+        "prediction":0.4377502203,
+        "trueRank":13.0,
+        "predictionRank":19.0
+    },
+    "1100":{
+        "index":1696032000000,
+        "company ID":"CLX",
+        "Rank Target":0.6666666667,
+        "prediction":0.4292649329,
+        "trueRank":8.0,
+        "predictionRank":20.0
+    },
+    "1117":{
+        "index":1696032000000,
+        "company ID":"WALD",
+        "Rank Target":0.7619047619,
+        "prediction":0.4119715691,
+        "trueRank":6.0,
+        "predictionRank":21.0
+    },
+    "1128":{
+        "index":1703980800000,
+        "company ID":"HNST",
+        "Rank Target":0.9090909091,
+        "prediction":0.780766964,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "1126":{
+        "index":1703980800000,
+        "company ID":"EWCZ",
+        "Rank Target":0.3181818182,
+        "prediction":0.6841828823,
+        "trueRank":16.0,
+        "predictionRank":2.0
+    },
+    "1123":{
+        "index":1703980800000,
+        "company ID":"EL",
+        "Rank Target":0.7727272727,
+        "prediction":0.6543194056,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "1121":{
+        "index":1703980800000,
+        "company ID":"CLX",
+        "Rank Target":0.5454545455,
+        "prediction":0.6399479508,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "1119":{
+        "index":1703980800000,
+        "company ID":"CHD",
+        "Rank Target":0.7272727273,
+        "prediction":0.6199681163,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "1132":{
+        "index":1703980800000,
+        "company ID":"NUS",
+        "Rank Target":0.0909090909,
+        "prediction":0.6041296721,
+        "trueRank":21.0,
+        "predictionRank":6.0
+    },
+    "1134":{
+        "index":1703980800000,
+        "company ID":"PG",
+        "Rank Target":0.5909090909,
+        "prediction":0.5805459619,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "1124":{
+        "index":1703980800000,
+        "company ID":"ELF",
+        "Rank Target":0.9545454545,
+        "prediction":0.5684435964,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "1120":{
+        "index":1703980800000,
+        "company ID":"CL",
+        "Rank Target":0.8181818182,
+        "prediction":0.5645349026,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "1133":{
+        "index":1703980800000,
+        "company ID":"NWL",
+        "Rank Target":0.1818181818,
+        "prediction":0.5551979542,
+        "trueRank":19.0,
+        "predictionRank":10.0
+    },
+    "1138":{
+        "index":1703980800000,
+        "company ID":"UG",
+        "Rank Target":0.2272727273,
+        "prediction":0.5462857485,
+        "trueRank":18.0,
+        "predictionRank":11.0
+    },
+    "1137":{
+        "index":1703980800000,
+        "company ID":"SPB",
+        "Rank Target":0.8636363636,
+        "prediction":0.5208562016,
+        "trueRank":4.0,
+        "predictionRank":12.0
+    },
+    "1118":{
+        "index":1703980800000,
+        "company ID":"ACU",
+        "Rank Target":0.6818181818,
+        "prediction":0.5171474218,
+        "trueRank":8.0,
+        "predictionRank":13.0
+    },
+    "1130":{
+        "index":1703980800000,
+        "company ID":"KMB",
+        "Rank Target":0.4545454545,
+        "prediction":0.515674293,
+        "trueRank":13.0,
+        "predictionRank":14.0
+    },
+    "1122":{
+        "index":1703980800000,
+        "company ID":"COTY",
+        "Rank Target":0.3636363636,
+        "prediction":0.4987738431,
+        "trueRank":15.0,
+        "predictionRank":15.0
+    },
+    "1129":{
+        "index":1703980800000,
+        "company ID":"IPAR",
+        "Rank Target":0.4090909091,
+        "prediction":0.4677219987,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "1127":{
+        "index":1703980800000,
+        "company ID":"GROV",
+        "Rank Target":0.1363636364,
+        "prediction":0.4616401792,
+        "trueRank":20.0,
+        "predictionRank":17.0
+    },
+    "1131":{
+        "index":1703980800000,
+        "company ID":"KVUE",
+        "Rank Target":0.2727272727,
+        "prediction":0.4608458579,
+        "trueRank":17.0,
+        "predictionRank":18.0
+    },
+    "1125":{
+        "index":1703980800000,
+        "company ID":"EPC",
+        "Rank Target":0.5,
+        "prediction":0.4535289705,
+        "trueRank":12.0,
+        "predictionRank":19.0
+    },
+    "1139":{
+        "index":1703980800000,
+        "company ID":"WALD",
+        "Rank Target":0.0454545455,
+        "prediction":0.4426260293,
+        "trueRank":22.0,
+        "predictionRank":20.0
+    },
+    "1135":{
+        "index":1703980800000,
+        "company ID":"SKIN",
+        "Rank Target":1.0,
+        "prediction":0.4296945632,
+        "trueRank":1.0,
+        "predictionRank":21.0
+    },
+    "1136":{
+        "index":1703980800000,
+        "company ID":"SLSN",
+        "Rank Target":0.6363636364,
+        "prediction":0.2610191703,
+        "trueRank":9.0,
+        "predictionRank":22.0
+    },
+    "1145":{
+        "index":1711843200000,
+        "company ID":"EL",
+        "Rank Target":0.1363636364,
+        "prediction":0.6789330244,
+        "trueRank":20.0,
+        "predictionRank":1.0
+    },
+    "1148":{
+        "index":1711843200000,
+        "company ID":"EWCZ",
+        "Rank Target":0.2727272727,
+        "prediction":0.6691212058,
+        "trueRank":17.0,
+        "predictionRank":2.0
+    },
+    "1160":{
+        "index":1711843200000,
+        "company ID":"UG",
+        "Rank Target":0.8636363636,
+        "prediction":0.6297520399,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "1141":{
+        "index":1711843200000,
+        "company ID":"CHD",
+        "Rank Target":0.5909090909,
+        "prediction":0.6240580678,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "1147":{
+        "index":1711843200000,
+        "company ID":"EPC",
+        "Rank Target":0.7272727273,
+        "prediction":0.6194240451,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "1146":{
+        "index":1711843200000,
+        "company ID":"ELF",
+        "Rank Target":0.9545454545,
+        "prediction":0.6135317683,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "1153":{
+        "index":1711843200000,
+        "company ID":"KVUE",
+        "Rank Target":0.4545454545,
+        "prediction":0.610509932,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "1142":{
+        "index":1711843200000,
+        "company ID":"CL",
+        "Rank Target":0.8181818182,
+        "prediction":0.6074594855,
+        "trueRank":5.0,
+        "predictionRank":8.0
+    },
+    "1155":{
+        "index":1711843200000,
+        "company ID":"NWL",
+        "Rank Target":0.3636363636,
+        "prediction":0.5863434672,
+        "trueRank":15.0,
+        "predictionRank":9.0
+    },
+    "1159":{
+        "index":1711843200000,
+        "company ID":"SPB",
+        "Rank Target":0.6363636364,
+        "prediction":0.5663976073,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "1161":{
+        "index":1711843200000,
+        "company ID":"WALD",
+        "Rank Target":0.0909090909,
+        "prediction":0.541703701,
+        "trueRank":21.0,
+        "predictionRank":11.0
+    },
+    "1149":{
+        "index":1711843200000,
+        "company ID":"GROV",
+        "Rank Target":0.9090909091,
+        "prediction":0.5396471024,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "1152":{
+        "index":1711843200000,
+        "company ID":"KMB",
+        "Rank Target":0.7727272727,
+        "prediction":0.5307904482,
+        "trueRank":6.0,
+        "predictionRank":13.0
+    },
+    "1156":{
+        "index":1711843200000,
+        "company ID":"PG",
+        "Rank Target":0.6818181818,
+        "prediction":0.5230516791,
+        "trueRank":8.0,
+        "predictionRank":14.0
+    },
+    "1140":{
+        "index":1711843200000,
+        "company ID":"ACU",
+        "Rank Target":0.1818181818,
+        "prediction":0.5188140869,
+        "trueRank":19.0,
+        "predictionRank":15.0
+    },
+    "1150":{
+        "index":1711843200000,
+        "company ID":"HNST",
+        "Rank Target":0.2272727273,
+        "prediction":0.5181547999,
+        "trueRank":18.0,
+        "predictionRank":16.0
+    },
+    "1151":{
+        "index":1711843200000,
+        "company ID":"IPAR",
+        "Rank Target":0.4090909091,
+        "prediction":0.4951962829,
+        "trueRank":14.0,
+        "predictionRank":17.0
+    },
+    "1144":{
+        "index":1711843200000,
+        "company ID":"COTY",
+        "Rank Target":0.5,
+        "prediction":0.4693583846,
+        "trueRank":12.0,
+        "predictionRank":18.0
+    },
+    "1154":{
+        "index":1711843200000,
+        "company ID":"NUS",
+        "Rank Target":0.3181818182,
+        "prediction":0.4628331661,
+        "trueRank":16.0,
+        "predictionRank":19.0
+    },
+    "1157":{
+        "index":1711843200000,
+        "company ID":"SKIN",
+        "Rank Target":0.0454545455,
+        "prediction":0.454188168,
+        "trueRank":22.0,
+        "predictionRank":20.0
+    },
+    "1158":{
+        "index":1711843200000,
+        "company ID":"SLSN",
+        "Rank Target":1.0,
+        "prediction":0.4463509321,
+        "trueRank":1.0,
+        "predictionRank":21.0
+    },
+    "1143":{
+        "index":1711843200000,
+        "company ID":"CLX",
+        "Rank Target":0.5454545455,
+        "prediction":0.4172794521,
+        "trueRank":11.0,
+        "predictionRank":22.0
+    },
+    "1162":{
+        "index":1719705600000,
+        "company ID":"ACU",
+        "Rank Target":0.7727272727,
+        "prediction":0.7836906314,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "1173":{
+        "index":1719705600000,
+        "company ID":"IPAR",
+        "Rank Target":0.6818181818,
+        "prediction":0.7263870835,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "1181":{
+        "index":1719705600000,
+        "company ID":"SPB",
+        "Rank Target":0.6363636364,
+        "prediction":0.7037096024,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "1177":{
+        "index":1719705600000,
+        "company ID":"NWL",
+        "Rank Target":0.8181818182,
+        "prediction":0.6505506039,
+        "trueRank":5.0,
+        "predictionRank":4.0
+    },
+    "1172":{
+        "index":1719705600000,
+        "company ID":"HNST",
+        "Rank Target":0.9545454545,
+        "prediction":0.6482105255,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "1182":{
+        "index":1719705600000,
+        "company ID":"UG",
+        "Rank Target":1.0,
+        "prediction":0.6462991834,
+        "trueRank":1.0,
+        "predictionRank":6.0
+    },
+    "1167":{
+        "index":1719705600000,
+        "company ID":"EL",
+        "Rank Target":0.3181818182,
+        "prediction":0.640483737,
+        "trueRank":16.0,
+        "predictionRank":7.0
+    },
+    "1169":{
+        "index":1719705600000,
+        "company ID":"EPC",
+        "Rank Target":0.2727272727,
+        "prediction":0.6325721741,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "1164":{
+        "index":1719705600000,
+        "company ID":"CL",
+        "Rank Target":0.5454545455,
+        "prediction":0.6044168472,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "1165":{
+        "index":1719705600000,
+        "company ID":"CLX",
+        "Rank Target":0.8636363636,
+        "prediction":0.5988638997,
+        "trueRank":4.0,
+        "predictionRank":10.0
+    },
+    "1163":{
+        "index":1719705600000,
+        "company ID":"CHD",
+        "Rank Target":0.4090909091,
+        "prediction":0.5905225277,
+        "trueRank":14.0,
+        "predictionRank":11.0
+    },
+    "1176":{
+        "index":1719705600000,
+        "company ID":"NUS",
+        "Rank Target":0.0909090909,
+        "prediction":0.5875932574,
+        "trueRank":21.0,
+        "predictionRank":12.0
+    },
+    "1175":{
+        "index":1719705600000,
+        "company ID":"KVUE",
+        "Rank Target":0.9090909091,
+        "prediction":0.5344400406,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "1183":{
+        "index":1719705600000,
+        "company ID":"WALD",
+        "Rank Target":0.5909090909,
+        "prediction":0.5276505351,
+        "trueRank":10.0,
+        "predictionRank":14.0
+    },
+    "1178":{
+        "index":1719705600000,
+        "company ID":"PG",
+        "Rank Target":0.5,
+        "prediction":0.5236722827,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "1174":{
+        "index":1719705600000,
+        "company ID":"KMB",
+        "Rank Target":0.4545454545,
+        "prediction":0.5233191252,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "1170":{
+        "index":1719705600000,
+        "company ID":"EWCZ",
+        "Rank Target":0.1363636364,
+        "prediction":0.5122736096,
+        "trueRank":20.0,
+        "predictionRank":17.0
+    },
+    "1180":{
+        "index":1719705600000,
+        "company ID":"SLSN",
+        "Rank Target":0.7272727273,
+        "prediction":0.4707409739,
+        "trueRank":7.0,
+        "predictionRank":18.0
+    },
+    "1171":{
+        "index":1719705600000,
+        "company ID":"GROV",
+        "Rank Target":0.2272727273,
+        "prediction":0.4601640403,
+        "trueRank":18.0,
+        "predictionRank":19.0
+    },
+    "1166":{
+        "index":1719705600000,
+        "company ID":"COTY",
+        "Rank Target":0.3636363636,
+        "prediction":0.4592812359,
+        "trueRank":15.0,
+        "predictionRank":20.0
+    },
+    "1168":{
+        "index":1719705600000,
+        "company ID":"ELF",
+        "Rank Target":0.0454545455,
+        "prediction":0.4382278025,
+        "trueRank":22.0,
+        "predictionRank":21.0
+    },
+    "1179":{
+        "index":1719705600000,
+        "company ID":"SKIN",
+        "Rank Target":0.1818181818,
+        "prediction":0.3660688996,
+        "trueRank":19.0,
+        "predictionRank":22.0
+    },
+    "1194":{
+        "index":1727654400000,
+        "company ID":"HNST",
+        "Rank Target":1.0,
+        "prediction":0.7618576288,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "1195":{
+        "index":1727654400000,
+        "company ID":"IPAR",
+        "Rank Target":0.7142857143,
+        "prediction":0.696213603,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "1187":{
+        "index":1727654400000,
+        "company ID":"CLX",
+        "Rank Target":0.5714285714,
+        "prediction":0.6529098153,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "1198":{
+        "index":1727654400000,
+        "company ID":"NUS",
+        "Rank Target":0.6666666667,
+        "prediction":0.6414976716,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "1199":{
+        "index":1727654400000,
+        "company ID":"NWL",
+        "Rank Target":0.9047619048,
+        "prediction":0.6082563996,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "1202":{
+        "index":1727654400000,
+        "company ID":"SLSN",
+        "Rank Target":0.9523809524,
+        "prediction":0.5941326022,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "1188":{
+        "index":1727654400000,
+        "company ID":"COTY",
+        "Rank Target":0.0952380952,
+        "prediction":0.5718254447,
+        "trueRank":20.0,
+        "predictionRank":7.0
+    },
+    "1192":{
+        "index":1727654400000,
+        "company ID":"EWCZ",
+        "Rank Target":0.3333333333,
+        "prediction":0.5647574067,
+        "trueRank":15.0,
+        "predictionRank":8.0
+    },
+    "1186":{
+        "index":1727654400000,
+        "company ID":"CL",
+        "Rank Target":0.2380952381,
+        "prediction":0.562823534,
+        "trueRank":17.0,
+        "predictionRank":9.0
+    },
+    "1200":{
+        "index":1727654400000,
+        "company ID":"PG",
+        "Rank Target":0.5238095238,
+        "prediction":0.5570358038,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "1203":{
+        "index":1727654400000,
+        "company ID":"SPB",
+        "Rank Target":0.2857142857,
+        "prediction":0.5521004796,
+        "trueRank":16.0,
+        "predictionRank":11.0
+    },
+    "1196":{
+        "index":1727654400000,
+        "company ID":"KMB",
+        "Rank Target":0.380952381,
+        "prediction":0.5213125944,
+        "trueRank":14.0,
+        "predictionRank":12.0
+    },
+    "1201":{
+        "index":1727654400000,
+        "company ID":"SKIN",
+        "Rank Target":0.8095238095,
+        "prediction":0.5017309189,
+        "trueRank":5.0,
+        "predictionRank":13.0
+    },
+    "1193":{
+        "index":1727654400000,
+        "company ID":"GROV",
+        "Rank Target":0.7619047619,
+        "prediction":0.4901948273,
+        "trueRank":6.0,
+        "predictionRank":14.0
+    },
+    "1191":{
+        "index":1727654400000,
+        "company ID":"EPC",
+        "Rank Target":0.4761904762,
+        "prediction":0.473328203,
+        "trueRank":12.0,
+        "predictionRank":15.0
+    },
+    "1197":{
+        "index":1727654400000,
+        "company ID":"KVUE",
+        "Rank Target":0.4285714286,
+        "prediction":0.4676319659,
+        "trueRank":13.0,
+        "predictionRank":16.0
+    },
+    "1190":{
+        "index":1727654400000,
+        "company ID":"ELF",
+        "Rank Target":0.8571428571,
+        "prediction":0.4670847654,
+        "trueRank":4.0,
+        "predictionRank":17.0
+    },
+    "1185":{
+        "index":1727654400000,
+        "company ID":"CHD",
+        "Rank Target":0.619047619,
+        "prediction":0.4606581032,
+        "trueRank":9.0,
+        "predictionRank":18.0
+    },
+    "1204":{
+        "index":1727654400000,
+        "company ID":"UG",
+        "Rank Target":0.0476190476,
+        "prediction":0.4589900374,
+        "trueRank":21.0,
+        "predictionRank":19.0
+    },
+    "1189":{
+        "index":1727654400000,
+        "company ID":"EL",
+        "Rank Target":0.1428571429,
+        "prediction":0.4384202957,
+        "trueRank":19.0,
+        "predictionRank":20.0
+    },
+    "1184":{
+        "index":1727654400000,
+        "company ID":"ACU",
+        "Rank Target":0.1904761905,
+        "prediction":0.4346847832,
+        "trueRank":18.0,
+        "predictionRank":21.0
+    },
+    "1206":{
+        "index":1735603200000,
+        "company ID":"CHD",
+        "Rank Target":0.8636363636,
+        "prediction":0.6732281446,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "1216":{
+        "index":1735603200000,
+        "company ID":"IPAR",
+        "Rank Target":0.5,
+        "prediction":0.6650769711,
+        "trueRank":12.0,
+        "predictionRank":2.0
+    },
+    "1205":{
+        "index":1735603200000,
+        "company ID":"ACU",
+        "Rank Target":0.9545454545,
+        "prediction":0.6429734826,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "1210":{
+        "index":1735603200000,
+        "company ID":"EL",
+        "Rank Target":0.5454545455,
+        "prediction":0.618920207,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "1213":{
+        "index":1735603200000,
+        "company ID":"EWCZ",
+        "Rank Target":0.0909090909,
+        "prediction":0.5955643058,
+        "trueRank":21.0,
+        "predictionRank":5.0
+    },
+    "1217":{
+        "index":1735603200000,
+        "company ID":"KMB",
+        "Rank Target":0.9090909091,
+        "prediction":0.595230639,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "1221":{
+        "index":1735603200000,
+        "company ID":"PG",
+        "Rank Target":0.7727272727,
+        "prediction":0.5681805611,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "1222":{
+        "index":1735603200000,
+        "company ID":"SKIN",
+        "Rank Target":0.2727272727,
+        "prediction":0.5645432472,
+        "trueRank":17.0,
+        "predictionRank":8.0
+    },
+    "1218":{
+        "index":1735603200000,
+        "company ID":"KVUE",
+        "Rank Target":1.0,
+        "prediction":0.5611072779,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "1209":{
+        "index":1735603200000,
+        "company ID":"COTY",
+        "Rank Target":0.3181818182,
+        "prediction":0.5386937261,
+        "trueRank":16.0,
+        "predictionRank":10.0
+    },
+    "1207":{
+        "index":1735603200000,
+        "company ID":"CL",
+        "Rank Target":0.8181818182,
+        "prediction":0.5366618037,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "1211":{
+        "index":1735603200000,
+        "company ID":"ELF",
+        "Rank Target":0.0454545455,
+        "prediction":0.5213389397,
+        "trueRank":22.0,
+        "predictionRank":12.0
+    },
+    "1214":{
+        "index":1735603200000,
+        "company ID":"GROV",
+        "Rank Target":0.5909090909,
+        "prediction":0.5075226426,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1219":{
+        "index":1735603200000,
+        "company ID":"NUS",
+        "Rank Target":0.7272727273,
+        "prediction":0.4911657274,
+        "trueRank":7.0,
+        "predictionRank":14.0
+    },
+    "1212":{
+        "index":1735603200000,
+        "company ID":"EPC",
+        "Rank Target":0.6363636364,
+        "prediction":0.4813903868,
+        "trueRank":9.0,
+        "predictionRank":15.0
+    },
+    "1223":{
+        "index":1735603200000,
+        "company ID":"SLSN",
+        "Rank Target":0.4090909091,
+        "prediction":0.4728567004,
+        "trueRank":14.0,
+        "predictionRank":16.0
+    },
+    "1224":{
+        "index":1735603200000,
+        "company ID":"SPB",
+        "Rank Target":0.3636363636,
+        "prediction":0.4708759785,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "1220":{
+        "index":1735603200000,
+        "company ID":"NWL",
+        "Rank Target":0.1363636364,
+        "prediction":0.4692463577,
+        "trueRank":20.0,
+        "predictionRank":18.0
+    },
+    "1215":{
+        "index":1735603200000,
+        "company ID":"HNST",
+        "Rank Target":0.1818181818,
+        "prediction":0.4333011806,
+        "trueRank":19.0,
+        "predictionRank":19.0
+    },
+    "1208":{
+        "index":1735603200000,
+        "company ID":"CLX",
+        "Rank Target":0.4545454545,
+        "prediction":0.4224509597,
+        "trueRank":13.0,
+        "predictionRank":20.0
+    },
+    "1226":{
+        "index":1735603200000,
+        "company ID":"WALD",
+        "Rank Target":0.2272727273,
+        "prediction":0.4186897576,
+        "trueRank":18.0,
+        "predictionRank":21.0
+    },
+    "1225":{
+        "index":1735603200000,
+        "company ID":"UG",
+        "Rank Target":0.6818181818,
+        "prediction":0.3672860563,
+        "trueRank":8.0,
+        "predictionRank":22.0
+    },
+    "1234":{
+        "index":1743379200000,
+        "company ID":"EPC",
+        "Rank Target":0.0476190476,
+        "prediction":0.6419954896,
+        "trueRank":21.0,
+        "predictionRank":1.0
+    },
+    "1235":{
+        "index":1743379200000,
+        "company ID":"EWCZ",
+        "Rank Target":0.9047619048,
+        "prediction":0.6245187521,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "1230":{
+        "index":1743379200000,
+        "company ID":"CLX",
+        "Rank Target":0.1904761905,
+        "prediction":0.6234755516,
+        "trueRank":18.0,
+        "predictionRank":3.0
+    },
+    "1237":{
+        "index":1743379200000,
+        "company ID":"HNST",
+        "Rank Target":0.6666666667,
+        "prediction":0.6089406013,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "1238":{
+        "index":1743379200000,
+        "company ID":"IPAR",
+        "Rank Target":0.7619047619,
+        "prediction":0.5815964937,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "1241":{
+        "index":1743379200000,
+        "company ID":"NUS",
+        "Rank Target":0.7142857143,
+        "prediction":0.5791127086,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "1240":{
+        "index":1743379200000,
+        "company ID":"KVUE",
+        "Rank Target":0.380952381,
+        "prediction":0.5736005902,
+        "trueRank":14.0,
+        "predictionRank":7.0
+    },
+    "1227":{
+        "index":1743379200000,
+        "company ID":"ACU",
+        "Rank Target":0.619047619,
+        "prediction":0.5722175241,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "1233":{
+        "index":1743379200000,
+        "company ID":"ELF",
+        "Rank Target":0.9523809524,
+        "prediction":0.5592369437,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "1246":{
+        "index":1743379200000,
+        "company ID":"SPB",
+        "Rank Target":0.1428571429,
+        "prediction":0.54881531,
+        "trueRank":19.0,
+        "predictionRank":10.0
+    },
+    "1232":{
+        "index":1743379200000,
+        "company ID":"EL",
+        "Rank Target":0.8095238095,
+        "prediction":0.5382239223,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "1229":{
+        "index":1743379200000,
+        "company ID":"CL",
+        "Rank Target":0.4761904762,
+        "prediction":0.5358102918,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "1242":{
+        "index":1743379200000,
+        "company ID":"NWL",
+        "Rank Target":0.5714285714,
+        "prediction":0.5316556096,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "1243":{
+        "index":1743379200000,
+        "company ID":"PG",
+        "Rank Target":0.5238095238,
+        "prediction":0.5146782994,
+        "trueRank":11.0,
+        "predictionRank":14.0
+    },
+    "1228":{
+        "index":1743379200000,
+        "company ID":"CHD",
+        "Rank Target":0.2380952381,
+        "prediction":0.5146117806,
+        "trueRank":17.0,
+        "predictionRank":15.0
+    },
+    "1244":{
+        "index":1743379200000,
+        "company ID":"SKIN",
+        "Rank Target":0.8571428571,
+        "prediction":0.5063201189,
+        "trueRank":4.0,
+        "predictionRank":16.0
+    },
+    "1239":{
+        "index":1743379200000,
+        "company ID":"KMB",
+        "Rank Target":0.3333333333,
+        "prediction":0.4907981455,
+        "trueRank":15.0,
+        "predictionRank":17.0
+    },
+    "1236":{
+        "index":1743379200000,
+        "company ID":"GROV",
+        "Rank Target":0.0952380952,
+        "prediction":0.4897264838,
+        "trueRank":20.0,
+        "predictionRank":18.0
+    },
+    "1245":{
+        "index":1743379200000,
+        "company ID":"SLSN",
+        "Rank Target":1.0,
+        "prediction":0.4789621532,
+        "trueRank":1.0,
+        "predictionRank":19.0
+    },
+    "1247":{
+        "index":1743379200000,
+        "company ID":"UG",
+        "Rank Target":0.4285714286,
+        "prediction":0.4646917582,
+        "trueRank":13.0,
+        "predictionRank":20.0
+    },
+    "1231":{
+        "index":1743379200000,
+        "company ID":"COTY",
+        "Rank Target":0.2857142857,
+        "prediction":0.3741419911,
+        "trueRank":16.0,
+        "predictionRank":21.0
+    }
+}

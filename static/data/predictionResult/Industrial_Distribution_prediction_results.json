@@ -1,0 +1,114 @@
+{
+    "1103":{
+        "company ID":"GIC",
+        "score":0.6878336072,
+        "Rank":1.0,
+        "Rank Target":0.8125,
+        "stockDifferencePercentage":29.3296998164
+    },
+    "1102":{
+        "company ID":"FAST",
+        "score":0.6237220168,
+        "Rank":2.0,
+        "Rank Target":0.6875,
+        "stockDifferencePercentage":13.8437538576
+    },
+    "1100":{
+        "company ID":"DXPE",
+        "score":0.6162257195,
+        "Rank":3.0,
+        "Rank Target":0.875,
+        "stockDifferencePercentage":32.9009039581
+    },
+    "1099":{
+        "company ID":"DSGR",
+        "score":0.6146298647,
+        "Rank":4.0,
+        "Rank Target":0.375,
+        "stockDifferencePercentage":0.0343532415
+    },
+    "1111":{
+        "company ID":"XMTR",
+        "score":0.6111159325,
+        "Rank":5.0,
+        "Rank Target":0.9375,
+        "stockDifferencePercentage":62.1049496273
+    },
+    "1108":{
+        "company ID":"SITE",
+        "score":0.5896631479,
+        "Rank":6.0,
+        "Rank Target":0.3125,
+        "stockDifferencePercentage":-1.4721778798
+    },
+    "1105":{
+        "company ID":"POOL",
+        "score":0.552105844,
+        "Rank":7.0,
+        "Rank Target":0.4375,
+        "stockDifferencePercentage":3.3307524846
+    },
+    "1107":{
+        "company ID":"REZI",
+        "score":0.5510210395,
+        "Rank":8.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":74.377083935
+    },
+    "1101":{
+        "company ID":"EVI",
+        "score":0.5482308865,
+        "Rank":9.0,
+        "Rank Target":0.75,
+        "stockDifferencePercentage":29.0661802293
+    },
+    "1109":{
+        "company ID":"WCC",
+        "score":0.5310794711,
+        "Rank":10.0,
+        "Rank Target":0.625,
+        "stockDifferencePercentage":9.0102953837
+    },
+    "1096":{
+        "company ID":"AIT",
+        "score":0.5233981013,
+        "Rank":11.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":5.3455379782
+    },
+    "1104":{
+        "company ID":"GWW",
+        "score":0.4648152888,
+        "Rank":12.0,
+        "Rank Target":0.25,
+        "stockDifferencePercentage":-9.5431444107
+    },
+    "1110":{
+        "company ID":"WSO",
+        "score":0.4619579613,
+        "Rank":13.0,
+        "Rank Target":0.1875,
+        "stockDifferencePercentage":-12.0702027318
+    },
+    "1098":{
+        "company ID":"DNOW",
+        "score":0.4483509362,
+        "Rank":14.0,
+        "Rank Target":0.5625,
+        "stockDifferencePercentage":7.8556238338
+    },
+    "1106":{
+        "company ID":"QXO",
+        "score":0.3785416484,
+        "Rank":15.0,
+        "Rank Target":0.0625,
+        "stockDifferencePercentage":-14.740672605
+    },
+    "1097":{
+        "company ID":"BXC",
+        "score":0.3736578524,
+        "Rank":16.0,
+        "Rank Target":0.125,
+        "stockDifferencePercentage":-12.694640026
+    }
+}

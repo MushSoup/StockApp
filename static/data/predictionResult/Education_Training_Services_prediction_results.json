@@ -1,0 +1,121 @@
+{
+    "1102":{
+        "company ID":"LRN",
+        "score":0.7077840567,
+        "Rank":1.0,
+        "Rank Target":0.5882352941,
+        "stockDifferencePercentage":8.2034593193
+    },
+    "1091":{
+        "company ID":"APEI",
+        "score":0.7064039111,
+        "Rank":2.0,
+        "Rank Target":0.8823529412,
+        "stockDifferencePercentage":29.4935455724
+    },
+    "1107":{
+        "company ID":"UTI",
+        "score":0.6598871946,
+        "Rank":3.0,
+        "Rank Target":0.3529411765,
+        "stockDifferencePercentage":1.5170330959
+    },
+    "1095":{
+        "company ID":"GHC",
+        "score":0.6499317288,
+        "Rank":4.0,
+        "Rank Target":0.7647058824,
+        "stockDifferencePercentage":24.4826124371
+    },
+    "1098":{
+        "company ID":"LAUR",
+        "score":0.6445592642,
+        "Rank":5.0,
+        "Rank Target":0.9411764706,
+        "stockDifferencePercentage":33.5448414127
+    },
+    "1101":{
+        "company ID":"LOPE",
+        "score":0.6416930556,
+        "Rank":6.0,
+        "Rank Target":0.7058823529,
+        "stockDifferencePercentage":18.7755567882
+    },
+    "1106":{
+        "company ID":"UDMY",
+        "score":0.6402269602,
+        "Rank":7.0,
+        "Rank Target":0.4117647059,
+        "stockDifferencePercentage":1.8598014128
+    },
+    "1092":{
+        "company ID":"ATGE",
+        "score":0.6248173118,
+        "Rank":8.0,
+        "Rank Target":0.8235294118,
+        "stockDifferencePercentage":24.7866714698
+    },
+    "1100":{
+        "company ID":"LINC",
+        "score":0.6149590611,
+        "Rank":9.0,
+        "Rank Target":0.2941176471,
+        "stockDifferencePercentage":1.1314196435
+    },
+    "1094":{
+        "company ID":"COUR",
+        "score":0.5787270665,
+        "Rank":10.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":40.8401414778
+    },
+    "1104":{
+        "company ID":"PRDO",
+        "score":0.5671920776,
+        "Rank":11.0,
+        "Rank Target":0.6470588235,
+        "stockDifferencePercentage":17.7474591645
+    },
+    "1099":{
+        "company ID":"LGCY",
+        "score":0.5602897406,
+        "Rank":12.0,
+        "Rank Target":0.2352941176,
+        "stockDifferencePercentage":-8.3793727087
+    },
+    "1105":{
+        "company ID":"STRA",
+        "score":0.4902975559,
+        "Rank":13.0,
+        "Rank Target":0.4705882353,
+        "stockDifferencePercentage":3.4440177517
+    },
+    "1097":{
+        "company ID":"KLC",
+        "score":0.4677478969,
+        "Rank":14.0,
+        "Rank Target":0.1176470588,
+        "stockDifferencePercentage":-31.2562785558
+    },
+    "1093":{
+        "company ID":"CHGG",
+        "score":0.4361478388,
+        "Rank":15.0,
+        "Rank Target":0.5294117647,
+        "stockDifferencePercentage":5.5555500363
+    },
+    "1103":{
+        "company ID":"MH",
+        "score":0.3273268044,
+        "Rank":16.0,
+        "Rank Target":0.1764705882,
+        "stockDifferencePercentage":-19.4705907035
+    },
+    "1096":{
+        "company ID":"KIDZ",
+        "score":0.2911705077,
+        "Rank":17.0,
+        "Rank Target":0.0588235294,
+        "stockDifferencePercentage":-54.6762588683
+    }
+}

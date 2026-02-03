@@ -1,0 +1,51 @@
+{
+    "82":{
+        "company ID":"SDHC",
+        "score":0.5826666951,
+        "Rank":1.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-10.7107079011
+    },
+    "83":{
+        "company ID":"SKYH",
+        "score":0.5822933912,
+        "Rank":2.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":0.201009629
+    },
+    "77":{
+        "company ID":"CCS",
+        "score":0.5822836161,
+        "Rank":3.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":6.8588862956
+    },
+    "78":{
+        "company ID":"JFB",
+        "score":0.5810000896,
+        "Rank":4.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":81.1697488531
+    },
+    "81":{
+        "company ID":"RENX",
+        "score":0.5807725191,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":96.4285717051
+    },
+    "80":{
+        "company ID":"OZ",
+        "score":0.5800783038,
+        "Rank":6.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-2.6615969582
+    },
+    "79":{
+        "company ID":"LPA",
+        "score":0.5785565972,
+        "Rank":7.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-34.2210398584
+    }
+}

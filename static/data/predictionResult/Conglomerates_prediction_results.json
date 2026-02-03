@@ -1,0 +1,149 @@
+{
+    "1490":{
+        "company ID":"TTI",
+        "score":0.6454841495,
+        "Rank":1.0,
+        "Rank Target":0.9047619048,
+        "stockDifferencePercentage":71.1764708352
+    },
+    "1487":{
+        "company ID":"SEB",
+        "score":0.6190370917,
+        "Rank":2.0,
+        "Rank Target":0.8095238095,
+        "stockDifferencePercentage":21.9139118687
+    },
+    "1484":{
+        "company ID":"OTTR",
+        "score":0.6181153059,
+        "Rank":3.0,
+        "Rank Target":0.619047619,
+        "stockDifferencePercentage":3.1063070953
+    },
+    "1488":{
+        "company ID":"STRR",
+        "score":0.616746068,
+        "Rank":4.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":30.8323586955
+    },
+    "1476":{
+        "company ID":"DLX",
+        "score":0.6072106957,
+        "Rank":5.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":14.4327274755
+    },
+    "1477":{
+        "company ID":"FBYD",
+        "score":0.5820325613,
+        "Rank":6.0,
+        "Rank Target":0.9523809524,
+        "stockDifferencePercentage":81.7391271183
+    },
+    "1472":{
+        "company ID":"AIRT",
+        "score":0.576308012,
+        "Rank":7.0,
+        "Rank Target":0.7619047619,
+        "stockDifferencePercentage":19.4036940096
+    },
+    "1481":{
+        "company ID":"MATW",
+        "score":0.5715974569,
+        "Rank":8.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-5.0467446734
+    },
+    "1480":{
+        "company ID":"HON",
+        "score":0.5625348687,
+        "Rank":9.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-12.4919071239
+    },
+    "1479":{
+        "company ID":"HHS",
+        "score":0.5455912948,
+        "Rank":10.0,
+        "Rank Target":0.4761904762,
+        "stockDifferencePercentage":0.2717388646
+    },
+    "1492":{
+        "company ID":"VMI",
+        "score":0.5410045385,
+        "Rank":11.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":12.1184491053
+    },
+    "1486":{
+        "company ID":"RCMT",
+        "score":0.5308951735,
+        "Rank":12.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":1.7705966128
+    },
+    "1482":{
+        "company ID":"MMM",
+        "score":0.5040633678,
+        "Rank":13.0,
+        "Rank Target":0.5238095238,
+        "stockDifferencePercentage":1.2108867368
+    },
+    "1474":{
+        "company ID":"BOOM",
+        "score":0.4852735996,
+        "Rank":14.0,
+        "Rank Target":0.380952381,
+        "stockDifferencePercentage":-1.186244103
+    },
+    "1478":{
+        "company ID":"FIP",
+        "score":0.4600624144,
+        "Rank":15.0,
+        "Rank Target":0.0476190476,
+        "stockDifferencePercentage":-31.8344602176
+    },
+    "1483":{
+        "company ID":"NNBR",
+        "score":0.46002841,
+        "Rank":16.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-8.6580109373
+    },
+    "1485":{
+        "company ID":"PLAG",
+        "score":0.4276952744,
+        "Rank":17.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":119.277119171
+    },
+    "1473":{
+        "company ID":"BOC",
+        "score":0.3984754682,
+        "Rank":18.0,
+        "Rank Target":0.2380952381,
+        "stockDifferencePercentage":-9.4117624543
+    },
+    "1475":{
+        "company ID":"CODI",
+        "score":0.3891327381,
+        "Rank":19.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-0.45316818
+    },
+    "1491":{
+        "company ID":"TUSK",
+        "score":0.3590717614,
+        "Rank":20.0,
+        "Rank Target":0.0952380952,
+        "stockDifferencePercentage":-14.6428519423
+    },
+    "1489":{
+        "company ID":"TRC",
+        "score":0.3369728625,
+        "Rank":21.0,
+        "Rank Target":0.1904761905,
+        "stockDifferencePercentage":-11.2403036508
+    }
+}

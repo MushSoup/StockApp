@@ -1,0 +1,247 @@
+{
+    "1104":{
+        "company ID":"OPRX",
+        "score":0.7186908722,
+        "Rank":1.0,
+        "Rank Target":0.9714285714,
+        "stockDifferencePercentage":52.717794213
+    },
+    "1089":{
+        "company ID":"DOCS",
+        "score":0.6987303495,
+        "Rank":2.0,
+        "Rank Target":0.8571428571,
+        "stockDifferencePercentage":21.7701481907
+    },
+    "1085":{
+        "company ID":"CCLD",
+        "score":0.6759583354,
+        "Rank":3.0,
+        "Rank Target":0.9142857143,
+        "stockDifferencePercentage":37.3983765061
+    },
+    "1087":{
+        "company ID":"CTEV",
+        "score":0.6556245685,
+        "Rank":4.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":15.8045350142
+    },
+    "1112":{
+        "company ID":"TXG",
+        "score":0.6508154273,
+        "Rank":5.0,
+        "Rank Target":0.2571428571,
+        "stockDifferencePercentage":-12.8362801454
+    },
+    "1107":{
+        "company ID":"SPOK",
+        "score":0.6499490142,
+        "Rank":6.0,
+        "Rank Target":0.4571428571,
+        "stockDifferencePercentage":-0.8808918142
+    },
+    "1092":{
+        "company ID":"FORA",
+        "score":0.6446045041,
+        "Rank":7.0,
+        "Rank Target":0.7428571429,
+        "stockDifferencePercentage":12.7551017929
+    },
+    "1110":{
+        "company ID":"TDOC",
+        "score":0.6426760554,
+        "Rank":8.0,
+        "Rank Target":0.4285714286,
+        "stockDifferencePercentage":-1.0856472016
+    },
+    "1101":{
+        "company ID":"OMCL",
+        "score":0.6397445202,
+        "Rank":9.0,
+        "Rank Target":0.5428571429,
+        "stockDifferencePercentage":1.6756032086
+    },
+    "1097":{
+        "company ID":"HSTM",
+        "score":0.6319152117,
+        "Rank":10.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":4.2947154501
+    },
+    "1105":{
+        "company ID":"PRVA",
+        "score":0.6300628781,
+        "Rank":11.0,
+        "Rank Target":0.6857142857,
+        "stockDifferencePercentage":10.4477584899
+    },
+    "1111":{
+        "company ID":"TEM",
+        "score":0.6227674484,
+        "Rank":12.0,
+        "Rank Target":0.8857142857,
+        "stockDifferencePercentage":28.8666526517
+    },
+    "1114":{
+        "company ID":"WAY",
+        "score":0.608817935,
+        "Rank":13.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-4.7025888839
+    },
+    "1088":{
+        "company ID":"DH",
+        "score":0.6072384715,
+        "Rank":14.0,
+        "Rank Target":0.5142857143,
+        "stockDifferencePercentage":0.2481327935
+    },
+    "1086":{
+        "company ID":"CERT",
+        "score":0.587387681,
+        "Rank":15.0,
+        "Rank Target":0.6571428571,
+        "stockDifferencePercentage":7.502209949
+    },
+    "1096":{
+        "company ID":"HNGE",
+        "score":0.5826848149,
+        "Rank":16.0,
+        "Rank Target":0.6285714286,
+        "stockDifferencePercentage":6.9912036175
+    },
+    "1103":{
+        "company ID":"ONMD",
+        "score":0.5789874792,
+        "Rank":17.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":92.3774854308
+    },
+    "1108":{
+        "company ID":"TALK",
+        "score":0.5753368139,
+        "Rank":18.0,
+        "Rank Target":0.4857142857,
+        "stockDifferencePercentage":-0.3610104862
+    },
+    "1093":{
+        "company ID":"GDRX",
+        "score":0.5627155304,
+        "Rank":19.0,
+        "Rank Target":0.3142857143,
+        "stockDifferencePercentage":-8.9171989979
+    },
+    "1102":{
+        "company ID":"OMDA",
+        "score":0.5516550541,
+        "Rank":20.0,
+        "Rank Target":0.8285714286,
+        "stockDifferencePercentage":19.8067670436
+    },
+    "1100":{
+        "company ID":"MGRX",
+        "score":0.5407196879,
+        "Rank":21.0,
+        "Rank Target":0.9428571429,
+        "stockDifferencePercentage":41.6107303119
+    },
+    "1083":{
+        "company ID":"AMWL",
+        "score":0.5397074223,
+        "Rank":22.0,
+        "Rank Target":0.1714285714,
+        "stockDifferencePercentage":-26.9095226452
+    },
+    "1115":{
+        "company ID":"WEAV",
+        "score":0.5182350278,
+        "Rank":23.0,
+        "Rank Target":0.2285714286,
+        "stockDifferencePercentage":-21.0466429206
+    },
+    "1109":{
+        "company ID":"TBRG",
+        "score":0.501062274,
+        "Rank":24.0,
+        "Rank Target":0.2857142857,
+        "stockDifferencePercentage":-10.9409188545
+    },
+    "1090":{
+        "company ID":"DRIO",
+        "score":0.4842701256,
+        "Rank":25.0,
+        "Rank Target":0.7142857143,
+        "stockDifferencePercentage":11.2411347178
+    },
+    "1094":{
+        "company ID":"HCAT",
+        "score":0.4677596688,
+        "Rank":26.0,
+        "Rank Target":0.1428571429,
+        "stockDifferencePercentage":-28.0788148414
+    },
+    "1098":{
+        "company ID":"HTFL",
+        "score":0.4448556602,
+        "Rank":27.0,
+        "Rank Target":0.7714285714,
+        "stockDifferencePercentage":15.0383469934
+    },
+    "1091":{
+        "company ID":"EVH",
+        "score":0.4427937865,
+        "Rank":28.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-25.6149237817
+    },
+    "1106":{
+        "company ID":"SDGR",
+        "score":0.4373373985,
+        "Rank":29.0,
+        "Rank Target":0.3714285714,
+        "stockDifferencePercentage":-5.1136357992
+    },
+    "1099":{
+        "company ID":"LFMD",
+        "score":0.4358570278,
+        "Rank":30.0,
+        "Rank Target":0.0571428571,
+        "stockDifferencePercentage":-48.4799995424
+    },
+    "1082":{
+        "company ID":"ACON",
+        "score":0.4352223873,
+        "Rank":31.0,
+        "Rank Target":0.5714285714,
+        "stockDifferencePercentage":2.4161115397
+    },
+    "1095":{
+        "company ID":"HCTI",
+        "score":0.4263783395,
+        "Rank":32.0,
+        "Rank Target":0.0285714286,
+        "stockDifferencePercentage":-61.5384612557
+    },
+    "1116":{
+        "company ID":"WORX",
+        "score":0.4187167883,
+        "Rank":33.0,
+        "Rank Target":0.1142857143,
+        "stockDifferencePercentage":-34.5454570066
+    },
+    "1084":{
+        "company ID":"CARL",
+        "score":0.3674005866,
+        "Rank":34.0,
+        "Rank Target":0.3428571429,
+        "stockDifferencePercentage":-7.2413806255
+    },
+    "1113":{
+        "company ID":"VSEE",
+        "score":0.297023505,
+        "Rank":35.0,
+        "Rank Target":0.0857142857,
+        "stockDifferencePercentage":-46.4957256365
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "1198":{
+        "company ID":"BLBD",
+        "score":0.7690957189,
+        "Rank":1.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":26.118421592
+    },
+    "1207":{
+        "company ID":"OSK",
+        "score":0.6564030647,
+        "Rank":2.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":4.0898904837
+    },
+    "1195":{
+        "company ID":"AGCO",
+        "score":0.6410770416,
+        "Rank":3.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":-1.3840622382
+    },
+    "1200":{
+        "company ID":"CAT",
+        "score":0.621607542,
+        "Rank":4.0,
+        "Rank Target":0.9444444444,
+        "stockDifferencePercentage":18.9709085173
+    },
+    "1209":{
+        "company ID":"TEX",
+        "score":0.5959216952,
+        "Rank":5.0,
+        "Rank Target":0.7777777778,
+        "stockDifferencePercentage":3.2130773988
+    },
+    "1197":{
+        "company ID":"ASTE",
+        "score":0.5678738952,
+        "Rank":6.0,
+        "Rank Target":0.8888888889,
+        "stockDifferencePercentage":12.8514216482
+    },
+    "1202":{
+        "company ID":"GENC",
+        "score":0.556432724,
+        "Rank":7.0,
+        "Rank Target":0.5555555556,
+        "stockDifferencePercentage":-5.4268677262
+    },
+    "1211":{
+        "company ID":"WNC",
+        "score":0.5481183529,
+        "Rank":8.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-13.6640579111
+    },
+    "1196":{
+        "company ID":"ALG",
+        "score":0.5471806526,
+        "Rank":9.0,
+        "Rank Target":0.2777777778,
+        "stockDifferencePercentage":-15.7021520132
+    },
+    "1208":{
+        "company ID":"PCAR",
+        "score":0.5452419519,
+        "Rank":10.0,
+        "Rank Target":0.7222222222,
+        "stockDifferencePercentage":2.5787604823
+    },
+    "1212":{
+        "company ID":"XOS",
+        "score":0.4746673405,
+        "Rank":11.0,
+        "Rank Target":0.2222222222,
+        "stockDifferencePercentage":-18.0685332341
+    },
+    "1204":{
+        "company ID":"HYFM",
+        "score":0.4445235431,
+        "Rank":12.0,
+        "Rank Target":0.6111111111,
+        "stockDifferencePercentage":-4.4077157233
+    },
+    "1210":{
+        "company ID":"TWI",
+        "score":0.4113562107,
+        "Rank":13.0,
+        "Rank Target":0.0555555556,
+        "stockDifferencePercentage":-28.4514936076
+    },
+    "1206":{
+        "company ID":"MTW",
+        "score":0.41082865,
+        "Rank":14.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-23.1366496074
+    },
+    "1201":{
+        "company ID":"CMCO",
+        "score":0.4044733644,
+        "Rank":15.0,
+        "Rank Target":0.4444444444,
+        "stockDifferencePercentage":-11.5845852283
+    },
+    "1203":{
+        "company ID":"HY",
+        "score":0.3805907071,
+        "Rank":16.0,
+        "Rank Target":0.3888888889,
+        "stockDifferencePercentage":-13.126442713
+    },
+    "1199":{
+        "company ID":"BNC",
+        "score":0.3202992678,
+        "Rank":17.0,
+        "Rank Target":0.1111111111,
+        "stockDifferencePercentage":-25.0118206023
+    },
+    "1205":{
+        "company ID":"KDK",
+        "score":0.2419380099,
+        "Rank":18.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-7.5471687936
+    }
+}

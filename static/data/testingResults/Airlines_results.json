@@ -1,0 +1,1354 @@
+{
+    "611":{
+        "index":1648684800000,
+        "company ID":"UAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.6277011633,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "603":{
+        "index":1648684800000,
+        "company ID":"DAL",
+        "Rank Target":0.7692307692,
+        "prediction":0.6170076132,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "605":{
+        "index":1648684800000,
+        "company ID":"JBLU",
+        "Rank Target":0.3076923077,
+        "prediction":0.5959199667,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "606":{
+        "index":1648684800000,
+        "company ID":"LUV",
+        "Rank Target":0.9230769231,
+        "prediction":0.5763991475,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "601":{
+        "index":1648684800000,
+        "company ID":"ALGT",
+        "Rank Target":0.5384615385,
+        "prediction":0.5753429532,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "602":{
+        "index":1648684800000,
+        "company ID":"ALK",
+        "Rank Target":0.4615384615,
+        "prediction":0.5641450882,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "600":{
+        "index":1648684800000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5616647005,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "607":{
+        "index":1648684800000,
+        "company ID":"RJET",
+        "Rank Target":0.2307692308,
+        "prediction":0.5451190472,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "608":{
+        "index":1648684800000,
+        "company ID":"SKYW",
+        "Rank Target":0.6923076923,
+        "prediction":0.5343825817,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "609":{
+        "index":1648684800000,
+        "company ID":"SNCY",
+        "Rank Target":0.3846153846,
+        "prediction":0.4929324687,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "612":{
+        "index":1648684800000,
+        "company ID":"ULCC",
+        "Rank Target":1.0,
+        "prediction":0.4577367306,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "604":{
+        "index":1648684800000,
+        "company ID":"FLYX",
+        "Rank Target":0.1153846154,
+        "prediction":0.361556977,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "610":{
+        "index":1648684800000,
+        "company ID":"SRFM",
+        "Rank Target":0.1153846154,
+        "prediction":0.325776875,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "616":{
+        "index":1656547200000,
+        "company ID":"DAL",
+        "Rank Target":1.0,
+        "prediction":0.6542226076,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "615":{
+        "index":1656547200000,
+        "company ID":"ALK",
+        "Rank Target":0.9230769231,
+        "prediction":0.6156227589,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "621":{
+        "index":1656547200000,
+        "company ID":"SKYW",
+        "Rank Target":0.3846153846,
+        "prediction":0.6120655537,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "625":{
+        "index":1656547200000,
+        "company ID":"ULCC",
+        "Rank Target":0.8461538462,
+        "prediction":0.6053385139,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "619":{
+        "index":1656547200000,
+        "company ID":"LUV",
+        "Rank Target":0.6153846154,
+        "prediction":0.6014754772,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "624":{
+        "index":1656547200000,
+        "company ID":"UAL",
+        "Rank Target":0.7692307692,
+        "prediction":0.5997236371,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "613":{
+        "index":1656547200000,
+        "company ID":"AAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.5941345692,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "614":{
+        "index":1656547200000,
+        "company ID":"ALGT",
+        "Rank Target":0.2307692308,
+        "prediction":0.4893593788,
+        "trueRank":11.0,
+        "predictionRank":8.0
+    },
+    "622":{
+        "index":1656547200000,
+        "company ID":"SNCY",
+        "Rank Target":0.3076923077,
+        "prediction":0.484665513,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "618":{
+        "index":1656547200000,
+        "company ID":"JBLU",
+        "Rank Target":0.4615384615,
+        "prediction":0.4800800979,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "623":{
+        "index":1656547200000,
+        "company ID":"SRFM",
+        "Rank Target":0.1153846154,
+        "prediction":0.4556357861,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "620":{
+        "index":1656547200000,
+        "company ID":"RJET",
+        "Rank Target":0.5384615385,
+        "prediction":0.4386716485,
+        "trueRank":7.0,
+        "predictionRank":12.0
+    },
+    "617":{
+        "index":1656547200000,
+        "company ID":"FLYX",
+        "Rank Target":0.1153846154,
+        "prediction":0.400454849,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "635":{
+        "index":1664496000000,
+        "company ID":"SNCY",
+        "Rank Target":0.8461538462,
+        "prediction":0.6637187004,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "637":{
+        "index":1664496000000,
+        "company ID":"UAL",
+        "Rank Target":0.9230769231,
+        "prediction":0.6221712232,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "638":{
+        "index":1664496000000,
+        "company ID":"ULCC",
+        "Rank Target":0.5384615385,
+        "prediction":0.5996792912,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "632":{
+        "index":1664496000000,
+        "company ID":"LUV",
+        "Rank Target":0.7692307692,
+        "prediction":0.5846318603,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "629":{
+        "index":1664496000000,
+        "company ID":"DAL",
+        "Rank Target":1.0,
+        "prediction":0.5809370279,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "626":{
+        "index":1664496000000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5672206879,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "631":{
+        "index":1664496000000,
+        "company ID":"JBLU",
+        "Rank Target":0.3846153846,
+        "prediction":0.5532956719,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "633":{
+        "index":1664496000000,
+        "company ID":"RJET",
+        "Rank Target":0.3076923077,
+        "prediction":0.5321140885,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "634":{
+        "index":1664496000000,
+        "company ID":"SKYW",
+        "Rank Target":0.4615384615,
+        "prediction":0.5316132307,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "628":{
+        "index":1664496000000,
+        "company ID":"ALK",
+        "Rank Target":0.6923076923,
+        "prediction":0.5284109712,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "627":{
+        "index":1664496000000,
+        "company ID":"ALGT",
+        "Rank Target":0.2307692308,
+        "prediction":0.4917509556,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "630":{
+        "index":1664496000000,
+        "company ID":"FLYX",
+        "Rank Target":0.1153846154,
+        "prediction":0.4546070993,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "636":{
+        "index":1664496000000,
+        "company ID":"SRFM",
+        "Rank Target":0.1153846154,
+        "prediction":0.4153349996,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "640":{
+        "index":1672444800000,
+        "company ID":"ALGT",
+        "Rank Target":0.9230769231,
+        "prediction":0.6991119981,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "651":{
+        "index":1672444800000,
+        "company ID":"ULCC",
+        "Rank Target":0.2307692308,
+        "prediction":0.6688672304,
+        "trueRank":11.0,
+        "predictionRank":2.0
+    },
+    "642":{
+        "index":1672444800000,
+        "company ID":"DAL",
+        "Rank Target":0.4615384615,
+        "prediction":0.6433970928,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "643":{
+        "index":1672444800000,
+        "company ID":"FLYX",
+        "Rank Target":0.1153846154,
+        "prediction":0.6379590631,
+        "trueRank":12.0,
+        "predictionRank":4.0
+    },
+    "647":{
+        "index":1672444800000,
+        "company ID":"SKYW",
+        "Rank Target":1.0,
+        "prediction":0.6172872186,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "650":{
+        "index":1672444800000,
+        "company ID":"UAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.6010435224,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "639":{
+        "index":1672444800000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5671904087,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "645":{
+        "index":1672444800000,
+        "company ID":"LUV",
+        "Rank Target":0.3846153846,
+        "prediction":0.5556172729,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "648":{
+        "index":1672444800000,
+        "company ID":"SNCY",
+        "Rank Target":0.7692307692,
+        "prediction":0.535623014,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "644":{
+        "index":1672444800000,
+        "company ID":"JBLU",
+        "Rank Target":0.5384615385,
+        "prediction":0.5138041973,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "649":{
+        "index":1672444800000,
+        "company ID":"SRFM",
+        "Rank Target":0.1153846154,
+        "prediction":0.4989621639,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "646":{
+        "index":1672444800000,
+        "company ID":"RJET",
+        "Rank Target":0.8461538462,
+        "prediction":0.4957868457,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "641":{
+        "index":1672444800000,
+        "company ID":"ALK",
+        "Rank Target":0.3076923077,
+        "prediction":0.4498989582,
+        "trueRank":10.0,
+        "predictionRank":13.0
+    },
+    "660":{
+        "index":1680220800000,
+        "company ID":"SKYW",
+        "Rank Target":1.0,
+        "prediction":0.6259334683,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "658":{
+        "index":1680220800000,
+        "company ID":"LUV",
+        "Rank Target":0.4615384615,
+        "prediction":0.604385376,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "654":{
+        "index":1680220800000,
+        "company ID":"ALK",
+        "Rank Target":0.7692307692,
+        "prediction":0.5934417248,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "655":{
+        "index":1680220800000,
+        "company ID":"DAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.5926162601,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "657":{
+        "index":1680220800000,
+        "company ID":"JBLU",
+        "Rank Target":0.6153846154,
+        "prediction":0.5891714692,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "663":{
+        "index":1680220800000,
+        "company ID":"UAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.5889211297,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "653":{
+        "index":1680220800000,
+        "company ID":"ALGT",
+        "Rank Target":0.9230769231,
+        "prediction":0.5859363079,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "652":{
+        "index":1680220800000,
+        "company ID":"AAL",
+        "Rank Target":0.5384615385,
+        "prediction":0.5696694851,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "661":{
+        "index":1680220800000,
+        "company ID":"SNCY",
+        "Rank Target":0.3076923077,
+        "prediction":0.5691093802,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "659":{
+        "index":1680220800000,
+        "company ID":"RJET",
+        "Rank Target":0.3846153846,
+        "prediction":0.5328207612,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "662":{
+        "index":1680220800000,
+        "company ID":"SRFM",
+        "Rank Target":0.1153846154,
+        "prediction":0.4914680719,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "656":{
+        "index":1680220800000,
+        "company ID":"FLYX",
+        "Rank Target":0.1153846154,
+        "prediction":0.4839253426,
+        "trueRank":12.0,
+        "predictionRank":12.0
+    },
+    "664":{
+        "index":1680220800000,
+        "company ID":"ULCC",
+        "Rank Target":0.2307692308,
+        "prediction":0.461578697,
+        "trueRank":11.0,
+        "predictionRank":13.0
+    },
+    "676":{
+        "index":1688083200000,
+        "company ID":"UAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.6993871331,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "668":{
+        "index":1688083200000,
+        "company ID":"DAL",
+        "Rank Target":0.9230769231,
+        "prediction":0.6628052592,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "671":{
+        "index":1688083200000,
+        "company ID":"LUV",
+        "Rank Target":0.7692307692,
+        "prediction":0.6485073566,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "666":{
+        "index":1688083200000,
+        "company ID":"ALGT",
+        "Rank Target":0.4615384615,
+        "prediction":0.6344513297,
+        "trueRank":8.0,
+        "predictionRank":4.0
+    },
+    "677":{
+        "index":1688083200000,
+        "company ID":"ULCC",
+        "Rank Target":0.2307692308,
+        "prediction":0.6079603434,
+        "trueRank":11.0,
+        "predictionRank":5.0
+    },
+    "665":{
+        "index":1688083200000,
+        "company ID":"AAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.6003257036,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "669":{
+        "index":1688083200000,
+        "company ID":"FLYX",
+        "Rank Target":0.0769230769,
+        "prediction":0.569411695,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "667":{
+        "index":1688083200000,
+        "company ID":"ALK",
+        "Rank Target":0.6153846154,
+        "prediction":0.5630828738,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "674":{
+        "index":1688083200000,
+        "company ID":"SNCY",
+        "Rank Target":0.5384615385,
+        "prediction":0.5582318306,
+        "trueRank":7.0,
+        "predictionRank":9.0
+    },
+    "670":{
+        "index":1688083200000,
+        "company ID":"JBLU",
+        "Rank Target":0.3076923077,
+        "prediction":0.5408795476,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "673":{
+        "index":1688083200000,
+        "company ID":"SKYW",
+        "Rank Target":1.0,
+        "prediction":0.5347397327,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "675":{
+        "index":1688083200000,
+        "company ID":"SRFM",
+        "Rank Target":0.3846153846,
+        "prediction":0.5315213203,
+        "trueRank":9.0,
+        "predictionRank":12.0
+    },
+    "672":{
+        "index":1688083200000,
+        "company ID":"RJET",
+        "Rank Target":0.1538461538,
+        "prediction":0.4402259588,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "684":{
+        "index":1696032000000,
+        "company ID":"LUV",
+        "Rank Target":0.3076923077,
+        "prediction":0.6283255816,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "679":{
+        "index":1696032000000,
+        "company ID":"ALGT",
+        "Rank Target":0.6153846154,
+        "prediction":0.6157798767,
+        "trueRank":6.0,
+        "predictionRank":2.0
+    },
+    "687":{
+        "index":1696032000000,
+        "company ID":"SNCY",
+        "Rank Target":0.4615384615,
+        "prediction":0.6062152386,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "686":{
+        "index":1696032000000,
+        "company ID":"SKYW",
+        "Rank Target":1.0,
+        "prediction":0.5964564681,
+        "trueRank":1.0,
+        "predictionRank":4.0
+    },
+    "681":{
+        "index":1696032000000,
+        "company ID":"DAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.5865268111,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "689":{
+        "index":1696032000000,
+        "company ID":"UAL",
+        "Rank Target":0.2307692308,
+        "prediction":0.5716584921,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "680":{
+        "index":1696032000000,
+        "company ID":"ALK",
+        "Rank Target":0.3846153846,
+        "prediction":0.559191823,
+        "trueRank":9.0,
+        "predictionRank":7.0
+    },
+    "685":{
+        "index":1696032000000,
+        "company ID":"RJET",
+        "Rank Target":0.7692307692,
+        "prediction":0.5353572369,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "688":{
+        "index":1696032000000,
+        "company ID":"SRFM",
+        "Rank Target":0.0769230769,
+        "prediction":0.5113808513,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "682":{
+        "index":1696032000000,
+        "company ID":"FLYX",
+        "Rank Target":0.1538461538,
+        "prediction":0.4911304712,
+        "trueRank":12.0,
+        "predictionRank":10.0
+    },
+    "678":{
+        "index":1696032000000,
+        "company ID":"AAL",
+        "Rank Target":0.5384615385,
+        "prediction":0.4661774933,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "683":{
+        "index":1696032000000,
+        "company ID":"JBLU",
+        "Rank Target":0.9230769231,
+        "prediction":0.4234225154,
+        "trueRank":2.0,
+        "predictionRank":12.0
+    },
+    "690":{
+        "index":1696032000000,
+        "company ID":"ULCC",
+        "Rank Target":0.8461538462,
+        "prediction":0.4011804461,
+        "trueRank":3.0,
+        "predictionRank":13.0
+    },
+    "692":{
+        "index":1703980800000,
+        "company ID":"ALGT",
+        "Rank Target":0.3076923077,
+        "prediction":0.6982447505,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "700":{
+        "index":1703980800000,
+        "company ID":"SNCY",
+        "Rank Target":0.3846153846,
+        "prediction":0.631575048,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "695":{
+        "index":1703980800000,
+        "company ID":"FLYX",
+        "Rank Target":0.1538461538,
+        "prediction":0.6228629947,
+        "trueRank":12.0,
+        "predictionRank":3.0
+    },
+    "694":{
+        "index":1703980800000,
+        "company ID":"DAL",
+        "Rank Target":0.7692307692,
+        "prediction":0.6183864474,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "697":{
+        "index":1703980800000,
+        "company ID":"LUV",
+        "Rank Target":0.4615384615,
+        "prediction":0.6178919673,
+        "trueRank":8.0,
+        "predictionRank":5.0
+    },
+    "696":{
+        "index":1703980800000,
+        "company ID":"JBLU",
+        "Rank Target":0.9230769231,
+        "prediction":0.6041599512,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "699":{
+        "index":1703980800000,
+        "company ID":"SKYW",
+        "Rank Target":0.8461538462,
+        "prediction":0.5595701933,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "703":{
+        "index":1703980800000,
+        "company ID":"ULCC",
+        "Rank Target":1.0,
+        "prediction":0.5510460138,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "701":{
+        "index":1703980800000,
+        "company ID":"SRFM",
+        "Rank Target":0.0769230769,
+        "prediction":0.5410538912,
+        "trueRank":13.0,
+        "predictionRank":9.0
+    },
+    "698":{
+        "index":1703980800000,
+        "company ID":"RJET",
+        "Rank Target":0.2307692308,
+        "prediction":0.5298073292,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "702":{
+        "index":1703980800000,
+        "company ID":"UAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.5173236728,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "691":{
+        "index":1703980800000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.4979923964,
+        "trueRank":6.0,
+        "predictionRank":12.0
+    },
+    "693":{
+        "index":1703980800000,
+        "company ID":"ALK",
+        "Rank Target":0.5384615385,
+        "prediction":0.4492153227,
+        "trueRank":7.0,
+        "predictionRank":13.0
+    },
+    "715":{
+        "index":1711843200000,
+        "company ID":"UAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.6525235772,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "713":{
+        "index":1711843200000,
+        "company ID":"SNCY",
+        "Rank Target":0.3846153846,
+        "prediction":0.6444866657,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "712":{
+        "index":1711843200000,
+        "company ID":"SKYW",
+        "Rank Target":0.9230769231,
+        "prediction":0.6415634155,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "705":{
+        "index":1711843200000,
+        "company ID":"ALGT",
+        "Rank Target":0.2307692308,
+        "prediction":0.6307855844,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "707":{
+        "index":1711843200000,
+        "company ID":"DAL",
+        "Rank Target":0.6923076923,
+        "prediction":0.6055505276,
+        "trueRank":5.0,
+        "predictionRank":5.0
+    },
+    "706":{
+        "index":1711843200000,
+        "company ID":"ALK",
+        "Rank Target":0.6153846154,
+        "prediction":0.5973545313,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "714":{
+        "index":1711843200000,
+        "company ID":"SRFM",
+        "Rank Target":0.0769230769,
+        "prediction":0.5429508686,
+        "trueRank":13.0,
+        "predictionRank":7.0
+    },
+    "708":{
+        "index":1711843200000,
+        "company ID":"FLYX",
+        "Rank Target":0.5384615385,
+        "prediction":0.5271793604,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "709":{
+        "index":1711843200000,
+        "company ID":"JBLU",
+        "Rank Target":0.4615384615,
+        "prediction":0.517465055,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "704":{
+        "index":1711843200000,
+        "company ID":"AAL",
+        "Rank Target":0.3076923077,
+        "prediction":0.5146400332,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "710":{
+        "index":1711843200000,
+        "company ID":"LUV",
+        "Rank Target":0.7692307692,
+        "prediction":0.5104187131,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "711":{
+        "index":1711843200000,
+        "company ID":"RJET",
+        "Rank Target":1.0,
+        "prediction":0.4784974456,
+        "trueRank":1.0,
+        "predictionRank":12.0
+    },
+    "716":{
+        "index":1711843200000,
+        "company ID":"ULCC",
+        "Rank Target":0.1538461538,
+        "prediction":0.451992631,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    },
+    "728":{
+        "index":1719705600000,
+        "company ID":"UAL",
+        "Rank Target":1.0,
+        "prediction":0.6871063709,
+        "trueRank":1.0,
+        "predictionRank":1.0
+    },
+    "725":{
+        "index":1719705600000,
+        "company ID":"SKYW",
+        "Rank Target":0.4615384615,
+        "prediction":0.6755940318,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "720":{
+        "index":1719705600000,
+        "company ID":"DAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.6661166549,
+        "trueRank":3.0,
+        "predictionRank":3.0
+    },
+    "717":{
+        "index":1719705600000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5998769999,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "719":{
+        "index":1719705600000,
+        "company ID":"ALK",
+        "Rank Target":0.9230769231,
+        "prediction":0.5826333165,
+        "trueRank":2.0,
+        "predictionRank":5.0
+    },
+    "718":{
+        "index":1719705600000,
+        "company ID":"ALGT",
+        "Rank Target":0.6923076923,
+        "prediction":0.5751972198,
+        "trueRank":5.0,
+        "predictionRank":6.0
+    },
+    "723":{
+        "index":1719705600000,
+        "company ID":"LUV",
+        "Rank Target":0.5384615385,
+        "prediction":0.5730530024,
+        "trueRank":7.0,
+        "predictionRank":7.0
+    },
+    "722":{
+        "index":1719705600000,
+        "company ID":"JBLU",
+        "Rank Target":0.7692307692,
+        "prediction":0.5475474,
+        "trueRank":4.0,
+        "predictionRank":8.0
+    },
+    "724":{
+        "index":1719705600000,
+        "company ID":"RJET",
+        "Rank Target":0.2307692308,
+        "prediction":0.5462358594,
+        "trueRank":11.0,
+        "predictionRank":9.0
+    },
+    "727":{
+        "index":1719705600000,
+        "company ID":"SRFM",
+        "Rank Target":0.0769230769,
+        "prediction":0.4907602668,
+        "trueRank":13.0,
+        "predictionRank":10.0
+    },
+    "721":{
+        "index":1719705600000,
+        "company ID":"FLYX",
+        "Rank Target":0.1538461538,
+        "prediction":0.4769554734,
+        "trueRank":12.0,
+        "predictionRank":11.0
+    },
+    "726":{
+        "index":1719705600000,
+        "company ID":"SNCY",
+        "Rank Target":0.3076923077,
+        "prediction":0.4680868387,
+        "trueRank":10.0,
+        "predictionRank":12.0
+    },
+    "729":{
+        "index":1719705600000,
+        "company ID":"ULCC",
+        "Rank Target":0.3846153846,
+        "prediction":0.4507305324,
+        "trueRank":9.0,
+        "predictionRank":13.0
+    },
+    "739":{
+        "index":1727654400000,
+        "company ID":"SNCY",
+        "Rank Target":0.6153846154,
+        "prediction":0.6616766453,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "738":{
+        "index":1727654400000,
+        "company ID":"SKYW",
+        "Rank Target":0.3076923077,
+        "prediction":0.6533145905,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "735":{
+        "index":1727654400000,
+        "company ID":"JBLU",
+        "Rank Target":0.3846153846,
+        "prediction":0.6193396449,
+        "trueRank":9.0,
+        "predictionRank":3.0
+    },
+    "741":{
+        "index":1727654400000,
+        "company ID":"UAL",
+        "Rank Target":0.9230769231,
+        "prediction":0.6169576049,
+        "trueRank":2.0,
+        "predictionRank":4.0
+    },
+    "737":{
+        "index":1727654400000,
+        "company ID":"RJET",
+        "Rank Target":0.0769230769,
+        "prediction":0.5995974541,
+        "trueRank":13.0,
+        "predictionRank":5.0
+    },
+    "736":{
+        "index":1727654400000,
+        "company ID":"LUV",
+        "Rank Target":0.1538461538,
+        "prediction":0.5888060927,
+        "trueRank":12.0,
+        "predictionRank":6.0
+    },
+    "733":{
+        "index":1727654400000,
+        "company ID":"DAL",
+        "Rank Target":0.4615384615,
+        "prediction":0.5794152021,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "742":{
+        "index":1727654400000,
+        "company ID":"ULCC",
+        "Rank Target":0.5384615385,
+        "prediction":0.5772234797,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "732":{
+        "index":1727654400000,
+        "company ID":"ALK",
+        "Rank Target":0.6923076923,
+        "prediction":0.5730816126,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "734":{
+        "index":1727654400000,
+        "company ID":"FLYX",
+        "Rank Target":0.2307692308,
+        "prediction":0.5657469034,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "730":{
+        "index":1727654400000,
+        "company ID":"AAL",
+        "Rank Target":0.7692307692,
+        "prediction":0.561847806,
+        "trueRank":4.0,
+        "predictionRank":11.0
+    },
+    "731":{
+        "index":1727654400000,
+        "company ID":"ALGT",
+        "Rank Target":0.8461538462,
+        "prediction":0.5549880266,
+        "trueRank":3.0,
+        "predictionRank":12.0
+    },
+    "740":{
+        "index":1727654400000,
+        "company ID":"SRFM",
+        "Rank Target":1.0,
+        "prediction":0.503670454,
+        "trueRank":1.0,
+        "predictionRank":13.0
+    },
+    "751":{
+        "index":1735603200000,
+        "company ID":"SKYW",
+        "Rank Target":0.7692307692,
+        "prediction":0.6694957018,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "752":{
+        "index":1735603200000,
+        "company ID":"SNCY",
+        "Rank Target":0.8461538462,
+        "prediction":0.6656541228,
+        "trueRank":3.0,
+        "predictionRank":2.0
+    },
+    "749":{
+        "index":1735603200000,
+        "company ID":"LUV",
+        "Rank Target":1.0,
+        "prediction":0.6580263376,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "755":{
+        "index":1735603200000,
+        "company ID":"ULCC",
+        "Rank Target":0.3846153846,
+        "prediction":0.6553913355,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "744":{
+        "index":1735603200000,
+        "company ID":"ALGT",
+        "Rank Target":0.1538461538,
+        "prediction":0.6373081207,
+        "trueRank":12.0,
+        "predictionRank":5.0
+    },
+    "754":{
+        "index":1735603200000,
+        "company ID":"UAL",
+        "Rank Target":0.5384615385,
+        "prediction":0.6208557487,
+        "trueRank":7.0,
+        "predictionRank":6.0
+    },
+    "747":{
+        "index":1735603200000,
+        "company ID":"FLYX",
+        "Rank Target":0.9230769231,
+        "prediction":0.5849188566,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "746":{
+        "index":1735603200000,
+        "company ID":"DAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5800664425,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "743":{
+        "index":1735603200000,
+        "company ID":"AAL",
+        "Rank Target":0.3076923077,
+        "prediction":0.5463042259,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "748":{
+        "index":1735603200000,
+        "company ID":"JBLU",
+        "Rank Target":0.4615384615,
+        "prediction":0.5322493315,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "745":{
+        "index":1735603200000,
+        "company ID":"ALK",
+        "Rank Target":0.6923076923,
+        "prediction":0.5194631219,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "750":{
+        "index":1735603200000,
+        "company ID":"RJET",
+        "Rank Target":0.2307692308,
+        "prediction":0.5138779879,
+        "trueRank":11.0,
+        "predictionRank":12.0
+    },
+    "753":{
+        "index":1735603200000,
+        "company ID":"SRFM",
+        "Rank Target":0.0769230769,
+        "prediction":0.4970647097,
+        "trueRank":13.0,
+        "predictionRank":13.0
+    },
+    "764":{
+        "index":1743379200000,
+        "company ID":"SKYW",
+        "Rank Target":0.6923076923,
+        "prediction":0.6240056753,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "758":{
+        "index":1743379200000,
+        "company ID":"ALK",
+        "Rank Target":0.3076923077,
+        "prediction":0.5978814363,
+        "trueRank":10.0,
+        "predictionRank":2.0
+    },
+    "763":{
+        "index":1743379200000,
+        "company ID":"RJET",
+        "Rank Target":1.0,
+        "prediction":0.5825862288,
+        "trueRank":1.0,
+        "predictionRank":3.0
+    },
+    "761":{
+        "index":1743379200000,
+        "company ID":"JBLU",
+        "Rank Target":0.2307692308,
+        "prediction":0.5625217557,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "757":{
+        "index":1743379200000,
+        "company ID":"ALGT",
+        "Rank Target":0.5384615385,
+        "prediction":0.5565539002,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "759":{
+        "index":1743379200000,
+        "company ID":"DAL",
+        "Rank Target":0.7692307692,
+        "prediction":0.5480941534,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "767":{
+        "index":1743379200000,
+        "company ID":"UAL",
+        "Rank Target":0.8461538462,
+        "prediction":0.5365445614,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "756":{
+        "index":1743379200000,
+        "company ID":"AAL",
+        "Rank Target":0.6153846154,
+        "prediction":0.5076227784,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "762":{
+        "index":1743379200000,
+        "company ID":"LUV",
+        "Rank Target":0.4615384615,
+        "prediction":0.5069590211,
+        "trueRank":8.0,
+        "predictionRank":9.0
+    },
+    "766":{
+        "index":1743379200000,
+        "company ID":"SRFM",
+        "Rank Target":0.9230769231,
+        "prediction":0.4792363346,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "765":{
+        "index":1743379200000,
+        "company ID":"SNCY",
+        "Rank Target":0.3846153846,
+        "prediction":0.4786113203,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "760":{
+        "index":1743379200000,
+        "company ID":"FLYX",
+        "Rank Target":0.0769230769,
+        "prediction":0.4312432706,
+        "trueRank":13.0,
+        "predictionRank":12.0
+    },
+    "768":{
+        "index":1743379200000,
+        "company ID":"ULCC",
+        "Rank Target":0.1538461538,
+        "prediction":0.3623943925,
+        "trueRank":12.0,
+        "predictionRank":13.0
+    }
+}

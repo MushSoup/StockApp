@@ -1,0 +1,107 @@
+{
+    "1060":{
+        "company ID":"MCRI",
+        "score":0.7066687346,
+        "Rank":1.0,
+        "Rank Target":0.9333333333,
+        "stockDifferencePercentage":17.3970663091
+    },
+    "1059":{
+        "company ID":"LVS",
+        "score":0.683731854,
+        "Rank":2.0,
+        "Rank Target":0.8666666667,
+        "stockDifferencePercentage":15.1282826285
+    },
+    "1052":{
+        "company ID":"BYD",
+        "score":0.6773695946,
+        "Rank":3.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":7.3508975131
+    },
+    "1063":{
+        "company ID":"RRR",
+        "score":0.6447885036,
+        "Rank":4.0,
+        "Rank Target":0.8,
+        "stockDifferencePercentage":15.1072942367
+    },
+    "1065":{
+        "company ID":"WYNN",
+        "score":0.6108173132,
+        "Rank":5.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":25.6585916757
+    },
+    "1053":{
+        "company ID":"CNTY",
+        "score":0.6062721014,
+        "Rank":6.0,
+        "Rank Target":0.7333333333,
+        "stockDifferencePercentage":12.7192967297
+    },
+    "1058":{
+        "company ID":"HGV",
+        "score":0.5805100203,
+        "Rank":7.0,
+        "Rank Target":0.4,
+        "stockDifferencePercentage":-3.4329043572
+    },
+    "1062":{
+        "company ID":"PENN",
+        "score":0.521564424,
+        "Rank":8.0,
+        "Rank Target":0.6,
+        "stockDifferencePercentage":6.655841844
+    },
+    "1061":{
+        "company ID":"MGM",
+        "score":0.5151033401,
+        "Rank":9.0,
+        "Rank Target":0.4666666667,
+        "stockDifferencePercentage":-2.8199025512
+    },
+    "1064":{
+        "company ID":"VAC",
+        "score":0.4917343259,
+        "Rank":10.0,
+        "Rank Target":0.2,
+        "stockDifferencePercentage":-12.6313141992
+    },
+    "1055":{
+        "company ID":"CZR",
+        "score":0.4655396342,
+        "Rank":11.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-6.1931952272
+    },
+    "1054":{
+        "company ID":"CPHC",
+        "score":0.4623696208,
+        "Rank":12.0,
+        "Rank Target":0.2666666667,
+        "stockDifferencePercentage":-11.0210771062
+    },
+    "1057":{
+        "company ID":"GDEN",
+        "score":0.4341451824,
+        "Rank":13.0,
+        "Rank Target":0.0666666667,
+        "stockDifferencePercentage":-22.7205416327
+    },
+    "1051":{
+        "company ID":"BALY",
+        "score":0.3912214637,
+        "Rank":14.0,
+        "Rank Target":0.5333333333,
+        "stockDifferencePercentage":2.238137854
+    },
+    "1056":{
+        "company ID":"FLL",
+        "score":0.3705094457,
+        "Rank":15.0,
+        "Rank Target":0.1333333333,
+        "stockDifferencePercentage":-21.2918637071
+    }
+}

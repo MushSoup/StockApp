@@ -1,0 +1,44 @@
+{
+    "1565":{
+        "company ID":"BOOT",
+        "score":0.6990460157,
+        "Rank":1.0,
+        "Rank Target":0.8333333333,
+        "stockDifferencePercentage":0.5760093671
+    },
+    "1566":{
+        "company ID":"CRI",
+        "score":0.6297360063,
+        "Rank":2.0,
+        "Rank Target":0.6666666667,
+        "stockDifferencePercentage":-8.4783866143
+    },
+    "1568":{
+        "company ID":"LVLU",
+        "score":0.6248653531,
+        "Rank":3.0,
+        "Rank Target":1.0,
+        "stockDifferencePercentage":19.1176525585
+    },
+    "1563":{
+        "company ID":"AKA",
+        "score":0.59550035,
+        "Rank":4.0,
+        "Rank Target":0.5,
+        "stockDifferencePercentage":-12.3646199913
+    },
+    "1564":{
+        "company ID":"BIRD",
+        "score":0.4356170595,
+        "Rank":5.0,
+        "Rank Target":0.1666666667,
+        "stockDifferencePercentage":-45.360336168
+    },
+    "1567":{
+        "company ID":"DBGI",
+        "score":0.3801131845,
+        "Rank":6.0,
+        "Rank Target":0.3333333333,
+        "stockDifferencePercentage":-20.9233796723
+    }
+}

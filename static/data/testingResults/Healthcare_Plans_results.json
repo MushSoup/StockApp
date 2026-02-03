@@ -1,0 +1,1146 @@
+{
+    "513":{
+        "index":1648684800000,
+        "company ID":"CNC",
+        "Rank Target":0.7272727273,
+        "prediction":0.7001703978,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "516":{
+        "index":1648684800000,
+        "company ID":"HUM",
+        "Rank Target":0.9090909091,
+        "prediction":0.6998072267,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "515":{
+        "index":1648684800000,
+        "company ID":"ELV",
+        "Rank Target":0.6363636364,
+        "prediction":0.6894249916,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "514":{
+        "index":1648684800000,
+        "company ID":"CVS",
+        "Rank Target":0.4545454545,
+        "prediction":0.6263144016,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "520":{
+        "index":1648684800000,
+        "company ID":"UNH",
+        "Rank Target":0.8181818182,
+        "prediction":0.6176643968,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "518":{
+        "index":1648684800000,
+        "company ID":"OSCR",
+        "Rank Target":0.0909090909,
+        "prediction":0.6029720306,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "517":{
+        "index":1648684800000,
+        "company ID":"MOH",
+        "Rank Target":0.3636363636,
+        "prediction":0.5940144062,
+        "trueRank":8.0,
+        "predictionRank":7.0
+    },
+    "511":{
+        "index":1648684800000,
+        "company ID":"CI",
+        "Rank Target":1.0,
+        "prediction":0.537062943,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "512":{
+        "index":1648684800000,
+        "company ID":"CLOV",
+        "Rank Target":0.1818181818,
+        "prediction":0.4966931045,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "519":{
+        "index":1648684800000,
+        "company ID":"PGNY",
+        "Rank Target":0.2727272727,
+        "prediction":0.4559396505,
+        "trueRank":9.0,
+        "predictionRank":10.0
+    },
+    "510":{
+        "index":1648684800000,
+        "company ID":"ALHC",
+        "Rank Target":0.5454545455,
+        "prediction":0.4468940496,
+        "trueRank":6.0,
+        "predictionRank":11.0
+    },
+    "525":{
+        "index":1656547200000,
+        "company ID":"CVS",
+        "Rank Target":0.7272727273,
+        "prediction":0.707657814,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "530":{
+        "index":1656547200000,
+        "company ID":"PGNY",
+        "Rank Target":1.0,
+        "prediction":0.7039052248,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "527":{
+        "index":1656547200000,
+        "company ID":"HUM",
+        "Rank Target":0.5454545455,
+        "prediction":0.6432644129,
+        "trueRank":6.0,
+        "predictionRank":3.0
+    },
+    "524":{
+        "index":1656547200000,
+        "company ID":"CNC",
+        "Rank Target":0.1818181818,
+        "prediction":0.6345553994,
+        "trueRank":10.0,
+        "predictionRank":4.0
+    },
+    "531":{
+        "index":1656547200000,
+        "company ID":"UNH",
+        "Rank Target":0.4545454545,
+        "prediction":0.6232443452,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "521":{
+        "index":1656547200000,
+        "company ID":"ALHC",
+        "Rank Target":0.2727272727,
+        "prediction":0.5913184285,
+        "trueRank":9.0,
+        "predictionRank":6.0
+    },
+    "522":{
+        "index":1656547200000,
+        "company ID":"CI",
+        "Rank Target":0.8181818182,
+        "prediction":0.5569617748,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "526":{
+        "index":1656547200000,
+        "company ID":"ELV",
+        "Rank Target":0.3636363636,
+        "prediction":0.5481379628,
+        "trueRank":8.0,
+        "predictionRank":8.0
+    },
+    "528":{
+        "index":1656547200000,
+        "company ID":"MOH",
+        "Rank Target":0.9090909091,
+        "prediction":0.5288929939,
+        "trueRank":2.0,
+        "predictionRank":9.0
+    },
+    "529":{
+        "index":1656547200000,
+        "company ID":"OSCR",
+        "Rank Target":0.6363636364,
+        "prediction":0.4493061304,
+        "trueRank":5.0,
+        "predictionRank":10.0
+    },
+    "523":{
+        "index":1656547200000,
+        "company ID":"CLOV",
+        "Rank Target":0.0909090909,
+        "prediction":0.4333939552,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "538":{
+        "index":1664496000000,
+        "company ID":"HUM",
+        "Rank Target":0.7272727273,
+        "prediction":0.6617202759,
+        "trueRank":4.0,
+        "predictionRank":1.0
+    },
+    "535":{
+        "index":1664496000000,
+        "company ID":"CNC",
+        "Rank Target":0.6363636364,
+        "prediction":0.6533173323,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "536":{
+        "index":1664496000000,
+        "company ID":"CVS",
+        "Rank Target":0.3636363636,
+        "prediction":0.6480438709,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "542":{
+        "index":1664496000000,
+        "company ID":"UNH",
+        "Rank Target":0.8181818182,
+        "prediction":0.6233982444,
+        "trueRank":3.0,
+        "predictionRank":4.0
+    },
+    "533":{
+        "index":1664496000000,
+        "company ID":"CI",
+        "Rank Target":1.0,
+        "prediction":0.6092087626,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "537":{
+        "index":1664496000000,
+        "company ID":"ELV",
+        "Rank Target":0.9090909091,
+        "prediction":0.6024517417,
+        "trueRank":2.0,
+        "predictionRank":6.0
+    },
+    "539":{
+        "index":1664496000000,
+        "company ID":"MOH",
+        "Rank Target":0.5454545455,
+        "prediction":0.555898428,
+        "trueRank":6.0,
+        "predictionRank":7.0
+    },
+    "541":{
+        "index":1664496000000,
+        "company ID":"PGNY",
+        "Rank Target":0.2727272727,
+        "prediction":0.5537457466,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "534":{
+        "index":1664496000000,
+        "company ID":"CLOV",
+        "Rank Target":0.1818181818,
+        "prediction":0.5487573147,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "532":{
+        "index":1664496000000,
+        "company ID":"ALHC",
+        "Rank Target":0.4545454545,
+        "prediction":0.5271018744,
+        "trueRank":7.0,
+        "predictionRank":10.0
+    },
+    "540":{
+        "index":1664496000000,
+        "company ID":"OSCR",
+        "Rank Target":0.0909090909,
+        "prediction":0.4074877203,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "547":{
+        "index":1672444800000,
+        "company ID":"CVS",
+        "Rank Target":0.3636363636,
+        "prediction":0.6432493925,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "550":{
+        "index":1672444800000,
+        "company ID":"MOH",
+        "Rank Target":0.4545454545,
+        "prediction":0.6350569725,
+        "trueRank":7.0,
+        "predictionRank":2.0
+    },
+    "552":{
+        "index":1672444800000,
+        "company ID":"PGNY",
+        "Rank Target":0.9090909091,
+        "prediction":0.624807775,
+        "trueRank":2.0,
+        "predictionRank":3.0
+    },
+    "546":{
+        "index":1672444800000,
+        "company ID":"CNC",
+        "Rank Target":0.2727272727,
+        "prediction":0.6045493484,
+        "trueRank":9.0,
+        "predictionRank":4.0
+    },
+    "544":{
+        "index":1672444800000,
+        "company ID":"CI",
+        "Rank Target":0.1818181818,
+        "prediction":0.6041959524,
+        "trueRank":10.0,
+        "predictionRank":5.0
+    },
+    "548":{
+        "index":1672444800000,
+        "company ID":"ELV",
+        "Rank Target":0.7272727273,
+        "prediction":0.5992087722,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "553":{
+        "index":1672444800000,
+        "company ID":"UNH",
+        "Rank Target":0.6363636364,
+        "prediction":0.5772528052,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "549":{
+        "index":1672444800000,
+        "company ID":"HUM",
+        "Rank Target":0.8181818182,
+        "prediction":0.5051594377,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "551":{
+        "index":1672444800000,
+        "company ID":"OSCR",
+        "Rank Target":1.0,
+        "prediction":0.4726085365,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "545":{
+        "index":1672444800000,
+        "company ID":"CLOV",
+        "Rank Target":0.5454545455,
+        "prediction":0.4328604937,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "543":{
+        "index":1672444800000,
+        "company ID":"ALHC",
+        "Rank Target":0.0909090909,
+        "prediction":0.3913580477,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "560":{
+        "index":1680220800000,
+        "company ID":"HUM",
+        "Rank Target":0.0909090909,
+        "prediction":0.7399543524,
+        "trueRank":11.0,
+        "predictionRank":1.0
+    },
+    "559":{
+        "index":1680220800000,
+        "company ID":"ELV",
+        "Rank Target":0.3636363636,
+        "prediction":0.6728929877,
+        "trueRank":8.0,
+        "predictionRank":2.0
+    },
+    "557":{
+        "index":1680220800000,
+        "company ID":"CNC",
+        "Rank Target":0.6363636364,
+        "prediction":0.6569567323,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "564":{
+        "index":1680220800000,
+        "company ID":"UNH",
+        "Rank Target":0.4545454545,
+        "prediction":0.6429417729,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "561":{
+        "index":1680220800000,
+        "company ID":"MOH",
+        "Rank Target":0.8181818182,
+        "prediction":0.6255659461,
+        "trueRank":3.0,
+        "predictionRank":5.0
+    },
+    "554":{
+        "index":1680220800000,
+        "company ID":"ALHC",
+        "Rank Target":0.1818181818,
+        "prediction":0.584109664,
+        "trueRank":10.0,
+        "predictionRank":6.0
+    },
+    "562":{
+        "index":1680220800000,
+        "company ID":"OSCR",
+        "Rank Target":0.9090909091,
+        "prediction":0.5755987167,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "563":{
+        "index":1680220800000,
+        "company ID":"PGNY",
+        "Rank Target":1.0,
+        "prediction":0.5557114482,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "555":{
+        "index":1680220800000,
+        "company ID":"CI",
+        "Rank Target":0.7272727273,
+        "prediction":0.5495460033,
+        "trueRank":4.0,
+        "predictionRank":9.0
+    },
+    "556":{
+        "index":1680220800000,
+        "company ID":"CLOV",
+        "Rank Target":0.5454545455,
+        "prediction":0.5210912824,
+        "trueRank":6.0,
+        "predictionRank":10.0
+    },
+    "558":{
+        "index":1680220800000,
+        "company ID":"CVS",
+        "Rank Target":0.2727272727,
+        "prediction":0.5100494623,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "574":{
+        "index":1688083200000,
+        "company ID":"PGNY",
+        "Rank Target":0.1818181818,
+        "prediction":0.6769416332,
+        "trueRank":10.0,
+        "predictionRank":1.0
+    },
+    "575":{
+        "index":1688083200000,
+        "company ID":"UNH",
+        "Rank Target":0.6363636364,
+        "prediction":0.6526895165,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "571":{
+        "index":1688083200000,
+        "company ID":"HUM",
+        "Rank Target":0.7272727273,
+        "prediction":0.6345617175,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "566":{
+        "index":1688083200000,
+        "company ID":"CI",
+        "Rank Target":0.5454545455,
+        "prediction":0.6024078727,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "568":{
+        "index":1688083200000,
+        "company ID":"CNC",
+        "Rank Target":0.4545454545,
+        "prediction":0.5964204669,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "569":{
+        "index":1688083200000,
+        "company ID":"CVS",
+        "Rank Target":0.3636363636,
+        "prediction":0.5948888063,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "572":{
+        "index":1688083200000,
+        "company ID":"MOH",
+        "Rank Target":0.8181818182,
+        "prediction":0.5905339122,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "565":{
+        "index":1688083200000,
+        "company ID":"ALHC",
+        "Rank Target":0.9090909091,
+        "prediction":0.5629140139,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "570":{
+        "index":1688083200000,
+        "company ID":"ELV",
+        "Rank Target":0.2727272727,
+        "prediction":0.5624524355,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "573":{
+        "index":1688083200000,
+        "company ID":"OSCR",
+        "Rank Target":0.0909090909,
+        "prediction":0.5230631232,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "567":{
+        "index":1688083200000,
+        "company ID":"CLOV",
+        "Rank Target":1.0,
+        "prediction":0.510786593,
+        "trueRank":1.0,
+        "predictionRank":11.0
+    },
+    "580":{
+        "index":1696032000000,
+        "company ID":"CVS",
+        "Rank Target":0.8181818182,
+        "prediction":0.7213429213,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "586":{
+        "index":1696032000000,
+        "company ID":"UNH",
+        "Rank Target":0.2727272727,
+        "prediction":0.694878161,
+        "trueRank":9.0,
+        "predictionRank":2.0
+    },
+    "577":{
+        "index":1696032000000,
+        "company ID":"CI",
+        "Rank Target":0.3636363636,
+        "prediction":0.6614997387,
+        "trueRank":8.0,
+        "predictionRank":3.0
+    },
+    "583":{
+        "index":1696032000000,
+        "company ID":"MOH",
+        "Rank Target":0.7272727273,
+        "prediction":0.6135493517,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "579":{
+        "index":1696032000000,
+        "company ID":"CNC",
+        "Rank Target":0.4545454545,
+        "prediction":0.5842702389,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "581":{
+        "index":1696032000000,
+        "company ID":"ELV",
+        "Rank Target":0.5454545455,
+        "prediction":0.5432938933,
+        "trueRank":6.0,
+        "predictionRank":6.0
+    },
+    "585":{
+        "index":1696032000000,
+        "company ID":"PGNY",
+        "Rank Target":0.6363636364,
+        "prediction":0.5201272368,
+        "trueRank":5.0,
+        "predictionRank":7.0
+    },
+    "582":{
+        "index":1696032000000,
+        "company ID":"HUM",
+        "Rank Target":0.1818181818,
+        "prediction":0.4902915359,
+        "trueRank":10.0,
+        "predictionRank":8.0
+    },
+    "584":{
+        "index":1696032000000,
+        "company ID":"OSCR",
+        "Rank Target":1.0,
+        "prediction":0.4831960797,
+        "trueRank":1.0,
+        "predictionRank":9.0
+    },
+    "576":{
+        "index":1696032000000,
+        "company ID":"ALHC",
+        "Rank Target":0.9090909091,
+        "prediction":0.4016034007,
+        "trueRank":2.0,
+        "predictionRank":10.0
+    },
+    "578":{
+        "index":1696032000000,
+        "company ID":"CLOV",
+        "Rank Target":0.0909090909,
+        "prediction":0.3977524936,
+        "trueRank":11.0,
+        "predictionRank":11.0
+    },
+    "590":{
+        "index":1703980800000,
+        "company ID":"CNC",
+        "Rank Target":0.5454545455,
+        "prediction":0.660720706,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "588":{
+        "index":1703980800000,
+        "company ID":"CI",
+        "Rank Target":0.9090909091,
+        "prediction":0.6099671721,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "591":{
+        "index":1703980800000,
+        "company ID":"CVS",
+        "Rank Target":0.4545454545,
+        "prediction":0.6086830497,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "592":{
+        "index":1703980800000,
+        "company ID":"ELV",
+        "Rank Target":0.7272727273,
+        "prediction":0.6003334522,
+        "trueRank":4.0,
+        "predictionRank":4.0
+    },
+    "595":{
+        "index":1703980800000,
+        "company ID":"OSCR",
+        "Rank Target":1.0,
+        "prediction":0.564884901,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "597":{
+        "index":1703980800000,
+        "company ID":"UNH",
+        "Rank Target":0.3636363636,
+        "prediction":0.5600919724,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "593":{
+        "index":1703980800000,
+        "company ID":"HUM",
+        "Rank Target":0.1818181818,
+        "prediction":0.520214498,
+        "trueRank":10.0,
+        "predictionRank":7.0
+    },
+    "594":{
+        "index":1703980800000,
+        "company ID":"MOH",
+        "Rank Target":0.8181818182,
+        "prediction":0.50172019,
+        "trueRank":3.0,
+        "predictionRank":8.0
+    },
+    "596":{
+        "index":1703980800000,
+        "company ID":"PGNY",
+        "Rank Target":0.6363636364,
+        "prediction":0.4733786285,
+        "trueRank":5.0,
+        "predictionRank":9.0
+    },
+    "587":{
+        "index":1703980800000,
+        "company ID":"ALHC",
+        "Rank Target":0.0909090909,
+        "prediction":0.4288125932,
+        "trueRank":11.0,
+        "predictionRank":10.0
+    },
+    "589":{
+        "index":1703980800000,
+        "company ID":"CLOV",
+        "Rank Target":0.2727272727,
+        "prediction":0.404417783,
+        "trueRank":9.0,
+        "predictionRank":11.0
+    },
+    "604":{
+        "index":1711843200000,
+        "company ID":"HUM",
+        "Rank Target":0.8181818182,
+        "prediction":0.7090060711,
+        "trueRank":3.0,
+        "predictionRank":1.0
+    },
+    "606":{
+        "index":1711843200000,
+        "company ID":"OSCR",
+        "Rank Target":0.7272727273,
+        "prediction":0.6672825217,
+        "trueRank":4.0,
+        "predictionRank":2.0
+    },
+    "599":{
+        "index":1711843200000,
+        "company ID":"CI",
+        "Rank Target":0.4545454545,
+        "prediction":0.6665828824,
+        "trueRank":7.0,
+        "predictionRank":3.0
+    },
+    "605":{
+        "index":1711843200000,
+        "company ID":"MOH",
+        "Rank Target":0.0909090909,
+        "prediction":0.6479948163,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "603":{
+        "index":1711843200000,
+        "company ID":"ELV",
+        "Rank Target":0.5454545455,
+        "prediction":0.6290873289,
+        "trueRank":6.0,
+        "predictionRank":5.0
+    },
+    "601":{
+        "index":1711843200000,
+        "company ID":"CNC",
+        "Rank Target":0.3636363636,
+        "prediction":0.6098813415,
+        "trueRank":8.0,
+        "predictionRank":6.0
+    },
+    "600":{
+        "index":1711843200000,
+        "company ID":"CLOV",
+        "Rank Target":0.9090909091,
+        "prediction":0.5997600555,
+        "trueRank":2.0,
+        "predictionRank":7.0
+    },
+    "598":{
+        "index":1711843200000,
+        "company ID":"ALHC",
+        "Rank Target":1.0,
+        "prediction":0.5929840207,
+        "trueRank":1.0,
+        "predictionRank":8.0
+    },
+    "607":{
+        "index":1711843200000,
+        "company ID":"PGNY",
+        "Rank Target":0.2727272727,
+        "prediction":0.5282281637,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "602":{
+        "index":1711843200000,
+        "company ID":"CVS",
+        "Rank Target":0.1818181818,
+        "prediction":0.5193589926,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "608":{
+        "index":1711843200000,
+        "company ID":"UNH",
+        "Rank Target":0.6363636364,
+        "prediction":0.5101851225,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "612":{
+        "index":1719705600000,
+        "company ID":"CNC",
+        "Rank Target":0.5454545455,
+        "prediction":0.6550686955,
+        "trueRank":6.0,
+        "predictionRank":1.0
+    },
+    "609":{
+        "index":1719705600000,
+        "company ID":"ALHC",
+        "Rank Target":0.9090909091,
+        "prediction":0.6550461054,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "615":{
+        "index":1719705600000,
+        "company ID":"HUM",
+        "Rank Target":0.1818181818,
+        "prediction":0.6358107924,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "618":{
+        "index":1719705600000,
+        "company ID":"PGNY",
+        "Rank Target":0.0909090909,
+        "prediction":0.6208353043,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "611":{
+        "index":1719705600000,
+        "company ID":"CLOV",
+        "Rank Target":1.0,
+        "prediction":0.611328125,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "619":{
+        "index":1719705600000,
+        "company ID":"UNH",
+        "Rank Target":0.7272727273,
+        "prediction":0.6081250906,
+        "trueRank":4.0,
+        "predictionRank":6.0
+    },
+    "617":{
+        "index":1719705600000,
+        "company ID":"OSCR",
+        "Rank Target":0.8181818182,
+        "prediction":0.5928168297,
+        "trueRank":3.0,
+        "predictionRank":7.0
+    },
+    "613":{
+        "index":1719705600000,
+        "company ID":"CVS",
+        "Rank Target":0.4545454545,
+        "prediction":0.5723407269,
+        "trueRank":7.0,
+        "predictionRank":8.0
+    },
+    "614":{
+        "index":1719705600000,
+        "company ID":"ELV",
+        "Rank Target":0.2727272727,
+        "prediction":0.5479267836,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "610":{
+        "index":1719705600000,
+        "company ID":"CI",
+        "Rank Target":0.3636363636,
+        "prediction":0.5362768769,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "616":{
+        "index":1719705600000,
+        "company ID":"MOH",
+        "Rank Target":0.6363636364,
+        "prediction":0.4837786555,
+        "trueRank":5.0,
+        "predictionRank":11.0
+    },
+    "630":{
+        "index":1727654400000,
+        "company ID":"UNH",
+        "Rank Target":0.6363636364,
+        "prediction":0.7067302465,
+        "trueRank":5.0,
+        "predictionRank":1.0
+    },
+    "626":{
+        "index":1727654400000,
+        "company ID":"HUM",
+        "Rank Target":0.9090909091,
+        "prediction":0.6965105534,
+        "trueRank":2.0,
+        "predictionRank":2.0
+    },
+    "627":{
+        "index":1727654400000,
+        "company ID":"MOH",
+        "Rank Target":0.7272727273,
+        "prediction":0.6684091091,
+        "trueRank":4.0,
+        "predictionRank":3.0
+    },
+    "621":{
+        "index":1727654400000,
+        "company ID":"CI",
+        "Rank Target":0.4545454545,
+        "prediction":0.6665065289,
+        "trueRank":7.0,
+        "predictionRank":4.0
+    },
+    "625":{
+        "index":1727654400000,
+        "company ID":"ELV",
+        "Rank Target":0.2727272727,
+        "prediction":0.6004103422,
+        "trueRank":9.0,
+        "predictionRank":5.0
+    },
+    "620":{
+        "index":1727654400000,
+        "company ID":"ALHC",
+        "Rank Target":0.8181818182,
+        "prediction":0.5866354704,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "624":{
+        "index":1727654400000,
+        "company ID":"CVS",
+        "Rank Target":0.0909090909,
+        "prediction":0.5556817651,
+        "trueRank":11.0,
+        "predictionRank":7.0
+    },
+    "623":{
+        "index":1727654400000,
+        "company ID":"CNC",
+        "Rank Target":0.5454545455,
+        "prediction":0.546911478,
+        "trueRank":6.0,
+        "predictionRank":8.0
+    },
+    "628":{
+        "index":1727654400000,
+        "company ID":"OSCR",
+        "Rank Target":0.1818181818,
+        "prediction":0.4938401282,
+        "trueRank":10.0,
+        "predictionRank":9.0
+    },
+    "629":{
+        "index":1727654400000,
+        "company ID":"PGNY",
+        "Rank Target":1.0,
+        "prediction":0.4823875427,
+        "trueRank":1.0,
+        "predictionRank":10.0
+    },
+    "622":{
+        "index":1727654400000,
+        "company ID":"CLOV",
+        "Rank Target":0.3636363636,
+        "prediction":0.4764271677,
+        "trueRank":8.0,
+        "predictionRank":11.0
+    },
+    "635":{
+        "index":1735603200000,
+        "company ID":"CVS",
+        "Rank Target":0.9090909091,
+        "prediction":0.6592541337,
+        "trueRank":2.0,
+        "predictionRank":1.0
+    },
+    "632":{
+        "index":1735603200000,
+        "company ID":"CI",
+        "Rank Target":0.6363636364,
+        "prediction":0.6475045085,
+        "trueRank":5.0,
+        "predictionRank":2.0
+    },
+    "634":{
+        "index":1735603200000,
+        "company ID":"CNC",
+        "Rank Target":0.1818181818,
+        "prediction":0.6447007656,
+        "trueRank":10.0,
+        "predictionRank":3.0
+    },
+    "639":{
+        "index":1735603200000,
+        "company ID":"OSCR",
+        "Rank Target":0.0909090909,
+        "prediction":0.6425597072,
+        "trueRank":11.0,
+        "predictionRank":4.0
+    },
+    "631":{
+        "index":1735603200000,
+        "company ID":"ALHC",
+        "Rank Target":1.0,
+        "prediction":0.5995539427,
+        "trueRank":1.0,
+        "predictionRank":5.0
+    },
+    "640":{
+        "index":1735603200000,
+        "company ID":"PGNY",
+        "Rank Target":0.8181818182,
+        "prediction":0.5828585625,
+        "trueRank":3.0,
+        "predictionRank":6.0
+    },
+    "636":{
+        "index":1735603200000,
+        "company ID":"ELV",
+        "Rank Target":0.7272727273,
+        "prediction":0.5793837905,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "641":{
+        "index":1735603200000,
+        "company ID":"UNH",
+        "Rank Target":0.2727272727,
+        "prediction":0.535751164,
+        "trueRank":9.0,
+        "predictionRank":8.0
+    },
+    "638":{
+        "index":1735603200000,
+        "company ID":"MOH",
+        "Rank Target":0.5454545455,
+        "prediction":0.5034968257,
+        "trueRank":6.0,
+        "predictionRank":9.0
+    },
+    "637":{
+        "index":1735603200000,
+        "company ID":"HUM",
+        "Rank Target":0.3636363636,
+        "prediction":0.5025760531,
+        "trueRank":8.0,
+        "predictionRank":10.0
+    },
+    "633":{
+        "index":1735603200000,
+        "company ID":"CLOV",
+        "Rank Target":0.4545454545,
+        "prediction":0.5014596581,
+        "trueRank":7.0,
+        "predictionRank":11.0
+    },
+    "645":{
+        "index":1743379200000,
+        "company ID":"CNC",
+        "Rank Target":0.3636363636,
+        "prediction":0.7202382088,
+        "trueRank":8.0,
+        "predictionRank":1.0
+    },
+    "650":{
+        "index":1743379200000,
+        "company ID":"OSCR",
+        "Rank Target":1.0,
+        "prediction":0.7023781538,
+        "trueRank":1.0,
+        "predictionRank":2.0
+    },
+    "648":{
+        "index":1743379200000,
+        "company ID":"HUM",
+        "Rank Target":0.6363636364,
+        "prediction":0.6888390779,
+        "trueRank":5.0,
+        "predictionRank":3.0
+    },
+    "647":{
+        "index":1743379200000,
+        "company ID":"ELV",
+        "Rank Target":0.5454545455,
+        "prediction":0.6645392179,
+        "trueRank":6.0,
+        "predictionRank":4.0
+    },
+    "649":{
+        "index":1743379200000,
+        "company ID":"MOH",
+        "Rank Target":0.4545454545,
+        "prediction":0.6615309119,
+        "trueRank":7.0,
+        "predictionRank":5.0
+    },
+    "652":{
+        "index":1743379200000,
+        "company ID":"UNH",
+        "Rank Target":0.0909090909,
+        "prediction":0.6460279822,
+        "trueRank":11.0,
+        "predictionRank":6.0
+    },
+    "651":{
+        "index":1743379200000,
+        "company ID":"PGNY",
+        "Rank Target":0.7272727273,
+        "prediction":0.6143311262,
+        "trueRank":4.0,
+        "predictionRank":7.0
+    },
+    "646":{
+        "index":1743379200000,
+        "company ID":"CVS",
+        "Rank Target":0.9090909091,
+        "prediction":0.5889048576,
+        "trueRank":2.0,
+        "predictionRank":8.0
+    },
+    "644":{
+        "index":1743379200000,
+        "company ID":"CLOV",
+        "Rank Target":0.2727272727,
+        "prediction":0.5352199674,
+        "trueRank":9.0,
+        "predictionRank":9.0
+    },
+    "642":{
+        "index":1743379200000,
+        "company ID":"ALHC",
+        "Rank Target":0.1818181818,
+        "prediction":0.5034044981,
+        "trueRank":10.0,
+        "predictionRank":10.0
+    },
+    "643":{
+        "index":1743379200000,
+        "company ID":"CI",
+        "Rank Target":0.8181818182,
+        "prediction":0.5027489066,
+        "trueRank":3.0,
+        "predictionRank":11.0
+    }
+}
