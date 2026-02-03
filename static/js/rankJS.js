@@ -3,7 +3,7 @@ let currentView = null;
         function setView(view) {
             currentView = view;
             
-            // Update active button state
+            
             document.querySelectorAll('.tab-button').forEach(btn => {
                 btn.classList.remove('active');
             });
@@ -143,13 +143,9 @@ let currentView = null;
                     box.appendChild(imagesGrid);
                 }
 
-                // Add table below images
+                
                 if (data.table) {
-                    // Debug: Log the data structure
-                    console.log("Model test table data:");
-                    console.log("Columns:", data.table.columns);
-                    console.log("Rows:", data.table.rows);
-                    console.log("First row:", data.table.rows[0]);
+                    
                     
                     const wrapper = document.createElement("div");
                     wrapper.className = "table-wrapper";
@@ -196,13 +192,12 @@ function renderTable(columns, rows, type) {
                 return;
             }
 
-            // 2. Handle comma-separated numbers (e.g., "-0.0165954104,0.3834986026")
+            
             if (typeof v === "string" && v.includes(",")) {
                 const numbers = v.split(",");
                 const allNumbers = numbers.every(n => !isNaN(parseFloat(n.trim())));
                 
                 if (allNumbers) {
-                    // Round each number to 2 decimal places
                     const roundedNumbers = numbers.map(n => {
                         const num = parseFloat(n.trim());
                         return Number.isInteger(num) ? num : parseFloat(num.toFixed(2));
@@ -212,7 +207,6 @@ function renderTable(columns, rows, type) {
                 }
             }
 
-            // 3. UNIVERSAL NUMBER LOGIC (Applies to all tables/columns)
             let num = null;
             if (typeof v === "number") {
                 num = v;
@@ -221,12 +215,9 @@ function renderTable(columns, rows, type) {
                 if (!isNaN(parsed)) num = parsed;
             }
 
-            // If it's a valid number, we handle rounding here for EVERYONE
             if (num !== null && isFinite(num)) {
-                // Round to 2 decimal places, but keep integers as integers
                 const rounded = Number.isInteger(num) ? num : parseFloat(num.toFixed(2));
 
-                // Check if this specific column needs the special Arrow/Percent styling
                 if (type === "table" && columnName === "stockDifferencePercentage") {
                     const span = document.createElement("span");
                     if (num > 0) {
@@ -241,13 +232,11 @@ function renderTable(columns, rows, type) {
                     }
                     td.appendChild(span);
                 } else {
-                    // Just a normal number in any other table/column - now ROUNDED to 2 decimals!
                     td.innerText = rounded;
                 }
                 return; 
             }
 
-            // 4. Default fallback for non-numeric text
             td.innerText = v ?? "";
         });
     });
